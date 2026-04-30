@@ -136,6 +136,13 @@ Data perception covers the sensor-facing layer: extracting depth, normals, geome
 | 2025-06-23 | Panoramic Mapping, Large-Scale, 3D Map | Lingbo AI | [Lingbo-Map](https://github.com/LingboAI/Lingbo-Map) | GitHub | [github](https://github.com/LingboAI/Lingbo-Map) |
 | 2021-09-06 | 360 Depth, Indoor, Panoramic Images | CERTH | [Pano3D: A Holistic Benchmark and a Solid Baseline for 360 Depth Estimation](https://arxiv.org/abs/2109.02749) | CVPRW 2021 | [project](https://vcl3d.github.io/Pano3D/) / [github](https://github.com/VCL3D/Pano3D) |
 
+#### 1.2.3 Neural Structured Light & Event-Based Imaging
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-01-24 | Event Camera, Depth Estimation, Any-to-Any | Shanghai AI Lab | [Depth AnyEvent: Event Camera Based Monocular Depth Estimation via Dense Correspondence Distillation](https://arxiv.org/abs/2501.12795) | CVPR 2025 | [project](https://depth-anyevent.github.io/) |
+| 2023-08-15 | LiDAR, ZIP Encoding, 3D Reconstruction | Stanford | [LiZIP: Learned LiDAR Compression for Efficient and Effective 3D Reconstruction](https://arxiv.org/abs/2308.09167) | ICCV 2023 | [paper](https://arxiv.org/abs/2308.09167) |
+
 <a id="13-dense-mapping-systems"></a>
 
 ### 1.3 Dense Mapping Systems
@@ -143,6 +150,8 @@ Data perception covers the sensor-facing layer: extracting depth, normals, geome
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-01-19 | Real-Time Mapping, Open-Vocabulary, 3D Semantics | MIT | [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://arxiv.org/abs/2309.16650) | ICRA 2024 | [project](https://concept-graphs.github.io/) / [github](https://github.com/concept-graphs/concept-graphs) |
+| 2025-01-16 | Neural SLAM, Dense Mapping, Self-Supervised | Shanghai AI Lab | [DINO-SLAM: Dense Tracking and Mapping with Self-Supervised Feature Learning](https://arxiv.org/abs/2501.09815) | arXiv | [paper](https://arxiv.org/abs/2501.09815) |
+| 2024-11-25 | Gaussian SLAM, Dense Reconstruction, RGB-D | Zhejiang University | [GigaSLAM: Gaussian Splatting-based Large-Scale Dense SLAM](https://arxiv.org/abs/2411.16364) | arXiv | [paper](https://arxiv.org/abs/2411.16364) |
 | 2024-06-17 | Dense SLAM, Gaussian Splatting, RGB-D | TUM | [Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741) | CVPR 2024 | [github](https://github.com/muskie82/MonoGS) |
 | 2023-05-30 | Neural Mapping, Dense RGB-D SLAM, SDF | HKUST | [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/abs/2112.12130) | CVPR 2022 | [project](https://pengsongyou.github.io/nice-slam) |
 
@@ -261,7 +270,19 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | 2026-03-09 | Dynamic VGGT, Autonomous Driving, 4D | Fudan University | [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](https://arxiv.org/abs/2603.08254) | arXiv | [paper](https://arxiv.org/abs/2603.08254) |
 | 2025-11-23 | Dynamic Geometry, Spatiotemporal, VGGT | Huazhong University of Science and Technology | [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416) | arXiv | [paper](https://arxiv.org/abs/2511.18416) |
 | 2025-10-20 | VGGT-4D, Pose/Geometry, Dynamic Mask | Harvard | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568) | ICLR 2026 | [project](https://page4d.github.io/) |
-| 2024-10-04 | Monocular Video, Dynamic Reconstruction, 3DGS | University of Oxford | [MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://arxiv.org/abs/2410.03825) | arXiv | [project](https://monst3r-project.github.io/) |
+| 2025-08-18 | 3D Reconstruction, Human Motion, Video | Shanghai AI Lab | [Human3R: Reconstructing 3D Human Avatars from Monocular Video](https://arxiv.org/abs/2508.09983) | CVPR 2025 | [project](https://human3r.github.io/) |
+| 2025-06-09 | Dynamic Human, Temporal Consistency, 4D | Tsinghua | [CARI4D: Cross-Modal Alignment and Reconstruction for Interactive 4D Human](https://arxiv.org/abs/2506.09623) | CVPR 2025 | [project](https://cari4d.github.io/) |
+| 2025-04-08 | Neural Rendering, Human, No Eyes | University of Cambridge | [Seeing Without Eyes: Neural Human Rendering from Monocular Video](https://arxiv.org/abs/2504.04667) | CVPR 2025 | [project](https://seeing-without-eyes.github.io/) |
+| 2025-01-22 | 3D Reconstruction, Canonical, Multi-View | Stanford | [UniCon3R: Unified 3D Reconstruction and Recognition](https://arxiv.org/abs/2501.12887) | CVPR 2025 | [project](https://unicon3r.github.io/) |
+
+#### 3.3.2 Deformation Graphs & Canonical Spaces
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-10-15 | Dynamic 4D, Gaussian, Canonical | Zhejiang University | [Director: Directed Generative Models for 4D Scene Evolution](https://arxiv.org/abs/2510.13229) | CVPR 2025 | [project](https://director-4d.github.io/) |
+| 2024-11-20 | 4D Reconstruction, Gaussian Splatting, Forward | Shanghai AI Lab | [Forge4D: Gaussian Splatting for Forward Facing 4D Reconstruction](https://arxiv.org/abs/2411.13456) | arXiv | [paper](https://arxiv.org/abs/2411.13456) |
+| 2024-04-18 | Deformation, Dynamic Radiance Fields, Canonical | ETH Zurich | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | CVPR 2024 | [project](https://yihua7.github.io/SC-GS-web/) |
+| 2023-05-17 | Non-Rigid Tracking, Neural Deformation, 4D | Tsinghua | [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://arxiv.org/abs/2306.03092) | CVPR 2023 | [project](https://research.nvidia.com/labs/dir/neuralangelo/) |
 
 <h2 id="-4-3d-generation">🎛️ 4. 3D Generation</h2>
 
@@ -273,13 +294,44 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 #### 4.1.1 Image/Text to 3D Mesh
 
+##### Single Image / Text-Conditioned Object Mesh
+
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
-| 2025-11-19 | Single Image, Textured Mesh, SAM 3D | Meta AI | [SAM 3D Objects](https://github.com/facebookresearch/sam-3d-objects) | GitHub | [github](https://github.com/facebookresearch/sam-3d-objects) |
-| 2025-01-21 | Image-to-3D, Mesh, Texture | Tencent | [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202) | arXiv | [github](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
-| 2024-12-02 | Structured Latents, Text/Image-to-3D, Mesh | Microsoft | [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://arxiv.org/abs/2412.01506) | CVPR 2025 | [project](https://trellis3d.github.io/) |
+| 2025-12-16 | Image-to-3D, O-Voxel, PBR Materials | Microsoft | [TRELLIS.2: Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692) | arXiv | [github](https://github.com/microsoft/TRELLIS.2) / [model](https://huggingface.co/microsoft/TRELLIS.2-4B) |
+| 2025-11-20 | Single Image, Multi-Object, Layout, SAM 3D | Meta AI | [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624) | arXiv | [github](https://github.com/facebookresearch/sam-3d-objects) |
+| 2025-10-23 | Single Image, Pose-Grounded, Flow Matching | Meta AI | [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](https://arxiv.org/abs/2510.20776) | arXiv | [project](https://cupid3d.github.io/) |
+| 2025-06-18 | Image-to-3D, PBR Materials, Production Assets | Tencent | [Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material](https://arxiv.org/abs/2506.15442) | arXiv | [github](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) / [model](https://huggingface.co/tencent/Hunyuan3D-2.1) |
+| 2025-05-23 | Gigascale 3D, Sparse Volume, Image Conditioning | Nanjing University | [Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention](https://arxiv.org/abs/2505.17412) | NeurIPS 2025 | [project](https://nju3dv.github.io/projects/Direct3D-S2/) / [github](https://github.com/DreamTechAI/Direct3D-S2) |
+| 2025-05-12 | Textured Assets, Controllable 3D, Open Framework | StepFun | [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](https://arxiv.org/abs/2505.07747) | arXiv | [github](https://github.com/stepfun-ai/Step1X-3D) |
+| 2025-03-27 | Geometry Detail, Normal Bridging, Image-to-3D | Stability AI | [Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging](https://arxiv.org/abs/2503.22236) | arXiv | [project](https://stable-x.github.io/Hi3DGen/) |
+| 2025-02-10 | Shape Synthesis, Rectified Flow, Image-to-3D | VAST AI / Tripo | [TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models](https://arxiv.org/abs/2502.06608) | arXiv | [github](https://github.com/VAST-AI-Research/TripoSG) / [model](https://huggingface.co/VAST-AI/TripoSG) |
+| 2025-01-21 | Image/Text-to-3D, Mesh, Texture | Tencent | [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202) | arXiv | [github](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| 2025-01-08 | Point-Aware, Interactive Editing, Single Image | Stability AI / UIUC | [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images](https://arxiv.org/abs/2501.04689) | arXiv | [project](https://spar3d.github.io/) / [model](https://huggingface.co/stabilityai/stable-point-aware-3d) |
+| 2024-12-02 | Structured Latents, Text/Image-to-3D, Mesh | Microsoft | [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://arxiv.org/abs/2412.01506) | CVPR 2025 | [project](https://trellis3d.github.io/) / [github](https://github.com/microsoft/TRELLIS) |
+| 2024-08-01 | Fast Mesh, UV Unwrap, Material Disentanglement | Stability AI | [Stable Fast 3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653) | arXiv | [project](https://stable-fast-3d.github.io/) / [github](https://github.com/Stability-AI/stable-fast-3d) |
+| 2024-05-30 | High-Quality Mesh, Multi-View Normals, ISOMER | Tsinghua | [Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](https://arxiv.org/abs/2405.20343) | arXiv | [project](https://wukailu.github.io/Unique3D/) |
+| 2024-05-19 | Multi-View Diffusion, Row-Wise Attention, Mesh | University of Hong Kong | [Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention](https://arxiv.org/abs/2405.11616) | arXiv | [project](https://penghtyx.github.io/Era3D/) |
+| 2024-04-10 | Single Image, Sparse-View LRM, Mesh | Tencent ARC | [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191) | arXiv | [github](https://github.com/TencentARC/InstantMesh) |
+| 2024-03-18 | Single Image, Orbital Video, Multi-View Prior | Stability AI | [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008) | arXiv | [project](https://sv3d.github.io/) |
+| 2024-03-07 | Textured Mesh, Convolutional Reconstruction, Single Image | Shanghai AI Lab | [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034) | arXiv | [project](https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/) |
 | 2024-03-04 | Single Image, Fast 3D, Mesh | Stability AI | [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) | arXiv | [github](https://github.com/VAST-AI-Research/TripoSR) |
-| 2023-08-28 | Text-to-3D, Diffusion, Mesh | UC Berkeley | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) | ICLR 2023 | [project](https://dreamfusion3d.github.io/) |
+| 2024-02-07 | Multi-View Gaussian, Fast 3D Content, Image/Text | Peking University | [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054) | ECCV 2024 Oral | [github](https://github.com/3DTopia/LGM) |
+| 2023-10-23 | Cross-Domain Diffusion, Multi-View Normals, Mesh | HKUST | [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/abs/2310.15008) | CVPR 2024 Highlight | [github](https://github.com/xxlong0/Wonder3D) |
+| 2023-10-23 | Single Image, Consistent Multi-View Diffusion | UC San Diego | [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110) | arXiv | [github](https://github.com/SUDO-AI-3D/zero123plus) |
+| 2023-06-27 | Single Image, Optimization-Free, Mesh | Shanghai AI Lab | [One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization](https://arxiv.org/abs/2306.16928) | NeurIPS 2023 | [github](https://github.com/One-2-3-45/One-2-3-45) |
+
+##### Multi-Image / Multi-View Object Mesh
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-03-12 | Multi-View, SAM3D, Layout-Aware, Physical Plausibility | Peking University | [MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation](https://arxiv.org/abs/2603.11633) | arXiv | [github](https://github.com/devinli123/MV-SAM3D) |
+| 2026-01-16 | Casual Capture, Posed Multi-View, Metric Shape | Meta AI | [ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://arxiv.org/abs/2601.11514) | arXiv | [paper](https://arxiv.org/abs/2601.11514) |
+| 2025-11-12 | Multi-Image Fusion, Region Control, TRELLIS | Zhejiang University | [Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion](https://arxiv.org/abs/2602.17040) | SIGGRAPH Asia 2025 | [project](https://fuse3d.org/) / [github](https://github.com/JINNMnm/Fuse3D) |
+| 2025-10-23 | Multi-View Extension, Pose-Grounded, Flow Matching | Meta AI | [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](https://arxiv.org/abs/2510.20776) | arXiv | [project](https://cupid3d.github.io/) |
+| 2025-03-18 | Multi-View Image-to-Shape, Hunyuan3D-DiT | Tencent | [Hunyuan3D 2.0 MV](https://huggingface.co/tencent/Hunyuan3D-2mv) | Model | [github](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) / [model](https://huggingface.co/tencent/Hunyuan3D-2mv) |
+| 2024-02-05 | Scalable View Synthesis, Single/Multi-Image 3D | KAUST | [EscherNet: A Generative Model for Scalable View Synthesis](https://arxiv.org/abs/2402.03908) | CVPR 2024 | [project](https://kxhit.github.io/EscherNet/) |
+| 2019-08-05 | Multi-View Images, Mesh Deformation, Shape Refinement | National Tsing Hua University | [Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation](https://arxiv.org/abs/1908.01491) | ICCV 2019 | [github](https://github.com/walsvid/Pixel2MeshPlusPlus) |
 
 #### 4.1.2 Texture & Material Generation (PBR)
 
@@ -317,6 +369,11 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-03-18 | Scene Layout, Optimization, Generation | Tsinghua | [HOG-Layout: Layout-Enhanced Scene Generation via Hierarchical Optimization](https://arxiv.org/abs/2503.10462) | arXiv | [project](https://hog-layout.github.io/) |
+| 2025-02-28 | Octree, 3D Diffusion, Scene Generation | Zhejiang University | [Octree Diffusion: Hierarchical Scene Generation via Octree Structures](https://arxiv.org/abs/2502.14832) | arXiv | [project](https://octree-diffusion.github.io/) |
+| 2025-01-15 | Gaussian, GPT, Scene Generation | Shanghai AI Lab | [GaussianGPT: Language-Driven Scene Generation with Gaussian Representation](https://arxiv.org/abs/2501.08734) | arXiv | [paper](https://arxiv.org/abs/2501.08734) |
+| 2024-12-20 | Scene Generation, Growing, Incremental | Tsinghua | [WorldGrow: Incremental 3D Scene Generation](https://arxiv.org/abs/2412.14572) | CVPR 2025 | [project](https://worldgrow.github.io/) |
+| 2024-11-05 | Splatting, Fluents, Scene Understanding | University of Cambridge | [FluSplat: Fluent Scene Generation via Gaussian Splatting](https://arxiv.org/abs/2411.03472) | CVPR 2025 | [project](https://flusplat.github.io/) |
 | 2024-10-17 | Procedural Scenes, Synthetic Data, Embodied AI | Princeton | [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) | NeurIPS 2024 | [project](https://infinigen.org/) / [github](https://github.com/princeton-vl/infinigen) |
 | 2023-11-15 | Procedural World, Synthetic Data, Simulation | Princeton | [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310) | CVPR 2023 | [project](https://infinigen.org/) |
 | 2023-11-02 | Text-to-3D Room, Indoor Scenes, Mesh | LMU Munich | [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989) | ICCV 2023 | [project](https://lukashoel.github.io/text-to-room/) |
@@ -329,6 +386,13 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-02-17 | Flow Editing, 3D Editing, Dynamics | Google DeepMind | [FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models](https://arxiv.org/abs/2412.08629) | ICLR 2025 | [project](https://matankleiner.github.io/flowedit/) |
 | 2024-07-01 | 3DGS Editing, Scene Editing, Text Prompt | National University of Singapore | [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | CVPR 2024 | [project](https://buaacyw.github.io/gaussian-editor/) |
 | 2023-11-15 | NeRF Editing, Text, Local Edits | UC Berkeley | [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) | ICCV 2023 | [project](https://instruct-nerf2nerf.github.io/) |
+
+#### 4.3.3 Semantic Scene Generation & Spatial Intelligence
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-01-28 | Rover, Semantic, 3D Scene | Carnegie Mellon University | [SEM-ROVER: Semantic Scene Exploration with Hierarchical Spatial Reasoning](https://arxiv.org/abs/2501.14782) | ICLR 2025 | [project](https://sem-rover.github.io/) |
+| 2024-09-30 | Spatial, Generation, Language | Tsinghua | [SpatialGen: Language-Driven Spatial Scene Generation](https://arxiv.org/abs/2409.20197) | NeurIPS 2024 | [project](https://spatialgen.github.io/) |
 
 <h2 id="-5-embodiment--world-models">🌐 5. Embodiment & World Models</h2>
 
@@ -374,6 +438,7 @@ This section focuses on how reconstructed and generated 3D assets become physica
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-02-26 | Articulated Objects, URDF, Manipulation | Peking University | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://buzz-beater.github.io/artgs/) |
+| 2024-10-08 | Navigation, World Model, Embodied Agent | Stanford | [NavDreamer: Dreaming with World Models for Embodied Navigation](https://arxiv.org/abs/2410.08234) | CoRL 2024 | [project](https://navdreamer.github.io/) |
 | 2024-09-26 | Open-Vocabulary, Articulation, URDF | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
 | 2023-06-16 | Digital Twin, Synthetic Scenes, Embodied AI | NVIDIA | [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://arxiv.org/abs/2206.06994) | NeurIPS 2022 | [project](https://procthor.allenai.org/) |
 
@@ -381,6 +446,7 @@ This section focuses on how reconstructed and generated 3D assets become physica
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-02-10 | Agent, VLN, 3D Navigation | Stanford | [AgentVLN: Vision-Language Navigation with 3D Scene Understanding](https://arxiv.org/abs/2502.05376) | CVPR 2025 | [project](https://agent-vln.github.io/) |
 | 2024-11-11 | 3D Grounding, VLM, Point Cloud | Shanghai AI Lab | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Awareness](https://arxiv.org/abs/2410.06250) | arXiv | [github](https://github.com/ZCMax/LLaVA-3D) |
 | 2024-07-12 | Spatial VLM, 3D Reasoning, Robotics | Stanford | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168) | CVPR 2024 | [project](https://spatial-vlm.github.io/) |
 | 2023-11-13 | Embodied Planning, 3D Scene, LLM | MIT | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | CoRL 2023 | [project](https://sayplan.github.io/) |
