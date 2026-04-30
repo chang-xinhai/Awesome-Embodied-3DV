@@ -483,8 +483,15 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-01-13 | Object-Centric Video, Full-360, Depth, Sparse Point Cloud | Meta AI | [uCO3D: UnCommon Objects in 3D](https://arxiv.org/abs/2501.07574) | arXiv | [github](https://github.com/facebookresearch/uco3d) |
+| 2024-12-02 | Real Objects, 360 Views, Masks, Dense Point Clouds | CUHK-Shenzhen | [MVImgNet2.0: A Larger-scale Dataset of Multi-view Images](https://arxiv.org/abs/2412.01430) | arXiv | [project](https://luyues.github.io/mvimgnet2/) |
 | 2024-01-05 | Dynamic Scenes, Multi-View Video, 4D | University of Oxford | [PanopticSports](https://github.com/JonathonLuiten/Dynamic3DGaussians) | Dataset | [github](https://github.com/JonathonLuiten/Dynamic3DGaussians) |
+| 2023-12-26 | Real-World Videos, Camera Poses, Scene Complexity | Purdue University | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://arxiv.org/abs/2312.16256) | CVPR 2024 | [github](https://github.com/DL3DV-10K/Dataset) / [project](https://dl3dv-10k.github.io/DL3DV-10K/) |
+| 2023-06-14 | Object-Centric Casual Captures, GT Shape, GT Poses | University of Oxford | [NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations](https://arxiv.org/abs/2306.09109) | NeurIPS 2023 | [project](https://navidataset.github.io/) |
 | 2023-06-06 | Indoor RGB-D, Habitat, 3D Scenes | Meta AI | [Habitat-Matterport 3D Semantics Dataset](https://aihabitat.org/datasets/hm3d/) | Dataset | [dataset](https://aihabitat.org/datasets/hm3d/) |
+| 2023-03-10 | Real Object Videos, Masks, Camera Parameters, Point Clouds | CUHK-Shenzhen | [MVImgNet: A Large-scale Dataset of Multi-view Images](https://arxiv.org/abs/2303.06042) | CVPR 2023 | [github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) |
+| 2021-09-01 | Object-Centric Videos, Camera Poses, Point Clouds | Meta AI | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://arxiv.org/abs/2109.00512) | ICCV 2021 | [github](https://github.com/facebookresearch/co3d) |
+| 2020-12-18 | Object-Centric AR Videos, Camera Poses, 3D Boxes | Google Research | [Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations](https://arxiv.org/abs/2012.09988) | CVPR 2021 | [github](https://github.com/google-research-datasets/Objectron) |
 | 2017-07-26 | Indoor RGB-D, Semantic Labels, Reconstruction | Stanford | [ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org/) | CVPR 2017 | [dataset](http://www.scan-net.org/) |
 | 2012-06-18 | Indoor RGB-D, NYUv2, Semantics | NYU | [NYU Depth Dataset V2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) | ECCV 2012 | [dataset](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) |
 
@@ -496,9 +503,18 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-01-13 | Uncommon Objects, Videos, Depth, 3D Annotations | Meta AI | [uCO3D: UnCommon Objects in 3D](https://arxiv.org/abs/2501.07574) | arXiv | [github](https://github.com/facebookresearch/uco3d) |
+| 2024-12-02 | Real Objects, 360 Coverage, Dense Point Clouds | CUHK-Shenzhen | [MVImgNet2.0](https://arxiv.org/abs/2412.01430) | arXiv | [project](https://luyues.github.io/mvimgnet2/) |
 | 2023-07-10 | 3D Objects, Web-Scale, Textured Mesh | Allen Institute for AI | [Objaverse-XL: A Universe of 10M+ 3D Objects](https://arxiv.org/abs/2307.05663) | NeurIPS 2023 | [dataset](https://objaverse.allenai.org/) |
+| 2023-06-14 | Casual Image Collections, GT Mesh, GT Camera Poses | University of Oxford | [NAVI](https://arxiv.org/abs/2306.09109) | NeurIPS 2023 | [project](https://navidataset.github.io/) |
+| 2023-03-10 | Real Object Videos, Multi-View Images, Point Clouds | CUHK-Shenzhen | [MVImgNet](https://arxiv.org/abs/2303.06042) | CVPR 2023 | [github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) |
+| 2023-01-18 | Real Scans, Multi-View Images, Videos, Meshes | Shanghai AI Lab | [OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation](https://arxiv.org/abs/2301.07525) | CVPR 2023 | [project](https://omniobject3d.github.io/) |
 | 2022-12-13 | 3D Objects, LVIS Annotations, Web-Scale | Allen Institute for AI | [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051) | CVPR 2023 | [dataset](https://objaverse.allenai.org/) |
+| 2022-06-24 | Object-Centric Multi-View, Mesh, Depth, Masks | Meta AI / Amazon | [HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction](https://arxiv.org/abs/2206.12356) | arXiv | [paper](https://arxiv.org/abs/2206.12356) |
+| 2021-10-12 | Product Objects, 3D Models, Multi-View Images | Amazon / UC Berkeley | [ABO: Dataset and Benchmarks for Real-World 3D Object Understanding](https://arxiv.org/abs/2110.06199) | CVPR 2022 | [project](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) |
 | 2021-09-16 | Real Scanned Objects, Simulation Assets | Google Research | [Google Scanned Objects](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) | ICRA 2022 | [dataset](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) |
+| 2021-09-01 | Real Object Videos, Camera Poses, Point Clouds | Meta AI | [CO3D: Common Objects in 3D](https://arxiv.org/abs/2109.00512) | ICCV 2021 | [github](https://github.com/facebookresearch/co3d) |
+| 2020-12-18 | Object-Centric Videos, AR Poses, 3D Boxes | Google Research | [Objectron](https://arxiv.org/abs/2012.09988) | CVPR 2021 | [github](https://github.com/google-research-datasets/Objectron) |
 | 2015-12-09 | CAD Models, Object Categories, ShapeNet | Stanford | [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org/) | arXiv | [dataset](https://shapenet.org/) |
 
 #### 6.3.2 Human & Articulated Objects
