@@ -105,6 +105,10 @@ Start here if you want the shortest path through the field.
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-05-07 | Feed-Forward 3D, Token Reduction, MVS | Peking University | [Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2605.06270) | arXiv | [paper](https://arxiv.org/abs/2605.06270) |
+| 2026-05-05 | Feed-Forward, Generative Priors, Mixture-of-Transformers | Tsinghua | [Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors](https://arxiv.org/abs/2605.03359) | arXiv | [paper](https://arxiv.org/abs/2605.03359) |
+| 2026-05-06 | Physics-Grounded, Kinematic, Simulation-Ready Assets | HKU | [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163) | ICML 2026 | [paper](https://arxiv.org/abs/2605.05163) |
+| 2026-05-03 | 4D World Model, Novel View Synthesis, Embodied AI | Shanghai AI Lab | [Embody4D: A Generalist 4D World Model for Embodied AI](https://arxiv.org/abs/2605.01799) | arXiv | [paper](https://arxiv.org/abs/2605.01799) |
+| 2026-05-03 | Gaussian-Language Map, Zero-Shot Navigation, Multi-Scale | CASIA | [GLMap: Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation](https://arxiv.org/abs/2605.01736) | CVPR 2026 | [paper](https://arxiv.org/abs/2605.01736) |
 | 2025-11-06 | Any-View Depth, Metric Geometry, Multi-View | ByteDance | [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647) | arXiv | [project](https://depth-anything-3.github.io/) |
 | 2025-06-20 | Diffusion Distillation, Metric + Sharp, Single-Step | VinAI | [SharpDepth: Bridging Discriminative and Generative Monocular Depth Estimation](https://arxiv.org/abs/2503.21670) | CVPR 2025 | [project](https://sharpdepth.github.io/) |
 | 2025-01-28 | Diffusion, Single-Step, Dense Prediction | Shanghai AI Lab | [Lotus: Diffusion-based Visual Foundation Model for Dense Geometry Estimation](https://arxiv.org/abs/2501.06467) | ICLR 2025 | [project](https://lotus3d.github.io/) / [github](https://github.com/EnVision-Research/Lotus) |
@@ -217,6 +221,9 @@ This section focuses on the mathematical and data-structure layer used to repres
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-04-16 | Feed-Forward 3DGS, Global Scene Tokens, Compact | Tel Aviv University | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284) | arXiv | [paper](https://arxiv.org/abs/2604.15284) |
+| 2026-04-16 | TokenGS, Learnable Gaussian Tokens, Pose-Robust | NVIDIA | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels](https://arxiv.org/abs/2604.15239) | arXiv | [paper](https://arxiv.org/abs/2604.15239) |
+| 2026-04-12 | UniSplat, Unposed Multi-View, Feed-Forward | UC Berkeley | [UniSplat: Learning 3D Representations from Unposed Multi-View Images](https://arxiv.org/abs/2604.10573) | CVPR 2026 | [paper](https://arxiv.org/abs/2604.10573) |
 | 2025-07-10 | 3DGS, Structure, Sparse Views | USTC | [SparseGS: Real-Time 360 Sparse View Synthesis using Gaussian Splatting](https://arxiv.org/abs/2312.00206) | 3DV 2025 | [project](https://formycat.github.io/SparseGS-Real-Time-360-Sparse-View-Synthesis-using-Gaussian-Splatting/) |
 | 2024-07-15 | Feed-Forward 3DGS, Sparse Views, Generalizable | Monash / Tübingen | [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://arxiv.org/abs/2403.14624) | ECCV 2024 Oral | [project](https://mvsplat.github.io/) / [github](https://github.com/donydchen/mvsplat) |
 | 2024-07-02 | 2DGS, Surface Reconstruction, Geometry | TUM | [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](https://arxiv.org/abs/2403.17888) | SIGGRAPH 2024 | [project](https://surfsplatting.github.io/) |
@@ -286,6 +293,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-04-30 | Generalizable, Sparse-View, Unposed Images, Outdoor | UIUC / NVIDIA | [GenWildSplat: Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](https://arxiv.org/abs/2604.28193) | arXiv | [paper](https://arxiv.org/abs/2604.28193) |
 | 2025-10-15 | Multi-View Reconstruction, Matching, MVS | NAVER Labs | [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152) | 3DV 2025 | [github](https://github.com/naver/mast3r) |
 | 2025-06-12 | Permutation-Equivariant, Near-Zero Variance, Feed-Forward | Oxford / Meta | [π³ (Pi3): A Permutation-Equivariant 3D Foundation Model](https://arxiv.org/abs/2506.07347) | CVPR 2025 | [project](https://pi3-3d.github.io/) |
 | 2025-06-10 | Feed-Forward, Multi-View, Auxiliary Priors | ETH / Microsoft | [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/abs/2503.17388) | CVPR 2025 | [project](https://pow3r.github.io/) |
@@ -324,7 +332,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
-| 2026-03-09 | Dynamic VGGT, Autonomous Driving, 4D | Fudan University | [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](https://arxiv.org/abs/2603.08254) | arXiv | [paper](https://arxiv.org/abs/2603.08254) |
+| 2026-04-10 | Feed-Forward, Unconstrained Views, Semantic-Geometry | Nanyang Tech | [FF3R: Feedforward Feature 3D Reconstruction from Unconstrained Views](https://arxiv.org/abs/2604.09862) | CVPR 2026 Findings | [paper](https://arxiv.org/abs/2604.09862) |
+| 2026-04-10 | Dynamic/Static Disentanglement, Uncertainty-Aware, Feed-Forward | Zhejiang University | [Robust 4D VGT: Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors](https://arxiv.org/abs/2604.09366) | arXiv | [paper](https://arxiv.org/abs/2604.09366) |
 | 2026-03-09 | Dynamic VGGT, Autonomous Driving, 4D | Fudan University | [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](https://arxiv.org/abs/2603.08254) | arXiv | [paper](https://arxiv.org/abs/2603.08254) |
 | 2025-11-23 | Dynamic Geometry, Spatiotemporal, VGGT | Huazhong University of Science and Technology | [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416) | arXiv | [paper](https://arxiv.org/abs/2511.18416) |
 | 2025-10-20 | VGGT-4D, Pose/Geometry, Dynamic Mask | Harvard | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568) | ICLR 2026 | [project](https://page4d.github.io/) |
@@ -434,6 +443,8 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-04-29 | 4D World Model, Robotic Action, Video + 3D | Tsinghua | [X-WAM: Unified 4D World Action Modeling from Video Priors](https://arxiv.org/abs/2604.26694) | arXiv | [paper](https://arxiv.org/abs/2604.26694) |
+| 2026-04-15 | Multi-Modal World Model, 3D Gaussian, Navigation | Tencent | [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://arxiv.org/abs/2604.14268) | arXiv | [paper](https://arxiv.org/abs/2604.14268) |
 | 2025-03-18 | Scene Layout, Optimization, Generation | Tsinghua | [HOG-Layout: Layout-Enhanced Scene Generation via Hierarchical Optimization](https://arxiv.org/abs/2503.10462) | arXiv | [project](https://hog-layout.github.io/) |
 | 2025-02-28 | Octree, 3D Diffusion, Scene Generation | Zhejiang University | [Octree Diffusion: Hierarchical Scene Generation via Octree Structures](https://arxiv.org/abs/2502.14832) | arXiv | [project](https://octree-diffusion.github.io/) |
 | 2025-01-15 | Gaussian, GPT, Scene Generation | Shanghai AI Lab | [GaussianGPT: Language-Driven Scene Generation with Gaussian Representation](https://arxiv.org/abs/2501.08734) | arXiv | [paper](https://arxiv.org/abs/2501.08734) |
