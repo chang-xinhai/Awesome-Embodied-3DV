@@ -586,6 +586,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-09-26 | Personalized Navigation, 3DGS, Real-to-Sim | CMU | [EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats](https://arxiv.org/abs/2509.17430) | ICCV 2025 | [paper](https://arxiv.org/abs/2509.17430) |
+| 2025-04-05 | Dynamic Digital Twin, Sim2Real, 60Hz | Stanford | [Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin](https://arxiv.org/abs/2504.03597) | CoRL 2025 | [paper](https://arxiv.org/abs/2504.03597) |
 | 2025-02-26 | Articulated Objects, URDF, Manipulation | Peking University | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://buzz-beater.github.io/artgs/) |
 | 2024-10-08 | Navigation, World Model, Embodied Agent | Stanford | [NavDreamer: Dreaming with World Models for Embodied Navigation](https://arxiv.org/abs/2410.08234) | CoRL 2024 | [project](https://navdreamer.github.io/) |
 | 2024-09-26 | Open-Vocabulary, Articulation, URDF | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
@@ -599,7 +601,10 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-04-05 | 3D Spatial Memory, Multimodal, Robot Navigation | Meta AI | [M3: 3D-Spatial MultiModal Memory](https://arxiv.org/abs/2503.16413) | ICLR 2025 | [project](https://m3-spatial-memory.github.io) |
 | 2025-02-10 | Agent, VLN, 3D Navigation | Stanford | [AgentVLN: Vision-Language Navigation with 3D Scene Understanding](https://arxiv.org/abs/2502.05376) | CVPR 2025 | [project](https://agent-vln.github.io/) |
+| 2025-10-23 | Grounded CoT, 3D Reasoning, SceneCOT-185K Dataset | PKU | [SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes](https://arxiv.org/abs/2510.16714) | arXiv | [paper](https://arxiv.org/abs/2510.16714) |
+| 2025-03-06 | 3D VQA, Gaussian Splatting, Zero-Shot | Tsinghua | [SplatTalk: 3D VQA with Gaussian Splatting](https://arxiv.org/abs/2503.06271) | ICCV 2025 | [paper](https://arxiv.org/abs/2503.06271) |
 | 2024-11-11 | 3D Grounding, VLM, Point Cloud | Shanghai AI Lab | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Awareness](https://arxiv.org/abs/2410.06250) | arXiv | [github](https://github.com/ZCMax/LLaVA-3D) |
 | 2024-07-12 | Spatial VLM, 3D Reasoning, Robotics | Stanford | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168) | CVPR 2024 | [project](https://spatial-vlm.github.io/) |
 | 2023-11-13 | Embodied Planning, 3D Scene, LLM | MIT | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | CoRL 2023 | [project](https://sayplan.github.io/) |
