@@ -183,6 +183,7 @@ Start here if you want the shortest path through the field.
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-06-23 | Panoramic Depth, 360 Vision, Foundation Model | Lingbo AI | [Lingbo-Depth](https://arxiv.org/abs/2601.17895) | arXiv | [github](https://github.com/robbyant/lingbot-depth) |
+| 2026-03-19 | Panoramic Reconstruction, Permutation-Equivariant, 360° | Cornell | [PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery](https://arxiv.org/abs/2603.17571) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.17571) |
 | 2025-06-23 | Panoramic Mapping, Large-Scale, 3D Map | Lingbo AI | [Lingbo-Map](https://arxiv.org/abs/2604.14141) | arXiv | [github](https://github.com/robbyant/lingbot-map) |
 | 2021-09-06 | 360 Depth, Indoor, Panoramic Images | CERTH | [Pano3D: A Holistic Benchmark and a Solid Baseline for 360 Depth Estimation](https://arxiv.org/abs/2109.02749) | CVPRW 2021 | [project](https://vcl3d.github.io/Pano3D/) / [github](https://github.com/VCL3D/Pano3D) |
 
@@ -224,6 +225,7 @@ This section focuses on the mathematical and data-structure layer used to repres
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-04-16 | Feed-Forward 3DGS, Global Scene Tokens, Compact | Tel Aviv University | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284) | arXiv | [paper](https://arxiv.org/abs/2604.15284) |
+| 2026-03-07 | Few-Shot, Diffusion Prior, Repair + Inpainting | ZJU / Alibaba | [RI3D: Few-Shot Gaussian Splatting With Repair and Inpainting Diffusion Priors](https://arxiv.org/abs/2503.10860) | ICCV 2025 | [paper](https://arxiv.org/abs/2503.10860) |
 | 2026-02-02 | Feed-Forward 2DGS, Surface Continuity, Sparse Views | Shanghai Jiao Tong | [SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors](https://arxiv.org/abs/2602.02000) | ICLR 2026 | [paper](https://arxiv.org/abs/2602.02000) |
 | 2026-04-16 | TokenGS, Learnable Gaussian Tokens, Pose-Robust | NVIDIA | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels](https://arxiv.org/abs/2604.15239) | arXiv | [paper](https://arxiv.org/abs/2604.15239) |
 | 2026-04-12 | UniSplat, Unposed Multi-View, Feed-Forward | UC Berkeley | [UniSplat: Learning 3D Representations from Unposed Multi-View Images](https://arxiv.org/abs/2604.10573) | CVPR 2026 | [paper](https://arxiv.org/abs/2604.10573) |
@@ -337,12 +339,14 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-04-10 | Feed-Forward, Unconstrained Views, Semantic-Geometry | Nanyang Tech | [FF3R: Feedforward Feature 3D Reconstruction from Unconstrained Views](https://arxiv.org/abs/2604.09862) | CVPR 2026 Findings | [paper](https://arxiv.org/abs/2604.09862) |
 | 2026-04-10 | Dynamic/Static Disentanglement, Uncertainty-Aware, Feed-Forward | Zhejiang University | [Robust 4D VGT: Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors](https://arxiv.org/abs/2604.09366) | arXiv | [paper](https://arxiv.org/abs/2604.09366) |
+| 2026-04-21 | Functional Scenes, Egocentric Interaction, URDF/USD | Stanford | [FunRec: Reconstructing Functional 3D Scenes from Egocentric Interaction Videos](https://arxiv.org/abs/2604.05621) | CVPR 2026 | [paper](https://arxiv.org/abs/2604.05621) |
 | 2026-03-09 | Dynamic VGGT, Autonomous Driving, 4D | Fudan University | [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](https://arxiv.org/abs/2603.08254) | arXiv | [paper](https://arxiv.org/abs/2603.08254) |
 | 2025-11-23 | Dynamic Geometry, Spatiotemporal, VGGT | Huazhong University of Science and Technology | [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416) | arXiv | [paper](https://arxiv.org/abs/2511.18416) |
 | 2025-10-20 | VGGT-4D, Pose/Geometry, Dynamic Mask | Harvard | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568) | ICLR 2026 | [project](https://page4d.github.io/) |
 | 2025-08-18 | 3D Reconstruction, Human Motion, Video | Shanghai AI Lab | [Human3R: Reconstructing 3D Human Avatars from Monocular Video](https://arxiv.org/abs/2508.09983) | CVPR 2025 | [project](https://human3r.github.io/) |
 | 2025-06-10 | Multi-Object, 4D, In-the-Wild Videos | CMU | [GenMOJO: Robust Multi-Object 4D Generation for In-the-wild Videos](https://arxiv.org/abs/2503.18594) | CVPR 2025 | [project](https://genmojo.github.io/) |
 | 2025-06-09 | Dynamic Human, Temporal Consistency, 4D | Tsinghua | [CARI4D: Cross-Modal Alignment and Reconstruction for Interactive 4D Human](https://arxiv.org/abs/2506.09623) | CVPR 2025 | [project](https://cari4d.github.io/) |
+| 2025-11-07 | Motion-Aware, Monocular Video, Bundle Adjustment | KAIST | [4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes](https://arxiv.org/abs/2511.05229) | NeurIPS 2025 | [paper](https://arxiv.org/abs/2511.05229) |
 | 2025-05-25 | 4D Generation, Multi-View Video, Diffusion | Google | [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) | CVPR 2025 | [project](https://cat-4d.github.io/) |
 | 2025-04-08 | Neural Rendering, Human, No Eyes | University of Cambridge | [Seeing Without Eyes: Neural Human Rendering from Monocular Video](https://arxiv.org/abs/2504.04667) | CVPR 2025 | [project](https://seeing-without-eyes.github.io/) |
 | 2025-01-22 | 3D Reconstruction, Canonical, Multi-View | Stanford | [UniCon3R: Unified 3D Reconstruction and Recognition](https://arxiv.org/abs/2501.12887) | CVPR 2025 | [project](https://unicon3r.github.io/) |
@@ -353,6 +357,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-02-12 | 4D Dynamic, Monocular Video, Tree-Chains | Cornell | [WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains](https://arxiv.org/abs/2602.11845) | ICLR 2026 | [paper](https://arxiv.org/abs/2602.11845) |
+| 2025-11-12 | 4D Scene, Feed-Forward, Controllable, Video Diffusion | Shanghai AI Lab | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503) | CVPR 2026 | [paper](https://arxiv.org/abs/2511.00503) |
 | 2025-10-15 | Dynamic 4D, Gaussian, Canonical | Zhejiang University | [Director: Directed Generative Models for 4D Scene Evolution](https://arxiv.org/abs/2510.13229) | CVPR 2025 | [project](https://director-4d.github.io/) |
 | 2024-11-20 | 4D Reconstruction, Gaussian Splatting, Forward | Shanghai AI Lab | [Forge4D: Gaussian Splatting for Forward Facing 4D Reconstruction](https://arxiv.org/abs/2411.13456) | arXiv | [paper](https://arxiv.org/abs/2411.13456) |
 | 2024-04-18 | Deformation, Dynamic Radiance Fields, Canonical | ETH Zurich | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | arXiv | [project](https://yihua7.github.io/SC-GS-web/) |
