@@ -122,6 +122,7 @@ Start here if you want the shortest path through the field.
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-07-22 | Foundation Model, Depth/Normal/Pointmap, Multi-View | SJTU | [Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/abs/2507.16290) | ICLR 2026 | [paper](https://arxiv.org/abs/2507.16290) |
 | 2025-07-19 | Feed-Forward 3D, Survey, Geometry Priors | NUS | [Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](https://arxiv.org/abs/2507.14501) | arXiv | [project](https://fnzhan.com/3D-Reconstruction-and-Generation-Survey/) |
 | 2025-05-20 | Scalable Depth, Autoregressive, 2B Parameters | Baidu | [DAR: Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/abs/2503.17310) | CVPR 2025 | [project](https://depth-ar.github.io/) |
 | 2025-04-15 | Panoramic / Fisheye Depth, Zero-Shot Metric | Intel | [Depth Any Camera: Zero-Shot Metric Depth from Any Camera](https://arxiv.org/abs/2412.08204) | CVPR 2025 | [project](https://depth-any-camera.github.io/) |
@@ -138,6 +139,7 @@ Start here if you want the shortest path through the field.
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-05-07 | Open-Vocabulary, Gaussian Feature Field, Codebook | TU Munich / Google | [OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention](https://arxiv.org/abs/2605.06088) | arXiv | [paper](https://arxiv.org/abs/2605.06088) |
 | 2025-07-10 | Open-Vocabulary, Dual-Level Contrastive, Instance-Aware | BIGAI / Tsinghua | [MPEC: Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2504.02238) | CVPR 2025 | [project](https://mpec-3d.github.io/) |
 | 2025-06-15 | Panoptic, Open-Vocabulary, 3D Gaussian Splatting | NUS | [PanoGS: Gaussian-based Panoptic Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2501.02007) | CVPR 2025 | [project](https://panogs.github.io/) |
 | 2024-12-18 | Open-Vocabulary 3DGS, Segmentation, Language | ETH Zurich | [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/abs/2312.16084) | CVPR 2024 | [project](https://langsplat.github.io/) / [github](https://github.com/minghanqin/LangSplat) |
@@ -222,6 +224,7 @@ This section focuses on the mathematical and data-structure layer used to repres
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-04-16 | Feed-Forward 3DGS, Global Scene Tokens, Compact | Tel Aviv University | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284) | arXiv | [paper](https://arxiv.org/abs/2604.15284) |
+| 2026-02-02 | Feed-Forward 2DGS, Surface Continuity, Sparse Views | Shanghai Jiao Tong | [SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors](https://arxiv.org/abs/2602.02000) | ICLR 2026 | [paper](https://arxiv.org/abs/2602.02000) |
 | 2026-04-16 | TokenGS, Learnable Gaussian Tokens, Pose-Robust | NVIDIA | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels](https://arxiv.org/abs/2604.15239) | arXiv | [paper](https://arxiv.org/abs/2604.15239) |
 | 2026-04-12 | UniSplat, Unposed Multi-View, Feed-Forward | UC Berkeley | [UniSplat: Learning 3D Representations from Unposed Multi-View Images](https://arxiv.org/abs/2604.10573) | CVPR 2026 | [paper](https://arxiv.org/abs/2604.10573) |
 | 2025-07-10 | 3DGS, Structure, Sparse Views | USTC | [SparseGS: Real-Time 360 Sparse View Synthesis using Gaussian Splatting](https://arxiv.org/abs/2312.00206) | 3DV 2025 | [project](https://formycat.github.io/SparseGS-Real-Time-360-Sparse-View-Synthesis-using-Gaussian-Splatting/) |
@@ -349,6 +352,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-02-12 | 4D Dynamic, Monocular Video, Tree-Chains | Cornell | [WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains](https://arxiv.org/abs/2602.11845) | ICLR 2026 | [paper](https://arxiv.org/abs/2602.11845) |
 | 2025-10-15 | Dynamic 4D, Gaussian, Canonical | Zhejiang University | [Director: Directed Generative Models for 4D Scene Evolution](https://arxiv.org/abs/2510.13229) | CVPR 2025 | [project](https://director-4d.github.io/) |
 | 2024-11-20 | 4D Reconstruction, Gaussian Splatting, Forward | Shanghai AI Lab | [Forge4D: Gaussian Splatting for Forward Facing 4D Reconstruction](https://arxiv.org/abs/2411.13456) | arXiv | [paper](https://arxiv.org/abs/2411.13456) |
 | 2024-04-18 | Deformation, Dynamic Radiance Fields, Canonical | ETH Zurich | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | arXiv | [project](https://yihua7.github.io/SC-GS-web/) |
@@ -368,6 +372,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-05-01 | Pose-Aware, Diffusion, 3D Geometry, Direct | Renmin University | [PAD: Pose-Aware Diffusion for 3D Generation](https://arxiv.org/abs/2605.00345) | arXiv | [paper](https://arxiv.org/abs/2605.00345) |
 | 2025-12-16 | Image-to-3D, O-Voxel, PBR Materials | Microsoft | [TRELLIS.2: Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692) | arXiv | [github](https://github.com/microsoft/TRELLIS.2) / [model](https://huggingface.co/microsoft/TRELLIS.2-4B) |
 | 2025-11-20 | Single Image, Multi-Object, Layout, SAM 3D | Meta AI | [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624) | arXiv | [github](https://github.com/facebookresearch/sam-3d-objects) |
 | 2025-10-23 | Single Image, Pose-Grounded, Flow Matching | Meta AI | [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](https://arxiv.org/abs/2510.20776) | arXiv | [project](https://cupid3d.github.io/) |
@@ -422,6 +427,8 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-03-01 | Articulated Assets, 3D LLM, Kinematic Structure | Tsinghua | [ArtLLM: Generating Articulated Assets via 3D LLM](https://arxiv.org/abs/2603.01142) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.01142) |
+| 2025-11-17 | Sim-Ready Assets, Physical Properties, Single Image | NTU | [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648) | CVPR 2026 | [paper](https://arxiv.org/abs/2511.13648) |
 | 2025-11-02 | URDF, 3D MLLM, Articulated Objects | Tsinghua | [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](https://openreview.net/forum?id=g3EF5XsapH) | NeurIPS 2025 | [paper](https://arxiv.org/abs/2511.00940) |
 | 2025-02-26 | Articulated Objects, 3DGS, Joint Estimation | Peking University | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://buzz-beater.github.io/artgs/) |
 | 2024-09-26 | Open-Vocabulary, URDF, Articulation | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
@@ -445,6 +452,8 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-04-29 | 4D World Model, Robotic Action, Video + 3D | Tsinghua | [X-WAM: Unified 4D World Action Modeling from Video Priors](https://arxiv.org/abs/2604.26694) | arXiv | [paper](https://arxiv.org/abs/2604.26694) |
 | 2026-04-15 | Multi-Modal World Model, 3D Gaussian, Navigation | Tencent | [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://arxiv.org/abs/2604.14268) | arXiv | [paper](https://arxiv.org/abs/2604.14268) |
+| 2026-03-12 | Multi-Floor, Language-to-3D, Long-Horizon Tasks | Tsinghua | [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://arxiv.org/abs/2603.11554) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.11554) |
+| 2026-03-06 | Compositional Scene, Panoramic Image, Feed-Forward | NTU | [Pano3DComposer: Feed-Forward Compositional 3D Scene Generation from Single Panoramic Image](https://arxiv.org/abs/2603.05908) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.05908) |
 | 2025-03-18 | Scene Layout, Optimization, Generation | Tsinghua | [HOG-Layout: Layout-Enhanced Scene Generation via Hierarchical Optimization](https://arxiv.org/abs/2503.10462) | arXiv | [project](https://hog-layout.github.io/) |
 | 2025-02-28 | Octree, 3D Diffusion, Scene Generation | Zhejiang University | [Octree Diffusion: Hierarchical Scene Generation via Octree Structures](https://arxiv.org/abs/2502.14832) | arXiv | [project](https://octree-diffusion.github.io/) |
 | 2025-01-15 | Gaussian, GPT, Scene Generation | Shanghai AI Lab | [GaussianGPT: Language-Driven Scene Generation with Gaussian Representation](https://arxiv.org/abs/2501.08734) | arXiv | [paper](https://arxiv.org/abs/2501.08734) |
@@ -506,7 +515,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | 2025-05-20 | World Model, Unified Reconstruction+Predict+Planning | Shanghai AI Lab | [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) | arXiv | [project](https://aether-world.github.io/) |
 | 2025-03-24 | World Model, Geometric-Aware, 4D Reconstruction | Shanghai AI Lab | [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) | arXiv | [project](https://aether-world.github.io/) |
 | 2025-11-25 | World Model, Data Engine, VLA, 3DGS | Cornell | [GigaWorld-0: World Models as Data Engine to Empower Embodied AI](https://arxiv.org/abs/2511.19861) | arXiv | [project](https://giga-world-0.github.io/) |
-| 2025-03-15 | World Model, Data Engine, VLA, 3DGS | Cornell | [GigaWorld-0: World Models as Data Engine to Empower Embodied AI](https://arxiv.org/abs/2511.19861) | arXiv | [project](https://giga-world-0.github.io/) |
+| 2025-07-01 | 4D Generation, Multi-View Consistency, Robot Manipulation | Stanford | [Geometry-aware 4D Video Generation for Robot Manipulation](https://arxiv.org/abs/2507.01099) | ICLR 2026 | [paper](https://arxiv.org/abs/2507.01099) |
 | 2025-02-28 | Embodied Video Anticipation, Reflection | HKUST | [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) | ICML 2025 | [project](https://eva-world.github.io/) |
 | 2024-02-26 | Interactive Environment, Generative World, Agent | Google DeepMind | [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | ICML 2024 | [project](https://sites.google.com/view/genie-2024/) |
 
@@ -530,6 +539,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-11-23 | Physical Property, Bayesian 3DGS, Mass/Hardness/Friction | CMU | [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](https://arxiv.org/abs/2511.18570) | CVPR 2026 | [paper](https://arxiv.org/abs/2511.18570) |
 | 2024-12-15 | Physical Property, 3DGS, LMM | Multiple | [GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs](https://arxiv.org/abs/2412.11258) | arXiv | [project](https://gaussianproperty.github.io/) |
 | 2024-03-28 | Mass, Friction, Compliance, LLM, Adaptive Grasp | MIT | [DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive Grasp Policies](https://arxiv.org/abs/2403.07832) | CoRL 2024 | [project](https://deligrasp.github.io/) |
 | 2023-10-05 | Physical Properties, Visual Estimation, Liquids | MIT | [Visual Estimation of Physical Properties of Objects and Liquids](https://arxiv.org/abs/2310.03163) | CoRL 2023 | [project](https://mit-genai.github.io/) |
@@ -543,6 +553,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-01-03 | Joint Scene+Human, Feed-Forward, Metric-Scale | HKUST | [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222) | CVPR 2026 | [paper](https://arxiv.org/abs/2601.01222) |
 | 2025-06-15 | Real-Time Multi-Person, Scale-Adaptive, 24 FPS | Peking University | [SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens](https://arxiv.org/abs/2411.19824) | CVPR 2025 | [github](https://github.com/ChiSu001/SAT-HMR) |
 | 2025-06-12 | Perspective Camera, Metric Depth, Single View | NVIDIA | [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation](https://arxiv.org/abs/2412.15144) | CVPR 2025 | [project](https://research.nvidia.com/labs/amri/projects/blade/) |
 | 2025-06-10 | Biomechanical Skeleton, Anatomical Joint Limits, SKEL | UT Austin / ZJU | [HSMR: Reconstructing Humans with a Biomechanically Accurate Skeleton](https://arxiv.org/abs/2503.21751) | CVPR 2025 | [project](https://isshikihugh.github.io/HSMR/) |
