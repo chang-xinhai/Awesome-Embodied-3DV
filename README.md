@@ -10,11 +10,11 @@
 <!-- [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) -->
 
 <p>
-  <a href="#-1-data-perception"><img alt="Perception" src="https://img.shields.io/badge/Data-Perception-a8d8ff?style=for-the-badge"></a>
+  <a href="#-1-3d-perception"><img alt="Perception" src="https://img.shields.io/badge/3D-Perception-a8d8ff?style=for-the-badge"></a>
   <a href="#-2-3d4d-representation"><img alt="Representation" src="https://img.shields.io/badge/3D%2F4D-Representation-b8e6c9?style=for-the-badge"></a>
   <a href="#-3-3d-reconstruction"><img alt="Reconstruction" src="https://img.shields.io/badge/3D-Reconstruction-ffd6a5?style=for-the-badge"></a>
   <a href="#-4-3d-generation"><img alt="Generation" src="https://img.shields.io/badge/3D-Generation-d7c5ff?style=for-the-badge"></a>
-  <a href="#-5-embodiment--world-models"><img alt="Embodiment" src="https://img.shields.io/badge/Embodiment-World%20Models-c7f9cc?style=for-the-badge"></a>
+  <a href="#-5-embodied-3d"><img alt="Embodiment" src="https://img.shields.io/badge/Embodied-3D-c7f9cc?style=for-the-badge"></a>
   <a href="#-6-datasets-benchmarks--infrastructure"><img alt="Infrastructure" src="https://img.shields.io/badge/Benchmarks-Infrastructure-ffb7b2?style=for-the-badge"></a>
 </p>
 
@@ -25,11 +25,11 @@
 **Awesome-Embodied-3DV** is a curated list for the research space where **3D vision, 3D/4D reconstruction, 3D generation, simulation-ready assets, and embodied world models** meet.
 
 This repository focuses on:
-- **Data Perception**: depth, normals, active imaging, panoramic/fisheye perception, and dense mapping signals that feed 3D systems
+- **3D Perception**: depth, normals, active imaging, panoramic/fisheye, dense mapping, and 3D semantic understanding (detection, segmentation, grounding) that feed downstream systems
 - **3D/4D Representation**: 3DGS, 4DGS, NeRF/SDF, mesh, voxel, point, and hybrid structures
 - **3D Reconstruction**: offline, feed-forward, streaming, online, semantic, instance-level, and dynamic reconstruction
 - **3D Generation**: object-level, part-level, articulated, scene-level, and simulation-ready asset generation
-- **Embodiment & World Models**: reconstruction-based world models, dynamic scene graphs, robotics integration, and agent-facing 3D grounding
+- **Embodied 3D**: reconstruction-based world models, dynamic scene graphs, physical interaction & affordance, human-centric 3D, robotics integration, and agent-facing 3D grounding
 - **Datasets, Benchmarks & Infrastructure**: datasets, metrics, simulators, toolchains, and surveys for fast research orientation
 
 This list is intentionally **embodied-3DV-first**. It includes 3D generation and 3DGS work only when it helps understand, build, evaluate, or deploy 3D assets and world models for embodied agents. It is not a generic catalog of all 3D generation, editing, rendering, compression, or graphics papers.
@@ -60,26 +60,29 @@ Start here if you want the shortest path through the field.
   - [About](#about)
   - [Must Read](#must-read)
   - [News](#news)
-  - [Data Perception](#-1-data-perception)
-    - [Depth & Normal Estimation](#11-depth--normal-estimation)
-    - [Active Imaging & Sensors](#12-active-imaging--sensors)
-    - [Dense Mapping Systems](#13-dense-mapping-systems)
+  - [3D Perception](#-1-3d-perception)
+    - [Geometric Priors](#11-geometric-priors)
+    - [3D Semantic Understanding](#12-3d-semantic-understanding)
+    - [Active Imaging & Sensors](#13-active-imaging--sensors)
+    - [Dense Mapping Systems](#14-dense-mapping-systems)
   - [3D/4D Representation](#-2-3d4d-representation)
     - [Explicit & Hybrid Representations](#21-explicit--hybrid-representations)
     - [Neural Implicit Representations](#22-neural-implicit-representations)
     - [Dynamic & Spatiotemporal 4D](#23-dynamic--spatiotemporal-4d)
   - [3D Reconstruction](#-3-3d-reconstruction)
-    - [Offline High-Fidelity Reconstruction](#31-offline-high-fidelity-reconstruction)
+    - [Static Reconstruction](#31-static-reconstruction)
     - [Streaming & Online Reconstruction](#32-streaming--online-reconstruction)
     - [Dynamic 3D Reconstruction](#33-dynamic-3d-reconstruction)
   - [3D Generation](#-4-3d-generation)
     - [Object-Level Generation](#41-object-level-generation)
     - [Part-Level & Articulated Generation](#42-part-level--articulated-generation)
     - [Scene-Level Generation](#43-scene-level-generation)
-  - [Embodiment & World Models](#-5-embodiment--world-models)
+  - [Embodied 3D](#-5-embodied-3d)
     - [Dynamic Scene Graphs & Tracking](#51-dynamic-scene-graphs--tracking)
     - [Reconstruction-Based World Models](#52-reconstruction-based-world-models)
-    - [Robotics Integration & LLM Agents](#53-robotics-integration--llm-agents)
+    - [Physical Interaction & Affordance](#53-physical-interaction--affordance)
+    - [Human-Centric 3D for Embodiment](#54-human-centric-3d-for-embodiment)
+    - [Robotics Integration & VLM Agents](#55-robotics-integration--vlm-agents)
   - [Datasets, Benchmarks & Infrastructure](#-6-datasets-benchmarks--infrastructure)
     - [Surveys & Taxonomies](#61-surveys--taxonomies)
     - [Datasets for 3D Reconstruction](#62-datasets-for-3d-reconstruction)
@@ -89,13 +92,13 @@ Start here if you want the shortest path through the field.
   - [Acknowledgement](#acknowledgement)
   - [Citation](#citation)
 
-<h2 id="-1-data-perception">📡 1. Data Perception</h2>
+<h2 id="-1-3d-perception">📡 1. 3D Perception</h2>
 
-Data perception covers the sensor-facing layer: extracting depth, normals, geometry priors, dense maps, and active-imaging signals from 2D images, video, or physical sensors.
+3D perception covers the sensor-facing and semantic layers: extracting geometric priors (depth, normals), understanding 3D semantics (detection, segmentation, grounding), active-imaging signals, and dense maps from 2D images, video, or physical sensors.
 
-<a id="11-depth--normal-estimation"></a>
+<a id="11-geometric-priors"></a>
 
-### 1.1 Depth & Normal Estimation
+### 1.1 Geometric Priors
 
 #### 1.1.1 Monocular High-Fidelity Depth
 
@@ -116,11 +119,41 @@ Data perception covers the sensor-facing layer: extracting depth, normals, geome
 | 2024-10-02 | Normal Estimation, 3D Priors, Surface Geometry | Nvidia | [StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal](https://arxiv.org/abs/2406.16864) | SIGGRAPH Asia 2024 | [project](https://stable-x.github.io/StableNormal/) |
 | 2023-12-08 | Geometry, Normals, Depth, Multi-Task | Apple | [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](https://arxiv.org/abs/2403.12013) | ECCV 2024 | [project](https://fuxiao0719.github.io/projects/geowizard/) |
 
-<a id="12-active-imaging--sensors"></a>
+<a id="12-3d-semantic-understanding"></a>
 
-### 1.2 Active Imaging & Sensors
+### 1.2 3D Semantic Understanding
 
-#### 1.2.1 Structured Light & Neural Decoding
+#### 1.2.1 Open-Vocabulary 3D Segmentation & Grounding
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-05-15 | Open-Vocabulary, 3D Scene, Language Field | UC Berkeley | [LERF: Language Embedded Radiance Fields](https://arxiv.org/abs/2303.09553) | ICCV 2023 | [project](https://lerf.io/) / [github](https://github.com/kerrj/lerf) |
+| 2024-12-18 | Open-Vocabulary 3DGS, Segmentation, Language | ETH Zurich | [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/abs/2312.16084) | CVPR 2024 | [project](https://langsplat.github.io/) / [github](https://github.com/minghanqin/LangSplat) |
+| 2023-12-05 | Open-Vocabulary 3D, Point Cloud, Segmentation | ETH Zurich | [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2211.15654) | CVPR 2023 | [project](https://pengsongyou.github.io/openscene) / [github](https://github.com/pengsongyou/openscene) |
+| 2024-03-28 | Segment Anything 3D, Point Cloud, Interactive | VAST AI | [SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/abs/2306.03908) | CVPR 2024 | [github](https://github.com/Pointcept/SegmentAnything3D) |
+| 2024-04-08 | Segment Anything, 3D Gaussians, Interactive | Zhejiang University | [SAGD: Boundary-Enhanced Segment Anything in 3D Gaussians](https://arxiv.org/abs/2404.05175) | arXiv | [github](https://github.com/XuHu0529/SAGS) |
+
+#### 1.2.2 3D Instance & Panoptic Segmentation
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2023-12-27 | 3D Instance Segmentation, Transformer, Point Cloud | ETH Zurich | [Mask3D: Mask Transformer for 3D Semantic Instance Segmentation](https://arxiv.org/abs/2212.03532) | ICRA 2023 | [github](https://github.com/JonasSchult/Mask3D) |
+| 2023-08-22 | Point Cloud, Foundation Model, 3D Understanding | Shanghai AI Lab | [Point Transformer V3: Simpler, Faster, Stronger](https://arxiv.org/abs/2312.10035) | CVPR 2024 | [github](https://github.com/Pointcept/PointTransformerV3) |
+| 2023-02-28 | 3D Panoptic, LiDAR, Multi-Scene | Tsinghua | [UniSeg3D: Unified 3D Panoptic Segmentation](https://arxiv.org/abs/2302.14105) | CVPR 2023 | [github](https://github.com/PJLab-ADG/UniSeg3D) |
+
+#### 1.2.3 3D Visual Grounding & Spatial Reasoning
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-10-07 | 3D-LLM, 3D Grounding, Scene Understanding | Shanghai AI Lab | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Awareness](https://arxiv.org/abs/2410.06250) | arXiv | [github](https://github.com/ZCMax/LLaVA-3D) |
+| 2023-12-29 | 3D VQA, 3D Captioning, Scene Understanding | Shanghai AI Lab | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981) | NeurIPS 2023 | [project](https://vis-www.cs.umass.edu/3dllm/) / [github](https://github.com/UMass-Foundation-Model/3D-LLM) |
+| 2023-08-16 | 3D Visual Grounding, Referring Expression, Point Cloud | Peking University | [3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment](https://arxiv.org/abs/2308.04352) | ICCV 2023 | [github](https://github.com/3d-vista/3D-VisTA) |
+
+<a id="13-active-imaging--sensors"></a>
+
+### 1.3 Active Imaging & Sensors
+
+#### 1.3.1 Structured Light & Neural Decoding
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -128,7 +161,7 @@ Data perception covers the sensor-facing layer: extracting depth, normals, geome
 | 2024-04-29 | Event Camera, Active Stereo, Depth | Tsinghua | [Event-Based Structured Light for Depth Reconstruction](https://arxiv.org/abs/2404.17973) | arXiv | [paper](https://arxiv.org/abs/2404.17973) |
 | 2023-06-15 | Structured Light, Phase Unwrapping, Learning | Nanjing University | [Deep Learning-Based Structured Light 3D Imaging: A Survey](https://arxiv.org/abs/2306.10409) | arXiv | [survey](https://arxiv.org/abs/2306.10409) |
 
-#### 1.2.2 Panoramic & Fisheye Perception
+#### 1.3.2 Panoramic & Fisheye Perception
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -136,16 +169,16 @@ Data perception covers the sensor-facing layer: extracting depth, normals, geome
 | 2025-06-23 | Panoramic Mapping, Large-Scale, 3D Map | Lingbo AI | [Lingbo-Map](https://github.com/LingboAI/Lingbo-Map) | GitHub | [github](https://github.com/LingboAI/Lingbo-Map) |
 | 2021-09-06 | 360 Depth, Indoor, Panoramic Images | CERTH | [Pano3D: A Holistic Benchmark and a Solid Baseline for 360 Depth Estimation](https://arxiv.org/abs/2109.02749) | CVPRW 2021 | [project](https://vcl3d.github.io/Pano3D/) / [github](https://github.com/VCL3D/Pano3D) |
 
-#### 1.2.3 Neural Structured Light & Event-Based Imaging
+#### 1.3.3 Neural Structured Light & Event-Based Imaging
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-01-24 | Event Camera, Depth Estimation, Any-to-Any | Shanghai AI Lab | [Depth AnyEvent: Event Camera Based Monocular Depth Estimation via Dense Correspondence Distillation](https://arxiv.org/abs/2501.12795) | CVPR 2025 | [project](https://depth-anyevent.github.io/) |
 | 2023-08-15 | LiDAR, ZIP Encoding, 3D Reconstruction | Stanford | [LiZIP: Learned LiDAR Compression for Efficient and Effective 3D Reconstruction](https://arxiv.org/abs/2308.09167) | ICCV 2023 | [paper](https://arxiv.org/abs/2308.09167) |
 
-<a id="13-dense-mapping-systems"></a>
+<a id="14-dense-mapping-systems"></a>
 
-### 1.3 Dense Mapping Systems
+### 1.4 Dense Mapping Systems
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -217,9 +250,9 @@ This section focuses on the mathematical and data-structure layer used to repres
 
 Reconstruction systems recover objects or scenes from images, video, RGB-D, or multi-sensor streams under offline, online, and dynamic conditions.
 
-<a id="31-offline-high-fidelity-reconstruction"></a>
+<a id="31-static-reconstruction"></a>
 
-### 3.1 Offline High-Fidelity Reconstruction
+### 3.1 Static Reconstruction
 
 #### 3.1.1 Object-Centric Reconstruction
 
@@ -394,9 +427,9 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-01-28 | Rover, Semantic, 3D Scene | Carnegie Mellon University | [SEM-ROVER: Semantic Scene Exploration with Hierarchical Spatial Reasoning](https://arxiv.org/abs/2501.14782) | ICLR 2025 | [project](https://sem-rover.github.io/) |
 | 2024-09-30 | Spatial, Generation, Language | Tsinghua | [SpatialGen: Language-Driven Spatial Scene Generation](https://arxiv.org/abs/2409.20197) | NeurIPS 2024 | [project](https://spatialgen.github.io/) |
 
-<h2 id="-5-embodiment--world-models">🌐 5. Embodiment & World Models</h2>
+<h2 id="-5-embodied-3d">🌐 5. Embodied 3D</h2>
 
-This section focuses on how reconstructed and generated 3D assets become physical, interactive, trackable, and agent-facing.
+This section focuses on how 3D perception, reconstruction, and generation translate into physical interaction, world models, human understanding, and agent-facing 3D intelligence.
 
 <a id="51-dynamic-scene-graphs--tracking"></a>
 
@@ -429,11 +462,52 @@ This section focuses on how reconstructed and generated 3D assets become physica
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2024-02-26 | Interactive Environment, Generative World, Agent | Google DeepMind | [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | ICML 2024 | [project](https://sites.google.com/view/genie-2024/) |
 
-<a id="53-robotics-integration--llm-agents"></a>
+<a id="53-physical-interaction--affordance"></a>
 
-### 5.3 Robotics Integration & LLM Agents
+### 5.3 Physical Interaction & Affordance
 
-#### 5.3.1 Sim-to-Real via Generated Assets
+#### 5.3.1 Affordance Prediction & Grasp Detection
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-07-15 | AnyGrasp, 6-DoF Grasp, Point Cloud | Tsinghua | [AnyGrasp: Robust and Efficient Grasp Detection in Cluttered Scenes](https://arxiv.org/abs/2312.08333) | RSS 2024 | [project](https://graspnet.net/anygrasp) / [github](https://github.com/graspnet/anygrasp_sdk) |
+| 2024-06-01 | Affordance, Interactive Perception, 3D | MIT | [Where2Act: From Pixel to Action (via 3D)](https://arxiv.org/abs/2401.14076) | CVPR 2024 | [project](https://wenhsuanchu.github.io/where2act/) |
+| 2023-12-15 | Affordance, Point Cloud, Interaction | Stanford | [IAGNet: Interaction-Aware 3D Generative Model for Affordance Prediction](https://arxiv.org/abs/2312.08048) | CoRL 2023 | [project](https://geng-haoran.github.io/) |
+| 2023-11-28 | Contact Prediction, Object Interaction, Point Cloud | Meta AI | [ContactGen: Generative Contact Modeling for 3D Object Interactions](https://arxiv.org/abs/2311.16041) | NeurIPS 2023 | [project](https://contactgen.github.io/) |
+
+#### 5.3.2 Physical Property & Material Estimation
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2023-10-05 | Physical Properties, Visual Estimation, Liquids | MIT | [Visual Estimation of Physical Properties of Objects and Liquids](https://arxiv.org/abs/2310.03163) | CoRL 2023 | [project](https://mit-genai.github.io/) |
+| 2023-06-01 | Mass Estimation, Vision, Physics | CMU | [Learning to Estimate Object Mass from Vision and Force](https://arxiv.org/abs/2306.00280) | RSS 2023 | [project](https://robin-lab.cs.cmu.edu/) |
+
+<a id="54-human-centric-3d-for-embodiment"></a>
+
+### 5.4 Human-Centric 3D for Embodiment
+
+#### 5.4.1 Human Pose & Shape Estimation
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-05-15 | Human Mesh Recovery, Transformer, 3D Body | Meta AI | [HMR 2.0: End-to-End Human Mesh Recovery with Transformers](https://arxiv.org/abs/2307.10868) | ICCV 2023 | [project](https://www.modelscope.cn/studios/damo/HMR2.0) |
+| 2024-01-18 | 3D Human Pose, Whole-Body, Multi-Person | CMU | [WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion](https://arxiv.org/abs/2312.07531) | CVPR 2024 | [project](https://wham.is.tue.mpg.de/) |
+| 2024-01-08 | 4D Humans, Video, Spatiotemporal | MPI-IS | [4D-Humans: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/abs/2305.14100) | ICCV 2023 | [project](https://www.socangel.dev/4d-humans/) |
+| 2023-12-05 | Hand-Object, 3D Reconstruction, Interaction | ETH Zurich | [HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video](https://arxiv.org/abs/2311.18448) | CVPR 2024 | [project](https://www.eth-zurich.ch/hold) / [github](https://github.com/zc-alexfan/hold) |
+
+#### 5.4.2 Human-Object Interaction (HOI) in 3D
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-03-01 | HOI, 3D Interaction, Motion Capture | MPI-IS | [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950) | CVPR 2022 | [project](https://virtualhumans.mpi-inf.mpg.de/behave/) |
+| 2024-06-15 | HOI4D, Dynamic Interaction, Point Cloud | Peking University | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://arxiv.org/abs/2203.01577) | CVPR 2022 | [project](https://hoi4d.github.io/) |
+| 2024-12-03 | Human-to-Robot, Teleoperation, 3D Hand Pose | Stanford | [AnyTeleop: A General Vision-Based Teleoperation System](https://arxiv.org/abs/2307.06275) | CoRL 2023 | [project](https://anyteleop.com/) |
+
+<a id="55-robotics-integration--vlm-agents"></a>
+
+### 5.5 Robotics Integration & VLM Agents
+
+#### 5.5.1 Sim-to-Real via Generated Assets
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -442,7 +516,7 @@ This section focuses on how reconstructed and generated 3D assets become physica
 | 2024-09-26 | Open-Vocabulary, Articulation, URDF | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
 | 2023-06-16 | Digital Twin, Synthetic Scenes, Embodied AI | NVIDIA | [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://arxiv.org/abs/2206.06994) | NeurIPS 2022 | [project](https://procthor.allenai.org/) |
 
-#### 5.3.2 VLMs for 3D Grounding & Planning
+#### 5.5.2 VLMs for 3D Grounding & Planning
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
