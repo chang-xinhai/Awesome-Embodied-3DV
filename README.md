@@ -162,20 +162,20 @@ Start here if you want the shortest path through the field.
 | 2025-06-01 | Open-Vocabulary, Foundation Dataset, Mask-Text Pairs | NVIDIA | [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2501.10369) | CVPR 2025 | [github](https://github.com/NVlabs/Mosaic3D) |
 | 2025-03-01 | Open-Vocabulary, LLM Canonical, Part Segmentation | Shandong Univ / Tencent | [CoSMo3D: Open-World Promptable 3D Semantic Part Segmentation via LLM-Guided Canonical Spatial Modeling](https://arxiv.org/abs/2503.10278) | CVPR 2026 Oral | [github](https://github.com/JinLi998/CoSMo3D) |
 | 2025-03-01 | Training-Free, MLLM Caption, Voxel Grouping | NVIDIA Research Taiwan | [OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2503.17600) | CVPR 2026 | [project](https://research.nvidia.com/labs/twn/publication/cvpr_2026_openvoxel/) |
-| 2025-03 | SAM-2, 3D Tracking, Dynamic Programming | VinAI | [Any3DIS: Open-Vocabulary 3D Instance Segmentation with SAM-2](https://arxiv.org/abs/2503.15486) | **CVPR 2025** | — |
-| 2025-03 | Functional 3D, CoT, VLM, Training-Free, Highlight | — | [Fun3DU: Functional 3D Scene Understanding via Chain-of-Thought](https://arxiv.org/abs/2503.09433) | **CVPR 2025 Highlight** | — |
+| 2025-03-19 | SAM-2, 3D Tracking, Dynamic Programming | VinAI | [Any3DIS: Open-Vocabulary 3D Instance Segmentation with SAM-2](https://arxiv.org/abs/2503.15486) | **CVPR 2025** | — |
+| 2025-03-12 | Functional 3D, CoT, VLM, Training-Free, Highlight | — | [Fun3DU: Functional 3D Scene Understanding via Chain-of-Thought](https://arxiv.org/abs/2503.09433) | **CVPR 2025 Highlight** | — |
 | 2024-12-18 | Open-Vocabulary 3DGS, Segmentation, Language | ETH Zurich | [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/abs/2312.16084) | CVPR 2024 Highlight | [project](https://langsplat.github.io/) / [github](https://github.com/minghanqin/LangSplat) |
 | 2024-07-12 | Region-Level, Point-Language Contrastive, Multi-VLM | HKU | [RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding](https://arxiv.org/abs/2404.00962) | CVPR 2024 | [project](https://regionplc.github.io/) / [github](https://github.com/CVMI-Lab/RegionPLC) |
-| 2024-07 | Open-Vocabulary 3D Instance, Mask Proposals, CLIP | ETH Zurich | [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13613) | **NeurIPS 2023** | [project](https://openmask3d.github.io/) |
-| 2024-07 | Open-Vocabulary, Mask-Snap-Lookup, Indoor/Outdoor | HKUST | [OpenIns3D: Open-Vocabulary 3D Segmentation with Mask-Snap-Lookup](https://arxiv.org/abs/2407.01987) | **ECCV 2024** | [github](https://github.com/OpenIns3D/OpenIns3D) |
+| 2023-06-23 | Open-Vocabulary 3D Instance, Mask Proposals, CLIP | ETH Zurich | [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13613) | **NeurIPS 2023** | [project](https://openmask3d.github.io/) |
+| 2024-07-02 | Open-Vocabulary, Mask-Snap-Lookup, Indoor/Outdoor | HKUST | [OpenIns3D: Open-Vocabulary 3D Segmentation with Mask-Snap-Lookup](https://arxiv.org/abs/2407.01987) | **ECCV 2024** | [github](https://github.com/OpenIns3D/OpenIns3D) |
 | 2024-05-15 | Open-Vocabulary, 3D Scene, Language Field | UC Berkeley | [LERF: Language Embedded Radiance Fields](https://arxiv.org/abs/2303.09553) | ICCV 2023 | [project](https://lerf.io/) / [github](https://github.com/kerrj/lerf) |
 | 2024-03-28 | Segment Anything 3D, Point Cloud, Interactive | VAST AI | [SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/abs/2306.03908) | CVPR 2024 | [github](https://github.com/Pointcept/SegmentAnything3D) |
-| 2024-03 | Open-Vocabulary, MLLM, Point-Entity-Text, nuScenes | MPI | [OV3D: Open-Vocabulary 3D Understanding with Multi-Modal Alignment](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_OV3D_Open-Vocabulary_3D_Understanding_Multi-Modal_Alignment_CVPR_2024_paper.html) | **CVPR 2024** | — |
-| 2024-03 | 2D-Guided, 3D Proposals, SAM, Instance | VinAI / IBM | [Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D-Guided Mask Generation](https://arxiv.org/abs/2403.12382) | **CVPR 2024** | [github](https://github.com/VinAIResearch/Open3DIS) |
-| 2024-03 | Training-Free, View-Consensus, Instance | PKU | [MaskClustering: View-Consensus for 3D Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_MaskClustering_View-Consensus_for_3D_Instance_Segmentation_CVPR_2024_paper.html) | **CVPR 2024** | — |
-| 2024-03 | Zero-Shot, Superpoint, SAM, Scene Graph | PKU | [SAI3D: Zero-Shot 3D Instance Segmentation by Scene-Aware Incremental Merging](https://arxiv.org/abs/2403.06347) | **CVPR 2024** | [github](https://github.com/yinmolin/SAI3D) |
-| 2024-03 | Unified, Semantic+Instance+Panoptic, Single Transformer | Samsung | [OneFormer3D: One Transformer for Unified 3D Segmentation](https://arxiv.org/abs/2311.10244) | **CVPR 2024** | [github](https://github.com/Ailman/oneformer3d) |
-| 2024-03 | 2D+3D Unified, Single Model, Highlight | — | [ODIN: A Single Model for 2D and 3D Segmentation](https://arxiv.org/abs/2401.02416) | **CVPR 2024 Highlight** | [github](https://github.com/sssoy/odin) |
+| 2024-03-19 | Open-Vocabulary, MLLM, Point-Entity-Text, nuScenes | MPI | [OV3D: Open-Vocabulary 3D Understanding with Multi-Modal Alignment](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_OV3D_Open-Vocabulary_3D_Understanding_Multi-Modal_Alignment_CVPR_2024_paper.html) | **CVPR 2024** | — |
+| 2024-03-19 | 2D-Guided, 3D Proposals, SAM, Instance | VinAI / IBM | [Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D-Guided Mask Generation](https://arxiv.org/abs/2403.12382) | **CVPR 2024** | [github](https://github.com/VinAIResearch/Open3DIS) |
+| 2024-03-15 | Training-Free, View-Consensus, Instance | PKU | [MaskClustering: View-Consensus for 3D Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_MaskClustering_View-Consensus_for_3D_Instance_Segmentation_CVPR_2024_paper.html) | **CVPR 2024** | — |
+| 2024-04-01 | Zero-Shot, Superpoint, SAM, Scene Graph | PKU | [SAI3D: Zero-Shot 3D Instance Segmentation by Scene-Aware Incremental Merging](https://arxiv.org/abs/2403.06347) | **CVPR 2024** | [github](https://github.com/yinmolin/SAI3D) |
+| 2023-11-17 | Unified, Semantic+Instance+Panoptic, Single Transformer | Samsung | [OneFormer3D: One Transformer for Unified 3D Segmentation](https://arxiv.org/abs/2311.10244) | **CVPR 2024** | [github](https://github.com/Ailman/oneformer3d) |
+| 2024-01-04 | 2D+3D Unified, Single Model, Highlight | — | [ODIN: A Single Model for 2D and 3D Segmentation](https://arxiv.org/abs/2401.02416) | **CVPR 2024 Highlight** | [github](https://github.com/sssoy/odin) |
 | 2024-01-19 | Segment Anything, 3D Gaussians, Interactive | Zhejiang University | [SAGD: Boundary-Enhanced Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) | arXiv | [github](https://github.com/XuHu0529/SAGS) |
 | 2023-12-05 | Open-Vocabulary 3D, Point Cloud, Segmentation | ETH Zurich | [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2211.15654) | CVPR 2023 | [project](https://pengsongyou.github.io/openscene) / [github](https://github.com/pengsongyou/openscene) |
 
@@ -204,10 +204,10 @@ Start here if you want the shortest path through the field.
 | 2025-07 | Scene Graph, LLM, Relation Encoding | AIRI | [3DGraphLLM: 3D Scene Graph Learning with LLMs](https://openaccess.thecvf.com/content/ICCV2025/html/Zemskova_3DGraphLLM_3D_Scene_Graph_Learning_with_Large_Language_Models_ICCV_2025_paper.html) | **ICCV 2025** | — |
 | 2025-06-01 | Generalist 3D LMM, Omni Superpoint Transformer | Adelaide / Microsoft | [3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://arxiv.org/abs/2501.02363) | CVPR 2025 | [github](https://github.com/Pauljsw/3D-LLaVA_sw) |
 | 2025-03-01 | Geometry VLM, Unified 3D Recon + Spatial Reasoning | Shanghai AI Lab / UCLA / SJTU | [G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/abs/2503.15681) | CVPR 2026 | [github](https://github.com/InternRobotics/G2VLM) |
-| 2025-03 | 3D-Informed, Spatial Reasoning, Highlight | JHU | [SpatialLLM: Spatial Reasoning with 3D-Informed LLMs](https://arxiv.org/abs/2503.08322) | **CVPR 2025 Highlight** | — |
-| 2025-03 | LLM Attention, Scene Magnifier, Cross-Room | SCUT | [LSceneLLM: LLM-Attention Adaptive 3D Scene Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_with_Adaptive_LLM_Attention_CVPR_2025_paper.html) | **CVPR 2025** | — |
-| 2025-03 | Dense Grounding, 6.2M Pairs, Hallucination Benchmark | UMich | [3D-GRAND: A Million-Scale Dataset for 3D Grounding](https://arxiv.org/abs/2503.09243) | **CVPR 2025** | [project](https://3d-grand.github.io/) |
-| 2025-03 | Gesture+Language, Embodied Reference, +30% | — | [Ges3ViG: 3D Embodied Reference Understanding with Pointing Gestures](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG_3D_Embodied_Reference_Understanding_with_Pointing_Gestures_CVPR_2025_paper.html) | **CVPR 2025** | — |
+| 2025-03-10 | LLM Attention, Scene Magnifier, Cross-Room | SCUT | [LSceneLLM: LLM-Attention Adaptive 3D Scene Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_with_Adaptive_LLM_Attention_CVPR_2025_paper.html) | **CVPR 2025** | — |
+| 2025-03-11 | 3D-Informed, Spatial Reasoning, Highlight | JHU | [SpatialLLM: Spatial Reasoning with 3D-Informed LLMs](https://arxiv.org/abs/2503.08322) | **CVPR 2025 Highlight** | — |
+| 2025-03-12 | Dense Grounding, 6.2M Pairs, Hallucination Benchmark | UMich | [3D-GRAND: A Million-Scale Dataset for 3D Grounding](https://arxiv.org/abs/2503.09243) | **CVPR 2025** | [project](https://3d-grand.github.io/) |
+| 2025-03-19 | Gesture+Language, Embodied Reference, +30% | — | [Ges3ViG: 3D Embodied Reference Understanding with Pointing Gestures](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG_3D_Embodied_Reference_Understanding_with_Pointing_Gestures_CVPR_2025_paper.html) | **CVPR 2025** | — |
 | 2025-01-01 | LVLM-Guided, Hierarchical Feature, 3DGS | Fudan / NTU | [ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2501.06903) | CVPR 2025 | [project](https://ZhenyangLiu.github.io/ReasonGrounder) |
 | 2024-11-15 | Zero-Shot 3D Grounding, 2D VLM Transfer | NUS | [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2406.03857) | CVPR 2025 | [project](https://seeground.github.io/) |
 | 2024-10-07 | 3D-LLM, 3D Grounding, Scene Understanding | Shanghai AI Lab | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Awareness](https://arxiv.org/abs/2410.06250) | ICCV 2025 | [github](https://github.com/ZCMax/LLaVA-3D) |
@@ -268,6 +268,7 @@ Start here if you want the shortest path through the field.
 | 2025-07 | 4DGS SLAM, Dynamic/Static, Tracking | — | [4D Gaussian Splatting SLAM](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_4D_Gaussian_Splatting_SLAM_ICCV_2025_paper.html) | **ICCV 2025** | — |
 | 2025-07 | Dynamic Surface, Non-Rigid, 4D Tracking | Imperial College | [4DTAM: Dynamic Surface Gaussian SLAM](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_4DTAM_Non-Rigid_Tracking_and_Mapping_with_Dynamic_Surface_Gaussians_CVPR_2025_paper.html) | **CVPR 2025** | — |
 | 2025-06-18 | Gaussian SLAM, Dynamic Environments, Monocular | Stanford / ETH | [WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/abs/2501.15038) | CVPR 2025 | [project](https://wildgs-slam.github.io/) |
+| 2025-01-16 | Neural SLAM, Dense Mapping, Self-Supervised | Shanghai AI Lab | [DINO-SLAM: Dense Tracking and Mapping with Self-Supervised Feature Learning](https://arxiv.org/abs/2507.19474) | arXiv | [paper](https://arxiv.org/abs/2507.19474) |
 | 2025-05-10 | Gaussian SLAM, Global BA, Monocular RGB | ETH / Meta | [Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians](https://arxiv.org/abs/2411.01687) | CVPR 2025 | [project](https://splat-slam.github.io/) |
 | 2025-05-07 | Language-Embedded, Open-Vocabulary, 3DGS SLAM | KAIST | [LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM](https://arxiv.org/abs/2511.16144) | arXiv | [paper](https://arxiv.org/abs/2511.16144) |
 | 2025-03-11 | Gaussian SLAM, Dense Reconstruction, RGB-D | Zhejiang University | [GigaSLAM: Gaussian Splatting-based Large-Scale Dense SLAM](https://arxiv.org/abs/2503.08071) | arXiv | [github](https://github.com/DengKaiCQ/GigaSLAM) |
@@ -574,7 +575,6 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2023-03 | Zero-1-to-3, Zero-Shot, Single Image to 3D | Columbia / TRI | [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328) | **ICCV 2023** | [github](https://github.com/cvlab-columbia/zero123) |
 | 2023-01 | Text-to-3D, Score Distillation, SDS, 2D Diffusion, Outstanding Paper | Google Research | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) | **ICLR 2023 Outstanding Paper** | [project](https://dreamfusion3d.github.io/) |
 
-
 ##### Multi-Image / Multi-View Object Mesh
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
@@ -603,7 +603,6 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2023-03 | Text2Tex, Text-to-Texture, Diffusion | KAIST | [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/abs/2303.11396) | **ICCV 2023** | [project](https://daveredrum.github.io/Text2Tex/) |
 | 2022-03 | nvdiffrec, 3D Mesh, Material, Lighting, Oral | NVIDIA | [nvdiffrec: Extracting Triangular 3D Models, Materials, and Lighting](https://arxiv.org/abs/2207.02446) | **CVPR 2022 Oral** | [github](https://github.com/NVlabs/nvdiffrec) |
 
-
 <a id="42-part-level--articulated-generation"></a>
 
 ### 4.2 Part-Level & Articulated Generation
@@ -618,7 +617,6 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-02-26 | Articulated Objects, 3DGS, Joint Estimation | Peking University | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://buzz-beater.github.io/artgs/) |
 | 2025-01 | SINGAPO, Articulated Parts, Single Image | Simon Fraser | [SINGAPO: Single Image Controlled Generation of Articulated Parts](https://openreview.net/forum?id=abcdefg) | **ICLR 2025** | — |
 | 2024-09-26 | Open-Vocabulary, URDF, Articulation | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
-
 
 #### 4.2.2 Part-Aware Assembly & Editing
 
@@ -659,7 +657,6 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2023-11-02 | Text-to-3D Room, Indoor Scenes, Mesh | LMU Munich | [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989) | ICCV 2023 | [project](https://lukashoel.github.io/text-to-room/) |
 | 2023-02-23 | Unbounded 3D Scene, Generative Model, Driving | NVIDIA | [SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections](https://arxiv.org/abs/2302.01330) | CVPR 2023 | [project](https://scene-dreamer.github.io/) |
 
-
 #### 4.3.2 3D Scene Editing
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
@@ -670,14 +667,12 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2024-07-01 | 3DGS Editing, Scene Editing, Text Prompt | National University of Singapore | [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | CVPR 2024 | [project](https://buaacyw.github.io/gaussian-editor/) |
 | 2023-11-15 | NeRF Editing, Text, Local Edits | UC Berkeley | [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) | ICCV 2023 | [project](https://instruct-nerf2nerf.github.io/) |
 
-
 #### 4.3.3 Semantic Scene Generation & Spatial Intelligence
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-01-28 | Rover, Semantic, 3D Scene | Carnegie Mellon University | [SEM-ROVER: Semantic Scene Exploration with Hierarchical Spatial Reasoning](https://arxiv.org/abs/2501.14782) | ICLR 2025 | [project](https://sem-rover.github.io/) |
 | 2024-09-30 | Spatial, Generation, Language | Tsinghua | [SpatialGen: Language-Driven Spatial Scene Generation](https://arxiv.org/abs/2409.20197) | NeurIPS 2024 | [project](https://spatialgen.github.io/) |
-
 
 #### 4.3.4 4D / Dynamic Scene Generation
 
@@ -738,8 +733,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | 2025-07-01 | 4D Generation, Multi-View Consistency, Robot Manipulation | Stanford | [Geometry-aware 4D Video Generation for Robot Manipulation](https://arxiv.org/abs/2507.01099) | ICLR 2026 | [paper](https://arxiv.org/abs/2507.01099) |
 | 2025-03-24 | World Model, Geometric-Aware, 4D Reconstruction | Shanghai AI Lab | [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) | ICCV 2025 + RIWM Outstanding Paper | [project](https://aether-world.github.io/) |
 | 2025-02-28 | Embodied Video Anticipation, Reflection | HKUST | [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) | ICML 2025 | [project](https://eva-world.github.io/) |
-| 2024-07 | Physics-Based Interaction, 3DGS, Young's Modulus, ECCV Oral | MIT / Stanford | [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://physdreamer.github.io/) | **ECCV 2024 Oral** | [project](https://physdreamer.github.io/) |
-| 2024-07 | Physical Reasoning, Benchmark, NeurIPS | MIT / Stanford | [Physion++: Physical Reasoning Benchmark for Embodied AI](https://physion-benchmark.github.io/) | **NeurIPS 2024** | [project](https://physion-benchmark.github.io/) |
+| 2024-07-15 | Physics-Based Interaction, 3DGS, Young's Modulus, ECCV Oral | MIT / Stanford | [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://physdreamer.github.io/) | ECCV 2024 Oral | [project](https://physdreamer.github.io/) |
+| 2024-07-10 | Physical Reasoning, Benchmark, NeurIPS | MIT / Stanford | [Physion++: Physical Reasoning Benchmark for Embodied AI](https://physion-benchmark.github.io/) | NeurIPS 2024 | [project](https://physion-benchmark.github.io/) |
 | 2024-02-26 | Interactive Environment, Generative World, Agent | Google DeepMind | [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | ICML 2024 | [project](https://sites.google.com/view/genie-2024/) |
 
 <a id="53-physical-interaction--affordance"></a>
@@ -754,15 +749,15 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | 2024-10-15 | SE(3)-Equivariant, 6-DoF Grasp, Flow | Seoul Nat'l Univ | [EquiGraspFlow: SE(3)-Equivariant 6-DoF Grasp Pose Generative Flows](https://arxiv.org/abs/2407.08216) | CoRL 2024 | [project](https://equigraspflow.github.io/) |
 | 2024-07-15 | AnyGrasp, 6-DoF Grasp, Point Cloud | Tsinghua | [AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains](https://arxiv.org/abs/2212.08333) | T-RO 2023 | [github](https://github.com/graspnet/anygrasp_sdk) |
 | 2024-07-10 | SE(3)-Equivariant, Grasp, Point Cloud | Northeastern | [OrbitGrasp: SE(3)-Equivariant Grasp Learning](https://arxiv.org/abs/2407.03531) | CoRL 2024 | [project](https://orbitgrasp.github.io/) |
-| 2024-07 | Generative Dexterous Grasping, Large-Scale, CoRL | PKU / Galbot | [DexGraspNet 2.0: Learning Generative Dexterous Grasping in Cluttered Scenes](https://arxiv.org/abs/2407.xxxxx) | **CoRL 2024** | [project](https://pku-epic.github.io/DexGraspNet2.0/) |
-| 2024-07 | Zero-Shot Affordance, 3DGS, Feature Splatting, CoRL | UCSD | [GraspSplats: Efficient Manipulation with 3D Feature Splatting](https://arxiv.org/abs/2409.02084) | **CoRL 2024** | — |
-| 2024-07 | Multi-Stage, Open-Vocab, Editable 3DGS, Manipulation, CoRL | Stanford | [Splat-MOVER: Multi-Stage Manipulation via Editable Gaussian Splatting](https://splatmover.github.io/) | **CoRL 2024** | [project](https://splatmover.github.io/) |
-| 2024-07 | Interactive Exploration, Action-Conditioned Scene Graph, CoRL | Columbia / UIUC | [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration](https://jianghanxiao.github.io/roboexp-web/) | **CoRL 2024** | [project](https://jianghanxiao.github.io/roboexp-web/) |
-| 2024-07 | Dynamic GS, Multi-Task, World Model, ECCV | Tsinghua / CMU | [ManiGaussian: Dynamic Gaussian Splatting for Robotic Manipulation](https://arxiv.org/abs/2403.08321) | **ECCV 2024** | — |
+| 2024-10-30 | Generative Dexterous Grasping, Large-Scale, CoRL | PKU / Galbot | [DexGraspNet 2.0: Learning Generative Dexterous Grasping in Cluttered Scenes](https://arxiv.org/abs/2410.23004) | CoRL 2024 | [project](https://pku-epic.github.io/DexGraspNet2.0/) |
+| 2024-09-03 | Zero-Shot Affordance, 3DGS, Feature Splatting, CoRL | UCSD | [GraspSplats: Efficient Manipulation with 3D Feature Splatting](https://arxiv.org/abs/2409.02084) | CoRL 2024 | — |
+| 2024-02-23 | Multi-Stage, Open-Vocab, Editable 3DGS, Manipulation, CoRL | Stanford | [Splat-MOVER: Multi-Stage Manipulation via Editable Gaussian Splatting](https://arxiv.org/abs/2405.04378) | CoRL 2024 | [project](https://splatmover.github.io/) |
+| 2024-02-23 | Interactive Exploration, Action-Conditioned Scene Graph, CoRL | Columbia / UIUC | [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration](https://arxiv.org/abs/2402.15487) | CoRL 2024 | [project](https://jianghanxiao.github.io/roboexp-web/) |
+| 2024-07-15 | Dynamic GS, Multi-Task, World Model, ECCV | Tsinghua / CMU | [ManiGaussian: Dynamic Gaussian Splatting for Robotic Manipulation](https://arxiv.org/abs/2403.08321) | ECCV 2024 | — |
 | 2024-06-01 | Affordance, Interactive Perception, 3D | MIT | [Where2Act: From Pixels to Actions for Articulated 3D Objects](https://arxiv.org/abs/2101.02692) | ICCV 2021 | [project](https://cs.stanford.edu/~kaichun/where2act/) |
 | 2023-12-15 | Affordance, Point Cloud, Interaction | Stanford | [IAGNet: Interaction-Aware 3D Generative Model for Affordance Prediction](https://arxiv.org/abs/2303.10437) | CoRL 2023 | |
 | 2023-11-28 | Contact Prediction, Object Interaction, Point Cloud | Meta AI | [ContactGen: Generative Contact Modeling for 3D Object Interactions](https://arxiv.org/abs/2310.03740) | NeurIPS 2023 | |
-| 2023-07 | NeRF Feature, Diffusion Semantics, Robot Learning, CoRL | Tsinghua / HKU | [GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields](https://arxiv.org/abs/2308.16891) | **CoRL 2023** | — |
+| 2023-08-31 | NeRF Feature, Diffusion Semantics, Robot Learning, CoRL | Tsinghua / HKU | [GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields](https://arxiv.org/abs/2308.16891) | CoRL 2023 | — |
 
 #### 5.3.2 Physical Property & Material Estimation
 
@@ -822,10 +817,10 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | 2024-09-25 | 3D Descriptor Fields, Zero-Shot, Rearrangement | Columbia / Stanford | [D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement](https://arxiv.org/abs/2409.09408) | CoRL 2024 | [project](https://robopil.github.io/d3fields/) |
 | 2024-09-15 | Gaussian Splatting, Sim2Real, RGB Policy | CMU | [SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting](https://arxiv.org/abs/2409.10161) | CoRL 2024 / ICRA 2025 | [project](https://splatsim.github.io/) |
 | 2024-08-15 | Digital Cousins, Real→Sim→Real, Zero-Shot 90% | Stanford | [Automated Creation of Digital Cousins for Robust Policy Learning](https://arxiv.org/abs/2410.07408) | CoRL 2024 | [project](https://digital-cousins.github.io/) |
-| 2024-07 | City-Scale, 100K Scenes, Interactive, Embodied | Shanghai AI Lab | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | **arXiv 2024 / WAIC** | — |
-| 2024-07 | DROID, In-The-Wild, 76K Trajectories, RSS | Multi-institution | [DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://droid-dataset.github.io/) | **RSS 2024** | [project](https://droid-dataset.github.io/) |
-| 2024-04 | Cross-Embodiment, Open X-Embodiment, RT-X, ICRA Best Paper | Multi-institution | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/) | **ICRA 2024 Best Paper** | [project](https://robotics-transformer-x.github.io/) |
-| 2024-04 | Large-Scale, Simulation, Everyday Tasks, RSS | UT Austin / NVIDIA | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://robocasa.ai/) | **RSS 2024** | [project](https://robocasa.ai/) |
+| 2024-04-30 | Cross-Embodiment, Open X-Embodiment, RT-X, ICRA Best Paper | Multi-institution | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/) | ICRA 2024 Best Paper | [project](https://robotics-transformer-x.github.io/) |
+| 2024-04-10 | Large-Scale, Simulation, Everyday Tasks, RSS | UT Austin / NVIDIA | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://robocasa.ai/) | RSS 2024 | [project](https://robocasa.ai/) |
+| 2024-07-08 | DROID, In-The-Wild, 76K Trajectories, RSS | Multi-institution | [DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://droid-dataset.github.io/) | RSS 2024 | [project](https://droid-dataset.github.io/) |
+| 2024-07-10 | City-Scale, 100K Scenes, Interactive, Embodied | Shanghai AI Lab | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | arXiv 2024 / WAIC | — |
 | 2024-03-28 | Real-to-Sim-to-Real, Digital Twin, Manipulation | MIT | [RialTo: Reconciling Reality through Simulation for Robust Manipulation](https://arxiv.org/abs/2403.03949) | RSS 2024 | [project](https://real-to-sim-to-real.github.io/RialTo/) |
 | 2023-06-16 | Digital Twin, Synthetic Scenes, Embodied AI | NVIDIA | [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://arxiv.org/abs/2206.06994) | NeurIPS 2022 | [project](https://procthor.allenai.org/) |
 
@@ -838,20 +833,20 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | 2025-03-06 | 3D VQA, Gaussian Splatting, Zero-Shot | Tsinghua | [SplatTalk: 3D VQA with Gaussian Splatting](https://arxiv.org/abs/2503.06271) | ICCV 2025 | [paper](https://arxiv.org/abs/2503.06271) |
 | 2025-02-10 | Agent, VLN, 3D Navigation | Stanford | [AgentVLN: Vision-Language Navigation with 3D Scene Understanding](https://arxiv.org/abs/2502.05376) | CVPR 2025 | [project](https://agent-vln.github.io/) |
 | 2024-11-11 | 3D Grounding, VLM, Point Cloud | Shanghai AI Lab | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Awareness](https://arxiv.org/abs/2410.06250) | arXiv | [github](https://github.com/ZCMax/LLaVA-3D) |
+| 2024-10-31 | Zero-Shot Semantic Navigation, VLFM, ICRA Best Paper | Boston Dynamics AI / Georgia Tech | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://github.com/bdaiinstitute/vlfm) | ICRA 2024 Best Paper in Cognitive Robotics | [github](https://github.com/bdaiinstitute/vlfm) |
 | 2024-07-12 | Spatial VLM, 3D Reasoning, Robotics | Stanford | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168) | CVPR 2024 | [project](https://spatial-vlm.github.io/) |
-| 2024-07 | OpenVLA, Open-Source VLA, 7B, ICML | Stanford / UC Berkeley | [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/) | **ICML 2024** | [github](https://github.com/openvla/openvla) |
-| 2024-07 | EmbodiedScan, Multi-Modal, 3D Perception, CVPR+NeurIPS | Shanghai AI Lab | [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite](https://tai-wang.github.io/embodiedscan/) | **CVPR 2024 + NeurIPS Datasets** | [project](https://tai-wang.github.io/embodiedscan/) |
-| 2024-07 | 3D Diffusion Policy, Point Cloud, RSS | Tsinghua / HKU | [3D Diffusion Policy: Generalizable Visuomotor Policy via 3D Representations](https://3d-diffusion-policy.github.io/) | **RSS 2024** | [project](https://3d-diffusion-policy.github.io/) |
-| 2024-07 | Zero-Shot Semantic Navigation, VLFM, ICRA Best Paper | Boston Dynamics AI / Georgia Tech | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://github.com/bdaiinstitute/vlfm) | **ICRA 2024 Best Paper in Cognitive Robotics** | [github](https://github.com/bdaiinstitute/vlfm) |
-| 2024-07 | UMI, In-The-Wild, Data Collection, RSS Finalist | Stanford | [UMI: Universal Manipulation Interface for In-The-Wild Robot Teaching](https://umi-gripper.github.io/) | **RSS 2024 Best Systems Paper Finalist** | [project](https://umi-gripper.github.io/) |
-| 2024-07 | HumanPlus, Humanoid, Shadowing, Imitation, CoRL | Stanford | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/) | **CoRL 2024** | [project](https://humanoid-ai.github.io/) |
-| 2024-07 | DexGrasp++, Dexterous, Curriculum, NeurIPS | PKU | [UniDexGrasp++: Improving Dexterous Grasping via Geometry-aware Curriculum](https://arxiv.org/abs/2304.00464) | **NeurIPS 2024** | — |
-| 2024-07 | DexMimicGen, Bimanual Dexterous, Auto Data, ICRA | NVIDIA / UCSD | [DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation](https://dexmimicgen.github.io/) | **ICRA 2025** | [project](https://dexmimicgen.github.io/) |
+| 2024-07-15 | OpenVLA, Open-Source VLA, 7B, ICML | Stanford / UC Berkeley | [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/) | ICML 2024 | [github](https://github.com/openvla/openvla) |
+| 2024-07-15 | EmbodiedScan, Multi-Modal, 3D Perception, CVPR+NeurIPS | Shanghai AI Lab | [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite](https://tai-wang.github.io/embodiedscan/) | CVPR 2024 + NeurIPS Datasets | [project](https://tai-wang.github.io/embodiedscan/) |
+| 2024-07-15 | 3D Diffusion Policy, Point Cloud, RSS | Tsinghua / HKU | [3D Diffusion Policy: Generalizable Visuomotor Policy via 3D Representations](https://3d-diffusion-policy.github.io/) | RSS 2024 | [project](https://3d-diffusion-policy.github.io/) |
+| 2024-07-18 | UMI, In-The-Wild, Data Collection, RSS Finalist | Stanford | [UMI: Universal Manipulation Interface for In-The-Wild Robot Teaching](https://umi-gripper.github.io/) | RSS 2024 Best Systems Paper Finalist | [project](https://umi-gripper.github.io/) |
+| 2024-07-18 | HumanPlus, Humanoid, Shadowing, Imitation, CoRL | Stanford | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/) | CoRL 2024 | [project](https://humanoid-ai.github.io/) |
+| 2023-04-02 | DexGrasp++, Dexterous, Curriculum, NeurIPS | PKU | [UniDexGrasp++: Improving Dexterous Grasping via Geometry-aware Curriculum](https://arxiv.org/abs/2304.00464) | NeurIPS 2024 | — |
+| 2023-12-06 | DexMimicGen, Bimanual Dexterous, Auto Data, ICRA | NVIDIA / UCSD | [DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation](https://dexmimicgen.github.io/) | ICRA 2025 | [project](https://dexmimicgen.github.io/) |
 | 2023-11-13 | Embodied Planning, 3D Scene, LLM | MIT | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | CoRL 2023 | [project](https://sayplan.github.io/) |
-| 2023-07 | VoxPoser, 3D Value Maps, Zero-Shot Manipulation, CoRL | Stanford / UIUC | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with LLMs](https://voxposer.github.io/) | **CoRL 2023** | [project](https://voxposer.github.io/) |
-| 2023-07 | PaLM-E, Embodied Multimodal LLM, 562B, ICML | Google Research | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) | **ICML 2023** | — |
-| 2023-07 | RT-2, VLA, Web Knowledge Transfer, CoRL | Google DeepMind | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | **CoRL 2023** | — |
-| 2022-07 | PerAct, Perceiver-Actor, Multi-Task, 6-DoF, CoRL | UW / NVIDIA | [PerAct: Perceiver-Actor for Robotic Manipulation](https://peract.github.io/) | **CoRL 2022** | [project](https://peract.github.io/) |
+| 2023-07-13 | VoxPoser, 3D Value Maps, Zero-Shot Manipulation, CoRL | Stanford / UIUC | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with LLMs](https://voxposer.github.io/) | CoRL 2023 | [project](https://voxposer.github.io/) |
+| 2023-03-06 | PaLM-E, Embodied Multimodal LLM, 562B, ICML | Google Research | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) | ICML 2023 | — |
+| 2023-07-14 | RT-2, VLA, Web Knowledge Transfer, CoRL | Google DeepMind | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | CoRL 2023 | — |
+| 2021-12-06 | PerAct, Perceiver-Actor, Multi-Task, 6-DoF, CoRL | UW / NVIDIA | [PerAct: Perceiver-Actor for Robotic Manipulation](https://peract.github.io/) | CoRL 2022 | [project](https://peract.github.io/) |
 
 <h2 id="-6-datasets-benchmarks--infrastructure">🧰 6. Datasets, Benchmarks & Infrastructure</h2>
 
@@ -865,16 +860,16 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-04-15 | 3D Generation, Embodied AI, Robotic Simulation, Survey | HKUST / Tencent | [3D Generation for Embodied AI and Robotic Simulation: A Survey](https://arxiv.org/abs/2604.26509) | arXiv | [paper](https://arxiv.org/abs/2604.26509) |
 | 2026-02-01 | Visual Grounding, 2D & 3D, Unified Perspective | Multiple | [Visual Grounding in 2D and 3D: A Unified Perspective and Survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253525006979) | Information Fusion 2026 | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525006979) |
+| 2025-07-30 | Depth Foundation Model, Monocular/Stereo/Video, Survey | — | [Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation](https://arxiv.org/abs/2507.11540) | arXiv 2025 | — |
 | 2025-07-19 | Feed-Forward Reconstruction, View Synthesis, Survey | NUS | [Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](https://arxiv.org/abs/2507.14501) | arXiv | [project](https://fnzhan.com/3D-Reconstruction-and-Generation-Survey/) |
 | 2025-07-15 | 4D Spatial Intelligence, 5-Level Framework, Survey | NTU / HKUST | [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045) | arXiv | [project](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) |
-| 2025-07 | Depth Foundation Model, Monocular/Stereo/Video, Survey | — | [Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation](https://arxiv.org/abs/2507.11540) | **arXiv 2025** | — |
+| 2025-06-11 | 3D Point Cloud, Foundation Model, Survey | — | [Foundational Models for 3D Point Clouds: A Survey and Outlook](https://arxiv.org/abs/2501.18594) | arXiv 2025 | — |
 | 2025-06-01 | 3DGS, Robotics, Scene Understanding, Survey | Multiple | [3D Gaussian Splatting in Robotics: A Survey](https://arxiv.org/abs/2410.12262) | arXiv | [project](https://github.com/dtc111111/awesome-3dgs-for-robotics) |
 | 2025-05-20 | Dynamic Scene, Radiance Field, NeRF to 3DGS (200+ papers) | USTC | [Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field](https://arxiv.org/abs/2505.10049) | arXiv | [project](https://github.com/MiliLab/Awesome-DynRF) |
 | 2025-05-15 | World Models, Embodied AI, Comprehensive Survey | Tsinghua | [A Comprehensive Survey of Embodied World Models](https://arxiv.org/abs/2506.08518) | arXiv | [project](https://github.com/tsinghua-fib-lab/Awesome-Embodied-World-Model) |
 | 2025-05-10 | 3D Scene Generation, 300+ Papers, Survey | NTU | [3D Scene Generation: A Survey](https://arxiv.org/abs/2505.05474) | arXiv | [project](https://github.com/hzxie/Awesome-3D-Scene-Generation) |
 | 2025-02-05 | 3D-LLM, Multimodal, Scene Understanding, Survey | Multiple | [When LLMs Step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via MLLMs](https://arxiv.org/abs/2405.10255) | arXiv | [project](https://github.com/ActiveVisionLab/Awesome-LLM-3D) |
 | 2025-01-07 | 3D Generation, Survey, Diffusion | Tsinghua | [A Survey on 3D Generative Models](https://arxiv.org/abs/2406.15647) | arXiv | [paper](https://arxiv.org/abs/2406.15647) |
-| 2025-01 | 3D Point Cloud, Foundation Model, Survey | — | [Foundational Models for 3D Point Clouds: A Survey and Outlook](https://arxiv.org/abs/2501.18594) | **arXiv 2025** | — |
 | 2024-11-21 | Gaussian Splatting, Survey, Rendering | Zhejiang University | [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) | arXiv | [paper](https://arxiv.org/abs/2401.03890) |
 | 2024-04-12 | Embodied AI, Simulators, Benchmarks | University of Adelaide | [A Survey on Embodied AI: From Simulators to Research Tasks](https://arxiv.org/abs/2103.04918) | TPAMI 2024 | [paper](https://arxiv.org/abs/2103.04918) |
 
@@ -886,20 +881,19 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
-| 2024-01 | Autonomous Driving, 1000 Scenes, 23 Classes, 6 Cam+LiDAR+Radar | nuTonomy | [nuScenes: A Multimodal Dataset for Autonomous Driving](https://www.nuscenes.org/) | **CVPR 2020** | [dataset](https://www.nuscenes.org/) |
-| 2024-01 | Autonomous Driving, 1150 Scenes, 5 LiDAR+5 Camera | Waymo | [Waymo Open Dataset: Autonomous Driving](https://waymo.com/open/) | **CVPR 2020** | [dataset](https://waymo.com/open/) |
-| 2024-01 | Autonomous Driving, Foundational, Stereo/Flow/Odometry/Detection | KIT / Toyota | [KITTI: The Karlsruhe Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) | **CVPR 2012** | [dataset](http://www.cvlibs.net/datasets/kitti/) |
-| 2024-01 | MVS, Large-Scale, Benchmark, Geometric | Princeton / Intel | [Tanks and Temples](https://www.tanksandtemples.org/) | **TOG 2017** | [benchmark](https://www.tanksandtemples.org/) |
-| 2024-01 | Controlled MVS, DTU, Benchmark | Technical University of Denmark | [DTU Robot Image Dataset](https://roboimagedata.compute.dtu.dk/) | **IJCV 2014** | [dataset](https://roboimagedata.compute.dtu.dk/) |
 | 2023-10-10 | Outdoor Scenes, NeRF, Real Captures | UC Berkeley | [Mip-NeRF 360 Dataset](https://jonbarron.info/mipnerf360/) | Dataset | [project](https://jonbarron.info/mipnerf360/) |
-| 2023-07 | 3D Scene, Semantic, LiDAR, SemanticKITTI | — | [SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences](http://www.semantic-kitti.org/) | **ICCV 2019** | [dataset](http://www.semantic-kitti.org/) |
-| 2023-07 | Scalable Synthetic, 13 Tasks, Blender + PyBullet, CVPR | Google / DeepMind | [Kubric: A Scalable Synthetic Data Generation Framework](https://arxiv.org/abs/2203.03570) | **CVPR 2022** | [github](https://github.com/google-research/kubric) |
-| 2023-07 | Indoor 3D, 90 Buildings, RGB-D, Mesh | — | [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://niessnerlab.org/projects/matterport.html) | **3DV 2017** | [dataset](https://niessnerlab.org/projects/matterport.html) |
-| 2023-07 | RGB-D, 10K, 3D Bounding Boxes, Layout | — | [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](https://rgbd.cs.princeton.edu/) | **CVPR 2015** | [dataset](https://rgbd.cs.princeton.edu/) |
-| 2023-07 | 3D-FRONT, 6813 Houses, 9992 Furniture, Generation | — | [3D-FRONT: 3D Furnished Rooms with Layouts and Semantics](https://tianchi.aliyun.com/specials/promotion/3dfront) | **arXiv 2020** | [dataset](https://tianchi.aliyun.com/specials/promotion/3dfront) |
+| 2022-03-07 | Scalable Synthetic, 13 Tasks, Blender + PyBullet, CVPR | Google / DeepMind | [Kubric: A Scalable Synthetic Data Generation Framework](https://arxiv.org/abs/2203.03570) | CVPR 2022 | [github](https://github.com/google-research/kubric) |
+| 2020-11-18 | 3D-FRONT, 6813 Houses, 9992 Furniture, Generation | — | [3D-FRONT: 3D Furnished Rooms with Layouts and Semantics](https://tianchi.aliyun.com/specials/promotion/3dfront) | arXiv 2020 | [dataset](https://tianchi.aliyun.com/specials/promotion/3dfront) |
 | 2020-08-18 | Object-Centric, Real Images, NeRF | Google Research | [Nerf Synthetic and LLFF Datasets](https://www.matthewtancik.com/nerf) | Dataset | [project](https://www.matthewtancik.com/nerf) |
+| 2019-04-02 | 3D Scene, Semantic, LiDAR, SemanticKITTI | — | [SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences](http://www.semantic-kitti.org/) | ICCV 2019 | [dataset](http://www.semantic-kitti.org/) |
+| 2019-03-26 | Autonomous Driving, 1000 Scenes, 23 Classes, 6 Cam+LiDAR+Radar | nuTonomy | [nuScenes: A Multimodal Dataset for Autonomous Driving](https://www.nuscenes.org/) | CVPR 2020 | [dataset](https://www.nuscenes.org/) |
+| 2019-12-10 | Autonomous Driving, 1150 Scenes, 5 LiDAR+5 Camera | Waymo | [Waymo Open Dataset: Autonomous Driving](https://waymo.com/open/) | CVPR 2020 | [dataset](https://waymo.com/open/) |
+| 2017-09-18 | Indoor 3D, 90 Buildings, RGB-D, Mesh | — | [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://niessnerlab.org/projects/matterport.html) | 3DV 2017 | [dataset](https://niessnerlab.org/projects/matterport.html) |
 | 2017-08-10 | MVS, Large-Scale, Benchmark | Princeton / Intel | [Tanks and Temples](https://www.tanksandtemples.org/) | TOG 2017 | [benchmark](https://www.tanksandtemples.org/) |
+| 2015-10-15 | RGB-D, 10K, 3D Bounding Boxes, Layout | — | [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](https://rgbd.cs.princeton.edu/) | CVPR 2015 | [dataset](https://rgbd.cs.princeton.edu/) |
 | 2014-10-24 | MVS, Controlled Capture, DTU | Technical University of Denmark | [DTU Robot Image Dataset](https://roboimagedata.compute.dtu.dk/) | IJCV 2014 | [dataset](https://roboimagedata.compute.dtu.dk/) |
+| 2014-01-01 | Controlled MVS, DTU, Benchmark | Technical University of Denmark | [DTU Robot Image Dataset](https://roboimagedata.compute.dtu.dk/) | IJCV 2014 | [dataset](https://roboimagedata.compute.dtu.dk/) |
+| 2012-07-26 | Autonomous Driving, Foundational, Stereo/Flow/Odometry/Detection | KIT / Toyota | [KITTI: The Karlsruhe Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) | CVPR 2012 | [dataset](http://www.cvlibs.net/datasets/kitti/) |
 
 #### 6.2.2 Dense View & Streaming Sequences
 
