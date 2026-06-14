@@ -28,7 +28,7 @@ This repository focuses on:
 - **Data Perception**: depth, normals, active imaging, panoramic/fisheye, dense mapping, and 3D semantic understanding (detection, segmentation, grounding) that feed downstream systems
 - **3D/4D Representation**: 3DGS, 4DGS, NeRF/SDF, mesh, voxel, point, and hybrid structures
 - **3D Reconstruction**: offline, feed-forward, streaming, online, semantic, instance-level, and dynamic reconstruction
-- **3D Generation**: object-level, part-level, articulated, scene-level, and simulation-ready asset generation
+- **3D Generation**: object-level, part-level, articulated, scene-level, editable, and simulation-ready asset generation
 - **Embodiment & World Models**: reconstruction-based world models, dynamic scene graphs, physical interaction & affordance, human-centric 3D, robotics integration, and agent-facing 3D grounding
 - **Datasets, Benchmarks & Infrastructure**: datasets, metrics, simulators, toolchains, and surveys for fast research orientation
 
@@ -51,6 +51,7 @@ Start here if you want the shortest path through the field.
 
 ## News
 
+- [2026-06-15] Added a dedicated **3D Editing** taxonomy under 3D Generation, covering object-level, scene-level, and dynamic / 4D editing methods.
 - [2026-04-30] Initialized **Awesome-Embodied-3DV** with a six-part taxonomy for data perception, representations, reconstruction, generation, embodied world models, and infrastructure.
 - [2026-04-30] Added `AGENTS.md` to define curation scope, metadata rules, and maintenance workflow.
 
@@ -77,6 +78,7 @@ Start here if you want the shortest path through the field.
     - [Object-Level Generation](#41-object-level-generation)
     - [Part-Level & Articulated Generation](#42-part-level--articulated-generation)
     - [Scene-Level Generation](#43-scene-level-generation)
+    - [3D Editing](#44-3d-editing)
   - [Embodiment & World Models](#-5-embodiment--world-models)
     - [Dynamic Scene Graphs & Tracking](#51-dynamic-scene-graphs--tracking)
     - [Reconstruction-Based World Models](#52-reconstruction-based-world-models)
@@ -683,24 +685,14 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2023-11-02 | Text-to-3D Room, Indoor Scenes, Mesh | LMU Munich | [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989) | ICCV 2023 | [project](https://lukashoel.github.io/text-to-room/) |
 | 2023-02-23 | Unbounded 3D Scene, Generative Model, Driving | NVIDIA | [SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections](https://arxiv.org/abs/2302.01330) | CVPR 2023 | [project](https://scene-dreamer.github.io/) |
 
-#### 4.3.2 3D Scene Editing
-
-| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
-| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
-| 2026-05-15 | Interactive-Ready Worlds, Object Decomposition, Collision | Shanghai Jiao Tong Univ | [WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes](https://arxiv.org/abs/2605.15843) | arXiv | [project](https://sjtu-deepvisionlab.github.io/WorldAct/) |
-| 2026-05-14 | VGGT, Native 3D Editing, Residual Field | University of Hong Kong | [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186) | arXiv | [project](https://chriszkxxx.github.io/vggt-edit/) |
-| 2025-02-17 | Flow Editing, 3D Editing, Dynamics | Google DeepMind | [FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models](https://arxiv.org/abs/2412.08629) | ICLR 2025 | [project](https://matankleiner.github.io/flowedit/) |
-| 2024-07-01 | 3DGS Editing, Scene Editing, Text Prompt | National University of Singapore | [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | CVPR 2024 | [project](https://buaacyw.github.io/gaussian-editor/) |
-| 2023-11-15 | NeRF Editing, Text, Local Edits | UC Berkeley | [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) | ICCV 2023 | [project](https://instruct-nerf2nerf.github.io/) |
-
-#### 4.3.3 Semantic Scene Generation & Spatial Intelligence
+#### 4.3.2 Semantic Scene Generation & Spatial Intelligence
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2025-01-28 | Rover, Semantic, 3D Scene | Carnegie Mellon University | [SEM-ROVER: Semantic Scene Exploration with Hierarchical Spatial Reasoning](https://arxiv.org/abs/2501.14782) | ICLR 2025 | [project](https://sem-rover.github.io/) |
 | 2024-09-30 | Spatial, Generation, Language | Tsinghua | [SpatialGen: Language-Driven Spatial Scene Generation](https://arxiv.org/abs/2409.20197) | NeurIPS 2024 | [project](https://spatialgen.github.io/) |
 
-#### 4.3.4 4D / Dynamic Scene Generation
+#### 4.3.3 4D / Dynamic Scene Generation
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -713,6 +705,60 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2024-03 | 4D-fy, Text-to-4D, Score Distillation, CVPR | KAUST / Snap | [4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984) | CVPR 2024 | [project](https://4d-fy.github.io/) |
 | 2024-01 | Consistent4D, 360° Dynamic, Monocular Video, ICLR | CASIA / Nanjing | [Consistent4D: Consistent 360° Dynamic Object Generation](https://arxiv.org/abs/2311.10348) | ICLR 2024 | [project](https://consistent4d.github.io/) |
 | 2024-01 | Animate124, Image-to-4D, Animation, ICLR | NUS / Huawei | [Animate124: Animating One Image to 4D Dynamic Scene](https://arxiv.org/abs/2311.14603) | ICLR 2024 | [paper](https://arxiv.org/abs/2311.14603) |
+
+<a id="44-3d-editing"></a>
+
+### 4.4 3D Editing
+
+3D editing covers methods that modify existing 3D assets, Gaussian / NeRF fields, meshes, voxel or latent states, and dynamic scenes. Entries are grouped by editable state: object-level, scene-level, and dynamic / 4D.
+
+#### 4.4.1 Object-Level Editing
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-05-26 | Latent Editing, Object-Level, Semantic-Part Transformation | Authors | [Feedforward 3D Editing Learns from Semantic-Part Transformation](https://arxiv.org/abs/2605.27351) | arXiv | [project](https://dennis-jwweng.github.io/pxform/) |
+| 2026-05-01 | Latent Editing, Object-Level, Structured 3D Latents | Authors | [InpaintSLat: Inpainting Structured 3D Latents via Initial Noise Optimization](https://arxiv.org/abs/2605.00664) | arXiv | [project](https://robot0321.github.io/InpaintSLat/index.html) |
+| 2026-03-30 | 3DGS Editing, Object-Level, Single-View | Zhejiang Gongshang University | [SVGS: Single-View to 3D Object Editing via Gaussian Splatting](https://arxiv.org/abs/2603.28126) | ACM TOMM 2026 | [project](https://amateurc.github.io/svgs.github.io/) |
+| 2026-02-25 | Voxel Editing, Object-Level, Rectified Voxel Flow | USTC | [Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499) | CVPR 2026 | [project](https://ustc3dv.github.io/Easy3E/) |
+| 2026-02-04 | Mesh Editing, Object-Level, Single-Image LRM | Authors | [VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image](https://arxiv.org/abs/2602.04349) | arXiv | [github](https://github.com/BlueDyee/VecSet-Edit) |
+| 2025-11-21 | Native Editing, Object-Level, Full Attention | Fudan University / StepFun | [Native 3D Editing with Full Attention](https://arxiv.org/abs/2511.17501) | arXiv | [paper](https://arxiv.org/abs/2511.17501) |
+| 2025-10-16 | Latent Editing, Object-Level, Mask-Free | Authors | [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://arxiv.org/abs/2510.15019) | arXiv | [project](https://jamesyjl.github.io/Nano3D) |
+| 2024-12-11 | Mesh Editing, Object-Level, Masked LRM | Authors | [3D Mesh Editing using Masked LRMs](https://arxiv.org/abs/2412.08641) | ICCV 2025 | [project](https://chocolatebiscuit.github.io/MaskedLRM/) |
+| 2024-12-09 | Mesh Editing, Object-Level, Fast Shape Editing | Authors | [PrEditor3D: Fast and Precise 3D Shape Editing](https://arxiv.org/abs/2412.06592) | CVPR 2025 | [project](https://ziyaerkoc.com/preditor3d/) |
+| 2024-11-30 | Multiview Editing, Object-Level, Inpainting | Authors | [Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects](https://arxiv.org/abs/2412.00518) | CVPR 2025 | [project](https://amirbarda.github.io/Instant3dit.github.io/) |
+| 2023-03-21 | Voxel Editing, Object-Level, Text-Guided | Tel Aviv University | [Vox-E: Text-guided Voxel Editing of 3D Objects](https://arxiv.org/abs/2303.12048) | ICCV 2023 | [github](https://github.com/TAU-VAILab/Vox-E) |
+
+#### 4.4.2 Scene-Level Editing
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-11 | Latent Editing, Scene-Level, RGB-Geometry | East China Normal Univ / Shanghai AI Lab | [JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space](https://arxiv.org/abs/2606.13345) | arXiv | [paper](https://arxiv.org/abs/2606.13345) |
+| 2026-05-15 | Object-Centric Editing, Scene-Level, Interactive Worlds | Shanghai Jiao Tong Univ | [WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes](https://arxiv.org/abs/2605.15843) | arXiv | [project](https://sjtu-deepvisionlab.github.io/WorldAct/) |
+| 2026-05-14 | Native 3D Editing, Scene-Level, VGGT Residual Field | Peking University | [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186) | arXiv | [project](https://chriszkxxx.github.io/VGGT-Edit/) |
+| 2026-04-21 | 3DGS Editing, Scene-Level, Sparse-View | Authors | [FluSplat: Sparse-View 3D Editing without Test-Time Optimization](https://arxiv.org/abs/2604.20038) | arXiv | [paper](https://arxiv.org/abs/2604.20038) |
+| 2026-01-12 | 3DGS Editing, Scene-Level, Drag Control | UIUC | [3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing](https://arxiv.org/abs/2601.07963) | ICLR 2025 | [github](https://github.com/Dongjiahua/3DGS-Drag) |
+| 2025-12-31 | Feed-Forward Editing, Scene-Level, Sparse Unposed Images | Authors | [Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071) | arXiv | [project](https://edit3r.github.io/edit3r/) |
+| 2025-08-20 | 3DGS Editing, Scene-Level, Sparse Inputs | Authors | [Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](https://arxiv.org/abs/2508.14811) | arXiv | [project](https://aim-uofa.github.io/Tinker) |
+| 2025-06-03 | Autoregressive Editing, Scene-Level, Indoor Scenes | Stanford University | [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](https://arxiv.org/abs/2506.02459) | arXiv | [paper](https://arxiv.org/abs/2506.02459) |
+| 2024-12-16 | 3DGS Editing, Scene-Level, View-Consistent Fusion | Authors | [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](https://arxiv.org/abs/2412.11520) | CVPR 2025 | [paper](https://arxiv.org/abs/2412.11520) |
+| 2024-12-02 | 3DGS Editing, Scene-Level, Direct Manipulation | Authors | [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583) | WACV 2026 | [project](https://ziyangyan.github.io/3DSceneEditor/) |
+| 2024-11-07 | 3DGS Editing, Scene-Level, Progressive Localization | Authors | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](https://arxiv.org/abs/2411.05006) | NeurIPS 2024 | [project](https://immortalco.github.io/ProEdit/) |
+| 2024-03-13 | 3DGS Editing, Scene-Level, Multi-View Consistency | Authors | [GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing](https://arxiv.org/abs/2403.08733) | ECCV 2024 | [paper](https://arxiv.org/abs/2403.08733) |
+| 2023-12-14 | Latent Editing, Scene-Level, Local Text Edits | Authors | [LatentEditor: Text Driven Local Editing of 3D Scenes](https://arxiv.org/abs/2312.09313) | ECCV 2024 | [project](https://latenteditor.github.io/) |
+| 2023-11-24 | 3DGS Editing, Scene-Level, Text Prompt | National University of Singapore | [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | CVPR 2024 | [project](https://buaacyw.github.io/gaussian-editor/) |
+| 2023-03-22 | NeRF Editing, Scene-Level, Instruction | UC Berkeley | [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) | ICCV 2023 | [project](https://instruct-nerf2nerf.github.io/) |
+
+#### 4.4.3 Dynamic & 4D Editing
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-03-13 | 4D Editing, Dynamic Scene, Dynamic Propagation | Authors | [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | arXiv | [project](https://junliao2025.github.io/Catalyst4D-ProjectPage/) |
+| 2025-10-02 | 4DGS Editing, Dynamic Scene, Interactive Editing | Authors | [4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing](https://arxiv.org/abs/2510.01991) | arXiv | [paper](https://arxiv.org/abs/2510.01991) |
+| 2025-02-04 | 4DGS Editing, Dynamic Scene, Static-Dynamic Separation | Authors | [Instruct-4DGS: Efficient Dynamic Scene Editing via 4D Gaussian-based Static-Dynamic Separation](https://arxiv.org/abs/2502.02091) | arXiv | [paper](https://arxiv.org/abs/2502.02091) |
+| 2024-12-02 | Dynamic Editing, Dynamic Scene, Personalized Diffusion | Authors | [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | CVPR 2025 | [project](https://ihe-kaii.github.io/CTRL-D/) |
+| 2024-06-13 | 4D Editing, Dynamic Scene, Pseudo-3D Diffusion | Authors | [Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion](https://arxiv.org/abs/2406.09402) | CVPR 2024 | [paper](https://arxiv.org/abs/2406.09402) |
+| 2023-10-25 | NeRF Editing, Dynamic Scene, 4D Semantic Distillation | Authors | [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via Semantic Distillation](https://arxiv.org/abs/2310.16858) | 3DV 2025 | [project](https://patrickddj.github.io/4D-Editor/) |
+| 2023-05-31 | 4D Editing, Dynamic Portrait, Text-Guided | Authors | [Control4D: Efficient 4D Portrait Editing with Text](https://arxiv.org/abs/2305.20082) | arXiv | [project](https://control4darxiv.github.io/) |
 
 <h2 id="-5-embodiment--world-models">🌐 5. Embodiment & World Models</h2>
 
@@ -1043,6 +1089,9 @@ This repository is inspired by and complementary to:
 - [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation)
 - [Awesome-3D-Generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation)
 - [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion)
+- [awesome-3D-4D-Editing](https://github.com/2hiTee/awesome-3D-4D-Editing)
+- [Awesome-3DGS-Applications](https://github.com/heshuting555/Awesome-3DGS-Applications)
+- [awesome-nerf-editing](https://github.com/EricLee0224/awesome-nerf-editing)
 - [Awesome-UMI](https://github.com/chang-xinhai/Awesome-UMI)
 - [Awesome-Dexterous-Manipulation](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
 
