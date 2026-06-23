@@ -649,6 +649,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-08 | Satellite-to-3D, 3DGS, UAV Simulation | Amap-cvlab / Alibaba | [ABot-Earth 0.5: Generative 3D Earth Model](https://arxiv.org/abs/2606.09967) | arXiv | [project](https://abot-earth.amap.com/) |
 | 2026-06-04 | Whole-Home Scenes, Floorplans, Interactive | Authors | [HomeWorld: A Unified Floorplan-to-Furnished Framework for Generating Controllable, Densely Interactive Whole-Home Scenes](https://arxiv.org/abs/2606.06390) | arXiv | [paper](https://arxiv.org/abs/2606.06390) |
 | 2026-05-28 | Physical Stability, Single Image, Scene Tree, Simulation | Carnegie Mellon University | [REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image](https://arxiv.org/abs/2605.30338) | arXiv | [project](https://rest3d.org/) |
 | 2026-05-01 | Segment Map, Text-to-World, Controllable 3D Worlds | Seoul National University | [Map2World: Segment Map Conditioned Text to 3D World Generation](https://arxiv.org/abs/2605.00781) | arXiv | [paper](https://arxiv.org/abs/2605.00781) |
@@ -831,6 +832,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-16 | Asset Annotation, Affordance, Physics Labels | Northwestern University | [AnnotateAnything: Automatic Annotation of 3D Assets for Robot Manipulation](https://arxiv.org/abs/2606.17446) | arXiv | [project](https://tourmaline-caramel-169490.netlify.app/) |
 | 2024-11-20 | Open-Vocabulary, Task-Oriented Grasp, LLM | CMU | [GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping](https://arxiv.org/abs/2411.12286) | CoRL 2024 | [project](https://glover-grasp.github.io/) |
 | 2024-10-30 | Generative Dexterous Grasping, Large-Scale, CoRL | PKU / Galbot | [DexGraspNet 2.0: Learning Generative Dexterous Grasping in Cluttered Scenes](https://arxiv.org/abs/2410.23004) | CoRL 2024 | [project](https://pku-epic.github.io/DexGraspNet2.0/) |
 | 2024-10-15 | SE(3)-Equivariant, 6-DoF Grasp, Flow | Seoul Nat'l Univ | [EquiGraspFlow: SE(3)-Equivariant 6-DoF Grasp Pose Generative Flows](https://arxiv.org/abs/2407.08216) | CoRL 2024 | [project](https://equigraspflow.github.io/) |
@@ -895,7 +897,9 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-16 | 3DGS Simulation Environments, Inpainting, Sim-to-Real | Shanghai Jiao Tong University | [GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments](https://arxiv.org/abs/2606.17520) | arXiv | [project](https://jar7visz.github.io/gase-page/) |
 | 2026-06-05 | Quadruped Simulation, 3DGS Scenes, Contact Calibration | Authors | [QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation](https://arxiv.org/abs/2606.07118) | arXiv | [paper](https://arxiv.org/abs/2606.07118) |
+| 2026-06-03 | Humanoid Loco-Manipulation, 3D Assets, Video Priors | NVIDIA | [GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160) | arXiv | [project](https://research.nvidia.com/labs/dair/grail/) / [github](https://github.com/NVlabs/GRAIL) |
 | 2026-06-02 | Semantic Reconstruction, LLM Planning, Simulation | Mila / Université de Montréal | [PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification](https://arxiv.org/abs/2606.04226) | ICRA 2026 | [project](https://percept-twin.github.io/) |
 | 2026-04-20 | Driving Logs, Sparse Views, Simulation-Ready AV Assets | NVIDIA | [Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation](https://arxiv.org/abs/2604.18468) | NVIDIA White Paper | [project](https://research.nvidia.com/labs/sil/projects/asset-harvester/) / [github](https://github.com/NVlabs/asset-harvester) |
 | 2026-03-05 | 3DGS, Digital Twin, PBD, Robotics | TU Darmstadt | [GaussTwin: Unified Simulation and Correction with Gaussian Splatting for Robotic Digital Twins](https://arxiv.org/abs/2603.05108) | ICRA 2026 | [project](https://6cyc6.github.io/gstwin/) |
@@ -1049,6 +1053,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-09 | World Model Evaluation, 3D Consistency, Interaction | Zhejiang University | [WorldOlympiad: Can Your World Model Survive a Triathlon?](https://arxiv.org/abs/2606.11129) | arXiv | [project](https://alibaba-damo-academy.github.io/WorldOlympiad) / [github](https://github.com/alibaba-damo-academy/WorldOlympiad) |
 | 2026-02-03 | 3D Assets, Evaluation, Hunyuan3D, Benchmark | Tencent Hunyuan | [HY3D-Bench: Generation of 3D Assets](https://arxiv.org/abs/2602.03907) | arXiv | [paper](https://arxiv.org/abs/2602.03907) |
 | 2025-06-22 | Bimanual Manipulation, Sim2Real, Benchmark | Shanghai Jiao Tong University | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization](https://arxiv.org/abs/2506.18088) | arXiv | [project](https://robotwin-platform.github.io/) / [github](https://github.com/RoboTwin-Platform/RoboTwin) |
 | 2025-04-25 | 3D Generation, Fine-Grained Evaluation, Asset Quality | MIT | [Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation](https://arxiv.org/abs/2504.18509) | CVPR 2025 | [project](https://eval3d.github.io/) / [github](https://github.com/eval3d/eval3d-codebase) |
