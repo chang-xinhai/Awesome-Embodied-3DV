@@ -149,6 +149,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-23 | Open-Vocabulary BEV, 3DGS, Geometric Constraints | KAIST AI | [Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints](https://arxiv.org/abs/2606.24353) | ECCV 2026 | [paper](https://arxiv.org/abs/2606.24353) |
 | 2026-06-04 | Open-Vocabulary, Functionality Segmentation, Robotics | Authors | [T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation](https://arxiv.org/abs/2606.05975) | arXiv | [paper](https://arxiv.org/abs/2606.05975) |
 | 2026-05-07 | Open-Vocabulary, Gaussian Feature Field, Codebook | TU Munich / Google | [OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention](https://arxiv.org/abs/2605.06088) | arXiv | [paper](https://arxiv.org/abs/2605.06088) |
 | 2026-01-01 | Open-Vocabulary, SAM3, Promptable, DETR | Meta | [SAM 3: Segment Anything with Concepts](https://github.com/facebookresearch/sam3) | ICLR 2026 | [github](https://github.com/facebookresearch/sam3) |
@@ -355,6 +356,7 @@ This section focuses on the mathematical and data-structure layer used to repres
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-22 | Dynamic 3DGS, Visibility-Aware Densification, Temporal Lifespan | Indian Institute of Science | [Temporally Aware Densification for Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2606.23212) | arXiv | [paper](https://arxiv.org/abs/2606.23212) |
 | 2025-07 | 7DGS, Spatial-Temporal-Angular, Unified | Authors | [7D Gaussian Splatting: Unified Spatial-Temporal-Angular GS](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_7DGS_A_Unified_Spatial-Temporal-Angular_Gaussian_Splatting_Framework_for_Arbitrary-Scale_ICCV_2025_paper.html) | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_7DGS_A_Unified_Spatial-Temporal-Angular_Gaussian_Splatting_Framework_for_Arbitrary-Scale_ICCV_2025_paper.html) |
 | 2024-10 | Event Camera, High-Speed, 4D, STD-GS | Authors | [STD-GS: SpatioTemporal-Disentangled Gaussian Splatting with Event Cameras](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_STD-GS_SpatioTemporal-Disentangled_Gaussian_Splatting_for_High-Speed_Dynamic_3D_Reconstruction_ICCV_2025_paper.html) | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_STD-GS_SpatioTemporal-Disentangled_Gaussian_Splatting_for_High-Speed_Dynamic_3D_Reconstruction_ICCV_2025_paper.html) |
 | 2023-11-30 | 4DGS, Dynamic Scenes, Real-Time Rendering | Zhejiang University | [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://arxiv.org/abs/2310.08528) | CVPR 2024 | [project](https://guanjunwu.github.io/4dgs/) |
@@ -837,7 +839,9 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-06-23 | Navigation World Model, Visual Foresight, Planning | CASIA | [NavWM: A Unified Navigation World Model for Foresight-Driven Planning](https://arxiv.org/abs/2606.24101) | ECCV 2026 | [paper](https://arxiv.org/abs/2606.24101) |
+| 2026-06-23 | Locomotion World Model, Terrain Geometry, Sim-to-Real | Beijing Institute of Technology | [DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs](https://arxiv.org/abs/2606.24089) | IROS 2026 | [paper](https://arxiv.org/abs/2606.24089) |
 | 2026-06-22 | Interactive World Model, URDF Kinematics, Policy Evaluation | Beijing Innovation Center of Humanoid Robotics | [IOI: Decoupling Kinematics and Physics for Interactive World Models](https://arxiv.org/abs/2606.23296) | arXiv | [paper](https://arxiv.org/abs/2606.23296) |
+| 2026-06-22 | Quadrotor World Model, Long-Horizon Dynamics, Sim-to-Real | Authors | [SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors](https://arxiv.org/abs/2606.23444) | arXiv | [paper](https://arxiv.org/abs/2606.23444) |
 | 2026-06-01 | Object-Centric 3DGS, Action-Conditional, Rigid Objects | Authors | [Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects](https://arxiv.org/abs/2606.01950) | arXiv | [paper](https://arxiv.org/abs/2606.01950) |
 | 2026-04-29 | X-WAM, 4D World Action Model, RGB-D Future | Tsinghua | [Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising](https://arxiv.org/abs/2604.26694) | arXiv | [project](https://sharinka0715.github.io/X-WAM/) |
 | 2026-03-17 | 4D Simulator, URDF, Kinematic Action | Nanyang Technological University | [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://arxiv.org/abs/2603.16669) | arXiv | [project](https://mutianxu.github.io/Kinema4D/) |
@@ -858,6 +862,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-23 | Tactile Exploration, Object Localization, Shape Completion | Amazon Robotics | [TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments](https://arxiv.org/abs/2606.24712) | IROS 2026 | [paper](https://arxiv.org/abs/2606.24712) |
 | 2026-06-16 | Asset Annotation, Affordance, Physics Labels | Northwestern University | [AnnotateAnything: Automatic Annotation of 3D Assets for Robot Manipulation](https://arxiv.org/abs/2606.17446) | arXiv | [project](https://tourmaline-caramel-169490.netlify.app/) |
 | 2024-11-20 | Open-Vocabulary, Task-Oriented Grasp, LLM | CMU | [GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping](https://arxiv.org/abs/2411.12286) | CoRL 2024 | [project](https://glover-grasp.github.io/) |
 | 2024-10-30 | Generative Dexterous Grasping, Large-Scale, CoRL | PKU / Galbot | [DexGraspNet 2.0: Learning Generative Dexterous Grasping in Cluttered Scenes](https://arxiv.org/abs/2410.23004) | CoRL 2024 | [project](https://pku-epic.github.io/DexGraspNet2.0/) |
@@ -926,6 +931,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-06-23 | Synthetic Robot Video, Geometry-Guided VLA, Waypoints | National University of Singapore | [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448) | arXiv | [paper](https://arxiv.org/abs/2606.24448) |
 | 2026-06-23 | Articulated Digital Twin, URDF, Isaac Sim | ETH Zurich | [ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D Videos](https://arxiv.org/abs/2606.24628) | ICRA 2026 Workshop | [paper](https://arxiv.org/abs/2606.24628) |
+| 2026-06-23 | Cloth Manipulation, Real-to-Sim, Simulator-in-the-Loop | National University of Singapore | [Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement](https://arxiv.org/abs/2606.24552) | arXiv | [project](https://silr-cloth.github.io/) |
+| 2026-06-20 | World-Model Data, Dexterous VLA, 50K Episodes | Shanghai Innovation Institute | [Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data](https://arxiv.org/abs/2606.22136) | arXiv | [project](https://chenyt31.github.io/wh0.github.io/) |
 | 2026-06-19 | 3DGS Assets, Heterogeneous Physics, Scene-Level Simulation | The University of Hong Kong | [Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats](https://arxiv.org/abs/2606.21753) | arXiv | [project](https://visual-ai.github.io/raf/) |
 | 2026-06-18 | Multi-View Object Swapping, 6D Pose, VLA Augmentation | KAIST | [Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation](https://arxiv.org/abs/2606.20118) | arXiv | [paper](https://arxiv.org/abs/2606.20118) |
 | 2026-06-17 | Fisheye 3DGS, Action-View Augmentation, Manipulation Data | Stanford | [One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies](https://arxiv.org/abs/2606.19586) | CoRL 2025 | [project](https://chuerpan.com/1001-demos.github.io/) |
@@ -1070,6 +1077,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-06-23 | Garments, Sewing Patterns, 300K, Simulation | University of Hong Kong | [PatternGSLData](https://arxiv.org/abs/2606.24564) | Dataset | [github](https://github.com/PatternGSL/PatternGSL) |
+| 2026-06-22 | 4D Humans, Volumetric Meshes, 104 Subjects | Authors | [VolHuMe: a High-Resolution Large Scale Dataset of Volumetric Human Meshes](https://arxiv.org/abs/2606.23062) | Dataset | [paper](https://arxiv.org/abs/2606.23062) |
 | 2025-02-17 | Articulation, 33K Models, Objaverse-XL | Nanyang Technological University | [Articulation-XL](https://chaoyuesong.github.io/MagicArticulate) | Dataset | [paper](https://arxiv.org/abs/2502.12135) / [github](https://github.com/Seed3D/MagicArticulate) |
 | 2023-03-08 | Articulated Objects, Mobility, Simulation | UC San Diego | [PartNet-Mobility](https://sapien.ucsd.edu/browse) | Dataset | [dataset](https://sapien.ucsd.edu/browse) |
 | 2022-02-07 | Articulated Objects, Manipulation, Interactive | Stanford | [BEHAVIOR-1K](https://behavior.stanford.edu/) | CoRL 2022 | [dataset](https://behavior.stanford.edu/) |
@@ -1116,6 +1124,8 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-06-22 | UE5 Simulator, Multi-Robot SLAM, UAV+UGV | Georgia Tech | [HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration](https://arxiv.org/abs/2606.22756) | arXiv | [project](https://lunarlab-gatech.github.io/HERCULES-website/) |
+| 2026-06-21 | Tactile Simulation, Dexterous Hands, 20K Envs | Authors | [Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332) | arXiv | [project](https://neuroagents-lab.github.io/2026-tactile-genesis/) |
+| 2026-06-20 | Deformable Linear Objects, Isaac Sim, Cosserat Rods | Carnegie Mellon University | [DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects](https://arxiv.org/abs/2606.22116) | IROS 2026 | [project](https://deformx.github.io/) |
 | 2024-05-20 | Robot Learning, Simulation, Isaac Lab | NVIDIA | [Isaac Lab](https://isaac-sim.github.io/IsaacLab/) | GitHub | [github](https://github.com/isaac-sim/IsaacLab) |
 | 2023-10-26 | Simulation, Asset Generation, Manipulation | NVIDIA | [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://arxiv.org/abs/2310.17596) | CoRL 2023 | [github](https://github.com/NVlabs/mimicgen_environments) |
 | 2023-07 | 3D Data Processing, Point Cloud, Mesh, ICP, Registration | Intel Labs | [Open3D: A Modern Library for 3D Data Processing](https://www.open3d.org/) | arXiv 2018 | [github](https://github.com/isl-org/Open3D) |
