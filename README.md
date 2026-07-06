@@ -271,6 +271,10 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-02 | Dynamic Gaussian SLAM, Dual-Level Probability, Semantic Map | Authors | [DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability](https://arxiv.org/abs/2607.01860) | arXiv | [paper](https://arxiv.org/abs/2607.01860) |
+| 2026-06-29 | Task-Conditioned 3DGS, Real-Time Mapping, Multi-Agent Fusion | MIT | [GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping](https://arxiv.org/abs/2606.30809) | arXiv | [paper](https://arxiv.org/abs/2606.30809) |
+| 2026-06-29 | RGB-Only Gaussian SLAM, Closed-Loop Geometry, Scale Feedback | CAS / USTC | [MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM](https://arxiv.org/abs/2606.29738) | IROS 2026 | [paper](https://arxiv.org/abs/2606.29738) |
+| 2026-06-27 | Object-Centric 3DGS, Lifelong Mapping, Dynamic Maintenance | Beijing Institute of Technology | [CubifyGS: Object-Centric 3D Gaussian Splatting for Lifelong Dynamic Scene Maintenance](https://arxiv.org/abs/2606.28720) | IROS 2026 | [paper](https://arxiv.org/abs/2606.28720) |
 | 2025-07 | 4DGS SLAM, Dynamic/Static, Tracking | Authors | [4D Gaussian Splatting SLAM](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_4D_Gaussian_Splatting_SLAM_ICCV_2025_paper.html) | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_4D_Gaussian_Splatting_SLAM_ICCV_2025_paper.html) |
 | 2025-07 | Dynamic Surface, Non-Rigid, 4D Tracking | Imperial College | [4DTAM: Dynamic Surface Gaussian SLAM](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_4DTAM_Non-Rigid_Tracking_and_Mapping_with_Dynamic_Surface_Gaussians_CVPR_2025_paper.html) | CVPR 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_4DTAM_Non-Rigid_Tracking_and_Mapping_with_Dynamic_Surface_Gaussians_CVPR_2025_paper.html) |
 | 2025-06-18 | Gaussian SLAM, Dynamic Environments, Monocular | Stanford / ETH | [WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/abs/2501.15038) | CVPR 2025 | [project](https://wildgs-slam.github.io/) |
@@ -841,6 +845,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-01 | Physically Viable World Model, 3DGS, Path Planning | UT Austin | [Path Planning in Physically Viable World Models](https://arxiv.org/abs/2607.00673) | arXiv | [paper](https://arxiv.org/abs/2607.00673) |
 | 2026-06-11 | Panoramic Gaussian Scaffold, Real-Time World Model | Authors | [MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold](https://arxiv.org/abs/2606.13376) | arXiv | [paper](https://arxiv.org/abs/2606.13376) |
 | 2026-06-05 | Egocentric Simulation, View Evolution, Human Motion | Authors | [AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization](https://arxiv.org/abs/2606.07326) | arXiv | [paper](https://arxiv.org/abs/2606.07326) |
 | 2026-05-12 | Belief, 3D World, Uncertainty | Johns Hopkins University | [3D-Belief: Embodied Belief Inference via Generative 3D World Modeling](https://arxiv.org/abs/2605.11367) | arXiv | [paper](https://arxiv.org/abs/2605.11367) |
@@ -866,6 +871,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-02 | Physics-Principled 3DGS, Dynamic Manipulation, Benchmark | Authors | [PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation](https://arxiv.org/abs/2607.01938) | ECCV 2026 | [paper](https://arxiv.org/abs/2607.01938) |
 | 2026-06-23 | Navigation World Model, Visual Foresight, Planning | CASIA | [NavWM: A Unified Navigation World Model for Foresight-Driven Planning](https://arxiv.org/abs/2606.24101) | ECCV 2026 | [paper](https://arxiv.org/abs/2606.24101) |
 | 2026-06-23 | Locomotion World Model, Terrain Geometry, Sim-to-Real | Beijing Institute of Technology | [DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs](https://arxiv.org/abs/2606.24089) | IROS 2026 | [paper](https://arxiv.org/abs/2606.24089) |
 | 2026-06-22 | Interactive World Model, URDF Kinematics, Policy Evaluation | Beijing Innovation Center of Humanoid Robotics | [IOI: Decoupling Kinematics and Physics for Interactive World Models](https://arxiv.org/abs/2606.23296) | arXiv | [paper](https://arxiv.org/abs/2606.23296) |
@@ -957,6 +963,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-06-29 | Humanoid Loco-Manipulation, Synthetic Interactions, Reconstructed Scenes | Amazon FAR | [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645) | arXiv | [project](https://vision-language-kinematics.github.io/) |
 | 2026-06-23 | Synthetic Robot Video, Geometry-Guided VLA, Waypoints | National University of Singapore | [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448) | arXiv | [paper](https://arxiv.org/abs/2606.24448) |
 | 2026-06-23 | Articulated Digital Twin, URDF, Isaac Sim | ETH Zurich | [ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D Videos](https://arxiv.org/abs/2606.24628) | ICRA 2026 Workshop | [paper](https://arxiv.org/abs/2606.24628) |
 | 2026-06-23 | Cloth Manipulation, Real-to-Sim, Simulator-in-the-Loop | National University of Singapore | [Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement](https://arxiv.org/abs/2606.24552) | arXiv | [project](https://silr-cloth.github.io/) |
