@@ -271,6 +271,8 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-08 | Geometry-Only 3DGS, Dense Monocular SLAM | Beihang University | [GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452) | arXiv | [paper](https://arxiv.org/abs/2607.07452) |
+| 2026-07-05 | LiDAR 3DGS SLAM, Geometry-Aware Covariance, Real-Time | Authors | [Real-Time LiDAR Gaussian Splatting SLAM via Geometry-Aware Covariance Coupling](https://arxiv.org/abs/2607.04127) | arXiv | [github](https://github.com/Lab-of-AI-and-Robotics/LiDAR-GS-SLAM) |
 | 2026-07-02 | Dynamic Gaussian SLAM, Dual-Level Probability, Semantic Map | Authors | [DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability](https://arxiv.org/abs/2607.01860) | arXiv | [paper](https://arxiv.org/abs/2607.01860) |
 | 2026-06-29 | Task-Conditioned 3DGS, Real-Time Mapping, Multi-Agent Fusion | MIT | [GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping](https://arxiv.org/abs/2606.30809) | arXiv | [paper](https://arxiv.org/abs/2606.30809) |
 | 2026-06-29 | RGB-Only Gaussian SLAM, Closed-Loop Geometry, Scale Feedback | CAS / USTC | [MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM](https://arxiv.org/abs/2606.29738) | IROS 2026 | [paper](https://arxiv.org/abs/2606.29738) |
@@ -411,6 +413,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-08 | Feed-Forward 3D, Unposed Images, Drift-Robust | Authors | [NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2607.07168) | ECCV 2026 | [paper](https://arxiv.org/abs/2607.07168) |
 | 2026-06-09 | RGB-T, Thermal Geometry, Low-Light | University of Minnesota | [DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax](https://arxiv.org/abs/2606.11326) | arXiv | [project](https://darkvggt.github.io/) |
 | 2026-06-02 | Single Image, Physics-in-the-Loop, Simulation-Ready | Seoul National University | [SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2606.03994) | arXiv | [project](https://snuvclab.github.io/SimuScene/) |
 | 2026-05-14 | VGGT, Scaling, Static+Dynamic | University of Oxford | [VGGT-Omega: Scaling VGGT to Large-Scale 3D Reconstruction](https://arxiv.org/abs/2605.15195) | CVPR 2026 Oral | [project](https://vggt-omega.github.io/) / [github](https://github.com/facebookresearch/vggt-omega) / [demo](https://huggingface.co/spaces/facebook/vggt-omega) / [model](https://huggingface.co/facebook/vggt-omega) |
@@ -478,6 +481,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-01 | Dynamic Gaussian Reconstruction, Monocular Video, Generative | Stanford University | [World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video](https://arxiv.org/abs/2607.01202) | arXiv | [project](https://research.nvidia.com/labs/amri/projects/world-from-motion/) |
 | 2026-06-23 | Articulated Digital Twin, RGB-D, URDF Export | ETH Zurich | [ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D Videos](https://arxiv.org/abs/2606.24628) | ICRA 2026 Workshop | [paper](https://arxiv.org/abs/2606.24628) |
 | 2026-06-22 | Monocular Video, 4DGS, In-the-Wild Non-Rigid | Carnegie Mellon University | [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688) | arXiv | [project](https://lift4d.github.io/) |
 | 2026-06-22 | Dynamic Driving, Sparse Voxels, LiDAR-Guided | Huawei Paris Research Center | [DrivingVoxels: Compositional Sparse Voxel Rasterization for Dynamic Driving Scene Reconstruction](https://arxiv.org/abs/2606.23031) | arXiv | [paper](https://arxiv.org/abs/2606.23031) |
@@ -680,6 +684,8 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-07 | Real-to-Sim, One-Shot Scene Generation, Robot Evaluation | Shanghai AI Lab | [RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699) | arXiv | [project](https://robosnap.github.io/) |
+| 2026-07-04 | Egocentric Scene Generation, Geometric 3DGS, Consistency | South China Univ. of Technology | [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://arxiv.org/abs/2607.03819) | arXiv | [paper](https://arxiv.org/abs/2607.03819) |
 | 2026-06-23 | Triangle Splatting, Single-Image Scene, Game-Ready | Google Research | [FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation](https://arxiv.org/abs/2606.24876) | arXiv | [project](https://flat-splat.github.io/) |
 | 2026-06-23 | Text-to-Scene, Video Priors, 3DGS Orbit | University of Bern | [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](https://arxiv.org/abs/2606.24799) | arXiv | [paper](https://arxiv.org/abs/2606.24799) |
 | 2026-06-23 | Compositional 3D, Physical Interaction, Multi-View Consistency | China University of Petroleum (East China) | [Inclusive Interactive Collisions for Multi-View Consistent Compositional 3D Generation](https://arxiv.org/abs/2606.24206) | arXiv | [paper](https://arxiv.org/abs/2606.24206) |
