@@ -40,6 +40,7 @@ Start here if you want the shortest path through the field.
 
 | Goal | Start with |
 | :-- | :-- |
+| Estimate temporally consistent video depth | [ICDepth](https://xuanhuahe.github.io/ICDepth/), [ViGeo](https://pkqbajng.github.io/ViGeo/), [DVD](https://dvd-project.github.io/), [RollingDepth](https://rollingdepth.github.io/) |
 | Understand feed-forward 3D reconstruction | [Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](https://arxiv.org/abs/2507.14501), [DUSt3R](https://arxiv.org/abs/2312.14132), [MASt3R](https://arxiv.org/abs/2406.09756), [VGGT](https://vgg-t.github.io/) |
 | Track online / streaming 3D reconstruction | [Dynamic 3D Gaussians](https://dynamic3dgaussians.github.io/), [CUT3R](https://arxiv.org/abs/2501.12387), [Spann3R](https://arxiv.org/abs/2408.16061), [SLAM3R](https://arxiv.org/abs/2412.09401) |
 | Study dynamic 4D feed-forward geometry | [PAGE-4D](https://page4d.github.io/), [4D-VGGT](https://arxiv.org/abs/2511.18416), [DynamicVGGT](https://arxiv.org/abs/2603.08254) |
@@ -127,7 +128,21 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2021-03 | ViT, Dense Prediction, Foundation, Depth | Intel Labs | [DPT: Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413) | ICCV 2021 | [github](https://github.com/isl-org/DPT) |
 | 2019-07 | Robust Depth, Zero-Shot, Cross-Dataset, MiDaS | Intel Labs | [MiDaS: Towards Robust Monocular Depth Estimation](https://arxiv.org/abs/1907.01341) | TPAMI 2022 | [github](https://github.com/isl-org/MiDaS) |
 
-#### 1.1.2 Geometric Consistency Prior
+#### 1.1.2 Temporally Consistent Video Depth
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-02 | Video Diffusion, In-Context Conditioning, Zero-Shot | HKUST | [ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning](https://arxiv.org/abs/2607.01677) | ECCV 2026 | [project](https://xuanhuahe.github.io/ICDepth/) |
+| 2026-05-28 | Streaming Geometry, Dynamic Chunking, Depth+Normals | Zhejiang University | [Towards Consistent Video Geometry Estimation](https://arxiv.org/abs/2605.30060) | arXiv | [project](https://pkqbajng.github.io/ViGeo/) |
+| 2026-05-11 | Camera Motion, 3D Consistency, Geometry Embedding | HUST | [GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](https://arxiv.org/abs/2605.10525) | arXiv | [github](https://github.com/Yuecheng919/GemDepth) |
+| 2026-04-08 | Post-Processing, Scalable, Single-Image Backbone | Seoul National University | [VDPP: Video Depth Post-Processing for Speed and Scalability](https://arxiv.org/abs/2604.06665) | CVPR 2026 ECV Workshop | [paper](https://arxiv.org/abs/2604.06665) |
+| 2026-03-12 | Deterministic Diffusion, Generative Prior, Long Video | HKUST(GZ) | [DVD: Deterministic Video Depth Estimation with Generative Priors](https://arxiv.org/abs/2603.12250) | arXiv | [project](https://dvd-project.github.io/) |
+| 2026-01-06 | Temporal Stability, Monocular Video, Long Sequence | ETH Zurich | [StableDPT: Temporal Stable Monocular Video Depth Estimation](https://arxiv.org/abs/2601.02793) | arXiv | [paper](https://arxiv.org/abs/2601.02793) |
+| 2025-10-10 | Online Inference, Low Memory, Temporal Consistency | Heidelberg University | [Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption](https://arxiv.org/abs/2510.09182) | arXiv | [paper](https://arxiv.org/abs/2510.09182) |
+| 2025-07-02 | Diffusion Guidance, Scale Synchronization, Geometry Consistency | Tsinghua University | [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/abs/2507.01603) | ICCV 2025 | [project](https://yuejiangdong.github.io/depthsync) |
+| 2024-11-28 | Long Video, Diffusion, Multi-Resolution Alignment | ETH Zurich | [Video Depth without Video Models](https://arxiv.org/abs/2411.19189) | CVPR 2025 | [project](https://rollingdepth.github.io/) |
+
+#### 1.1.3 Geometric Consistency Prior
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
@@ -235,13 +250,20 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 ### 1.3 Active Imaging & Sensors
 
-#### 1.3.1 Structured Light & Neural Decoding
+#### 1.3.1 Structured Light & Active Stereo
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
-| 2024-08-05 | Structured Light, Single-Shot, Neural Decoding | ShanghaiTech | [Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding](https://arxiv.org/abs/2512.14028) | arXiv | [paper](https://arxiv.org/abs/2512.14028) |
-| 2024-04-29 | Event Camera, Active Stereo, Depth | Tsinghua | [Event-Based Structured Light for Depth Reconstruction](https://arxiv.org/abs/1811.10771) | IJCAS 2024 | [paper](https://arxiv.org/abs/1811.10771) |
+| 2026-05-07 | Adaptive 4D Illumination, Shape+Reflectance, Differentiable Capture | Zhejiang University | [Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance](https://arxiv.org/abs/2605.06214) | CVPR 2026 | [paper](https://arxiv.org/abs/2605.06214) |
+| 2026-02-05 | Latent Diffusion, Fringe Projection, Reflective Objects | Yonsei University | [LD-SLRO: Latent Diffusion Structured Light for 3-D Reconstruction of Highly Reflective Objects](https://arxiv.org/abs/2602.05434) | arXiv | [paper](https://arxiv.org/abs/2602.05434) |
+| 2025-12-16 | Single-Shot, Neural Feature Decoding, Robust Correspondence | Peking University | [Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding](https://arxiv.org/abs/2512.14028) | SIGGRAPH Asia 2025 | [project](https://namisntimpot.github.io/NSLweb/) |
+| 2025-03-08 | Active Stereo, Phase Speckle, Cross-Scene Generalization | Southwest Jiaotong University | [RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization](https://arxiv.org/abs/2503.06125) | arXiv | [paper](https://arxiv.org/abs/2503.06125) |
+| 2025-01-13 | Matching-Free, Volume Rendering, Monocular Structured Light | USTC | [Matching-Free Depth Recovery from Structured Light](https://arxiv.org/abs/2501.07113) | arXiv | [paper](https://arxiv.org/abs/2501.07113) |
+| 2024-10-20 | Neural SDF, One-Shot Scan, Low-Light/Underwater | Kyushu University | [ActiveNeuS: Neural Signed Distance Fields for Active Stereo](https://arxiv.org/abs/2410.15376) | 3DV 2024 | [paper](https://arxiv.org/abs/2410.15376) |
+| 2024-06-06 | Virtual Pattern Projection, Depth Fusion, In-the-Wild Stereo | University of Bologna | [Active Stereo in the Wild through Virtual Pattern Projection](https://arxiv.org/abs/2406.04345) | arXiv | [github](https://github.com/bartn8/vppstereo) |
+| 2024-06 | Neural Inverse, Dense Depth, 3-4 Patterns | University of Toronto | [TurboSL: Dense, Accurate and Fast 3D by Neural Inverse Structured Light](https://openaccess.thecvf.com/content/CVPR2024/html/Mirdehghan_TurboSL_Dense_Accurate_and_Fast_3D_by_Neural_Inverse_Structured_CVPR_2024_paper.html) | CVPR 2024 | [project](https://www.dgp.toronto.edu/projects/turbosl/) |
 | 2023-06-15 | Structured Light, Phase Unwrapping, Learning | Nanjing University | [Deep Learning-Based Structured Light 3D Imaging: A Survey](https://arxiv.org/abs/2306.10409) | arXiv | [survey](https://arxiv.org/abs/2306.10409) |
+| 2018-11-26 | Event Camera, Active Stereo, Depth | Tsinghua University | [Event-Based Structured Light for Depth Reconstruction](https://arxiv.org/abs/1811.10771) | IJCAS 2024 | [paper](https://arxiv.org/abs/1811.10771) |
 
 #### 1.3.2 Panoramic & Fisheye Perception
 
@@ -254,17 +276,19 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2024-03 | 360 Depth, Bi-Projection, ERP+ICOSAP | HKUST(GZ) | [Elite360D: Efficient 360 Depth Estimation via Bi-Projection Fusion](https://arxiv.org/abs/2403.16376) | CVPR 2024 | [github](https://github.com/haoai-1997/Elite360D) |
 | 2021-09-06 | 360 Depth, Indoor, Panoramic Images | CERTH | [Pano3D: A Holistic Benchmark and a Solid Baseline for 360 Depth Estimation](https://arxiv.org/abs/2109.02749) | CVPRW 2021 | [project](https://vcl3d.github.io/Pano3D/) / [github](https://github.com/VCL3D/Pano3D) |
 
-#### 1.3.3 Neural Structured Light & Event-Based Imaging
+#### 1.3.3 Event-Based & Time-of-Flight Imaging
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-04-02 | Event Stereo, Data Factory, Cross-Modal Distillation | University of Bologna | [EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](https://arxiv.org/abs/2604.02331) | CVPR 2026 | [project](https://bartn8.github.io/eventhub) |
+| 2025-12-20 | Event Camera, Structured Light, Real-Time RGB-D | Polytechnique Montreal | [E-RGB-D: Real-Time Event-Based Perception with Structured Light](https://arxiv.org/abs/2512.18429) | arXiv | [github](https://github.com/MISTLab/event_based_rgbd_ros) |
 | 2025-09-18 | Event Camera, Depth Estimation, Any-to-Any | Shanghai AI Lab | [Depth AnyEvent: Event Camera Based Monocular Depth Estimation via Dense Correspondence Distillation](https://arxiv.org/abs/2509.15224) | arXiv | [paper](https://arxiv.org/abs/2509.15224) |
+| 2025-09-08 | Event Camera, Multispectral, Structured Light | ETH Zurich | [Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light](https://arxiv.org/abs/2509.06741) | arXiv | [paper](https://arxiv.org/abs/2509.06741) |
 | 2025-07 | ToF, Sparse Depth, 3DGS, SLAM | Authors | [ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth](https://openaccess.thecvf.com/content/ICCV2025/html/Conti_ToF-Splatting_Dense_SLAM_using_Sparse_Time-of-Flight_Depth_and_Multi-Frame_Integration_ICCV_2025_paper.html) | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Conti_ToF-Splatting_Dense_SLAM_using_Sparse_Time-of-Flight_Depth_and_Multi-Frame_Integration_ICCV_2025_paper.html) |
 | 2025-05 | Event, Distillation, Confidence-Guided, Pseudo-Labels | NUS | [Distil-E2D: Distilling Image-to-Depth Priors for Event-Based Depth](https://nips.cc/virtual/2025/poster/115168) | NeurIPS 2025 | [paper](https://nips.cc/virtual/2025/poster/115168) |
 | 2025-04 | Event Camera, Ray Density, 3D Conv, Spotlight | TU Berlin | [DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/abs/2504.15863) | NeurIPS 2025 Spotlight | [github](https://github.com/tub-rip/DERD-Net) |
 | 2025-01 | dToF, Video Depth Completion, Frequency Selective | Authors | [SVDC: Consistent Direct Time-of-Flight Video Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SVDC_Consistent_Direct_Time-of-Flight_Video_Depth_Completion_with_Frequency_Selective_CVPR_2025_paper.html) | CVPR 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SVDC_Consistent_Direct_Time-of-Flight_Video_Depth_Completion_with_Frequency_Selective_CVPR_2025_paper.html) |
 | 2024-10 | Event Camera, Pose-Free, Gaussian Splatting, Highlight | Zhejiang Univ | [IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera](https://arxiv.org/abs/2410.08107) | CVPR 2025 Highlight | [github](https://github.com/WU-CVGL/IncEventGS) |
-| 2024-06 | Structured Light, Neural Inverse, 3-4 Patterns | U. Toronto | [TurboSL: Dense, Accurate and Fast 3D by Neural Inverse Structured Light](https://openaccess.thecvf.com/content/CVPR2024/html/Mirdehghan_TurboSL_Dense_Accurate_and_Fast_3D_by_Neural_Inverse_Structured_CVPR_2024_paper.html) | CVPR 2024 | [project](https://www.dgp.toronto.edu/projects/turbosl/) |
 | 2023-08-15 | LiDAR, ZIP Encoding, 3D Reconstruction | Stanford | [LiZIP: Learned LiDAR Compression for Efficient and Effective 3D Reconstruction](https://arxiv.org/abs/2603.23162) | ICCV 2023 | [paper](https://arxiv.org/abs/2603.23162) |
 
 <a id="14-dense-mapping-systems"></a>
