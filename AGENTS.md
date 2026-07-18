@@ -139,6 +139,12 @@ When adding or updating entries, use sources in this order:
 4. high-quality awesome lists named in the README acknowledgements
 5. Google Scholar / Semantic Scholar citation graph around canonical entries
 
+For daily candidate discovery, routinely scan:
+- [jiangranlv/robotics_arXiv_daily](https://github.com/jiangranlv/robotics_arXiv_daily)
+- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+
+Treat these automated feeds only as candidate-discovery and daily-scanning sources, never as final factual evidence. For every candidate, return to arXiv and the official project, code, dataset, conference, or lab page to verify the title, date, venue, institution, links, contribution, and embodied-3DV relevance before adding it.
+
 If multiple sources disagree, prefer the most official public source.
 
 ## Verification rule for new entries
