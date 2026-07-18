@@ -142,8 +142,9 @@ When adding or updating entries, use sources in this order:
 For daily candidate discovery, routinely scan:
 - [jiangranlv/robotics_arXiv_daily](https://github.com/jiangranlv/robotics_arXiv_daily)
 - [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+- [chang-xinhai/AI-Conference-Paper-Lists](https://github.com/chang-xinhai/AI-Conference-Paper-Lists/tree/main/data/normalized), with a full pass over every normalized JSON file for the current and previous publication years rather than title-only spot checks
 
-Treat these automated feeds only as candidate-discovery and daily-scanning sources, never as final factual evidence. For every candidate, return to arXiv and the official project, code, dataset, conference, or lab page to verify the title, date, venue, institution, links, contribution, and embodied-3DV relevance before adding it.
+Treat these automated feeds and normalized conference records only as candidate-discovery and scanning sources, never as final factual evidence. For every candidate, return to arXiv and the official project, code, dataset, conference, or lab page to verify the title, date, venue, institution, links, contribution, and embodied-3DV relevance before adding it.
 
 If multiple sources disagree, prefer the most official public source.
 
