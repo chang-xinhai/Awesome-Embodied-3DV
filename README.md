@@ -161,6 +161,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-28 | Stereo Depth, Walsh-Hadamard Mixing, Efficient Inference | Authors | [WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing](https://arxiv.org/abs/2607.25234) | arXiv | [paper](https://arxiv.org/abs/2607.25234) |
 | 2026-07-22 | Stereo Diffusion Transformer, Flow Matching, Progressive Refinement | Beihang University | [STEREOFLOW: Progressive Stereo Matching with StereoDiT and Transition Flow Matching](https://arxiv.org/abs/2607.19986) | arXiv | [paper](https://arxiv.org/abs/2607.19986) |
 | 2026-07-15 | Vision Features, SE(3) Latent Geometry, Visual Navigation | Google DeepMind | [SeeSE3: Emergence of 3D Space in Vision Features](https://arxiv.org/abs/2607.14228) | arXiv | [paper](https://arxiv.org/abs/2607.14228) |
 | 2026-07-14 | Heterogeneous Cameras, Metric Depth, Real-Time | D-Robotics | [X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras](https://arxiv.org/abs/2607.12993) | arXiv | [project](https://drobotics-xlens.github.io/) / [github](https://github.com/zhouhengamerica/XLens) |
@@ -277,6 +278,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-27 | Neural Structured Light, Metric Depth, Online SLAM | Peking University | [NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction](https://arxiv.org/abs/2607.24495) | ACM MM 2026 | [paper](https://arxiv.org/abs/2607.24495) |
 | 2026-07-20 | Projector-Camera, Feed-Forward 3DGS, Active Illumination | Ningbo University | [FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System](https://arxiv.org/abs/2607.17803) | arXiv | [github](https://github.com/CPREgroup/FF-ProCams) |
 | 2026-06 | Active Stereo, 2DGS Supervision, RealSense Dataset | Hangzhou Dianzi University | [GS-ASM: 2DGS-Supervised Active Stereo Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_GS-ASM_2DGS-Supervised_Active_Stereo_Matching_CVPR_2026_paper.html) | CVPR 2026 | [paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_GS-ASM_2DGS-Supervised_Active_Stereo_Matching_CVPR_2026_paper.html) |
 | 2026-05-07 | Adaptive 4D Illumination, Shape+Reflectance, Differentiable Capture | Zhejiang University | [Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance](https://arxiv.org/abs/2605.06214) | CVPR 2026 | [paper](https://arxiv.org/abs/2605.06214) |
@@ -372,6 +374,7 @@ This section focuses on the mathematical and data-structure layer used to repres
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-28 | Dynamic 3DGS, Adaptive Streaming, Volumetric Video | Authors | [SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971) | arXiv | [paper](https://arxiv.org/abs/2607.25971) |
 | 2026-07-22 | Feed-Forward 3DGS, Adaptive Tokens, Compact Representation | Yonsei University | [ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417) | arXiv | [project](https://join16.github.io/page-atsplat/) |
 | 2026-04-16 | Feed-Forward 3DGS, Global Scene Tokens, Compact | Tel Aviv University | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284) | arXiv | [paper](https://arxiv.org/abs/2604.15284) |
 | 2026-04-16 | TokenGS, Learnable Gaussian Tokens, Pose-Robust | NVIDIA | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels](https://arxiv.org/abs/2604.15239) | CVPR 2026 Highlight | [project](https://research.nvidia.com/labs/toronto-ai/tokengs/) |
@@ -535,6 +538,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-25 | Semantic SLAM, Data Association, Object Landmarks | MIT | [Semantic Semi-Incremental Data-Association-Free Object SLAM](https://arxiv.org/abs/2607.23384) | arXiv | [paper](https://arxiv.org/abs/2607.23384) |
 | 2026-07-23 | Gaussian SLAM, Large-Scale Mapping, Real-Time | Athena Research Center | [GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition](https://arxiv.org/abs/2607.21416) | IROS 2026 | [github](https://github.com/pmermigkas/GLAM-SLAM) |
 | 2026-07-16 | Multi-Agent 3R, RGB Video, Point-Map Fusion | University of Bologna | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211) | arXiv | [project](https://zorangong.github.io/magist3r_page/) |
 | 2026-07-16 | Incremental 3DGS, Unordered Capture, Global Consistency | Inria | [Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481) | SIGGRAPH 2026 | [paper](https://arxiv.org/abs/2607.14481) |
