@@ -336,6 +336,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-09 | RGB-D 3DGS, Online Reconstruction, Reactive Control | Mitsubishi Electric Research Laboratories | [SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control](https://arxiv.org/abs/2607.08948) | ICRA 2026 | [paper](https://www.merl.com/publications/TR2026-069) |
 | 2026-07-08 | Geometry-Only 3DGS, Dense Monocular SLAM | Beihang University | [GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452) | arXiv | [paper](https://arxiv.org/abs/2607.07452) |
 | 2026-07-05 | LiDAR 3DGS SLAM, Geometry-Aware Covariance, Real-Time | Authors | [Real-Time LiDAR Gaussian Splatting SLAM via Geometry-Aware Covariance Coupling](https://arxiv.org/abs/2607.04127) | arXiv | [github](https://github.com/Lab-of-AI-and-Robotics/LiDAR-GS-SLAM) |
 | 2026-07-02 | Dynamic Gaussian SLAM, Dual-Level Probability, Semantic Map | Authors | [DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability](https://arxiv.org/abs/2607.01860) | arXiv | [paper](https://arxiv.org/abs/2607.01860) |
@@ -981,6 +982,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-24 | URDF Rendering, Action-Conditioned, Cross-Embodiment | Seoul National University | [Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535) | arXiv | [project](https://bjkim95.github.io/rofacto/) / [github](https://github.com/bjkim95/rofacto) |
+| 2026-07-24 | Visuo-Tactile, Contact-Rich, World Model, Policy Evaluation | ShanghaiTech University | [ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2607.22530) | arXiv | [project](https://vitacworld.github.io/) |
 | 2026-07-16 | One-Step World Model, Action-Conditioned Video, Fast Rollouts | MIT | [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | arXiv | [project](https://susie-lu.github.io/driftworld/) |
 | 2026-07-02 | Physics-Principled 3DGS, Dynamic Manipulation, Benchmark | Authors | [PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation](https://arxiv.org/abs/2607.01938) | ECCV 2026 | [paper](https://arxiv.org/abs/2607.01938) |
 | 2026-06-23 | Navigation World Model, Visual Foresight, Planning | CASIA | [NavWM: A Unified Navigation World Model for Foresight-Driven Planning](https://arxiv.org/abs/2606.24101) | ECCV 2026 | [paper](https://arxiv.org/abs/2606.24101) |
@@ -1110,6 +1113,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-28 | SAM3D, Object-Centric 3D, VLA, Manipulation | The University of Hong Kong | [SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2607.25912) | arXiv | [paper](https://arxiv.org/abs/2607.25912) |
 | 2026-07-20 | Humanoid VLA, Persistent 3D Tokens, Closed-Loop Verification | Beihang University | [Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation](https://arxiv.org/abs/2607.18016) | arXiv | [paper](https://arxiv.org/abs/2607.18016) |
 | 2026-07-16 | 3D Scene Tokens, VLM Navigation, Zero-Shot Transfer | Zhejiang University | [SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation](https://arxiv.org/abs/2607.14586) | IROS 2026 | [paper](https://arxiv.org/abs/2607.14586) |
 | 2026-07-14 | 3D Gaussian VLA, Semantic Geometry, Compact Scene Tokens | Nanyang Technological University | [VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation](https://arxiv.org/abs/2607.12356) | arXiv | [paper](https://arxiv.org/abs/2607.12356) |
