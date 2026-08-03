@@ -489,6 +489,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-31 | Active Reconstruction, Next-Best-View, Predictive Entropy | Fudan University | [GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](https://arxiv.org/abs/2607.29037) | arXiv | [paper](https://arxiv.org/abs/2607.29037) |
 | 2026-07-23 | Underwater 3D, Feed-Forward Reconstruction, Degradation Adaptation | HKUST | [WAT3R: Feedforward Underwater 3D Reconstruction](https://arxiv.org/abs/2607.21023) | arXiv | [project](https://xujiayi777.github.io/WAT3R.github.io/) |
 | 2026-07-15 | Feed-Forward Driving Reconstruction, Layered 3DGS, Dynamic Actors | NVIDIA | [Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation](https://arxiv.org/abs/2607.14203) | arXiv | [project](https://research.nvidia.com/labs/sil/projects/instant-nurec/) / [github](https://github.com/nvidia/instant-nurec) / [docs](https://docs.nvidia.com/nurec/index.html) |
 | 2026-07-10 | 3D Foundation Model, Global SfM, Bundle Adjustment | HKUST | [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://arxiv.org/abs/2607.09225) | arXiv | [project](https://junyuandeng.github.io/Glob3r/) |
@@ -549,6 +550,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | 2026-07-23 | Gaussian SLAM, Large-Scale Mapping, Real-Time | Athena Research Center | [GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition](https://arxiv.org/abs/2607.21416) | IROS 2026 | [github](https://github.com/pmermigkas/GLAM-SLAM) |
 | 2026-07-16 | Multi-Agent 3R, RGB Video, Point-Map Fusion | University of Bologna | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211) | arXiv | [project](https://zorangong.github.io/magist3r_page/) |
 | 2026-07-16 | Incremental 3DGS, Unordered Capture, Global Consistency | Inria | [Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481) | SIGGRAPH 2026 | [paper](https://arxiv.org/abs/2607.14481) |
+| 2026-07-01 | Long-Sequence, Instance Anchors, Persistent Spatial Memory | Beijing Jiaotong University | [LIST3R: Long-sequence Instance-aware 3D Reconstruction](https://arxiv.org/abs/2607.00375) | arXiv | [project](https://yixn965.github.io/LIST3R/) |
 | 2026-06-23 | 3DGS-SLAM, Memory-Efficient, Outdoor Mapping | University of Minnesota | [Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM](https://arxiv.org/abs/2606.24796) | ICRA 2026 | [github](https://github.com/UMN-ZhaoLab/Pocket-SLAM) |
 | 2026-06-20 | RGB+Pose, 3DGS Scene Regression, Robot Capture | Peking University | [ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only](https://arxiv.org/abs/2606.22091) | arXiv | [paper](https://arxiv.org/abs/2606.22091) |
 | 2026-06-19 | 3DGS-SLAM, Degeneracy-Robust, Real-Time Tracking | Nanyang Technological University | [Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2606.21258) | IROS 2026 | [paper](https://arxiv.org/abs/2606.21258) |
@@ -578,6 +580,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-29 | Articulated Objects, Structure-aware 3DGS, Part Connectivity | POSTECH | [StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction](https://arxiv.org/abs/2607.26889) | arXiv | [paper](https://arxiv.org/abs/2607.26889) |
 | 2026-07-21 | Streaming 4D, Instance Grounding, Geometry Transformer | Horizon Robotics | [IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer](https://arxiv.org/abs/2607.19228) | arXiv | [project](https://iggt4d.github.io/) |
 | 2026-07-16 | Online Dynamic NVS, Space-Time Memory, Real-Time | University of Washington | [Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271) | arXiv | [project](https://nst-mem.github.io/) |
 | 2026-07-01 | Dynamic Gaussian Reconstruction, Monocular Video, Generative | Stanford University | [World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video](https://arxiv.org/abs/2607.01202) | arXiv | [project](https://research.nvidia.com/labs/amri/projects/world-from-motion/) |
@@ -791,6 +794,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-29 | Panoramic Video, 3DGS, Simulation-ready World | AgiBot | [Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation](https://arxiv.org/abs/2607.26646) | arXiv | [github](https://github.com/AgibotTech/genie_sim) |
 | 2026-07-15 | Indoor Layout, Progressive VLM Reasoning, Interactive Editing | City University of Hong Kong | [ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning](https://arxiv.org/abs/2607.13539) | arXiv | [paper](https://arxiv.org/abs/2607.13539) |
 | 2026-07-07 | Real-to-Sim, One-Shot Scene Generation, Robot Evaluation | Shanghai AI Lab | [RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699) | arXiv | [project](https://robosnap.github.io/) |
 | 2026-07-04 | Egocentric Scene Generation, Geometric 3DGS, Consistency | South China Univ. of Technology | [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://arxiv.org/abs/2607.03819) | arXiv | [paper](https://arxiv.org/abs/2607.03819) |
@@ -946,6 +950,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-06 | Semantic Occupancy, Gaussian Evidence Memory, Hierarchical Mapping | The Hong Kong Polytechnic University | [GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory](https://arxiv.org/abs/2607.05543) | arXiv | [paper](https://arxiv.org/abs/2607.05543) |
 | 2026-06-23 | Observation Scene Graph, Exploration, Hierarchical Memory | Seoul National University | [ObsGraph: Hierarchical Observation Representation for Embodied Reasoning and Exploration](https://arxiv.org/abs/2606.24068) | arXiv | [paper](https://arxiv.org/abs/2606.24068) |
 | 2026-06-22 | 3D Scene Graph Forests, Foundation Models, Robot Retrieval | FZI Research Center | [From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models](https://arxiv.org/abs/2606.23312) | IROS 2026 | [paper](https://arxiv.org/abs/2606.23312) |
 | 2024-11-07 | Dynamic Memory, Open-Vocabulary, Mobile Manipulation | New York University | [DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation](https://arxiv.org/abs/2411.04999) | arXiv | [project](https://dynamem.github.io/) |
@@ -963,7 +968,9 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-07-23 | Agentic Simulation, 4D Physical Worlds, Generative Physics | UMass Amherst | [GS-Agent: Creating 4D Physical Worlds With Generative Simulation](https://arxiv.org/abs/2607.21522) | arXiv | [project](https://umass-embodied-agi.github.io/gs-agent/) |
+| 2026-07-20 | Interactive World Model, 3D Cache, Long-Horizon Memory | Alaya Lab | [AlayaWorld: Interactive Long-Horizon World Modeling](https://arxiv.org/abs/2607.18367) | arXiv | [project](https://alaya-lab.github.io/AlayaWorld/) / [github](https://github.com/AlayaLab/AlayaWorld) |
 | 2026-07-13 | Embodied Synthesis, Multi-View Consistency, Data Engine | Xiaomi Robotics | [Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model](https://arxiv.org/abs/2607.11643) | arXiv | [project](https://robotics.xiaomi.com/xiaomi-robotics-u0.html) |
+| 2026-07-10 | Panoramic World Model, Camera Control, World360 Dataset | Insta360 Research | [PanoWorld: Real-World Panoramic Generation](https://arxiv.org/abs/2607.09661) | arXiv | [project](https://lihaoy-ux.github.io/panoworld-page/) |
 | 2026-07-08 | Interactive World Model, Unbounded Horizon, Agentic Harness | Robbyant | [LingBot-World 2.0: Infinite Worlds with Versatile Interactions](https://arxiv.org/abs/2607.07534) | arXiv | [project](https://technology.robbyant.com/lingbot-world-v2) / [github](https://github.com/Robbyant/lingbot-world-v2) |
 | 2026-07-01 | Physically Viable World Model, 3DGS, Path Planning | UT Austin | [Path Planning in Physically Viable World Models](https://arxiv.org/abs/2607.00673) | arXiv | [paper](https://arxiv.org/abs/2607.00673) |
 | 2026-06-16 | Future 3D State, Ego-Motion Disentanglement, Persistent Geometry | Technical University of Munich | [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/abs/2606.18250) | ICML 2026 | [project](https://fr3d-wm.github.io/) |
@@ -1208,6 +1215,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-06 | Semantic Occupancy, Indoor Mapping, Building-Scale Benchmark | The Hong Kong Polytechnic University | [HIOcc: Hierarchical Indoor Occupancy Benchmark](https://arxiv.org/abs/2607.05543) | Dataset | [paper](https://arxiv.org/abs/2607.05543) |
 | 2026-06-22 | Panoramic Stereo, Humanoid Occupancy, 155K Samples | Wuhan University | [Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI](https://arxiv.org/abs/2606.22971) | arXiv | [project](https://d-robotics-ai-lab.github.io/humanoid-omniocc) |
 | 2026-06-22 | Stereo RGB + LiDAR, Construction Depth, 11K Samples | Technical University of Denmark | [ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments](https://arxiv.org/abs/2606.23152) | arXiv | [github](https://github.com/dtu-pas/shotcrete-depth) |
 | 2025-01-13 | Object-Centric Video, Full-360, Depth, Sparse Point Cloud | Meta AI | [uCO3D: UnCommon Objects in 3D](https://arxiv.org/abs/2501.07574) | arXiv | [github](https://github.com/facebookresearch/uco3d) |
@@ -1272,11 +1280,13 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-24 | VLM Agents, 3D Action, Layout/Articulation/Dynamics | Tencent Hunyuan | [SceneActBench: Can Agents Act on the 3D Scenes They See?](https://arxiv.org/abs/2607.22393) | arXiv | [github](https://github.com/Feinaldo2/SceneActBench) / [dataset](https://huggingface.co/datasets/FEInaldo/SceneActBench) |
 | 2026-07-23 | Future Surface, Dynamic Reconstruction, Held-Out Time | University of Guelph | [Future Rendering != Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window](https://arxiv.org/abs/2607.21471) | arXiv | [github](https://github.com/Ricky-S/futuresurf) / [dataset](https://huggingface.co/datasets/rickyshi/futuresurf) |
 | 2026-06-23 | T2V Evaluation, 3D Consistency, Reconstruction Profile | University of Bern | [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](https://arxiv.org/abs/2606.24829) | arXiv | [paper](https://arxiv.org/abs/2606.24829) |
 | 2026-06-22 | Robot Camera Rotation, Mesh Reconstruction, Evaluation | Southern University of Science and Technology | [Can Single-View Mesh Reconstruction Generalize to Robot Camera Rotation?](https://arxiv.org/abs/2606.22987) | arXiv | [paper](https://arxiv.org/abs/2606.22987) |
 | 2026-06-21 | World Model Evaluation, Physical Consistency, 3D/Flow Metrics | Hanyang University ERICA | [Reference-Free Assessment of Physical Consistency in World Model-based Video Generation](https://arxiv.org/abs/2606.22363) | arXiv | [paper](https://arxiv.org/abs/2606.22363) |
 | 2026-06-09 | World Model Evaluation, 3D Consistency, Interaction | Zhejiang University | [WorldOlympiad: Can Your World Model Survive a Triathlon?](https://arxiv.org/abs/2606.11129) | arXiv | [project](https://alibaba-damo-academy.github.io/WorldOlympiad) / [github](https://github.com/alibaba-damo-academy/WorldOlympiad) |
+| 2026-03-31 | Functional Affordance, Geometric Verification, VLM Grounding | École Polytechnique | [SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes](https://arxiv.org/abs/2603.29798) | arXiv | [project](https://sceneteract.github.io/) |
 | 2026-02-03 | 3D Assets, Evaluation, Hunyuan3D, Benchmark | Tencent Hunyuan | [HY3D-Bench: Generation of 3D Assets](https://arxiv.org/abs/2602.03907) | arXiv | [paper](https://arxiv.org/abs/2602.03907) |
 | 2025-12-15 | 3D Editing, Text Instructions, Edit3D-Bench (Ma) | Caltech | [Steer3D Edit3D-Bench](https://huggingface.co/datasets/ziqima/Edit3D-Bench) | Benchmark | [paper](https://arxiv.org/abs/2512.13678) / [project](https://glab-caltech.github.io/steer3d/) |
 | 2025-08-26 | 3D Editing, 3D Masks, Edit3D-Bench (Li) | Renmin University / Beihang University | [VoxHammer Edit3D-Bench](https://huggingface.co/datasets/huanngzh/Edit3D-Bench) | Benchmark | [paper](https://arxiv.org/abs/2508.19247) / [project](https://huanngzh.github.io/VoxHammer-Page/) |
@@ -1300,6 +1310,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-07-28 | Social Navigation, 3DGS Avatars, SONG-Bench | Beijing Institute of Technology | [SONG: A Photorealistic 3D Gaussian Simulation Platform for Benchmarking Social Navigation](https://arxiv.org/abs/2607.25219) | arXiv | [paper](https://arxiv.org/abs/2607.25219) |
 | 2026-06-22 | UE5 Simulator, Multi-Robot SLAM, UAV+UGV | Georgia Tech | [HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration](https://arxiv.org/abs/2606.22756) | arXiv | [project](https://lunarlab-gatech.github.io/HERCULES-website/) |
 | 2026-06-21 | Tactile Simulation, Dexterous Hands, 20K Envs | Authors | [Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332) | arXiv | [project](https://neuroagents-lab.github.io/2026-tactile-genesis/) |
 | 2026-06-20 | Deformable Linear Objects, Isaac Sim, Cosserat Rods | Carnegie Mellon University | [DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects](https://arxiv.org/abs/2606.22116) | IROS 2026 | [project](https://deformx.github.io/) |
