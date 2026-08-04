@@ -12,12 +12,14 @@ The goal is not to be a generic 3D generation, NeRF, 3DGS, graphics, SLAM, or ro
 - embodied world models, dynamic scene graphs, 3D grounding, robotics integration, and sim-to-real asset pipelines
 - datasets, benchmarks, metrics, simulators, and toolchains that help researchers choose what to use
 
-## Single-file content policy
+## Curated-list and archive policy
 
-All curated content lives in `README.md`.
+All manually curated content lives in `README.md`.
 
-Do **not** create `contents/` pages for paper organization.
-Do **not** split the awesome list into multiple markdown content files unless the user explicitly requests it.
+`arXiv_daily/` is the sole exception: it is an automatically generated, high-recall candidate archive. It must never be presented as equivalent to the verified curated root README.
+
+Do **not** create other `contents/` pages for paper organization.
+Do **not** split the awesome list into multiple manually maintained markdown content files unless the user explicitly requests it.
 
 Allowed root-level files:
 - `README.md` - the canonical awesome list
@@ -25,6 +27,7 @@ Allowed root-level files:
 - `LICENSE`
 - `.gitignore`
 - optional static assets under `assets/` or `imgs/` when they improve presentation
+- `arXiv_daily/` - generated candidate archive, configuration, scripts, tests, and data
 
 ## Canonical section layout
 
@@ -140,11 +143,22 @@ When adding or updating entries, use sources in this order:
 5. Google Scholar / Semantic Scholar citation graph around canonical entries
 
 For daily candidate discovery, routinely scan:
+- this repository's [arXiv Daily](arXiv_daily/README.md) archive, especially its newest monthly entries and topic sections
 - [jiangranlv/robotics_arXiv_daily](https://github.com/jiangranlv/robotics_arXiv_daily)
 - [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
 - [chang-xinhai/AI-Conference-Paper-Lists](https://github.com/chang-xinhai/AI-Conference-Paper-Lists/tree/main/data/normalized), with a full pass over every normalized JSON file for the current and previous publication years rather than title-only spot checks
 
 Treat these automated feeds and normalized conference records only as candidate-discovery and scanning sources, never as final factual evidence. For every candidate, return to arXiv and the official project, code, dataset, conference, or lab page to verify the title, date, venue, institution, links, contribution, and embodied-3DV relevance before adding it.
+
+### arXiv Daily maintenance
+
+`arXiv_daily/` provides durable coverage for papers whose titles or author language are easy to miss in ad-hoc searching. It is generated from six broad query families—data perception, representation, reconstruction, generation, embodiment/world models, and datasets/infrastructure—and applies local topic rules before storage.
+
+- Treat it as a **candidate source**, not a quality ranking or automatic inclusion list.
+- Keep the fetcher on its scheduled two-times-daily workflow with a 14-day lookback; the overlap catches delayed arXiv indexing and late metadata changes.
+- Keep `data/papers.json`, the generated `README.md`, and `sections/*.md` in sync by using `scripts/fetch_arxiv.py`; do not hand-edit generated files.
+- When changing queries or regex rules, add/adjust a focused test in `arXiv_daily/tests/`, regenerate the archive, and run both the unit tests and `scripts/validate_archive.py`.
+- Keep known important in-scope papers in `validation.required_topics` so a future rule change cannot silently drop them. SeeClear (`2603.19547`) is the initial regression case.
 
 If multiple sources disagree, prefer the most official public source.
 

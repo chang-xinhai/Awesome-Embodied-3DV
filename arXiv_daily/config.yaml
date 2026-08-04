@@ -1,0 +1,161 @@
+archive:
+  # Backfill enough history to make the archive useful, then refresh with overlap.
+  start_date: "2025-01-01"
+  lookback_days: 14
+  page_size: 100
+  delay_seconds: 3.1
+  num_retries: 8
+  max_results_per_window: 5000
+
+validation:
+  # SeeClear is a known, in-scope ECCV 2026 paper that motivated this archive.
+  required_topics:
+    "2603.19547": [data_perception]
+
+# These intentionally favor recall. Classification below restricts the stored
+# archive to the six areas of this repository; promotion to ../README.md is manual.
+queries:
+  - name: depth-and-sensing
+    query: '(cat:cs.CV OR cat:cs.RO) AND (all:depth OR all:"depth estimation" OR all:"depth completion" OR all:"transparent object" OR all:specular OR all:"structured light" OR all:"active stereo" OR all:"time of flight" OR all:"event camera" OR all:fisheye OR all:panoramic)'
+  - name: representations
+    query: '(cat:cs.CV OR cat:cs.RO OR cat:cs.GR) AND (all:"gaussian splatting" OR all:"radiance field" OR all:nerf OR all:"signed distance field" OR all:"neural implicit" OR all:"3D representation" OR all:"4D representation")'
+  - name: reconstruction-and-mapping
+    query: '(cat:cs.CV OR cat:cs.RO) AND (all:"3D reconstruction" OR all:"4D reconstruction" OR all:"scene reconstruction" OR all:"object reconstruction" OR all:"dense mapping" OR all:slam OR all:"visual geometry")'
+  - name: generation-and-assets
+    query: '(cat:cs.CV OR cat:cs.RO OR cat:cs.GR) AND (all:"3D generation" OR all:"text-to-3D" OR all:"image-to-3D" OR all:"simulation-ready" OR all:"articulated asset" OR all:"physical asset" OR all:"scene generation" OR all:"3D editing")'
+  - name: embodied-world-models
+    query: '(cat:cs.CV OR cat:cs.RO OR cat:cs.AI OR cat:cs.LG) AND (all:"world model" OR all:"scene graph" OR all:"open-vocabulary 3D" OR all:"3D grounding" OR all:"3D memory" OR all:"embodied perception" OR all:"sim-to-real" OR all:"real-to-sim")'
+  - name: datasets-and-infrastructure
+    query: '(cat:cs.CV OR cat:cs.RO OR cat:cs.GR) AND (all:"3D dataset" OR all:"4D dataset" OR all:"3D benchmark" OR all:"3D simulator" OR all:"3D evaluation" OR all:"reconstruction benchmark" OR all:"generation benchmark")'
+
+topics:
+  data_perception:
+    title: Data Perception
+    scope: Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
+    file: sections/data-perception.md
+    require_any:
+      - '\bdepth\b|\bnormal(?:s| estimation)?\b'
+      - '\btransparent object\b|\bspecular\b|\breflective surface\b'
+      - '\bstructured light\b|\bactive stereo\b|\btime[- ]of[- ]flight\b|\btof\b'
+      - '\bevent camera\b|\bfisheye\b|\bpanoramic\b|\bwide[- ]fov\b'
+      - '\bdense (?:semantic )?mapping\b|\b3d semantic understanding\b'
+    exclude:
+      - '\b(?:clinical|medical|patient|hospital|disease|endoscop\w*)\b'
+    patterns:
+      - label: Depth / Geometry Prior
+        regex: '\b(?:monocular|metric|dense|video|multi[- ]view)? ?(?:depth|normal) estimation\b|\bdepth completion\b'
+      - label: Transparent / Specular
+        regex: '\btransparent object\b|\btransparen(?:t|cy)\b|\bspecular\b|\breflective surface\b'
+      - label: Active Imaging
+        regex: '\bstructured light\b|\bactive stereo\b|\btime[- ]of[- ]flight\b|\btof\b|\bactive imaging\b'
+      - label: Non-RGB Sensing
+        regex: '\bevent camera\b|\bpolarization\b|\bthermal\b|\blight field\b'
+      - label: Wide-FOV Perception
+        regex: '\bfisheye\b|\bpanoramic\b|\bwide[- ]fov\b|\bomnidirectional\b'
+      - label: Dense 3D Semantics
+        regex: '\bdense mapping\b|\b3d semantic\b|\bopen[- ]vocabulary 3d\b'
+
+  representation:
+    title: 3D/4D Representation
+    scope: Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
+    file: sections/representation.md
+    require_any:
+      - '\bgaussian splatting\b|\b3dgs\b|\b4dgs\b'
+      - '\bradiance field\b|\bnerf\b|\bneural implicit\b|\bsigned distance field\b|\bsdf\b'
+      - '\b(?:3d|4d) representation\b|\bdeformation field\b|\bcanonical space\b'
+    patterns:
+      - label: Gaussian Splatting
+        regex: '\bgaussian splatting\b|\b[34]dgs\b|\bgaussians?\b.{0,50}\bsplat'
+      - label: Radiance Field / NeRF
+        regex: '\bradiance field\b|\bnerf\b'
+      - label: Neural Implicit / SDF
+        regex: '\bneural implicit\b|\bsigned distance field\b|\bsdf\b'
+      - label: Explicit / Hybrid Geometry
+        regex: '\b(?:mesh|voxel|point cloud|triplane|tensor)\b.{0,60}\b(?:representation|field|hybrid|geometry)\b'
+      - label: Dynamic / 4D
+        regex: '\b4d\b|\bdynamic\b.{0,60}\b(?:representation|scene|field|gaussian)\b|\bdeformation (?:field|graph)\b'
+
+  reconstruction:
+    title: 3D Reconstruction
+    scope: Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
+    file: sections/reconstruction.md
+    require_any:
+      - '\b(?:3d|4d|scene|object) reconstruction\b'
+      - '\b(?:dense|semantic|instance) mapping\b|\bslam\b'
+      - '\bfeed[- ]forward\b.{0,60}\b(?:geometry|reconstruction|view synthesis)\b'
+      - '\bmulti[- ]view\b.{0,60}\b(?:reconstruction|geometry)\b'
+    patterns:
+      - label: Feed-Forward Geometry
+        regex: '\bfeed[- ]forward\b.{0,80}\b(?:geometry|reconstruction|view synthesis)\b|\bpose[- ]free\b.{0,70}\breconstruction\b'
+      - label: Object / Scene Reconstruction
+        regex: '\b(?:3d|4d|scene|object) reconstruction\b'
+      - label: Mapping / SLAM
+        regex: '\b(?:dense|semantic|instance|open[- ]vocabulary) mapping\b|\bslam\b'
+      - label: Dynamic Reconstruction
+        regex: '\bdynamic\b.{0,70}\b(?:3d|4d|scene|reconstruction|geometry)\b|\bnon[- ]rigid\b.{0,50}\breconstruction\b'
+      - label: Multi-View Geometry
+        regex: '\bmulti[- ]view\b.{0,70}\b(?:reconstruction|geometry|matching)\b'
+
+  generation:
+    title: 3D Generation & Assets
+    scope: Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
+    file: sections/generation.md
+    require_any:
+      - '\b(?:text|image|video)[- ]to[- ]3d\b|\b3d generation\b|\b3d asset\b'
+      - '\barticulated (?:object|asset)\b|\bsimulation[- ]ready\b|\bphysical asset\b|\burdf\b'
+      - '\bscene generation\b|\bprocedural (?:scene|world|environment)\b'
+      - '\b3d editing\b|\b(?:object|scene) editing\b.{0,50}\b3d\b'
+    patterns:
+      - label: Image / Text-to-3D
+        regex: '\b(?:text|image|video)[- ]to[- ]3d\b|\b3d generation\b|\b3d asset\b'
+      - label: Part / Articulated Asset
+        regex: '\bpart[- ](?:aware|level|based)\b|\barticulated (?:object|asset)\b|\burdf\b|\bkinematic structure\b'
+      - label: Simulation-Ready / Physical
+        regex: '\bsimulation[- ]ready\b|\bphysical asset\b|\b(?:material|texture) generation\b.{0,50}\b(?:3d|asset|mesh)\b'
+      - label: Scene / World Generation
+        regex: '\bscene generation\b|\bprocedural (?:scene|world|environment)\b|\bworld generation\b'
+      - label: 3D Editing
+        regex: '\b3d editing\b|\b(?:object|scene|mesh) editing\b'
+
+  embodiment_world_models:
+    title: Embodiment & World Models
+    scope: Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
+    file: sections/embodiment-world-models.md
+    require_any:
+      - '(?=.*\bworld model\b)(?=.*\b(?:3d|scene|robot|embodied|physical|visual|action|interactive)\b)'
+      - '(?=.*\bscene graph\b)(?=.*\b(?:3d|robot|embodied|persistent|dynamic|spatial)\b)'
+      - '\b3d memory\b|\b3d grounding\b'
+      - '\bembodied\b.{0,70}\b(?:perception|world|scene|3d|agent|interaction)\b'
+      - '\bopen[- ]vocabulary 3d\b|\b(?:sim|real)[- ]?(?:to|2)[- ]?(?:real|sim)\b'
+    exclude:
+      - '\b(?:quantum|vqe|molecular|genom\w*|clinical|medical|patient)\b'
+    patterns:
+      - label: World Model
+        regex: '\bworld model\b|\bpersistent\b.{0,70}\b(?:3d|scene|world)\b'
+      - label: Dynamic Scene Graph
+        regex: '\bdynamic scene graph\b|\bscene graph\b.{0,60}\b(?:3d|tracking|embodied|robot)\b'
+      - label: 3D Grounding / Memory
+        regex: '\b3d (?:grounding|memory)\b|\bopen[- ]vocabulary 3d\b|\bagent\b.{0,70}\b3d scene\b'
+      - label: Interaction / Affordance
+        regex: '\b(?:physical interaction|affordance|contact)\b.{0,70}\b(?:3d|scene|object|embodied)\b'
+      - label: Sim-to-Real
+        regex: '\bsim(?:ulation)?[- ]?(?:to|2)[- ]?real\b|\breal[- ]?(?:to|2)[- ]?sim(?:ulation)?\b'
+
+  datasets_infrastructure:
+    title: Datasets, Benchmarks & Infrastructure
+    scope: Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
+    file: sections/datasets-infrastructure.md
+    require_any:
+      - '\b(?:3d|4d) (?:dataset|benchmark|evaluation|simulator)\b'
+      - '\b(?:reconstruction|generation|view synthesis|scene) benchmark\b'
+      - '\b(?:dataset|benchmark)\b.{0,80}\b(?:depth|reconstruction|gaussian|radiance field|nerf|mesh|point cloud|scene|articulated|embodied)\b'
+      - '\b(?:simulator|toolchain|pipeline)\b.{0,80}\b(?:3d|robot|embodied|scene|asset)\b'
+    patterns:
+      - label: Dataset
+        regex: '\b(?:3d|4d|depth|reconstruction|generation|scene|embodied) dataset\b|\bdataset\b.{0,70}\b(?:3d|4d|depth|reconstruction|scene|mesh|point cloud|embodied)\b'
+      - label: Benchmark / Metric
+        regex: '\b(?:3d|4d|reconstruction|generation|view synthesis|scene) benchmark\b|\b(?:metric|evaluation)\b.{0,70}\b(?:3d|reconstruction|generation|scene)\b'
+      - label: Simulator / Toolchain
+        regex: '\b(?:3d|robot|embodied|scene) simulator\b|\b(?:3d|robot|asset) (?:toolchain|pipeline)\b|\b(?:usd|urdf|isaac|sapien|habitat|mujoco)\b'
+      - label: Survey / Taxonomy
+        regex: '\b(?:survey|taxonomy|review)\b.{0,70}\b(?:3d|4d|reconstruction|generation|embodied|gaussian|radiance field)\b'

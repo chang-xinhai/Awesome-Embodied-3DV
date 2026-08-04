@@ -34,6 +34,8 @@ This repository focuses on:
 
 This list is intentionally **embodied-3DV-first**. It includes 3D generation and 3DGS work only when it helps understand, build, evaluate, or deploy 3D assets and world models for embodied agents. It is not a generic catalog of all 3D generation, editing, rendering, compression, or graphics papers.
 
+**Daily candidate feed.** The automatically updated [arXiv Daily](arXiv_daily/README.md) is a high-recall, topic-tagged candidate archive across the six areas above. It is deliberately broader than this curated README: papers are promoted here only after manual primary-source verification.
+
 ## Must Read
 
 Start here if you want the shortest path through the field.
@@ -54,6 +56,7 @@ Start here if you want the shortest path through the field.
 
 ## News
 
+- [2026-08-04] Added a six-topic, automatically refreshed [arXiv Daily](arXiv_daily/README.md) candidate archive, with manual verification required before promotion to this curated list.
 - [2026-06-15] Added a dedicated **3D Editing** taxonomy under 3D Generation, covering object-level, scene-level, and dynamic / 4D editing methods.
 - [2026-04-30] Initialized **Awesome-Embodied-3DV** with a six-part taxonomy for data perception, representations, reconstruction, generation, embodied world models, and infrastructure.
 - [2026-04-30] Added `AGENTS.md` to define curation scope, metadata rules, and maintenance workflow.
@@ -63,6 +66,7 @@ Start here if you want the shortest path through the field.
 - [Awesome-Embodied-3DV](#awesome-embodied-3dv)
   - [About](#about)
   - [Must Read](#must-read)
+  - [arXiv Daily](arXiv_daily/README.md)
   - [News](#news)
   - [Data Perception](#-1-data-perception)
     - [Geometric Priors](#11-geometric-priors)
@@ -119,6 +123,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2026-05-15 | VLM, Dense Metric Depth, Spatial Reasoning | Zhejiang Univ | [Unlocking Dense Metric Depth Estimation in VLMs](https://arxiv.org/abs/2605.15876) | arXiv | [project](https://depthvlm.github.io/) / [github](https://github.com/hanxunyu/DepthVLM) |
 | 2026-05-12 | Sparse 3D Anchors, Relative-to-Metric, Graph Optimization | Tongji University | [The Midas Touch for Metric Depth](https://arxiv.org/abs/2605.11578) | CVPR 2026 Highlight | [project](https://mias.group/MTD) |
 | 2026-03-28 | Universal Camera, Metric Depth, Zero-Shot | Michigan State University | [UniDAC: Universal Metric Depth Estimation for Any Camera](https://arxiv.org/abs/2603.27105) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.27105) |
+| 2026-03-20 | Transparent Objects, Generative Opacification, Monocular Depth, SeeClear-396k | University of California, Los Angeles | [SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification](https://arxiv.org/abs/2603.19547) | ECCV 2026 | [project](https://heyumeng.com/SeeClear-web/) / [dataset](https://huggingface.co/datasets/2bidoubi/SeeClear-396k) |
 | 2026-03-17 | Diffusion Prior, Real-World Data, Monocular Depth | Nanjing University of Science and Technology | [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](https://arxiv.org/abs/2603.16340) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.16340) |
 | 2026-03-04 | Fine-Grained Geometry, Dual-Stream, Efficient | UMass Amherst | [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](https://arxiv.org/abs/2603.03744) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.03744) |
 | 2026-01-06 | Arbitrary-Resolution, Neural Implicit, Fine Details | Zhejiang Univ | [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://arxiv.org/abs/2601.03252) | CVPR 2026 | [project](https://zju3dv.github.io/InfiniDepth/) / [github](https://github.com/zju3dv/InfiniDepth) |

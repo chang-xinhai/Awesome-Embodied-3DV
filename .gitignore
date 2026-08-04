@@ -3,3 +3,5 @@
 .py
 .claude
 .codex
+__pycache__/
+*.py[cod]
