@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-04 · **Papers:** 480 · **Unique arXiv IDs:** 480
+**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 482 · **Unique arXiv IDs:** 482
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-04 | [3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279) | Yuke Xing, Jiarui Wang, William Gordon, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.03279) / [pdf](https://arxiv.org/pdf/2608.03279) |
+| 2026-08-03 | [Modeling Scientific Experiment Scenes: Dataset and Model](https://arxiv.org/abs/2608.02892) | Minghao Zou, Qingtian Zeng, Shangkun Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.02892) / [pdf](https://arxiv.org/pdf/2608.02892) |
 | 2026-08-03 | [PhyCheck: Fine-Grained Evidence-Grounded Dataset for Physical Law Understanding in Video-LLMs](https://arxiv.org/abs/2608.02150) | Zhongjie Ba, Shengwang Xu, Peng Cheng, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.02150) / [pdf](https://arxiv.org/pdf/2608.02150) |
 | 2026-08-03 | [GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation](https://arxiv.org/abs/2608.02068) | Xianghui Fan, Zhaoyu Chen, Bingqian Wu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.02068) / [pdf](https://arxiv.org/pdf/2608.02068) |
 | 2026-08-03 | [Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling](https://arxiv.org/abs/2608.01572) | Mohamad Mofeed Chaar, Galia Weidl | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.01572) / [pdf](https://arxiv.org/pdf/2608.01572) |

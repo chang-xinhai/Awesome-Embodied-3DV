@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-04 · **Papers:** 1944 · **Unique arXiv IDs:** 1944
+**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 1950 · **Unique arXiv IDs:** 1950
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-04 | [TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2608.03763) | Qingxi Du, Junbo Wang, Yuke Li, et al. | cs.CV | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2608.03763) / [pdf](https://arxiv.org/pdf/2608.03763) |
+| 2026-08-04 | [Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems](https://arxiv.org/abs/2608.03413) | Zuojun Max Shen, Yuan Qu, Pujun Zhang, et al. | cs.AI, cs.ET | World Model | [abs](https://arxiv.org/abs/2608.03413) / [pdf](https://arxiv.org/pdf/2608.03413) |
+| 2026-08-04 | [CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction](https://arxiv.org/abs/2608.03211) | Wanhao Liu, Jinsong Lin, Rulin Zhou, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.03211) / [pdf](https://arxiv.org/pdf/2608.03211) |
+| 2026-08-04 | [Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting](https://arxiv.org/abs/2608.03116) | Sergio A. Esteban, Jason H. K. Siu, Derrick Mach, et al. | cs.RO, eess.SY | Sim-to-Real | [abs](https://arxiv.org/abs/2608.03116) / [pdf](https://arxiv.org/pdf/2608.03116) |
+| 2026-08-04 | [Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation](https://arxiv.org/abs/2608.03064) | Jialu Huang, Yingxuan You, Fei Wang, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.03064) / [pdf](https://arxiv.org/pdf/2608.03064) |
+| 2026-08-03 | [RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models](https://arxiv.org/abs/2608.02953) | Yuwei Ning, Liangzhi Wang, Yi Xiao, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.02953) / [pdf](https://arxiv.org/pdf/2608.02953) |
 | 2026-08-03 | [Certifying Plans under Model Mismatch: A Trilemma for Reachability from Scarce Data](https://arxiv.org/abs/2608.02453) | Yanliang Huang, Zhen Zhang, Ahmad Hafez, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.02453) / [pdf](https://arxiv.org/pdf/2608.02453) |
 | 2026-08-03 | [TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval](https://arxiv.org/abs/2608.02056) | Ji Huang, Yongsheng Dai, Tianyu Ren, et al. | cs.CV, cs.AI | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2608.02056) / [pdf](https://arxiv.org/pdf/2608.02056) |
 | 2026-08-03 | [ProWorld: Progress-Aware Hyperbolic World Models for Long-Horizon Visual Goal Reaching](https://arxiv.org/abs/2608.01926) | Zihan Liu, Yuzhe Zhuang, Yuanzu Li, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.01926) / [pdf](https://arxiv.org/pdf/2608.01926) |
@@ -41,7 +47,7 @@
 | 2026-07-29 | [CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2607.26789) | Yushan Liu, Peibo Sun, Xintao Chao, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2607.26789) / [pdf](https://arxiv.org/pdf/2607.26789) |
 | 2026-07-29 | [StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation](https://arxiv.org/abs/2607.26754) | Zijun Lin, Zeqing Wang, Cheston Tan, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2607.26754) / [pdf](https://arxiv.org/pdf/2607.26754) |
 | 2026-07-29 | [ActSWM: Action-Sensitive World Models for Long-Horizon Planning in Open-World Games](https://arxiv.org/abs/2607.26712) | Zhenfeng Gan, ZiTong Zeng, Jiajun Cheng, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2607.26712) / [pdf](https://arxiv.org/pdf/2607.26712) |
-| 2026-07-29 | [Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control](https://arxiv.org/abs/2607.26657) | Weili Zeng, Yitong Xing, Fulong Liu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2607.26657) / [pdf](https://arxiv.org/pdf/2607.26657) |
+| 2026-07-29 | [Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control](https://arxiv.org/abs/2607.26657) | Weili Zeng, Yitong Xing, Fulong Liu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2607.26657) / [pdf](https://arxiv.org/pdf/2607.26657) |
 | 2026-07-29 | [ContactFlow: A video action conditioning that transfers across embodiments](https://arxiv.org/abs/2607.26579) | Sami Azirar, Enrico Pallotta, Jan Nogga, et al. | cs.RO, cs.CV | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2607.26579) / [pdf](https://arxiv.org/pdf/2607.26579) |
 | 2026-07-29 | [Reinforcement Learning on Cost-Constrained Quadrupedal Hardware](https://arxiv.org/abs/2607.26434) | Javier C. Weddington, Bence P. Ölveczky, Stephen A. Baccus | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2607.26434) / [pdf](https://arxiv.org/pdf/2607.26434) |
 | 2026-07-28 | [Wonder: Video World Model Done Better](https://arxiv.org/abs/2607.26037) | Jiacong Xu, Hanwen Jiang, Zhixin Shu, et al. | cs.CV, cs.GR | World Model | [abs](https://arxiv.org/abs/2607.26037) / [pdf](https://arxiv.org/pdf/2607.26037) |

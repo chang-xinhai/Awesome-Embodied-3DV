@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-04 · **Papers:** 1630 · **Unique arXiv IDs:** 1630
+**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 1634 · **Unique arXiv IDs:** 1634
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
+| 2026-08-04 | [XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2608.03666) | Elena Izzo, Riccardo Toniolo, Lamberto Ballan | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.03666) / [pdf](https://arxiv.org/pdf/2608.03666) |
+| 2026-08-04 | [PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints](https://arxiv.org/abs/2608.03296) | Guangyu Li, Xiao Li, Yujie Wu, et al. | cs.RO, cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.03296) / [pdf](https://arxiv.org/pdf/2608.03296) |
+| 2026-08-03 | [PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks](https://arxiv.org/abs/2608.02792) | Deepank Singh, Anurag Nihal, Vedhus Hoskere | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.02792) / [pdf](https://arxiv.org/pdf/2608.02792) |
 | 2026-08-03 | [Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation](https://arxiv.org/abs/2608.02257) | Donglin Yang, Haoran Chen, Xingyu Chen, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.02257) / [pdf](https://arxiv.org/pdf/2608.02257) |
 | 2026-08-03 | [GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation](https://arxiv.org/abs/2608.02068) | Xianghui Fan, Zhaoyu Chen, Bingqian Wu, et al. | cs.CV | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2608.02068) / [pdf](https://arxiv.org/pdf/2608.02068) |
 | 2026-08-02 | [Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning](https://arxiv.org/abs/2608.01488) | Yuqi Li, Yuedong Tan, Huiran Duan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.01488) / [pdf](https://arxiv.org/pdf/2608.01488) |

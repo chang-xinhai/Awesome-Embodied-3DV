@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-04 · **Papers:** 2655 · **Unique arXiv IDs:** 2655
+**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 2660 · **Unique arXiv IDs:** 2660
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
+| 2026-08-04 | [Dual-domain U-Nets with embedded back projection operators for motion-resolved 4D CBCT reconstruction](https://arxiv.org/abs/2608.03430) | Ivo Herzig, Pascal Paysan, Daniel Barco, et al. | cs.CV, cs.LG | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03430) / [pdf](https://arxiv.org/pdf/2608.03430) |
+| 2026-08-04 | [SLAMFormer-$\infty$: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing](https://arxiv.org/abs/2608.03429) | Zhijian Fang, Weicheng Zheng, Yijun Yuan, et al. | cs.CV, cs.RO | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2608.03429) / [pdf](https://arxiv.org/pdf/2608.03429) |
+| 2026-08-04 | [SGFormer: Structure-Guided Transformer for Robust Local Feature Matching](https://arxiv.org/abs/2608.03423) | Runyu Zhu | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03423) / [pdf](https://arxiv.org/pdf/2608.03423) |
+| 2026-08-04 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) | Shuliang He, Shuai Wang, Bo Yue, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03387) / [pdf](https://arxiv.org/pdf/2608.03387) |
 | 2026-08-03 | [VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598) | Chao Ji, Shiyu Xuan, Zechao Li | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02598) / [pdf](https://arxiv.org/pdf/2608.02598) |
 | 2026-08-03 | [TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction](https://arxiv.org/abs/2608.02304) | Ziyue Zheng, Linli Shi, Bingkun He, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02304) / [pdf](https://arxiv.org/pdf/2608.02304) |
 | 2026-08-03 | [UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction](https://arxiv.org/abs/2608.02145) | Haixu Song, Xiaoke Yang, Shengjun Zhang, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02145) / [pdf](https://arxiv.org/pdf/2608.02145) |
