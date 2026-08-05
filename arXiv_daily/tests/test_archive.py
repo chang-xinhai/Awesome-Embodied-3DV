@@ -1,6 +1,8 @@
 import sys
 import unittest
+from datetime import date
 from pathlib import Path
+from unittest import mock
 
 import yaml
 
@@ -8,7 +10,8 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from fetch_arxiv import classify_paper  # noqa: E402
+import fetch_arxiv  # noqa: E402
+from fetch_arxiv import classify_paper, fetch  # noqa: E402
 
 
 class ClassifierTest(unittest.TestCase):
@@ -60,6 +63,38 @@ class ClassifierTest(unittest.TestCase):
             "We use a world model to optimize VQE circuits for quantum systems.",
         )
         self.assertNotIn("embodiment_world_models", topics)
+
+
+class FetchTest(unittest.TestCase):
+    def test_transient_api_failure_does_not_abort_later_queries(self):
+        config = {
+            "archive": {
+                "page_size": 100,
+                "delay_seconds": 10,
+                "num_retries": 10,
+                "max_results_per_window": 100,
+            },
+            "queries": [
+                {"name": "rate-limited", "query": "cat:cs.RO"},
+                {"name": "healthy", "query": "cat:cs.CV"},
+            ],
+        }
+        client = mock.Mock()
+        client.results.side_effect = [
+            fetch_arxiv.arxiv.HTTPError("https://export.arxiv.org", 10, 429),
+            iter(()),
+        ]
+
+        with mock.patch("fetch_arxiv.arxiv.Client", return_value=client):
+            failures = fetch(
+                config,
+                date(2026, 8, 1),
+                date(2026, 8, 5),
+                {"papers": {}},
+            )
+
+        self.assertEqual(["rate-limited (2026-08-01..2026-08-05)"], failures)
+        self.assertEqual(2, client.results.call_count)
 
 
 if __name__ == "__main__":

@@ -13,6 +13,7 @@ from pathlib import Path
 from typing import Any, Iterator
 
 import arxiv
+import requests
 import yaml
 
 from build_readme import build_archive
@@ -109,7 +110,9 @@ def _load_store(path: Path, reset: bool) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def fetch(config: dict[str, Any], start: date, end: date, store: dict[str, Any]) -> None:
+def fetch(
+    config: dict[str, Any], start: date, end: date, store: dict[str, Any]
+) -> list[str]:
     settings = config["archive"]
     client = arxiv.Client(
         page_size=int(settings["page_size"]),
@@ -117,6 +120,7 @@ def fetch(config: dict[str, Any], start: date, end: date, store: dict[str, Any])
         num_retries=int(settings["num_retries"]),
     )
     papers = store.setdefault("papers", {})
+    failures: list[str] = []
     for window_start, window_end in _month_windows(start, end):
         date_filter = (
             f"submittedDate:[{window_start:%Y%m%d}0000 TO {window_end:%Y%m%d}2359]"
@@ -131,12 +135,29 @@ def fetch(config: dict[str, Any], start: date, end: date, store: dict[str, Any])
                 sort_order=arxiv.SortOrder.Descending,
             )
             count = 0
-            for result in client.results(search):
-                incoming = _paper_from_result(result, query["name"])
-                paper_id = incoming["arxiv_id"]
-                papers[paper_id] = _merge_paper(papers.get(paper_id), incoming)
-                count += 1
+            try:
+                for result in client.results(search):
+                    incoming = _paper_from_result(result, query["name"])
+                    paper_id = incoming["arxiv_id"]
+                    papers[paper_id] = _merge_paper(papers.get(paper_id), incoming)
+                    count += 1
+            except (
+                arxiv.HTTPError,
+                arxiv.UnexpectedEmptyPageError,
+                requests.exceptions.RequestException,
+            ) as exc:
+                failure = f"{query['name']} ({window_start}..{window_end})"
+                failures.append(failure)
+                LOG.warning(
+                    "skipping query=%s window=%s..%s after arXiv API retries: %s",
+                    query["name"],
+                    window_start,
+                    window_end,
+                    exc,
+                )
+                continue
             LOG.info("query=%s results=%d", query["name"], count)
+    return failures
 
 
 def reclassify(config: dict[str, Any], store: dict[str, Any]) -> None:
@@ -182,7 +203,13 @@ def main() -> None:
         parser.error("start date must not be after end date")
 
     if not args.rebuild_only:
-        fetch(config, start, end, store)
+        failures = fetch(config, start, end, store)
+        if failures:
+            LOG.warning(
+                "archive rebuilt from available results; skipped %d transiently failing queries: %s",
+                len(failures),
+                ", ".join(failures),
+            )
     reclassify(config, store)
     store["schema_version"] = 1
     store["coverage_start"] = config["archive"]["start_date"]

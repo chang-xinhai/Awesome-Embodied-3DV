@@ -3,8 +3,10 @@ archive:
   start_date: "2025-01-01"
   lookback_days: 14
   page_size: 100
-  delay_seconds: 3.1
-  num_retries: 8
+  # GitHub-hosted runners share egress IPs, so stay well clear of arXiv's
+  # request limit and tolerate a longer burst of transient 429/503 responses.
+  delay_seconds: 10
+  num_retries: 10
   max_results_per_window: 5000
 
 validation:
