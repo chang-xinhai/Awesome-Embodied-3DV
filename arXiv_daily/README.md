@@ -2,13 +2,13 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-06 · **Unique papers:** 8178
+**Coverage:** 2025-01-01 to 2026-08-06 · **Unique papers:** 8184
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1634 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 1640 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2782 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 2666 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 890 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
@@ -21,16 +21,16 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-08-05 — [An active-learning framework for real-time depth perception from monocular vision streams](https://arxiv.org/abs/2608.04917)
+- 2026-08-05 — [Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://arxiv.org/abs/2608.04865)
+- 2026-08-05 — [From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline](https://arxiv.org/abs/2608.04769)
+- 2026-08-05 — [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](https://arxiv.org/abs/2608.04737)
+- 2026-08-05 — [YOLOv14:Unified Cross-Domain Real-Time Object Detectionwith Adaptive Multi-View Representation](https://arxiv.org/abs/2608.04720)
+- 2026-08-04 — [TriCLE: Tri-Modal Vision-Language Reasoning for Edge-Deployed Fine-Grained Clustering](https://arxiv.org/abs/2608.04175)
 - 2026-08-04 — [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851)
 - 2026-08-04 — [XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2608.03666)
 - 2026-08-04 — [PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints](https://arxiv.org/abs/2608.03296)
 - 2026-08-03 — [PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks](https://arxiv.org/abs/2608.02792)
-- 2026-08-03 — [Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation](https://arxiv.org/abs/2608.02257)
-- 2026-08-03 — [GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation](https://arxiv.org/abs/2608.02068)
-- 2026-08-02 — [Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning](https://arxiv.org/abs/2608.01488)
-- 2026-08-02 — [FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity](https://arxiv.org/abs/2608.01129)
-- 2026-08-02 — [Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM](https://arxiv.org/abs/2608.00925)
-- 2026-08-01 — [E2Pano: Learning Event-to-Panorama Image Reconstruction](https://arxiv.org/abs/2608.00694)
 
 ### 3D/4D Representation
 

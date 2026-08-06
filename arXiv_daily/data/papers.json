@@ -109,6 +109,79 @@
         ]
       }
     },
+    "2608.04917": {
+      "arxiv_id": "2608.04917",
+      "title": "An active-learning framework for real-time depth perception from monocular vision streams",
+      "abstract": "Biological visual systems can perceive depth from monocular vision flow, continuously integrating temporal visual cues while maintaining a balance between stability and plasticity in dynamic environments. In contrast, artificial perception models deployed on resource-constrained edge devices are typically trained in a static offline manner and remain frozen after deployment, often suffering severe performance degradation under domain shifts. While large-scale models may encode broad knowledge through massive parameter redundancy, lightweight networks face a static optimization dilemma: forcing compact models to learn universal geometric representations is computationally inefficient and often leads to performance saturation. To resolve this issue, an Online Active Learning (OAL) mechanism is introduced to endow compact neural networks with the capability to adapt continuously during operation. A closed-loop Predict-Evaluate-Correct learning paradigm is established to actively select high-confidence, information-rich signals from streaming visual input. Crucially, Elastic Weight Consolidation (EWC) is employed not merely to prevent catastrophic forgetting, but to enforce Selective Plasticity, preserving parameters that encode globally relevant structural knowledge while allowing local alignment to newly observed environments. Built upon a MobileNetV3-Small backbone, the proposed system achieves approximately a 75% reduction in computational cost while maintaining competitive depth estimation accuracy. Experimental results demonstrate that adaptability is not solely determined by model size, but rather by how effectively parameter plasticity is regulated in dynamic environments.",
+      "authors": [
+        "Xiaorong Zeng",
+        "Weiqiang Chen",
+        "Peng Shi",
+        "Liang Su",
+        "Zirui Wang",
+        "Xuewu Ji",
+        "Shuiwen Shen"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04917",
+      "pdf_url": "https://arxiv.org/pdf/2608.04917",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2608.04865": {
+      "arxiv_id": "2608.04865",
+      "title": "Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen",
+      "abstract": "Event cameras, also known as neuromorphic cameras, have gained significant attention in recent years due to their high temporal resolution, high dynamic range, and low power consumption. While many studies and datasets in neuromorphic vision have focused on automotive and drone applications, human-centric daily-life scenarios remain largely underrepresented, despite their importance for developing and benchmarking event-based perception systems. Moreover, the few existing event-based human activity datasets are typically recorded with scripted human actions, limiting their ability to capture natural human behaviors. In this paper, we introduce EventKitchen, a large-scale stereo event camera benchmark dataset of human cooking activities in the kitchen. EventKitchen is egocentrically collected from 10 participants in 13 diverse kitchens, where the participants wear a helmet with multiple sensors and naturally perform cooking activities, without any scripted actions. EventKitchen comprises 5.5 hours of stereo event recordings with synchronized RGB, depth, and IMU data. We provide human annotations for 10,762 action segments and 13,482 bounding boxes. We train baseline models on EventKitchen to perform multiple event-based tasks, including action recognition, object detection, and stereo depth estimation. By capturing natural, real-world human activities, EventKitchen establishes a challenging benchmark for neuromorphic vision beyond autonomous driving.",
+      "authors": [
+        "Chengming Feng",
+        "Hesam Araghi",
+        "Liming Zheng",
+        "Julien Dupeyroux",
+        "Xucong Zhang",
+        "Jan van Gemert",
+        "Nergis Tömen"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Accepted at ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04865",
+      "pdf_url": "https://arxiv.org/pdf/2608.04865",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior",
+          "Non-RGB Sensing"
+        ]
+      }
+    },
     "2608.04842": {
       "arxiv_id": "2608.04842",
       "title": "RORA: Realistic Object Reconstruction with Articulation",
@@ -163,6 +236,39 @@
         ]
       }
     },
+    "2608.04769": {
+      "arxiv_id": "2608.04769",
+      "title": "From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline",
+      "abstract": "This paper presents an edge-aware instance segmentation framework that enables real-time robotic collision avoidance with transparent laboratory glassware using purely visual perception. Transparent vessels defy conventional segmentation due to refraction, specular reflection, and the absence of stable interior texture, yet their boundary contours remain comparatively reliable visual cues. Exploiting this observation, we augment a one-stage real-time instance segmentation backbone with a lightweight edge-detection branch, edge-guided attention fusion, and a parameter-free SimAM module, and further construct LabGlass-IS, a 3485-image, 21-category instance segmentation dataset of real laboratory glassware. The enhanced model achieves the highest Boundary F-score of 97.80 among compared methods, outperforming the YOLO-prompted FastSAM framework by 18.93 BF points. Furthermore, it maintains an inference speed of 7.1ms per frame and requires only 2.85% of the parameters of the closest accuracy competitor. Multi-view triangulation of mask centroids further provides 3D positions for conservative bounding-volume collision constraints. Real-robot trials achieve a 93.3% collision avoidance success rate, indicating the feasibility of the proposed perception-to-action pipeline for robot collision avoidance among fragile transparent objects. Our code is available at https://github.com/havishamy/TransYOLO_3D. Our video is available at https://havishamy.github.io/paper-videos/.",
+      "authors": [
+        "Shijun Ding",
+        "Chen Qian",
+        "Weiwei Shang",
+        "Junlin Xiong"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04769",
+      "pdf_url": "https://arxiv.org/pdf/2608.04769",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Transparent / Specular"
+        ]
+      }
+    },
     "2608.04765": {
       "arxiv_id": "2608.04765",
       "title": "Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models",
@@ -194,6 +300,75 @@
       "matches": {
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.04737": {
+      "arxiv_id": "2608.04737",
+      "title": "Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors",
+      "abstract": "Direct Time-of-Flight (dToF) sensors provide highly accurate metric depth and are more robust than indirect ToF systems in challenging real-world conditions. However, their high manufacturing cost and limited photodiode array size produce depth maps that are extremely sparse, low-resolution, and noisy, making them unsuitable for VR/XR, robotics, and 3D perception tasks that require dense metric depth. Existing monocular and depth completion methods struggle to handle the unique sampling patterns and hardware artifacts of dToF devices, and their performance often deteriorates significantly under severe sparsity or noise. We present a generalizable framework for dense metric depth completion from sparse dToF measurements, capable of operating across diverse sensor types, sparsity levels, and noise conditions. Our model employs a depth-guided dual-branch Vision Transformer encoder that processes RGB images and sparse dToF measurements separately, while a masked joint attention module allows depth tokens to reliably guide image features without being overwritten by them. A lightweight decoder reconstructs dense metric depth efficiently, without diffusion-based or refinement-heavy post-processing. To address the scarcity of paired training data, we introduce a comprehensive dToF simulation pipeline that reproduces the characteristics of flash, sub-VGA flash, and rotating sensors, including hardware-induced degradation, irregular sparsity, and realistic noise distributions. Trained entirely on synthetic data, our model achieves strong zero-shot generalization across 6 datasets and 3 real dToF devices, outperforming state-of-the-art approaches in both accuracy and computational efficiency. This establishes a robust and practical solution for dense metric depth completion from sparse direct ToF sensors. Our code and models are open-sourced. See https://vclab.kaist.ac.kr/cvpr2026p3.",
+      "authors": [
+        "Hakyeong Kim",
+        "Ruicheng Wang",
+        "Chengtang Yao",
+        "Jiaolong Yang",
+        "Min H. Kim"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": null,
+      "journal_ref": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026",
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04737",
+      "pdf_url": "https://arxiv.org/pdf/2608.04737",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior",
+          "Active Imaging"
+        ]
+      }
+    },
+    "2608.04720": {
+      "arxiv_id": "2608.04720",
+      "title": "YOLOv14:Unified Cross-Domain Real-Time Object Detectionwith Adaptive Multi-View Representation",
+      "abstract": "Real-time object detectors achieve remarkable accuracy under controlled conditions, yet degrade sharply on non-ideal inputs: fisheye distortion, game-rendered characters, aerial viewpoints, and 360° panoramas. We present YOLOv14, aunified detection framework addressing these challenges through four synergisticinnovations. (1) Deformable Area-Attention (D-AAttn) replaces rigid attentiongrids with learned 2D deformation fields, enabling adaptive sampling under geometric distortion. (2) Game2Real Domain Adaptation aligns rendered-game and photographic feature distributions via Adaptive Instance Normalization (AdaIN)and adversarial domain confusion, allowing game characters are detected as realhumans. (3) Multi-View Conditioning injects learned viewpoint embeddings intothe backbone with a cross-view contrastive loss that pulls same-class features fromdifferent perspectives closer. (4) An Adaptive Augmentation Policy automaticallyclassifies each input' scene type and routes to optimal augmentations, while a DynamicScaleRouter learns per-input feature pyramid weights. Together, YOLOv14achieves 49.1 mAP on COCO val2017 at 2.91 ms (T4 GPU), and delivers substantial gains on fisheye (+4.1 mAP), panorama (+6.6 mAP), drone (+6.4 mAP), andgame-character (+26.1 mAP) benchmarks",
+      "authors": [
+        "Jinling Jia",
+        "Jian Lu",
+        "Jone Yawl",
+        "Chenbin Zhang"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04720",
+      "pdf_url": "https://arxiv.org/pdf/2608.04720",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
         ]
       }
     },
@@ -420,6 +595,42 @@
       "matches": {
         "reconstruction": [
           "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2608.04175": {
+      "arxiv_id": "2608.04175",
+      "title": "TriCLE: Tri-Modal Vision-Language Reasoning for Edge-Deployed Fine-Grained Clustering",
+      "abstract": "Edge platforms used for aerial observation must interpret aircraft imagery under limited memory, limited compute, and intermittent connectivity. This setting is difficult for standard RGB-only recognition models and general-purpose vision-language models, especially when calibrated thermal and LiDAR aircraft data are unavailable. We present TriCLE, an application-oriented tri-modal vision-language system for aircraft taxonomic grouping under edge constraints. From a single RGB aircraft image, TriCLE generates a structure-preserving FLIR-style thermal view and a pseudo-LiDAR depth projection, then fuses the aligned views with task instructions in a compact Qwen3-VL backbone. The model is aligned to an expert aircraft taxonomy based on propulsion, airframe family, size, design era, and configuration, so its outputs reflect engineering-relevant similarity rather than only surface appearance. We evaluate supervised fine-tuning, rotation-preserving SFT, and three policy-alignment strategies: GRPO, GSPO, and DAPO. Sequence-level GSPO gives the strongest validation performance, reaching 88.33\\% validation accuracy and 0.91 weighted F1 on valid aircraft outputs. On a held-out aircraft test partition, GSPO achieves 78.00\\% accuracy and 0.793 weighted F1 while preserving 94.00\\% parseable output formatting. After 4-bit quantization and attention-memory optimization, the aligned 4B model fits an 8GB deployment target and processes each tri-modal triplet in 1.48 seconds. These results support TriCLE as a practical prototype for interpretable, edge-feasible aircraft grouping, while emphasizing the need for further validation on real aligned thermal and LiDAR sensor streams.",
+      "authors": [
+        "Kishor Datta Gupta",
+        "Md. Mahfuzur Rahman",
+        "Fahad Rahman",
+        "Ahmed Rafi Hasan",
+        "Faysal Mehrab Chowdhury",
+        "Mohd Ariful Haque",
+        "Roy George"
+      ],
+      "published": "2026-08-04",
+      "updated": "2026-08-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.04175",
+      "pdf_url": "https://arxiv.org/pdf/2608.04175",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -3971,13 +4182,13 @@
     "2607.27825": {
       "arxiv_id": "2607.27825",
       "title": "Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction",
-      "abstract": "Reconstructing dynamic surgical scenes is crucial for robot-assisted minimally invasive surgery; however, it continues to be difficult because of tissue deformation, occlusions, specular reflections, and restricted viewpoints. In this study, we introduce Endo-NeRF++, a neural rendering framework that accounts for uncertainty in the reconstruction of dynamic surgical scenes. Expanding on EndoNeRF, the suggested approach incorporates multi-resolution hash-grid encoding, temporal feature merging, and uncertainty-informed adaptive sampling to enhance reconstruction accuracy and temporal coherence in deformable endoscopic scenes.The multi-resolution hash-grid representation within the framework effectively captures both coarse and fine anatomical details, while temporal feature blending ensures stable reconstruction during tissue deformation and surgical tool occlusions. Additionally, uncertainty-driven adaptive sampling assigns more samples to uncertain areas to enhance rendering quality and geometric coherence. Experiments on robotic surgical video sequences demonstrate that the proposed uncertainty-guided adaptive sampling improves PSNR by up to 1.22\\,dB (4.3\\%), increases SSIM by up to 5.3\\%, and reduces LPIPS by up to 55.1\\% compared with the EndoNeRF baseline.",
+      "abstract": "Reconstructing dynamic surgical scenes is crucial for robot-assisted minimally invasive surgery; however, it continues to be difficult because of tissue deformation, occlusions, specular reflections, and restricted viewpoints. In this study, we introduce Endo-NeRF++, a neural rendering framework that accounts for uncertainty in the reconstruction of dynamic surgical scenes. Expanding on EndoNeRF, the suggested approach incorporates multi-resolution hash-grid encoding, temporal feature merging, and uncertainty-informed adaptive sampling to enhance reconstruction accuracy and temporal coherence in deformable endoscopic scenes.The multi-resolution hash-grid representation within the framework effectively captures both coarse and fine anatomical details, while temporal feature blending ensures stable reconstruction during tissue deformation and surgical tool occlusions. Additionally, uncertainty-driven adaptive sampling assigns more samples to uncertain areas to enhance rendering quality and geometric coherence. Experiments on robotic surgical video sequences demonstrate that the proposed uncertainty-guided adaptive sampling improves PSNR by up to 1.22dB (4.3%), increases SSIM by up to 5.3%, and reduces LPIPS by up to 55.1% compared with the EndoNeRF baseline.",
       "authors": [
         "Gousia Habib",
         "Laura Ruotsalainen"
       ],
       "published": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-08-05",
       "primary_category": "eess.IV",
       "categories": [
         "eess.IV",
@@ -5073,7 +5284,7 @@
         "Shi Jin"
       ],
       "published": "2026-07-28",
-      "updated": "2026-07-28",
+      "updated": "2026-08-05",
       "primary_category": "eess.SP",
       "categories": [
         "eess.SP",
@@ -5081,7 +5292,7 @@
         "cs.CV",
         "cs.IT"
       ],
-      "comment": null,
+      "comment": "A collection of paper on 3DGS for Wireless Communications can be found at https://github.com/AI4Wireless/3DGS4Wireless",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2607.25569",
@@ -306242,6 +306453,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-06",
-  "paper_count": 8178,
-  "generated_at": "2026-08-06T03:16:47+00:00"
+  "paper_count": 8184,
+  "generated_at": "2026-08-06T14:09:22+00:00"
 }
