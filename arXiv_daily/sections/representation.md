@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 2777 · **Unique arXiv IDs:** 2777
+**Coverage:** 2025-01-01 to 2026-08-06 · **Papers:** 2782 · **Unique arXiv IDs:** 2782
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
+| 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Gaussian Splatting, Radiance Field / NeRF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
+| 2026-08-05 | [UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701) | Haiyang Zhou, Wangbo Yu, Chaoran Feng, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.04701) / [pdf](https://arxiv.org/pdf/2608.04701) |
+| 2026-08-05 | [ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields](https://arxiv.org/abs/2608.04581) | Seunghyeon Song, Joo Chan Lee, Chanung Park, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.04581) / [pdf](https://arxiv.org/pdf/2608.04581) |
+| 2026-08-05 | [OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560) | Xia Yan, He Wu, Yanghui Xu, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.04560) / [pdf](https://arxiv.org/pdf/2608.04560) |
 | 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
 | 2026-08-04 | [3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279) | Yuke Xing, Jiarui Wang, William Gordon, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.03279) / [pdf](https://arxiv.org/pdf/2608.03279) |
 | 2026-08-04 | [Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing](https://arxiv.org/abs/2608.03023) | Changhao Zhao, Haoxiang Li, Yuke Li, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.03023) / [pdf](https://arxiv.org/pdf/2608.03023) |

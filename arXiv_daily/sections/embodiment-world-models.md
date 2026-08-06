@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 1950 · **Unique arXiv IDs:** 1950
+**Coverage:** 2025-01-01 to 2026-08-06 · **Papers:** 1956 · **Unique arXiv IDs:** 1956
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-05 | [HelloWorld: Enabling Socially Interactive Characters in Video World Models](https://arxiv.org/abs/2608.05070) | Liangyang Ouyang, Ruicong Liu, Xuangeng Chu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.05070) / [pdf](https://arxiv.org/pdf/2608.05070) |
+| 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
+| 2026-08-05 | [Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models](https://arxiv.org/abs/2608.04765) | Houze Xu, Jizhong Li, Ziyi Ye | cs.RO, cs.AI, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04765) / [pdf](https://arxiv.org/pdf/2608.04765) |
+| 2026-08-05 | [OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560) | Xia Yan, He Wu, Yanghui Xu, et al. | cs.CV, cs.GR | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.04560) / [pdf](https://arxiv.org/pdf/2608.04560) |
+| 2026-08-05 | [Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation](https://arxiv.org/abs/2608.04378) | Scott H. Hawley | cs.SD, cs.LG, eess.AS | World Model | [abs](https://arxiv.org/abs/2608.04378) / [pdf](https://arxiv.org/pdf/2608.04378) |
+| 2026-08-04 | [SAFECAST: Robust Failure Detection for VLA Policies with Contrast-Set Training and Calibration](https://arxiv.org/abs/2608.04246) | Harshitha Rajaprakash, Aditeya Prajapati, Rong Xue, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04246) / [pdf](https://arxiv.org/pdf/2608.04246) |
 | 2026-08-04 | [TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2608.03763) | Qingxi Du, Junbo Wang, Yuke Li, et al. | cs.CV | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2608.03763) / [pdf](https://arxiv.org/pdf/2608.03763) |
 | 2026-08-04 | [Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems](https://arxiv.org/abs/2608.03413) | Zuojun Max Shen, Yuan Qu, Pujun Zhang, et al. | cs.AI, cs.ET | World Model | [abs](https://arxiv.org/abs/2608.03413) / [pdf](https://arxiv.org/pdf/2608.03413) |
 | 2026-08-04 | [CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction](https://arxiv.org/abs/2608.03211) | Wanhao Liu, Jinsong Lin, Rulin Zhou, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.03211) / [pdf](https://arxiv.org/pdf/2608.03211) |

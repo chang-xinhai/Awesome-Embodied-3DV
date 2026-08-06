@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 2660 · **Unique arXiv IDs:** 2660
+**Coverage:** 2025-01-01 to 2026-08-06 · **Papers:** 2666 · **Unique arXiv IDs:** 2666
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
+| 2026-08-05 | [Beyond Reprojection Error: Camera Calibration with 3D Targets](https://arxiv.org/abs/2608.05066) | Dennis Ruppel, Hasan Kutlu, Kai A. Neumann, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05066) / [pdf](https://arxiv.org/pdf/2608.05066) |
+| 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
+| 2026-08-05 | [UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701) | Haiyang Zhou, Wangbo Yu, Chaoran Feng, et al. | cs.CV | Dynamic Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.04701) / [pdf](https://arxiv.org/pdf/2608.04701) |
+| 2026-08-04 | [PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210) | Ruiqi Wang, Yiming Qian, Fenggen Yu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.04210) / [pdf](https://arxiv.org/pdf/2608.04210) |
+| 2026-08-04 | [Kitchen Robotic Manipulation utilizing Foundation Models](https://arxiv.org/abs/2608.04042) | Myung-Hwan Jeon, Sankalp Yamsani, Joohyung Kim | cs.RO | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.04042) / [pdf](https://arxiv.org/pdf/2608.04042) |
 | 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
 | 2026-08-04 | [Dual-domain U-Nets with embedded back projection operators for motion-resolved 4D CBCT reconstruction](https://arxiv.org/abs/2608.03430) | Ivo Herzig, Pascal Paysan, Daniel Barco, et al. | cs.CV, cs.LG | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03430) / [pdf](https://arxiv.org/pdf/2608.03430) |
 | 2026-08-04 | [SLAMFormer-$\infty$: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing](https://arxiv.org/abs/2608.03429) | Zhijian Fang, Weicheng Zheng, Yijun Yuan, et al. | cs.CV, cs.RO | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2608.03429) / [pdf](https://arxiv.org/pdf/2608.03429) |

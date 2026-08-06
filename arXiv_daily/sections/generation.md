@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-05 · **Papers:** 888 · **Unique arXiv IDs:** 888
+**Coverage:** 2025-01-01 to 2026-08-06 · **Papers:** 890 · **Unique arXiv IDs:** 890
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,8 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-04 | [EditFlow3D: Automated Local Editing of 3D Assets with Trajectory Preservation](https://arxiv.org/abs/2608.03179) | Rui Nie, Chuang Wang, Haitao Zhou, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2608.03179) / [pdf](https://arxiv.org/pdf/2608.03179) |
 | 2026-08-04 | [Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation](https://arxiv.org/abs/2608.03064) | Jialu Huang, Yingxuan You, Fei Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.03064) / [pdf](https://arxiv.org/pdf/2608.03064) |
+| 2026-08-03 | [Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences](https://arxiv.org/abs/2608.04037) | Yi-Chun Chen | cs.CL, cs.AI, cs.GR | Scene / World Generation | [abs](https://arxiv.org/abs/2608.04037) / [pdf](https://arxiv.org/pdf/2608.04037) |
 | 2026-08-03 | [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://arxiv.org/abs/2608.02711) | Junliang Ye, Kenkun Liu, Guocun Wang, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2608.02711) / [pdf](https://arxiv.org/pdf/2608.02711) |
 | 2026-08-03 | [Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling](https://arxiv.org/abs/2608.02016) | Kaiyi Zhang, Zhihao Liang, Haolin Liu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.02016) / [pdf](https://arxiv.org/pdf/2608.02016) |
 | 2026-08-03 | [PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent](https://arxiv.org/abs/2608.01825) | Guangming Fu, Jin Song, Yiyun Fei, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.01825) / [pdf](https://arxiv.org/pdf/2608.01825) |
