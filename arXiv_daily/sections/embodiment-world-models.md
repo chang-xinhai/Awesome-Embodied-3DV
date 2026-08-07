@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-06 · **Papers:** 1956 · **Unique arXiv IDs:** 1956
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 1957 · **Unique arXiv IDs:** 1957
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -76,6 +76,7 @@
 | 2026-07-24 | [ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2607.22530) | Yunao Huang, Shiyu Sang, Haotao Lu, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2607.22530) / [pdf](https://arxiv.org/pdf/2607.22530) |
 | 2026-07-24 | [On the Identifiability of Controlled World Models](https://arxiv.org/abs/2607.22430) | Xiangteng Zhang, Yang Guan, Bo Zhang, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2607.22430) / [pdf](https://arxiv.org/pdf/2607.22430) |
 | 2026-07-24 | [Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound](https://arxiv.org/abs/2607.21918) | Siqi Fan, Mingcong Chen, Ran Liu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2607.21918) / [pdf](https://arxiv.org/pdf/2607.21918) |
+| 2026-07-24 | [TRW: TRACE-RealWorld---An Auditable Consistency Contract for World Models as Materialized Views](https://arxiv.org/abs/2607.21910) | Edward Y. Chang | cs.AI, cs.DB | World Model | [abs](https://arxiv.org/abs/2607.21910) / [pdf](https://arxiv.org/pdf/2607.21910) |
 | 2026-07-23 | [Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization](https://arxiv.org/abs/2607.21341) | Wun Lam Yeung, Wenjun Liu, Yui Cheung Yu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2607.21341) / [pdf](https://arxiv.org/pdf/2607.21341) |
 | 2026-07-23 | [FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor](https://arxiv.org/abs/2607.21227) | Kyupaeck Jeff Rah, Midum Oh | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2607.21227) / [pdf](https://arxiv.org/pdf/2607.21227) |
 | 2026-07-23 | [TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation](https://arxiv.org/abs/2607.21017) | Boyuan Wang, Yue Zhang, Xutao Xue, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2607.21017) / [pdf](https://arxiv.org/pdf/2607.21017) |

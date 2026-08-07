@@ -2,7 +2,7 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-06 · **Unique papers:** 8184
+**Coverage:** 2025-01-01 to 2026-08-07 · **Unique papers:** 8185
 
 ## Sections
 
@@ -12,7 +12,7 @@
 | [3D/4D Representation](sections/representation.md) | 2782 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 2666 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 890 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
-| [Embodiment & World Models](sections/embodiment-world-models.md) | 1956 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
+| [Embodiment & World Models](sections/embodiment-world-models.md) | 1957 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 483 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.

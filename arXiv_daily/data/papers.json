@@ -4795,13 +4795,13 @@
         "Yichao Yan"
       ],
       "published": "2026-07-29",
-      "updated": "2026-08-03",
+      "updated": "2026-08-06",
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO",
         "cs.CV"
       ],
-      "comment": null,
+      "comment": "project page, https://zwl666666.github.io/enfold/",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2607.26657",
@@ -7070,6 +7070,37 @@
       "doi": null,
       "url": "https://arxiv.org/abs/2607.21918",
       "pdf_url": "https://arxiv.org/pdf/2607.21918",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2607.21910": {
+      "arxiv_id": "2607.21910",
+      "title": "TRW: TRACE-RealWorld---An Auditable Consistency Contract for World Models as Materialized Views",
+      "abstract": "World models let agents plan against predicted physical state, but that state drifts; re-observation is costly and delayed, and repair can fail. We present TRACE-RealWorld (TRW), to our knowledge the first commitment-level consistency contract for world models. TRW treats predicted state as a materialized view and a physical commitment as a read whose authorization can expire. Typed, calibrated claims specify consequence-conditioned freshness and priced verification. Adaptive refresh generalizes dual-Kalman synchronization to consult the world when evidence could change a decision; dependency-scoped SagaLLM compensation repairs reversible commitments invalidated after authorization. Under an event-aligned risk oracle and recovery-liveness assumptions, we prove that synchronization and compensation are insufficient alone, whereas their composition gives a conditional consistency guarantee. Otherwise, the argument yields an auditable decomposition of violations into named debts. We implement TRW in Flood-SAR, a search-and-rescue simulator over real geography, and test six preregistered questions at frozen operating points on held-out seeds. Adaptive refresh reduces stale execution but does not dominate fixed refresh on cost, coverage, or rescue outcomes. Localized repair reduces repair work by 9.56 units per mission and restoration latency by 80.7 seconds relative to global recovery; the observed residual-violation difference is zero without establishing equivalence. Detection coverage is 0.83-0.89, and 10 of 97 invoked restorations are incomplete by mission end. The campaign treats empirical slack as sensitivity inputs rather than discharging the theorem's assumptions or providing a simultaneous population certificate. Exact replay reconstructs a disputed dispatch. TRW thus makes a world model an auditable predictive interface rather than a self-validating source of truth.",
+      "authors": [
+        "Edward Y. Chang"
+      ],
+      "published": "2026-07-24",
+      "updated": "2026-08-06",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.DB"
+      ],
+      "comment": "v2 propagates declared point and extended hazards through the composition theorem and separates point-event from interval-risk budgets. It aligns Flood-SAR adjudication with each hazard class, sharpens calibration-slack and drift claims, adds bootstrap Monte Carlo error and joint-coverage requirements, revises terminology, and expands related-work context",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2607.21910",
+      "pdf_url": "https://arxiv.org/pdf/2607.21910",
       "query_sources": [
         "embodied-world-models"
       ],
@@ -306452,7 +306483,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-08-06",
-  "paper_count": 8184,
-  "generated_at": "2026-08-06T14:09:22+00:00"
+  "coverage_end": "2026-08-07",
+  "paper_count": 8185,
+  "generated_at": "2026-08-07T03:32:53+00:00"
 }
