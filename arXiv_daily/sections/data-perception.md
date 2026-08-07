@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 1640 · **Unique arXiv IDs:** 1640
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 1642 · **Unique arXiv IDs:** 1642
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |
+| 2026-08-06 | [A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence](https://arxiv.org/abs/2608.05570) | Jiapeng Chi, Gerd Bruder, Carsten Neumann, et al. | cs.HC, cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.05570) / [pdf](https://arxiv.org/pdf/2608.05570) |
 | 2026-08-05 | [An active-learning framework for real-time depth perception from monocular vision streams](https://arxiv.org/abs/2608.04917) | Xiaorong Zeng, Weiqiang Chen, Peng Shi, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.04917) / [pdf](https://arxiv.org/pdf/2608.04917) |
 | 2026-08-05 | [Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://arxiv.org/abs/2608.04865) | Chengming Feng, Hesam Araghi, Liming Zheng, et al. | cs.CV | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.04865) / [pdf](https://arxiv.org/pdf/2608.04865) |
 | 2026-08-05 | [From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline](https://arxiv.org/abs/2608.04769) | Shijun Ding, Chen Qian, Weiwei Shang, et al. | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2608.04769) / [pdf](https://arxiv.org/pdf/2608.04769) |

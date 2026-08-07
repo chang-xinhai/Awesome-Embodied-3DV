@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 2666 · **Unique arXiv IDs:** 2666
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 2668 · **Unique arXiv IDs:** 2668
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |
+| 2026-08-06 | [OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction](https://arxiv.org/abs/2608.05539) | Taiting Lu, Runze Liu, Ziwei Dong, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05539) / [pdf](https://arxiv.org/pdf/2608.05539) |
 | 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
 | 2026-08-05 | [Beyond Reprojection Error: Camera Calibration with 3D Targets](https://arxiv.org/abs/2608.05066) | Dennis Ruppel, Hasan Kutlu, Kai A. Neumann, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05066) / [pdf](https://arxiv.org/pdf/2608.05066) |
 | 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |

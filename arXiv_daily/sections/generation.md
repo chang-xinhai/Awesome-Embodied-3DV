@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 890 · **Unique arXiv IDs:** 890
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 894 · **Unique arXiv IDs:** 894
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332) | Chenghao Gu, Hanyang Yu, Jingbo Zhang, et al. | cs.RO | Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.06332) / [pdf](https://arxiv.org/pdf/2608.06332) |
+| 2026-08-06 | [To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation](https://arxiv.org/abs/2608.05879) | Xiaobin Huang, Zilong Huang, Yang Luo, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2608.05879) / [pdf](https://arxiv.org/pdf/2608.05879) |
+| 2026-08-06 | [CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer](https://arxiv.org/abs/2608.05482) | Wentao Sun, Yiping Chen, Zhengsen Xu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.05482) / [pdf](https://arxiv.org/pdf/2608.05482) |
+| 2026-08-05 | [WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248) | Chunchao Guo, Jinpeng Li, Yang Li, et al. | cs.AI, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.05248) / [pdf](https://arxiv.org/pdf/2608.05248) |
 | 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-04 | [EditFlow3D: Automated Local Editing of 3D Assets with Trajectory Preservation](https://arxiv.org/abs/2608.03179) | Rui Nie, Chuang Wang, Haitao Zhou, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2608.03179) / [pdf](https://arxiv.org/pdf/2608.03179) |
 | 2026-08-04 | [Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation](https://arxiv.org/abs/2608.03064) | Jialu Huang, Yingxuan You, Fei Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.03064) / [pdf](https://arxiv.org/pdf/2608.03064) |

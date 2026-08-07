@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 2782 · **Unique arXiv IDs:** 2782
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 2787 · **Unique arXiv IDs:** 2787
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |
+| 2026-08-06 | [Floating Radiance Networks](https://arxiv.org/abs/2608.05920) | Krzysztof Byrski, Rafał Tobiasz, Grzegorz Wilczyński, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.05920) / [pdf](https://arxiv.org/pdf/2608.05920) |
+| 2026-08-06 | [G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704) | Puyuan Zhang, Jianming Huang, Wenkai Ye, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.05704) / [pdf](https://arxiv.org/pdf/2608.05704) |
+| 2026-08-06 | [ESVR: 3D Ellipsoid-based Sparse Volume Rendering via Structure-aware Primitive Learning and Per-primitive Ray Sampling](https://arxiv.org/abs/2608.05564) | Suemin Jeon, Youjin Kim, Jungwoo Park, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.05564) / [pdf](https://arxiv.org/pdf/2608.05564) |
+| 2026-08-06 | [CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer](https://arxiv.org/abs/2608.05482) | Wentao Sun, Yiping Chen, Zhengsen Xu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.05482) / [pdf](https://arxiv.org/pdf/2608.05482) |
 | 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
 | 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Gaussian Splatting, Radiance Field / NeRF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-05 | [UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701) | Haiyang Zhou, Wangbo Yu, Chaoran Feng, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.04701) / [pdf](https://arxiv.org/pdf/2608.04701) |

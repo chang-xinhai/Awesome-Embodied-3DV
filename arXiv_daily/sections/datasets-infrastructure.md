@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 483 · **Unique arXiv IDs:** 483
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 484 · **Unique arXiv IDs:** 484
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [Depth-Guided Video Object Counting in Crowded Scenes](https://arxiv.org/abs/2608.06236) | Yuanjing Xu, Xinyan Liu, Weidong Chen, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.06236) / [pdf](https://arxiv.org/pdf/2608.06236) |
 | 2026-08-05 | [OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560) | Xia Yan, He Wu, Yanghui Xu, et al. | cs.CV, cs.GR | Dataset | [abs](https://arxiv.org/abs/2608.04560) / [pdf](https://arxiv.org/pdf/2608.04560) |
 | 2026-08-04 | [3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279) | Yuke Xing, Jiarui Wang, William Gordon, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.03279) / [pdf](https://arxiv.org/pdf/2608.03279) |
 | 2026-08-03 | [Modeling Scientific Experiment Scenes: Dataset and Model](https://arxiv.org/abs/2608.02892) | Minghao Zou, Qingtian Zeng, Shangkun Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.02892) / [pdf](https://arxiv.org/pdf/2608.02892) |

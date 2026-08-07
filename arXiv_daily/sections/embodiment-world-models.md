@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 1957 · **Unique arXiv IDs:** 1957
+**Coverage:** 2025-01-01 to 2026-08-07 · **Papers:** 1966 · **Unique arXiv IDs:** 1966
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-06 | [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332) | Chenghao Gu, Hanyang Yu, Jingbo Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.06332) / [pdf](https://arxiv.org/pdf/2608.06332) |
+| 2026-08-06 | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.06197) | Zishan Xu, Zhiyuan Yao, Yuxin Chen, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.06197) / [pdf](https://arxiv.org/pdf/2608.06197) |
+| 2026-08-06 | [From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models](https://arxiv.org/abs/2608.06020) | Jiale Han, Xiang Li, Jing Qian, et al. | cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06020) / [pdf](https://arxiv.org/pdf/2608.06020) |
+| 2026-08-06 | [TRACE: Learned Proprioceptive Odometry for Legged Robots under Unreliable Contact Conditions](https://arxiv.org/abs/2608.05975) | Taehyeon Kong, Woojin Kim, Jemin Hwangbo | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.05975) / [pdf](https://arxiv.org/pdf/2608.05975) |
+| 2026-08-06 | [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891) | Weikai Xu, Yunren Feng, Haoxiang Lei, et al. | cs.AI, cs.CL | World Model | [abs](https://arxiv.org/abs/2608.05891) / [pdf](https://arxiv.org/pdf/2608.05891) |
+| 2026-08-06 | [LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models](https://arxiv.org/abs/2608.05706) | Jiarui Yang, Jiale Zhange, Jiawei Li, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.05706) / [pdf](https://arxiv.org/pdf/2608.05706) |
+| 2026-08-06 | [DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model](https://arxiv.org/abs/2608.05695) | Wenhao Lin, Chenyu Yu, Xingwei Lin, et al. | cs.AI, cs.CL, cs.CR | World Model | [abs](https://arxiv.org/abs/2608.05695) / [pdf](https://arxiv.org/pdf/2608.05695) |
+| 2026-08-06 | [JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment](https://arxiv.org/abs/2608.05674) | JoyAI-RA Team | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.05674) / [pdf](https://arxiv.org/pdf/2608.05674) |
+| 2026-08-06 | [Dual-Attention and Adversarial Transfer Networks for Sim-to-Real Cross-Orientation Wireless Sensing](https://arxiv.org/abs/2608.05664) | Linfeng Du, Kehan Wu, Tong Zhang, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.05664) / [pdf](https://arxiv.org/pdf/2608.05664) |
 | 2026-08-05 | [HelloWorld: Enabling Socially Interactive Characters in Video World Models](https://arxiv.org/abs/2608.05070) | Liangyang Ouyang, Ruicong Liu, Xuangeng Chu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.05070) / [pdf](https://arxiv.org/pdf/2608.05070) |
 | 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-05 | [Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models](https://arxiv.org/abs/2608.04765) | Houze Xu, Jizhong Li, Ziyi Ye | cs.RO, cs.AI, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04765) / [pdf](https://arxiv.org/pdf/2608.04765) |
