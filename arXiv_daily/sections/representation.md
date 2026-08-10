@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-09 · **Papers:** 2787 · **Unique arXiv IDs:** 2787
+**Coverage:** 2025-01-01 to 2026-08-10 · **Papers:** 2788 · **Unique arXiv IDs:** 2788
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -25,6 +25,7 @@
 | 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
 | 2026-08-04 | [3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279) | Yuke Xing, Jiarui Wang, William Gordon, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.03279) / [pdf](https://arxiv.org/pdf/2608.03279) |
 | 2026-08-04 | [Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing](https://arxiv.org/abs/2608.03023) | Changhao Zhao, Haoxiang Li, Yuke Li, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.03023) / [pdf](https://arxiv.org/pdf/2608.03023) |
+| 2026-08-03 | [UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys](https://arxiv.org/abs/2608.06404) | Junxiong Zhou, Xuechen Li, Chonghao Qiu, et al. | cs.CV, cs.LG | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.06404) / [pdf](https://arxiv.org/pdf/2608.06404) |
 | 2026-08-03 | [InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis](https://arxiv.org/abs/2608.02437) | Jiawei Wang, Hao Yu, Yongzhen Hu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.02437) / [pdf](https://arxiv.org/pdf/2608.02437) |
 | 2026-08-03 | [CLEAR: Conflict-aware Learning via Evidence-guided Adaptive Routing for Unified Sparse-View 3D Gaussian Super-Resolution](https://arxiv.org/abs/2608.02206) | Hantang Li, Qiang Zhu, Xiandong Meng, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.02206) / [pdf](https://arxiv.org/pdf/2608.02206) |
 | 2026-08-03 | [DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views](https://arxiv.org/abs/2608.02191) | Fuzhen Jiang, Changyue Shi, Chuxiao Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.02191) / [pdf](https://arxiv.org/pdf/2608.02191) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-09 · **Papers:** 894 · **Unique arXiv IDs:** 894
+**Coverage:** 2025-01-01 to 2026-08-10 · **Papers:** 896 · **Unique arXiv IDs:** 896
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-07 | [CANIS: Generation-Assisted 3D Canonicalization via an Image-Semantic Bridge](https://arxiv.org/abs/2608.07256) | Kendong Liu, Yuxin Yao, Junhui Hou | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.07256) / [pdf](https://arxiv.org/pdf/2608.07256) |
+| 2026-08-07 | [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012) | Kai Li, Lutao Jiang, Zhenyang Li, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.07012) / [pdf](https://arxiv.org/pdf/2608.07012) |
 | 2026-08-06 | [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332) | Chenghao Gu, Hanyang Yu, Jingbo Zhang, et al. | cs.RO | Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.06332) / [pdf](https://arxiv.org/pdf/2608.06332) |
 | 2026-08-06 | [To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation](https://arxiv.org/abs/2608.05879) | Xiaobin Huang, Zilong Huang, Yang Luo, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2608.05879) / [pdf](https://arxiv.org/pdf/2608.05879) |
 | 2026-08-06 | [CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer](https://arxiv.org/abs/2608.05482) | Wentao Sun, Yiping Chen, Zhengsen Xu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.05482) / [pdf](https://arxiv.org/pdf/2608.05482) |

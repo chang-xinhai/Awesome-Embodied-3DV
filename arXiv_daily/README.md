@@ -2,17 +2,17 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-09 · **Unique papers:** 8204
+**Coverage:** 2025-01-01 to 2026-08-10 · **Unique papers:** 8216
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
 | [Data Perception](sections/data-perception.md) | 1642 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
-| [3D/4D Representation](sections/representation.md) | 2787 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2668 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
-| [3D Generation & Assets](sections/generation.md) | 894 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
-| [Embodiment & World Models](sections/embodiment-world-models.md) | 1966 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
+| [3D/4D Representation](sections/representation.md) | 2788 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
+| [3D Reconstruction](sections/reconstruction.md) | 2670 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D Generation & Assets](sections/generation.md) | 896 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
+| [Embodiment & World Models](sections/embodiment-world-models.md) | 1975 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 484 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
@@ -47,6 +47,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### 3D Reconstruction
 
+- 2026-08-07 — [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012)
 - 2026-08-06 — [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117)
 - 2026-08-06 — [OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction](https://arxiv.org/abs/2608.05539)
 - 2026-08-05 — [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145)
@@ -56,10 +57,11 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-04 — [PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210)
 - 2026-08-04 — [Kitchen Robotic Manipulation utilizing Foundation Models](https://arxiv.org/abs/2608.04042)
 - 2026-08-04 — [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851)
-- 2026-08-04 — [Dual-domain U-Nets with embedded back projection operators for motion-resolved 4D CBCT reconstruction](https://arxiv.org/abs/2608.03430)
 
 ### 3D Generation & Assets
 
+- 2026-08-07 — [CANIS: Generation-Assisted 3D Canonicalization via an Image-Semantic Bridge](https://arxiv.org/abs/2608.07256)
+- 2026-08-07 — [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012)
 - 2026-08-06 — [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332)
 - 2026-08-06 — [To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation](https://arxiv.org/abs/2608.05879)
 - 2026-08-06 — [CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer](https://arxiv.org/abs/2608.05482)
@@ -68,21 +70,19 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-04 — [EditFlow3D: Automated Local Editing of 3D Assets with Trajectory Preservation](https://arxiv.org/abs/2608.03179)
 - 2026-08-04 — [Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation](https://arxiv.org/abs/2608.03064)
 - 2026-08-03 — [Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences](https://arxiv.org/abs/2608.04037)
-- 2026-08-03 — [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://arxiv.org/abs/2608.02711)
-- 2026-08-03 — [Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling](https://arxiv.org/abs/2608.02016)
 
 ### Embodiment & World Models
 
+- 2026-08-07 — [Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction](https://arxiv.org/abs/2608.07420)
+- 2026-08-07 — [MemWM: Memory-Augmented Text-Based World Model](https://arxiv.org/abs/2608.07107)
+- 2026-08-07 — [Spatiotemporal Agility: Time-Constrained Reinforcement Learning for Vision-Guided Dynamic Quadrupedal Interception](https://arxiv.org/abs/2608.06907)
+- 2026-08-07 — [R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim](https://arxiv.org/abs/2608.06827)
+- 2026-08-07 — [Is Forward Prediction Enough? Physical State Grounding for JEPA World Models](https://arxiv.org/abs/2608.06799)
+- 2026-08-07 — [Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts](https://arxiv.org/abs/2608.06770)
+- 2026-08-07 — [Dueling World Models: Advantage-Style Action Channels for Common-Mode Distractor Rejection](https://arxiv.org/abs/2608.06706)
+- 2026-08-06 — [TaskSense: Focusing on What Matters in World Models](https://arxiv.org/abs/2608.06544)
+- 2026-08-06 — [LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning](https://arxiv.org/abs/2608.06481)
 - 2026-08-06 — [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332)
-- 2026-08-06 — [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.06197)
-- 2026-08-06 — [From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models](https://arxiv.org/abs/2608.06020)
-- 2026-08-06 — [TRACE: Learned Proprioceptive Odometry for Legged Robots under Unreliable Contact Conditions](https://arxiv.org/abs/2608.05975)
-- 2026-08-06 — [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891)
-- 2026-08-06 — [LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models](https://arxiv.org/abs/2608.05706)
-- 2026-08-06 — [DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model](https://arxiv.org/abs/2608.05695)
-- 2026-08-06 — [JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment](https://arxiv.org/abs/2608.05674)
-- 2026-08-06 — [Dual-Attention and Adversarial Transfer Networks for Sim-to-Real Cross-Orientation Wireless Sensing](https://arxiv.org/abs/2608.05664)
-- 2026-08-05 — [HelloWorld: Enabling Socially Interactive Characters in Video World Models](https://arxiv.org/abs/2608.05070)
 
 ### Datasets, Benchmarks & Infrastructure
 

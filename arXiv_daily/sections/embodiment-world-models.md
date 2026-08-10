@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-09 · **Papers:** 1966 · **Unique arXiv IDs:** 1966
+**Coverage:** 2025-01-01 to 2026-08-10 · **Papers:** 1975 · **Unique arXiv IDs:** 1975
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-07 | [Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction](https://arxiv.org/abs/2608.07420) | Xinyi Li, Zaishuo Xia, Chenjie Hao, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.07420) / [pdf](https://arxiv.org/pdf/2608.07420) |
+| 2026-08-07 | [MemWM: Memory-Augmented Text-Based World Model](https://arxiv.org/abs/2608.07107) | Yujun Wang, Tao Zhang, Jinhe Bi, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.07107) / [pdf](https://arxiv.org/pdf/2608.07107) |
+| 2026-08-07 | [Spatiotemporal Agility: Time-Constrained Reinforcement Learning for Vision-Guided Dynamic Quadrupedal Interception](https://arxiv.org/abs/2608.06907) | Yidong Zhu, Zibo Dai, Tongning Zhang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06907) / [pdf](https://arxiv.org/pdf/2608.06907) |
+| 2026-08-07 | [R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim](https://arxiv.org/abs/2608.06827) | Shuai Fang, Xin Deng, Yuchen Kang, et al. | cs.RO, cs.CV, cs.GR | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06827) / [pdf](https://arxiv.org/pdf/2608.06827) |
+| 2026-08-07 | [Is Forward Prediction Enough? Physical State Grounding for JEPA World Models](https://arxiv.org/abs/2608.06799) | Haodong Yan, Jiaguan Zhu, Mingyuan Jia, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.06799) / [pdf](https://arxiv.org/pdf/2608.06799) |
+| 2026-08-07 | [Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts](https://arxiv.org/abs/2608.06770) | Rulin Zhou, Wanhao Liu, Guoheng Ma, et al. | cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.06770) / [pdf](https://arxiv.org/pdf/2608.06770) |
+| 2026-08-07 | [Dueling World Models: Advantage-Style Action Channels for Common-Mode Distractor Rejection](https://arxiv.org/abs/2608.06706) | Jiazhuo Li, Yiming Fei, Zhiruo Zhou, et al. | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.06706) / [pdf](https://arxiv.org/pdf/2608.06706) |
+| 2026-08-06 | [TaskSense: Focusing on What Matters in World Models](https://arxiv.org/abs/2608.06544) | SM Mazharul Islam, Manfred Huber | cs.AI, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.06544) / [pdf](https://arxiv.org/pdf/2608.06544) |
+| 2026-08-06 | [LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning](https://arxiv.org/abs/2608.06481) | Riccardo Curcio, Hongpeng Cao, Marco Caccamo | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06481) / [pdf](https://arxiv.org/pdf/2608.06481) |
 | 2026-08-06 | [GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332) | Chenghao Gu, Hanyang Yu, Jingbo Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.06332) / [pdf](https://arxiv.org/pdf/2608.06332) |
 | 2026-08-06 | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.06197) | Zishan Xu, Zhiyuan Yao, Yuxin Chen, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.06197) / [pdf](https://arxiv.org/pdf/2608.06197) |
 | 2026-08-06 | [From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models](https://arxiv.org/abs/2608.06020) | Jiale Han, Xiang Li, Jing Qian, et al. | cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06020) / [pdf](https://arxiv.org/pdf/2608.06020) |

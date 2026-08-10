@@ -1,6 +1,416 @@
 {
   "schema_version": 1,
   "papers": {
+    "2608.07420": {
+      "arxiv_id": "2608.07420",
+      "title": "Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction",
+      "abstract": "World models are expected to support imagination over extended temporal horizons, yet most are still trained through local few-step prediction objectives and deployed by recursively rolling out their own predictions. This creates a fundamental mismatch: few-step losses optimize local transition fidelity, while long-horizon prediction depends on how errors and gradients propagate through the entire trajectory. As a result, transitions with different downstream influence on the endpoint are treated uniformly during training, and small local errors are amplified through recursive inference. We argue that long-horizon accuracy is better achieved by optimizing directly, through an end-to-end endpoint prediction objective. To instantiate this paradigm, we introduce the Direct Prediction World Model (DPWM), a non-recursive architecture that compresses an action sequence of arbitrary length into a single embedding and predicts the endpoint observation in a single forward pass. This design avoids recurrent rollout in both prediction and gradient propagation, making long-horizon end-to-end training practical at horizons where unrolled autoregressive training becomes unstable. Empirically, DPWM substantially improves long-horizon endpoint prediction over recursive world-model baselines on continuous-control and pixel-based benchmarks, with larger gains as the prediction horizon increases. We further show that recurrent baselines benefit similarly when retrained with the same long-horizon endpoint objective, supporting our central claim that the training objective, rather than the particular backbone choice, is the main driver of long-horizon prediction accuracy. Our results suggest that world models can benefit from being trained and evaluated at the temporal scales where they are ultimately used, shifting the focus from local transition modeling toward long-horizon predictive accuracy.",
+      "authors": [
+        "Xinyi Li",
+        "Zaishuo Xia",
+        "Chenjie Hao",
+        "Yubei Chen"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.07420",
+      "pdf_url": "https://arxiv.org/pdf/2608.07420",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.07256": {
+      "arxiv_id": "2608.07256",
+      "title": "CANIS: Generation-Assisted 3D Canonicalization via an Image-Semantic Bridge",
+      "abstract": "Canonicalizing 3D object orientation is fundamental to 3D understanding and analysis. Existing approaches often rely on geometric cues, although 3D canonicalization ultimately requires a semantically meaningful orientation. To address this gap, we propose CANIS, a category-agnostic, generation-assisted framework that introduces the semantic orientation prior of a frozen image-to-3D generative model into 3D canonicalization, without canonicalization-specific training or category-specific templates. Specifically, CANIS first renders the input object from candidate viewpoints, selects an informative view, and generates a proxy in a canonical orientation. During generation, a sparse structural latent encoded from the input guides the proxy to preserve the geometry of an object. CANIS then uses the selected image as a semantic bridge between the input and the proxy. Image patches identify semantic regions on the proxy, and depth back-projection locates the corresponding regions on the input. The resulting semantic anchors constrain geometric matching, from which we estimate the rigid transformation that canonicalizes the input. Experiments on synthetic benchmarks validate CANIS and its key components, while qualitative results on partial observations and OmniObject3D suggest its applicability to incomplete and real-world scans. CANIS also improves downstream 3D classification, part segmentation, and dense correspondence under arbitrary rotations. Project page: https://kenkenzaii.github.io/Canis.",
+      "authors": [
+        "Kendong Liu",
+        "Yuxin Yao",
+        "Junhui Hou"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.07256",
+      "pdf_url": "https://arxiv.org/pdf/2608.07256",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D"
+        ]
+      }
+    },
+    "2608.07107": {
+      "arxiv_id": "2608.07107",
+      "title": "MemWM: Memory-Augmented Text-Based World Model",
+      "abstract": "World models are increasingly used to support planning in agents by predicting how environment states evolve in response to agent actions. Yet fluent next-state predictions can still omit task-critical facts, corrupt product attributes, or apply incorrect transition rules. To address such systematic prediction errors, we introduce MemWM, a memory-augmented text-based world model. MemWM uses world memory, a curated memory bank of transition rules, state caches, and hard-to-predict facts, to condition next-state imagination. We evaluate factual state preservation with Structured State Fidelity (SSF), which scores predicted states through benchmark-specific facts and fields. Compared with SFT, memory-augmented training improves SSF by up to 206.3%. In the full planning setting, we keep the policy model frozen and provide policy-side world skill: retrieved task-level skills and step-wise corrective guidance for action selection. Across ALFWorld, WebShop, and ScienceWorld, memory-augmented agents improve downstream success over an SFT-trained world-model agent, with up to a 65.4% relative gain. Sensitivity analyses further show that retrieved memory improves task success and efficiency under different memory and action-budget settings.",
+      "authors": [
+        "Yujun Wang",
+        "Tao Zhang",
+        "Jinhe Bi",
+        "Aniri",
+        "Wenxuan Ye",
+        "Boliang Liu",
+        "Sikuan Yan",
+        "Shuning Wang",
+        "Xuebing Zhou",
+        "Sören Pirk",
+        "Hinrich Schütze",
+        "Yunpu Ma"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.07107",
+      "pdf_url": "https://arxiv.org/pdf/2608.07107",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.07012": {
+      "arxiv_id": "2608.07012",
+      "title": "Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs",
+      "abstract": "Synthesizing a structured and editable 3D indoor scene from a few uncalibrated RGB views requires more than generating high-quality individual assets: a system must infer the room structure, associate objects across incomplete observations, and recover a globally consistent spatial configuration. Previous methods mainly focus on 3D scene generation with text input or require continuous visual inputs with additional priors, \\ e.g., human-annotated masks or accurate 3D layouts, which makes these methods labor demanding and hard to apply in general cases. We present \\textsc{Scenix}, a sparse-view 3D scene reconstruction framework via executable scene programs, a structured representation that can be directly instantiated into editable 3D scenes. Given sparse views, \\textsc{Scenix} predicts executable scene programs through perception-grounded asset instantiation and closed-loop spatial refinement. % We present \\method, a framework that predicts an executable scene representation from sparse views and realizes it through perception-grounded asset instantiation and closed-loop spatial refinement. To support this task, we construct \\dataset, a dataset of approximately 110,000 synthetic and real indoor scenes with multiview imagery, room structures, object-centric descriptions, and metric spatial annotations. We further introduce observation-consistent supervision that aligns each target scene with the visual evidence available in its input views. Experiments on held-out \\textsc{XScene} scenes, real indoor images, and out-of-distribution SpatialGen cases evaluate structured scene prediction, object grounding, and spatial refinement.",
+      "authors": [
+        "Kai Li",
+        "Lutao Jiang",
+        "Zhenyang Li",
+        "Jiayu Dong",
+        "Jierui Zhang",
+        "Yingda Yin",
+        "Runze Zhang",
+        "Kai Yan",
+        "Xiaoyang Huang",
+        "Keyang Luo",
+        "Xin Wang",
+        "Xiangyu Zhao",
+        "Weikai Chen"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "4 figures 5 table 9 pages",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.07012",
+      "pdf_url": "https://arxiv.org/pdf/2608.07012",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "reconstruction",
+        "generation"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ],
+        "generation": [
+          "Scene / World Generation"
+        ]
+      }
+    },
+    "2608.06907": {
+      "arxiv_id": "2608.06907",
+      "title": "Spatiotemporal Agility: Time-Constrained Reinforcement Learning for Vision-Guided Dynamic Quadrupedal Interception",
+      "abstract": "Legged robots require robust agility to perceive and interact with complex and dynamic environments within a constrained time. However, most existing quadruped locomotion works rely on velocity-tracking policy, which struggle to reach precise targets within strict temporal constraints. Moreover, integrating real-time perception with agile locomotion for highly dynamic targets remains challenging due to sensor latency and processing delays. To concretely study and benchmark such agility in dynamic settings, we introduce a challenging ball-catching task for legged robots. This paper proposes an integrated framework that combines a vision module for landing point and time prediction with a direct position and time conditioned RL locomotion policy, instead of intermediate velocity commands. Beyond the method design, this work presents a system-level contribution that completes real-time robotic interception system that integrates multi-camera perception, online trajectory prediction, low-latency target communication, and sim-to-real locomotion control into a closed-loop deployment pipeline. By explicitly predicting the future spatial-temporal target, our approach mitigates perception latency during dynamic interception. We conducted extensive ball-catching experiments for the legged robot. Through comparative experiments against a velocity-tracking baseline, our direct target-conditioned approach achieves a higher success rate in catching balls with predicted landing spots within 2 meters and flight times between 0.8 and 1.2 seconds. This shows that the robot has successfully completed the dynamic ball-catching task under our tested setup. Furthermore, our policy exhibits a smaller performance gap after deployment, suggesting improved sim-to-real behavior in these trials.",
+      "authors": [
+        "Yidong Zhu",
+        "Zibo Dai",
+        "Tongning Zhang",
+        "Leixin Chang",
+        "Hua Chen"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06907",
+      "pdf_url": "https://arxiv.org/pdf/2608.06907",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.06827": {
+      "arxiv_id": "2608.06827",
+      "title": "R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim",
+      "abstract": "Real-to-sim (R2S) depends on scene representations that render observations along robot ego trajectories, yet dense multi-view capture limits per-environment real-image capture-count efficiency, and sparse human capture can leave behavior-scoped robot views under-supported. Camera-controlled synthesis can fill missing views, but its use in R2S requires behavior-admissible queries and capture-anchored structural conditioning. We present R2S-EGO, which couples a simulator-derived robot proxy that represents the behavior-scoped executable query domain with a capture-anchored geometry proxy that supplies scene-specific structural conditions. Within this domain, fixed- budget selection targets current support deficits for which geometry support is available. The generated observations are assimilated as pseudo-observations to refine the visual asset, while real captures remain anchors. The fused geometry proxy also supplies the scene collision surface, which is refreshed between rounds. Together, these updates refine the existing simulation scene while its robot dynamics and control stack stay fixed. Across 48 frozen Unitree G1 ego views in three Replica scenes, six-view R2S-EGO reaches 19.062 dB PSNR, compared with 14.226 dB for the strongest reported R2S baseline. Across five paired policy-training seeds, R2S-EGO achieves 82.5% +/- 6.8% real-G1 sitting success, compared with 10.0% +/- 10.5% for GaussGym.",
+      "authors": [
+        "Shuai Fang",
+        "Xin Deng",
+        "Yuchen Kang",
+        "Zhenjiang Li",
+        "Jie Chen"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": "11 pages, 6 figures, 4 tables, and 1 algorithm",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06827",
+      "pdf_url": "https://arxiv.org/pdf/2608.06827",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.06799": {
+      "arxiv_id": "2608.06799",
+      "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models",
+      "abstract": "Learning structured and control-relevant latent representations remains a key challenge for world models. Recent JEPA-based world models learn action-conditioned predictive latent dynamics from observation sequences. However, their forward-prediction objectives do not explicitly enforce reliable identifiability of robot-centric physical state from individual latents or state changes from latent pairs, which can limit downstream planning and policy performance. We propose PSG-JEPA, a physically grounded JEPA world model that shapes its latent space with two complementary grounding objectives beyond forward prediction: grounding individual latents in robot proprioceptive state, and grounding latent pairs in multi-horizon joint-angle changes. Both objectives are applied only during training, leaving the inference architecture and computational cost unchanged. To comprehensively evaluate PSG-JEPA, we conduct experiments at three levels: (1) latent identifiability via probing, (2) goal-conditioned planning on frozen latents, and (3) policy learning in simulation and on a real robot. Experiments demonstrate that our PSG-JEPA consistently outperforms state-of-the-art latent world-model baselines at all three levels.",
+      "authors": [
+        "Haodong Yan",
+        "Jiaguan Zhu",
+        "Mingyuan Jia",
+        "Ruiqing Yin",
+        "Junjie He",
+        "Zhide Zhong",
+        "Junfeng Li",
+        "Jinxuan Lu",
+        "Hengtao Li",
+        "Tianran Zhang",
+        "Jiayi Chen",
+        "Wenxuan Song",
+        "Wen Chen",
+        "Yuxiang Gao",
+        "Haoang Li"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06799",
+      "pdf_url": "https://arxiv.org/pdf/2608.06799",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.06770": {
+      "arxiv_id": "2608.06770",
+      "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts",
+      "abstract": "Controllable surgical world models can provide a generative foundation for surgical artificial intelligence and simulation by synthesizing realistic instrument--tissue interactions. However, existing methods lack a unified multimodal control paradigm, while direct fusion of heterogeneous visual conditions often causes anatomical distortion, instrument appearance drift, and temporally inconsistent interactions. In this work, we propose {Surg-UniWorld}, a unified surgical world model with multimodal control experts. Surg-UniWorld first constructs a {Hierarchical Surgical Anchor} from first-frame appearance and hierarchical semantic masks to preserve persistent scene identity, anatomical organization, and interaction boundaries. {Anchor-Relative Modality Experts} then interpret edge, depth, and optical-flow evidence relative to the shared anchor, capturing complementary boundary, geometric, and motion information. A {Multimodal Control Expert} further performs contribution-preserving stage-wise composition of the activated modality increments and generates control hints for the Wan2.2 video diffusion backbone. To support multimodal surgical world modeling, we further construct Cholec80-SurgWAM, a benchmark for controllable surgical video generation. Extensive experiments demonstrate that Surg-UniWorld consistently outperforms existing controllable video generation methods and surgical world-model baselines in generation quality, temporal consistency, and multimodal controllability.",
+      "authors": [
+        "Rulin Zhou",
+        "Wanhao Liu",
+        "Guoheng Ma",
+        "Liangjin Shao",
+        "Qiujie Song",
+        "Yidu Wang",
+        "Guankun Wang",
+        "Tong Chen",
+        "Long Bai",
+        "Luping Zhou",
+        "Hongliang Ren"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06770",
+      "pdf_url": "https://arxiv.org/pdf/2608.06770",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.06706": {
+      "arxiv_id": "2608.06706",
+      "title": "Dueling World Models: Advantage-Style Action Channels for Common-Mode Distractor Rejection",
+      "abstract": "Latent world models plan by predicting future states from an action, but when a scene contains motion the agent does not control, they quietly go action-blind: predictions for different actions become indistinguishable even as the training loss keeps improving. Existing remedies suppress this distraction with reconstruction, task reward, or auxiliary objectives, each adding machinery or assumptions. We show that a minimal alternative suffices, borrowed from the dueling decomposition of value into a state baseline and an action advantage: in latent dynamics, subtracting a prediction's mean effect over actions cancels whatever the actions share--the action-independent variation where distractors live--leaving a clean, controllable channel, with no reward, no reconstruction, and no distractor-specific auxiliary loss. Because this is only a subtraction at readout time, it applies unchanged to any action-conditioned world model, including frozen pretrained ones. Across a gridworld, synthetic generators with known factors, distracting continuous control, and natural-pixel Atari, the isolated channel recovers the agent's own effect where entangled predictors fail, with nuisance leak indistinguishable from zero; applied post hoc it surfaces an action channel in off-the-shelf models that their raw readouts miss, and it converts into goal-reaching control in the gridworld. We prove the cancellation is exact in finite samples for both discrete and sampled action sets, and we state its measured boundary--distractors whose motion tracks the action--together with the remaining limitations in the appendix.",
+      "authors": [
+        "Jiazhuo Li",
+        "Yiming Fei",
+        "Zhiruo Zhou",
+        "Heikichi Hayashi"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "comment": "17 pages, 6 figures, 11 tables. Includes supplementary appendix",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06706",
+      "pdf_url": "https://arxiv.org/pdf/2608.06706",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.06544": {
+      "arxiv_id": "2608.06544",
+      "title": "TaskSense: Focusing on What Matters in World Models",
+      "abstract": "World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content often occupies only a small fraction of the observation, while background clutter and distractors consume valuable representational capacity. This mismatch between visual reconstruction and control objectives biases latent representations to model task-irrelevant visual content, diluting learning signals for control-relevant features and severely degrading downstream performance under visual distractions. We introduce TaskSense, a task-centric world modeling framework that enforces task relevance before latent encoding through a differentiable stochastic spatial attention mechanism conditioned on the previous latent state. To steer attention toward control-relevant regions, we augment training with an auxiliary inverse-dynamics objective. Rather than reconstructing the full observation, the world model reconstructs only the attended regions, encouraging latent representations to preserve task-relevant information while discarding irrelevant visual content. The decoder is further conditioned on the sampled attention map, enabling consistent reconstruction despite stochastic attention. Compared with the DreamerV3 baseline, TaskSense maintains competitive performance on the DeepMind Control Suite while consistently outperforming DreamerV3 on the Distracting Control Suite, demonstrating substantially improved robustness to visual distractions. Qualitative analysis further confirms that the learned attention, guided by inverse-dynamics supervision, consistently localizes control-relevant regions while suppressing irrelevant visual content.",
+      "authors": [
+        "SM Mazharul Islam",
+        "Manfred Huber"
+      ],
+      "published": "2026-08-06",
+      "updated": "2026-08-06",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06544",
+      "pdf_url": "https://arxiv.org/pdf/2608.06544",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.06481": {
+      "arxiv_id": "2608.06481",
+      "title": "LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning",
+      "abstract": "Training controllers that are safe and robust in simulation, and systematically assessing their readiness for real-world deployment, remain key challenges in sim-to-real transfer. To address this, we propose LyEvO, a physics-grounded framework that combines constrained Evolutionary Optimization and Statistical Model Checking (SMC)-based verification with Lyapunov-based stability analysis. Leveraging prior knowledge of the system dynamics, LyEvO uses Lyapunov analysis to compute an initial candidate stability region. An iterative loop then uses operational scenarios drawn from this region to jointly optimize and statistically verify a policy, and subsequently expands the region's boundaries based on the verification outcome. This integrated procedure provides a practical criterion for assessing deployment readiness. We evaluate LyEvO on Cartpole and 3D Quadrotor benchmarks through extensive simulations and targeted real-world experiments, demonstrating safe and robust sim-to-real transfer.",
+      "authors": [
+        "Riccardo Curcio",
+        "Hongpeng Cao",
+        "Marco Caccamo"
+      ],
+      "published": "2026-08-06",
+      "updated": "2026-08-06",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG",
+        "cs.NE"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06481",
+      "pdf_url": "https://arxiv.org/pdf/2608.06481",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
     "2608.06332": {
       "arxiv_id": "2608.06332",
       "title": "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
@@ -1940,6 +2350,56 @@
       "matches": {
         "representation": [
           "Gaussian Splatting"
+        ]
+      }
+    },
+    "2608.06404": {
+      "arxiv_id": "2608.06404",
+      "title": "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys",
+      "abstract": "Accurate 3D crop monitoring underpins data-driven precision agriculture by enabling field-scale analysis of plant structure, growth dynamics, and management response. Modern 3D reconstruction methods perform strongly on generic benchmarks, but rendered appearance may not translate into metrically and agronomically useful geometry in crop fields. We introduce UAV3DCrop, a public benchmark of repeated multi-angle unmanned aerial vehicle (UAV) crop surveys. It contains 88,830 RGB images at $5280 \\times 3956$ pixels, with a ground sampling distance of 3.6-5.8 mm, from 91 scenes spanning corn, soybean, wheat, and oat. Track A evaluates seven scene-optimized methods -- Neural Radiance Field (NeRF) and 3D Gaussian Splatting (3DGS) variants -- on held-out views, photogrammetry-referenced depth, and canopy-height recovery. Track B tests four pretrained feed-forward models on zero-shot camera-pose and geometry estimation. The scene-optimized methods rank differently across the three targets: Splatfacto-big leads appearance, whereas Scaffold-GS leads depth and is statistically tied with Splatfacto for canopy height. Among feed-forward models, MapAnything leads on seven of the eight metrics, while the remaining models vary more across crops and fail severely on absolute scale in a way that alignment conceals. Repeated acquisitions reveal further sensitivities that differ by output type and by model, associated with position within the acquisition sequence and with tie-point multiplicity. Current 3D reconstruction methods are therefore not yet interchangeable for agronomic use: no single method wins on appearance, geometry, and canopy height at once, and only one of four feed-forward models recovers usable metric scale. The dataset is publicly available at https://link-dev.github.io/UAV3DCrop/",
+      "authors": [
+        "Junxiong Zhou",
+        "Xuechen Li",
+        "Chonghao Qiu",
+        "Lang Qiao",
+        "Xiaowei Jia",
+        "Qi Yang",
+        "Chishan Zhang",
+        "Leikun Yin",
+        "Nanshan You",
+        "Vipin Kumar",
+        "David Mulla",
+        "Ce Yang",
+        "Zhenong Jin",
+        "Licheng Liu"
+      ],
+      "published": "2026-08-03",
+      "updated": "2026-08-03",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "comment": "22 pages, 7 figures. Dataset and project page: https://link-dev.github.io/UAV3DCrop/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06404",
+      "pdf_url": "https://arxiv.org/pdf/2608.06404",
+      "query_sources": [
+        "datasets-and-infrastructure"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Radiance Field / NeRF"
+        ],
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction"
         ]
       }
     },
@@ -307198,7 +307658,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-08-09",
-  "paper_count": 8204,
-  "generated_at": "2026-08-09T12:51:35+00:00"
+  "coverage_end": "2026-08-10",
+  "paper_count": 8216,
+  "generated_at": "2026-08-10T02:28:38+00:00"
 }
