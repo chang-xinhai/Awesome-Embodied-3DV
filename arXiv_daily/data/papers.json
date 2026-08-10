@@ -55,6 +55,7 @@
       "url": "https://arxiv.org/abs/2608.07256",
       "pdf_url": "https://arxiv.org/pdf/2608.07256",
       "query_sources": [
+        "depth-and-sensing",
         "generation-and-assets"
       ],
       "topics": [
@@ -63,6 +64,47 @@
       "matches": {
         "generation": [
           "Image / Text-to-3D"
+        ]
+      }
+    },
+    "2608.07144": {
+      "arxiv_id": "2608.07144",
+      "title": "InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding",
+      "abstract": "Feed-forward 3D Gaussian Splatting (3DGS) enables efficient and generalizable 3D reconstruction, but current feed-forward 3DGS methods for scene understanding remain largely category-oriented. In contrast, instance-aware 3DGS methods typically rely on per-scene optimization and often decouple reconstruction from instance and semantic learning, limiting reciprocal interactions among them. We present InstanceSplat, a unified feed-forward 3DGS framework for generalizable 3D reconstruction and instance-aware scene understanding from pose-free multi-view images. In a single forward pass, InstanceSplat constructs an instance-aware Gaussian representation that jointly encodes appearance, geometry, instance identity, and language-aligned semantics. Shared 3D Gaussians ground instance identities across views, producing renderable and cross-view-consistent instance features. To allow reconstruction and scene understanding to benefit from each other, we further design an instance-centric learning strategy that connects reconstruction, instance learning, and semantic learning through shared instance structure. Specifically, instance cues guide reconstruction, language-aligned semantics strengthen the discrimination of confusing same-category instances, and instance regions aggregate semantic evidence into coherent object-level predictions. Experiments on novel-view synthesis, instance segmentation, and open-vocabulary semantic understanding under varying input-view settings and on an unseen dataset demonstrate state-of-the-art performance, practical efficiency, and strong generalization.",
+      "authors": [
+        "Minchao Jiang",
+        "Xiaoxuan Ma",
+        "Shunyu Jia",
+        "Haoru Wang",
+        "Zhang Liang",
+        "Wentao Zhu"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Project page: https://jamchaos.github.io/InsSplat/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.07144",
+      "pdf_url": "https://arxiv.org/pdf/2608.07144",
+      "query_sources": [
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ],
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction"
         ]
       }
     },
@@ -138,7 +180,8 @@
       "url": "https://arxiv.org/abs/2608.07012",
       "pdf_url": "https://arxiv.org/pdf/2608.07012",
       "query_sources": [
-        "generation-and-assets"
+        "generation-and-assets",
+        "reconstruction-and-mapping"
       ],
       "topics": [
         "reconstruction",
@@ -223,6 +266,47 @@
         ]
       }
     },
+    "2608.06801": {
+      "arxiv_id": "2608.06801",
+      "title": "AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles",
+      "abstract": "Physical adversarial attacks against person detectors have evolved from localized patches to full-body textures. However, achieving both visual naturalness and strong attack effectiveness remains challenging. Existing natural-looking methods typically optimize camouflage textures as a whole, limiting the flexibility to refine local adversarial patterns and their spatial arrangement. To address this issue, we propose AdvTiles, a physical adversarial camouflage framework built from learnable tiles, enabling strong attack performance while preserving a natural camouflage appearance. Specifically, we use a Straight-through (ST) Gumbel-Softmax estimator for differentiable tile selection, enabling joint optimization of tile patterns and spatial layouts. This design provides fine-grained control over adversarial texture generation. To improve robustness in diverse physical conditions, we further optimize the camouflage through differentiable 3D Gaussian Splatting rendering with variations in viewpoints, scales, illuminations and backgrounds. Extensive experiments across multiple detectors demonstrate that AdvTiles achieves an average ASR of 86.2%, outperforming existing state-of-the-art attack methods. We further fabricate the optimized camouflage into wearable adversarial clothing, validating its effectiveness in real-world scenarios across diverse distances, angles and backgrounds.",
+      "authors": [
+        "Jinlei Wang",
+        "Jiahuan Long",
+        "Mingkai Sun",
+        "Yafei Guo",
+        "Yuanhao Huang",
+        "Ming Wang",
+        "Junqi Wu",
+        "Jiacheng Hou",
+        "Hongbo Chen",
+        "Xingxing Wei",
+        "Tingsong Jiang",
+        "Wen Yao"
+      ],
+      "published": "2026-08-07",
+      "updated": "2026-08-07",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06801",
+      "pdf_url": "https://arxiv.org/pdf/2608.06801",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
     "2608.06799": {
       "arxiv_id": "2608.06799",
       "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models",
@@ -298,6 +382,7 @@
       "url": "https://arxiv.org/abs/2608.06770",
       "pdf_url": "https://arxiv.org/pdf/2608.06770",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -1092,6 +1177,39 @@
         ]
       }
     },
+    "2608.06412": {
+      "arxiv_id": "2608.06412",
+      "title": "Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR",
+      "abstract": "Understanding which surfaces in a scene are physically accessible to a given tool is fundamental for robotic interaction, yet 3D perception systems typically stop at geometric reconstruction or visibility estimation. Existing geometric accessibility methods require complete, noise-free meshes and fixed kinematic bases, assumptions that fail for mobile platforms mapping incrementally from live data; visibility estimation cannot account for tool geometry or approach-corridor clearance. We propose the Accessibility Field: a per-point labelling of surface accessibility for a given tool, produced in real time from streaming sparse LiDAR and updated at sensor rate as the platform moves. Running entirely on GPU, our method evaluates each surface point against precomputed geometry kernels representing the tool at a set of rotated approach orientations, checking tool collisions and approach-corridor clearance. A scan-centric Truncated Signed Distance Field integration scheme underpins our system, updating only voxels near each observed return rather than projecting every frustum voxel each frame -- critical for nonrepetitive sensors like the Livox Mid-360, where some bins contain no returns. Our system is tool-agnostic, needs no prior scene model, and runs on workstation and Jetson Orin edge hardware. We evaluate quantitatively on synthetic objects and mature-scale Pinus radiata models, showing visibility alone is insufficient as an accessibility proxy: our method achieves F1=90.8 vs. 69.8 for a Hidden Point Removal baseline on mixed-accessibility geometry, and correctly identifies 56.8% of pine branch surfaces as inaccessible despite being visible from the sensor. To our knowledge, this is the first method to estimate per-point surface accessibility in real time from streaming sparse LiDAR without a prior scene model or fixed base frame -- a capability visibility estimation cannot provide.",
+      "authors": [
+        "Bradley Scott",
+        "Sam Schofield",
+        "Richard Green"
+      ],
+      "published": "2026-08-05",
+      "updated": "2026-08-05",
+      "primary_category": "eess.IV",
+      "categories": [
+        "eess.IV",
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.06412",
+      "pdf_url": "https://arxiv.org/pdf/2608.06412",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Neural Implicit / SDF"
+        ]
+      }
+    },
     "2608.05248": {
       "arxiv_id": "2608.05248",
       "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
@@ -1140,7 +1258,9 @@
       "updated": "2026-08-06",
       "primary_category": "cs.CV",
       "categories": [
-        "cs.CV"
+        "cs.CV",
+        "cs.MM",
+        "cs.SD"
       ],
       "comment": "ECCV 2026, Project page: https://zisenshao.github.io/AV-MSF/",
       "journal_ref": null,
@@ -1248,7 +1368,7 @@
         "Shuiwen Shen"
       ],
       "published": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -1466,8 +1586,8 @@
     },
     "2608.04720": {
       "arxiv_id": "2608.04720",
-      "title": "YOLOv14:Unified Cross-Domain Real-Time Object Detectionwith Adaptive Multi-View Representation",
-      "abstract": "Real-time object detectors achieve remarkable accuracy under controlled conditions, yet degrade sharply on non-ideal inputs: fisheye distortion, game-rendered characters, aerial viewpoints, and 360° panoramas. We present YOLOv14, aunified detection framework addressing these challenges through four synergisticinnovations. (1) Deformable Area-Attention (D-AAttn) replaces rigid attentiongrids with learned 2D deformation fields, enabling adaptive sampling under geometric distortion. (2) Game2Real Domain Adaptation aligns rendered-game and photographic feature distributions via Adaptive Instance Normalization (AdaIN)and adversarial domain confusion, allowing game characters are detected as realhumans. (3) Multi-View Conditioning injects learned viewpoint embeddings intothe backbone with a cross-view contrastive loss that pulls same-class features fromdifferent perspectives closer. (4) An Adaptive Augmentation Policy automaticallyclassifies each input' scene type and routes to optimal augmentations, while a DynamicScaleRouter learns per-input feature pyramid weights. Together, YOLOv14achieves 49.1 mAP on COCO val2017 at 2.91 ms (T4 GPU), and delivers substantial gains on fisheye (+4.1 mAP), panorama (+6.6 mAP), drone (+6.4 mAP), andgame-character (+26.1 mAP) benchmarks",
+      "title": "YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions",
+      "abstract": "Real-time object detectors achieve remarkable accuracy under controlled conditions, yet degrade sharply on non-ideal inputs: fisheye distortion, game-renderedcharacters, aerial viewpoints, and 360°panoramas. We present YOLOv14, a detection framework with four adaptive mechanisms designed for specific types of inputvariation:(1) Deformable Area-Attention with windowed computation and shiftedwindows for geometric distortion;(2) Multi-level Game2Real Alignment with progressive adversarial training for domain shift;(3) View-Aware Contrastive Learning with adaptive temperature for viewpoint invariance; and (4) Scene-Adaptive Augmentation with dynamic loss balancing for scene diversity. Together, YOLOv14 achieves 49.1 mAP on COCO val2017 at 2.91 ms (T4 GPU), and delivers substantial gains on fisheye (+4.1 mAP), panorama (+6.6 mAP), drone (+6.4 mAP), andour synthesized game-character benchmark (+26.1 mAP). We release code and models to facilitate reproducible research.",
       "authors": [
         "Jinling Jia",
         "Jian Lu",
@@ -1475,7 +1595,7 @@
         "Chenbin Zhang"
       ],
       "published": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -2386,7 +2506,10 @@
       "url": "https://arxiv.org/abs/2608.06404",
       "pdf_url": "https://arxiv.org/pdf/2608.06404",
       "query_sources": [
-        "datasets-and-infrastructure"
+        "datasets-and-infrastructure",
+        "depth-and-sensing",
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -2711,7 +2834,8 @@
       "updated": "2026-08-06",
       "primary_category": "cs.RO",
       "categories": [
-        "cs.RO"
+        "cs.RO",
+        "cs.CV"
       ],
       "comment": "11 pages, 7 figures, fixed a template bug in the Latex",
       "journal_ref": null,
@@ -5284,7 +5408,7 @@
     "2607.27924": {
       "arxiv_id": "2607.27924",
       "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
-      "abstract": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby exhibiting significant inefficiency in capturing the dynamics of physical world. We introduce Physical-Time Flow (\\textbf{PT-Flow}), a novel approach that learns a continuous latent velocity field operating in physical time. Crucially, the underlying dynamics of sequential data are parameterized by an ordinary differential equation (ODE) embedded in a well-structured representation space. Under this paradigm, the prediction of future can be recast as temporal integration via an ODE solver in the compressed latent space. Building upon PT-Flow, we construct \\textbf{ODEWorld}, a continuous-time latent world model that is both efficient and versatile. By extracting time-variant features and enforcing ODE properties on both the dynamical representation space and the latent velocity field, ODEWorld effectively addresses the long-standing representation collapse issue in latent world model literature. This also enables high-quality image reconstruction even after long-horizon prediction. Moreover, its continuous nature allows for arbitrary temporal resolution and even backward prediction, which is impossible for most discrete-time models. Lastly, ODEWorld can provide rich planning-oriented information to facilitate downstream policy learning. Comprehensive experiments demonstrate that ODEWorld successfully reconciles planning-conducive dynamics abstraction with visual realism, excelling in both video generation and robotic control. \\href{https://dstate.github.io/odeworld_website/}{Project Website}.",
+      "abstract": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby exhibiting significant inefficiency in capturing the dynamics of physical world. We introduce Physical-Time Flow (PT-Flow), a novel approach that learns a continuous latent velocity field operating in physical time. Crucially, the underlying dynamics of sequential data are parameterized by an ordinary differential equation (ODE) embedded in a well-structured representation space. Under this paradigm, the prediction of future can be recast as temporal integration via an ODE solver in the compressed latent space. Building upon PT-Flow, we construct ODEWorld, a continuous-time latent world model that is both efficient and versatile. By extracting time-variant features and enforcing ODE properties on both the dynamical representation space and the latent velocity field, ODEWorld effectively addresses the long-standing representation collapse issue in latent world model literature. This also enables high-quality image reconstruction even after long-horizon prediction. Moreover, its continuous nature allows for arbitrary temporal resolution and even backward prediction, which is impossible for most discrete-time models. Lastly, ODEWorld can provide rich planning-oriented information to facilitate downstream policy learning. Comprehensive experiments demonstrate that ODEWorld successfully reconciles planning-conducive dynamics abstraction with visual realism, excelling in both video generation and robotic control. Project page: https://odeworld.github.io/.",
       "authors": [
         "Dongxiu Liu",
         "Haoyi Niu",
@@ -5296,7 +5420,7 @@
         "Xianyuan Zhan"
       ],
       "published": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-08-07",
       "primary_category": "cs.LG",
       "categories": [
         "cs.LG",
@@ -307659,6 +307783,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-10",
-  "paper_count": 8216,
-  "generated_at": "2026-08-10T02:28:38+00:00"
+  "paper_count": 8219,
+  "generated_at": "2026-08-10T13:09:10+00:00"
 }

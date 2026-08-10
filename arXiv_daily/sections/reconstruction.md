@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-10 · **Papers:** 2670 · **Unique arXiv IDs:** 2670
+**Coverage:** 2025-01-01 to 2026-08-10 · **Papers:** 2671 · **Unique arXiv IDs:** 2671
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,10 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-07 | [InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144) | Minchao Jiang, Xiaoxuan Ma, Shunyu Jia, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.07144) / [pdf](https://arxiv.org/pdf/2608.07144) |
 | 2026-08-07 | [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012) | Kai Li, Lutao Jiang, Zhenyang Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.07012) / [pdf](https://arxiv.org/pdf/2608.07012) |
 | 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |
 | 2026-08-06 | [OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction](https://arxiv.org/abs/2608.05539) | Taiting Lu, Runze Liu, Ziwei Dong, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05539) / [pdf](https://arxiv.org/pdf/2608.05539) |
-| 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
+| 2026-08-05 | [Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145) | Zisen Shao, Zihao Wei, Derong Jin, et al. | cs.CV, cs.MM, cs.SD | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05145) / [pdf](https://arxiv.org/pdf/2608.05145) |
 | 2026-08-05 | [Beyond Reprojection Error: Camera Calibration with 3D Targets](https://arxiv.org/abs/2608.05066) | Dennis Ruppel, Hasan Kutlu, Kai A. Neumann, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.05066) / [pdf](https://arxiv.org/pdf/2608.05066) |
 | 2026-08-05 | [RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842) | Hyesung Lee, Youngseon Lee, Kyutae Lee, et al. | cs.RO, cs.GR | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.04842) / [pdf](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-05 | [UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701) | Haiyang Zhou, Wangbo Yu, Chaoran Feng, et al. | cs.CV | Dynamic Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.04701) / [pdf](https://arxiv.org/pdf/2608.04701) |
@@ -28,7 +29,7 @@
 | 2026-08-04 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) | Shuliang He, Shuai Wang, Bo Yue, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.03387) / [pdf](https://arxiv.org/pdf/2608.03387) |
 | 2026-08-03 | [UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys](https://arxiv.org/abs/2608.06404) | Junxiong Zhou, Xuechen Li, Chonghao Qiu, et al. | cs.CV, cs.LG | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.06404) / [pdf](https://arxiv.org/pdf/2608.06404) |
 | 2026-08-03 | [VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598) | Chao Ji, Shiyu Xuan, Zechao Li | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02598) / [pdf](https://arxiv.org/pdf/2608.02598) |
-| 2026-08-03 | [TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction](https://arxiv.org/abs/2608.02304) | Ziyue Zheng, Linli Shi, Bingkun He, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02304) / [pdf](https://arxiv.org/pdf/2608.02304) |
+| 2026-08-03 | [TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction](https://arxiv.org/abs/2608.02304) | Ziyue Zheng, Linli Shi, Bingkun He, et al. | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02304) / [pdf](https://arxiv.org/pdf/2608.02304) |
 | 2026-08-03 | [UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction](https://arxiv.org/abs/2608.02145) | Haixu Song, Xiaoke Yang, Shengjun Zhang, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02145) / [pdf](https://arxiv.org/pdf/2608.02145) |
 | 2026-08-03 | [Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling](https://arxiv.org/abs/2608.02016) | Kaiyi Zhang, Zhihao Liang, Haolin Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.02016) / [pdf](https://arxiv.org/pdf/2608.02016) |
 | 2026-08-03 | [ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment](https://arxiv.org/abs/2608.02006) | Junyu Zhu, Hao Zhu, Xinzhuo Zhang, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.02006) / [pdf](https://arxiv.org/pdf/2608.02006) |
