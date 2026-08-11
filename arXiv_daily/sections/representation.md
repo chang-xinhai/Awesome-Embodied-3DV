@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 2791 · **Unique arXiv IDs:** 2791
+**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 2800 · **Unique arXiv IDs:** 2800
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-10 | [Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2608.09146) | Tianchen Deng, Chongdi Wang, Nailin Wang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.09146) / [pdf](https://arxiv.org/pdf/2608.09146) |
+| 2026-08-10 | [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.09110) / [pdf](https://arxiv.org/pdf/2608.09110) |
+| 2026-08-09 | [EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949) | Nuo Chen, Kangqi Ni, Lulin Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.08949) / [pdf](https://arxiv.org/pdf/2608.08949) |
+| 2026-08-09 | [JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659) | Jinhua Cui, Anhong Wang, Kai Hu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.08659) / [pdf](https://arxiv.org/pdf/2608.08659) |
+| 2026-08-09 | [EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585) | Zixuan Chen, Jiakai Zhang, Junhao Dong, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.08585) / [pdf](https://arxiv.org/pdf/2608.08585) |
+| 2026-08-09 | [ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints](https://arxiv.org/abs/2608.08531) | Xiaoyang Bai, Zhenyang Li, Weiwei Xu, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.08531) / [pdf](https://arxiv.org/pdf/2608.08531) |
+| 2026-08-09 | [DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing](https://arxiv.org/abs/2608.08381) | Navid Hasanzadeh, Shahrokh Valaee | cs.CV, eess.SP | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.08381) / [pdf](https://arxiv.org/pdf/2608.08381) |
+| 2026-08-08 | [FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937) | Amir Sabbaghziarani, Hanting Ye, Maria Gorlatova, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.07937) / [pdf](https://arxiv.org/pdf/2608.07937) |
+| 2026-08-07 | [XClipGS: Exact Half-Space Clipping for Medical Volume Gaussian Splatting](https://arxiv.org/abs/2608.07760) | Zhongpai Gao, Benjamin Planche, Meng Zheng, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.07760) / [pdf](https://arxiv.org/pdf/2608.07760) |
 | 2026-08-07 | [InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144) | Minchao Jiang, Xiaoxuan Ma, Shunyu Jia, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.07144) / [pdf](https://arxiv.org/pdf/2608.07144) |
 | 2026-08-07 | [AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles](https://arxiv.org/abs/2608.06801) | Jinlei Wang, Jiahuan Long, Mingkai Sun, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.06801) / [pdf](https://arxiv.org/pdf/2608.06801) |
 | 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |

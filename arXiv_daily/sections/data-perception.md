@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1642 · **Unique arXiv IDs:** 1642
+**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1650 · **Unique arXiv IDs:** 1650
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-10 | [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602) | Dipankar Bhattacharya, Ryman Hashem, Leo K. Cheng, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2608.09602) / [pdf](https://arxiv.org/pdf/2608.09602) |
+| 2026-08-10 | [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) | Kang He, Wenshuo Peng, Zihui Gao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.09449) / [pdf](https://arxiv.org/pdf/2608.09449) |
+| 2026-08-10 | [Bootstrapping Vision-Language Model for Hysteroscopic Surgical Scene Segmentation](https://arxiv.org/abs/2608.09302) | Jun Huang, Meiyi Chen, Zijie Yue, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.09302) / [pdf](https://arxiv.org/pdf/2608.09302) |
+| 2026-08-09 | [OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Predictio](https://arxiv.org/abs/2608.08696) | Junjie Liu, Wanshui Gan, Zitong Dai, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.08696) / [pdf](https://arxiv.org/pdf/2608.08696) |
+| 2026-08-09 | [EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim](https://arxiv.org/abs/2608.08522) | Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.08522) / [pdf](https://arxiv.org/pdf/2608.08522) |
+| 2026-08-09 | [RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion](https://arxiv.org/abs/2608.08476) | Meng Wang, Hongxia Yu, Wenzhe He, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.08476) / [pdf](https://arxiv.org/pdf/2608.08476) |
+| 2026-08-08 | [SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106) | Peng Zhang | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.08106) / [pdf](https://arxiv.org/pdf/2608.08106) |
 | 2026-08-06 | [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117) | Hongyu Zhou, Zorah Lähner | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2608.06117) / [pdf](https://arxiv.org/pdf/2608.06117) |
 | 2026-08-06 | [A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence](https://arxiv.org/abs/2608.05570) | Jiapeng Chi, Gerd Bruder, Carsten Neumann, et al. | cs.HC, cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.05570) / [pdf](https://arxiv.org/pdf/2608.05570) |
 | 2026-08-05 | [An active-learning framework for real-time depth perception from monocular vision streams](https://arxiv.org/abs/2608.04917) | Xiaorong Zeng, Weiqiang Chen, Peng Shi, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.04917) / [pdf](https://arxiv.org/pdf/2608.04917) |
@@ -26,6 +33,7 @@
 | 2026-08-03 | [PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks](https://arxiv.org/abs/2608.02792) | Deepank Singh, Anurag Nihal, Vedhus Hoskere | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.02792) / [pdf](https://arxiv.org/pdf/2608.02792) |
 | 2026-08-03 | [Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation](https://arxiv.org/abs/2608.02257) | Donglin Yang, Haoran Chen, Xingyu Chen, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.02257) / [pdf](https://arxiv.org/pdf/2608.02257) |
 | 2026-08-03 | [GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation](https://arxiv.org/abs/2608.02068) | Xianghui Fan, Zhaoyu Chen, Bingqian Wu, et al. | cs.CV | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2608.02068) / [pdf](https://arxiv.org/pdf/2608.02068) |
+| 2026-08-02 | [Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation](https://arxiv.org/abs/2608.07562) | Nafis Fuad, Xiaodong Qian, Dongxiao Zhu | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.07562) / [pdf](https://arxiv.org/pdf/2608.07562) |
 | 2026-08-02 | [Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning](https://arxiv.org/abs/2608.01488) | Yuqi Li, Yuedong Tan, Huiran Duan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.01488) / [pdf](https://arxiv.org/pdf/2608.01488) |
 | 2026-08-02 | [FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity](https://arxiv.org/abs/2608.01129) | Ganghyeon Lee, Inha Lee, Junhee Lee, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.01129) / [pdf](https://arxiv.org/pdf/2608.01129) |
 | 2026-08-02 | [Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM](https://arxiv.org/abs/2608.00925) | Zhuang Xiong, Guohao Zhang, Chen Zhang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.00925) / [pdf](https://arxiv.org/pdf/2608.00925) |

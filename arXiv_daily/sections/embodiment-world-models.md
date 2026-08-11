@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1975 · **Unique arXiv IDs:** 1975
+**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1990 · **Unique arXiv IDs:** 1990
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-10 | [Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914) | Gijung Lee, Ronald Wilson, Damon L. Woodard, et al. | cs.CR, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.09914) / [pdf](https://arxiv.org/pdf/2608.09914) |
+| 2026-08-10 | [Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning](https://arxiv.org/abs/2608.09876) | Yapeng Liu, Yuanzhao Zhai, Bo Ding, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.09876) / [pdf](https://arxiv.org/pdf/2608.09876) |
+| 2026-08-10 | [Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition](https://arxiv.org/abs/2608.09762) | Changhao Li, Yifang Zhang, Heng Zhang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.09762) / [pdf](https://arxiv.org/pdf/2608.09762) |
+| 2026-08-10 | [verdi: retrieval is not transfer for continual world model optimization](https://arxiv.org/abs/2608.09537) | Junyu Wu, Shiqin Nie, Youyi Kou, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.09537) / [pdf](https://arxiv.org/pdf/2608.09537) |
+| 2026-08-10 | [SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry](https://arxiv.org/abs/2608.09303) | Laura Jones, Shazil Shahzad, Ayesha Sana, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.09303) / [pdf](https://arxiv.org/pdf/2608.09303) |
+| 2026-08-10 | [Latent World Models with Monotone Planning Costs for Image-Goal Navigation](https://arxiv.org/abs/2608.09073) | Amirhosein Chahe, Siwei Cai, Lifeng Zhou | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.09073) / [pdf](https://arxiv.org/pdf/2608.09073) |
+| 2026-08-09 | [Population-Scalable Multi-Agent World Modeling](https://arxiv.org/abs/2608.08600) | Renjie Zhao, Yuxiang Wu, Mingyu Zhang, et al. | cs.CV, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.08600) / [pdf](https://arxiv.org/pdf/2608.08600) |
+| 2026-08-08 | [SurgWMBench: A Vision-Based Benchmark for World-Modeling Surgical Instrument Motion Planning](https://arxiv.org/abs/2608.08070) | Huanrong Liu, Weiliang Huang, Bob Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.08070) / [pdf](https://arxiv.org/pdf/2608.08070) |
+| 2026-08-08 | [PhysX-CoT: Structured Physical Reasoning from a Single Image to Simulation-Ready 3D Assets](https://arxiv.org/abs/2608.08053) | Jie Huang, Xiaohe Li, Jiahao Li, et al. | cs.RO, cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.08053) / [pdf](https://arxiv.org/pdf/2608.08053) |
+| 2026-08-08 | [EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking](https://arxiv.org/abs/2608.08016) | Jan Kulik, Bjarni Dagur Thor Karason, Yung-Hsu Yang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.08016) / [pdf](https://arxiv.org/pdf/2608.08016) |
+| 2026-08-07 | [CausalNav: Reliability-Certified Causal World Models for Control under Physical-Parameter Shift](https://arxiv.org/abs/2608.07809) | Yiyao Zhang, Diksha Goel, Hussain Ahmad, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.07809) / [pdf](https://arxiv.org/pdf/2608.07809) |
+| 2026-08-07 | [GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning](https://arxiv.org/abs/2608.07619) | Yanping Zhao, Hang Yu, Yiwei Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.07619) / [pdf](https://arxiv.org/pdf/2608.07619) |
 | 2026-08-07 | [Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction](https://arxiv.org/abs/2608.07420) | Xinyi Li, Zaishuo Xia, Chenjie Hao, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.07420) / [pdf](https://arxiv.org/pdf/2608.07420) |
 | 2026-08-07 | [MemWM: Memory-Augmented Text-Based World Model](https://arxiv.org/abs/2608.07107) | Yujun Wang, Tao Zhang, Jinhe Bi, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.07107) / [pdf](https://arxiv.org/pdf/2608.07107) |
 | 2026-08-07 | [Spatiotemporal Agility: Time-Constrained Reinforcement Learning for Vision-Guided Dynamic Quadrupedal Interception](https://arxiv.org/abs/2608.06907) | Yidong Zhu, Zibo Dai, Tongning Zhang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.06907) / [pdf](https://arxiv.org/pdf/2608.06907) |
@@ -35,6 +47,7 @@
 | 2026-08-05 | [Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models](https://arxiv.org/abs/2608.04765) | Houze Xu, Jizhong Li, Ziyi Ye | cs.RO, cs.AI, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04765) / [pdf](https://arxiv.org/pdf/2608.04765) |
 | 2026-08-05 | [OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560) | Xia Yan, He Wu, Yanghui Xu, et al. | cs.CV, cs.GR | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.04560) / [pdf](https://arxiv.org/pdf/2608.04560) |
 | 2026-08-05 | [Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation](https://arxiv.org/abs/2608.04378) | Scott H. Hawley | cs.SD, cs.LG, eess.AS | World Model | [abs](https://arxiv.org/abs/2608.04378) / [pdf](https://arxiv.org/pdf/2608.04378) |
+| 2026-08-04 | [Geometry Beats Estimated Depth: RGB-Only Multi-Camera 3D Tracking under Sim2Real](https://arxiv.org/abs/2608.07579) | Abdullah Naeem, Anav Katwal, Ayon Dey, et al. | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.07579) / [pdf](https://arxiv.org/pdf/2608.07579) |
 | 2026-08-04 | [SAFECAST: Robust Failure Detection for VLA Policies with Contrast-Set Training and Calibration](https://arxiv.org/abs/2608.04246) | Harshitha Rajaprakash, Aditeya Prajapati, Rong Xue, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.04246) / [pdf](https://arxiv.org/pdf/2608.04246) |
 | 2026-08-04 | [TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2608.03763) | Qingxi Du, Junbo Wang, Yuke Li, et al. | cs.CV | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2608.03763) / [pdf](https://arxiv.org/pdf/2608.03763) |
 | 2026-08-04 | [Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems](https://arxiv.org/abs/2608.03413) | Zuojun Max Shen, Yuan Qu, Pujun Zhang, et al. | cs.AI, cs.ET | World Model | [abs](https://arxiv.org/abs/2608.03413) / [pdf](https://arxiv.org/pdf/2608.03413) |
@@ -49,7 +62,9 @@
 | 2026-08-02 | [STAR-VLM: Spatiotemporal Grounding Vision-Language Models for Motion and Velocity Estimation via Automotive Radar Supervision](https://arxiv.org/abs/2608.01535) | Pou-Chun Kung, Aryaman Rao, Utkrisht Sahai, et al. | cs.CV, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.01535) / [pdf](https://arxiv.org/pdf/2608.01535) |
 | 2026-08-02 | [DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation](https://arxiv.org/abs/2608.01381) | Zheng Yang, Wenjie Zhang, Xiangyu Chen, et al. | cs.RO | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2608.01381) / [pdf](https://arxiv.org/pdf/2608.01381) |
 | 2026-08-02 | [EndoWAM: A Grounded World-Action Model for Generalizable Endoscopic Navigation](https://arxiv.org/abs/2608.01221) | Jinsong Lin, Zikang Pan, Wanhao Liu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.01221) / [pdf](https://arxiv.org/pdf/2608.01221) |
+| 2026-08-01 | [SC$^{2}$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2608.07548) | Xuan Yao, Yuze Zhu, Junyu Gao, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.07548) / [pdf](https://arxiv.org/pdf/2608.07548) |
 | 2026-08-01 | [Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms](https://arxiv.org/abs/2608.00625) | Zongyuan Shen, Shalabh Gupta, Shancheng Zhao, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.00625) / [pdf](https://arxiv.org/pdf/2608.00625) |
+| 2026-08-01 | [Why Does the Future Branch? Identifiable Closure Tests for Stochastic Physical World Models](https://arxiv.org/abs/2608.00591) | Yibin Dong | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.00591) / [pdf](https://arxiv.org/pdf/2608.00591) |
 
 ## 2026-07
 

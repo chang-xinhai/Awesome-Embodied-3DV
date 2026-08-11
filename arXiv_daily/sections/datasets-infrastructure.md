@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 484 · **Unique arXiv IDs:** 484
+**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 488 · **Unique arXiv IDs:** 488
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-10 | [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) | Peterson Co, Sicheng Hu, Chunxuan Jiao, et al. | cs.RO, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.09298) / [pdf](https://arxiv.org/pdf/2608.09298) |
+| 2026-08-10 | [RAGMesh with FaME-G2E: Long-Form Text-Driven 3D Face Generation and Editing](https://arxiv.org/abs/2608.09186) | Hao Li, Ju Dai, Feng Zhou, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.09186) / [pdf](https://arxiv.org/pdf/2608.09186) |
+| 2026-08-08 | [DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea](https://arxiv.org/abs/2608.08025) | Jiaming Chen, Juntao Yang, Zhentao Zou, et al. | cs.RO, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.08025) / [pdf](https://arxiv.org/pdf/2608.08025) |
 | 2026-08-06 | [Depth-Guided Video Object Counting in Crowded Scenes](https://arxiv.org/abs/2608.06236) | Yuanjing Xu, Xinyan Liu, Weidong Chen, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.06236) / [pdf](https://arxiv.org/pdf/2608.06236) |
 | 2026-08-05 | [OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560) | Xia Yan, He Wu, Yanghui Xu, et al. | cs.CV, cs.GR | Dataset | [abs](https://arxiv.org/abs/2608.04560) / [pdf](https://arxiv.org/pdf/2608.04560) |
 | 2026-08-04 | [3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279) | Yuke Xing, Jiarui Wang, William Gordon, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.03279) / [pdf](https://arxiv.org/pdf/2608.03279) |
@@ -19,6 +22,7 @@
 | 2026-08-03 | [PhyCheck: Fine-Grained Evidence-Grounded Dataset for Physical Law Understanding in Video-LLMs](https://arxiv.org/abs/2608.02150) | Zhongjie Ba, Shengwang Xu, Peng Cheng, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.02150) / [pdf](https://arxiv.org/pdf/2608.02150) |
 | 2026-08-03 | [GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation](https://arxiv.org/abs/2608.02068) | Xianghui Fan, Zhaoyu Chen, Bingqian Wu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.02068) / [pdf](https://arxiv.org/pdf/2608.02068) |
 | 2026-08-03 | [Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling](https://arxiv.org/abs/2608.01572) | Mohamad Mofeed Chaar, Galia Weidl | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.01572) / [pdf](https://arxiv.org/pdf/2608.01572) |
+| 2026-08-02 | [Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation](https://arxiv.org/abs/2608.07562) | Nafis Fuad, Xiaodong Qian, Dongxiao Zhu | cs.CV, cs.LG | Dataset | [abs](https://arxiv.org/abs/2608.07562) / [pdf](https://arxiv.org/pdf/2608.07562) |
 | 2026-08-02 | [Swimm3R: Splatting with Medium-aware SfM for Underwater 3D Reconstruction](https://arxiv.org/abs/2608.00950) | Minseong Kweon, Junaed Sattar | cs.CV, cs.RO, eess.IV | Dataset | [abs](https://arxiv.org/abs/2608.00950) / [pdf](https://arxiv.org/pdf/2608.00950) |
 
 ## 2026-07
