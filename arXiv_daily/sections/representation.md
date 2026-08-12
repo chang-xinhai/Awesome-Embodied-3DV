@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 2800 · **Unique arXiv IDs:** 2800
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2805 · **Unique arXiv IDs:** 2805
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-11 | [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150) | Jiayu Ding, Meilu Song, Yun Chen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11150) / [pdf](https://arxiv.org/pdf/2608.11150) |
+| 2026-08-11 | [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077) | Hang Li, Jiahe Li, Meiying Gu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11077) / [pdf](https://arxiv.org/pdf/2608.11077) |
+| 2026-08-11 | [Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712) | Tim-Felix Fassch, Jochen Kall, Cyrill Stachniss | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.10712) / [pdf](https://arxiv.org/pdf/2608.10712) |
+| 2026-08-11 | [Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682) | Junhong Lin, Jinlong Wang, Xianda Guo, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.10682) / [pdf](https://arxiv.org/pdf/2608.10682) |
+| 2026-08-10 | [LEGO: Leveled Language Gaussian Splatting](https://arxiv.org/abs/2608.10057) | Yuning Peng, Haiping Wang, Yuan Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.10057) / [pdf](https://arxiv.org/pdf/2608.10057) |
 | 2026-08-10 | [Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2608.09146) | Tianchen Deng, Chongdi Wang, Nailin Wang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.09146) / [pdf](https://arxiv.org/pdf/2608.09146) |
 | 2026-08-10 | [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.09110) / [pdf](https://arxiv.org/pdf/2608.09110) |
 | 2026-08-09 | [EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949) | Nuo Chen, Kangqi Ni, Lulin Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.08949) / [pdf](https://arxiv.org/pdf/2608.08949) |

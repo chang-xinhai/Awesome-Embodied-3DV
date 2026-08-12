@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 2683 · **Unique arXiv IDs:** 2683
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2687 · **Unique arXiv IDs:** 2687
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-11 | [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077) | Hang Li, Jiahe Li, Meiying Gu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.11077) / [pdf](https://arxiv.org/pdf/2608.11077) |
+| 2026-08-11 | [Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging](https://arxiv.org/abs/2608.10888) | Sehoon Tak, Jae-Sang Hyun | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.10888) / [pdf](https://arxiv.org/pdf/2608.10888) |
+| 2026-08-11 | [Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712) | Tim-Felix Fassch, Jochen Kall, Cyrill Stachniss | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.10712) / [pdf](https://arxiv.org/pdf/2608.10712) |
+| 2026-08-11 | [Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682) | Junhong Lin, Jinlong Wang, Xianda Guo, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2608.10682) / [pdf](https://arxiv.org/pdf/2608.10682) |
 | 2026-08-10 | [A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM](https://arxiv.org/abs/2608.09620) | Boris Radovanovic, Vukan Ninkovic, Katarina Vidojevic, et al. | cs.NI, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.09620) / [pdf](https://arxiv.org/pdf/2608.09620) |
 | 2026-08-10 | [Marrying Optimal Transport and ODEs for Unified Continuous-Time 4D Reconstruction and Tracking](https://arxiv.org/abs/2608.09613) | Liying Yang, Hao Mo, Jialun Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.09613) / [pdf](https://arxiv.org/pdf/2608.09613) |
 | 2026-08-10 | [Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2608.09146) | Tianchen Deng, Chongdi Wang, Nailin Wang, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2608.09146) / [pdf](https://arxiv.org/pdf/2608.09146) |

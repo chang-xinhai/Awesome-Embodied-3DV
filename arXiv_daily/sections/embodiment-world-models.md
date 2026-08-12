@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1990 · **Unique arXiv IDs:** 1990
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2000 · **Unique arXiv IDs:** 2000
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-11 | [VIScore: Diagnosing Planning-Relevant Quality in Latent World Models](https://arxiv.org/abs/2608.11174) | Haiyu Wu, Randall Balestriero, Morgan Levine | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.11174) / [pdf](https://arxiv.org/pdf/2608.11174) |
+| 2026-08-11 | [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150) | Jiayu Ding, Meilu Song, Yun Chen, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.11150) / [pdf](https://arxiv.org/pdf/2608.11150) |
+| 2026-08-11 | [R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video](https://arxiv.org/abs/2608.11017) | Ke Ma, Yamin Mao, Weiming Li, et al. | cs.CV, cs.AI, cs.HC | World Model | [abs](https://arxiv.org/abs/2608.11017) / [pdf](https://arxiv.org/pdf/2608.11017) |
+| 2026-08-11 | [ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes](https://arxiv.org/abs/2608.10981) | Xinrui Lin, Sha Zhang, Shumin Wang, et al. | cs.CV | 3D Grounding / Memory, Interaction / Affordance | [abs](https://arxiv.org/abs/2608.10981) / [pdf](https://arxiv.org/pdf/2608.10981) |
+| 2026-08-11 | [GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes](https://arxiv.org/abs/2608.10886) | Ermanno Bartoli, Buwei He, Dennis Rotondi, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.10886) / [pdf](https://arxiv.org/pdf/2608.10886) |
+| 2026-08-11 | [Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent](https://arxiv.org/abs/2608.10618) | Zitong Shan, Baichuan Lou, Yanxin Zhou, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.10618) / [pdf](https://arxiv.org/pdf/2608.10618) |
+| 2026-08-11 | [PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots](https://arxiv.org/abs/2608.10449) | Shuo Bao, Wei Dong, Shuyue Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.10449) / [pdf](https://arxiv.org/pdf/2608.10449) |
+| 2026-08-10 | [FACT: Failure-Aware Causal Training for World-Action Models](https://arxiv.org/abs/2608.10232) | Quanquan Peng, Yutong Liang, Rui Yan, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.10232) / [pdf](https://arxiv.org/pdf/2608.10232) |
+| 2026-08-10 | [The Evaluation Protocol Determines the Result: An Independent Reproduction of LeWorldModel on TwoRoom](https://arxiv.org/abs/2608.10145) | Joyjeet Singh | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.10145) / [pdf](https://arxiv.org/pdf/2608.10145) |
+| 2026-08-10 | [LEGO: Leveled Language Gaussian Splatting](https://arxiv.org/abs/2608.10057) | Yuning Peng, Haiping Wang, Yuan Liu, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.10057) / [pdf](https://arxiv.org/pdf/2608.10057) |
 | 2026-08-10 | [Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914) | Gijung Lee, Ronald Wilson, Damon L. Woodard, et al. | cs.CR, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.09914) / [pdf](https://arxiv.org/pdf/2608.09914) |
 | 2026-08-10 | [Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning](https://arxiv.org/abs/2608.09876) | Yapeng Liu, Yuanzhao Zhai, Bo Ding, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.09876) / [pdf](https://arxiv.org/pdf/2608.09876) |
 | 2026-08-10 | [Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition](https://arxiv.org/abs/2608.09762) | Changhao Li, Yifang Zhang, Heng Zhang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.09762) / [pdf](https://arxiv.org/pdf/2608.09762) |

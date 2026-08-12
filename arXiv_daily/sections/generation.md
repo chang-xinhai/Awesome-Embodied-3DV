@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 899 · **Unique arXiv IDs:** 899
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 899 · **Unique arXiv IDs:** 899
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -13,7 +13,7 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-08-10 | [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.09110) / [pdf](https://arxiv.org/pdf/2608.09110) |
-| 2026-08-09 | [OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Predictio](https://arxiv.org/abs/2608.08696) | Junjie Liu, Wanshui Gan, Zitong Dai, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.08696) / [pdf](https://arxiv.org/pdf/2608.08696) |
+| 2026-08-09 | [OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction](https://arxiv.org/abs/2608.08696) | Junjie Liu, Wanshui Gan, Zitong Dai, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.08696) / [pdf](https://arxiv.org/pdf/2608.08696) |
 | 2026-08-08 | [PhysX-CoT: Structured Physical Reasoning from a Single Image to Simulation-Ready 3D Assets](https://arxiv.org/abs/2608.08053) | Jie Huang, Xiaohe Li, Jiahao Li, et al. | cs.RO, cs.CV | Image / Text-to-3D, Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.08053) / [pdf](https://arxiv.org/pdf/2608.08053) |
 | 2026-08-07 | [CANIS: Generation-Assisted 3D Canonicalization via an Image-Semantic Bridge](https://arxiv.org/abs/2608.07256) | Kendong Liu, Yuxin Yao, Junhui Hou | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.07256) / [pdf](https://arxiv.org/pdf/2608.07256) |
 | 2026-08-07 | [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012) | Kai Li, Lutao Jiang, Zhenyang Li, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.07012) / [pdf](https://arxiv.org/pdf/2608.07012) |

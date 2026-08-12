@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-11 · **Papers:** 1650 · **Unique arXiv IDs:** 1650
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 1650 · **Unique arXiv IDs:** 1650
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -15,7 +15,7 @@
 | 2026-08-10 | [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602) | Dipankar Bhattacharya, Ryman Hashem, Leo K. Cheng, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2608.09602) / [pdf](https://arxiv.org/pdf/2608.09602) |
 | 2026-08-10 | [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) | Kang He, Wenshuo Peng, Zihui Gao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.09449) / [pdf](https://arxiv.org/pdf/2608.09449) |
 | 2026-08-10 | [Bootstrapping Vision-Language Model for Hysteroscopic Surgical Scene Segmentation](https://arxiv.org/abs/2608.09302) | Jun Huang, Meiyi Chen, Zijie Yue, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.09302) / [pdf](https://arxiv.org/pdf/2608.09302) |
-| 2026-08-09 | [OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Predictio](https://arxiv.org/abs/2608.08696) | Junjie Liu, Wanshui Gan, Zitong Dai, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.08696) / [pdf](https://arxiv.org/pdf/2608.08696) |
+| 2026-08-09 | [OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction](https://arxiv.org/abs/2608.08696) | Junjie Liu, Wanshui Gan, Zitong Dai, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.08696) / [pdf](https://arxiv.org/pdf/2608.08696) |
 | 2026-08-09 | [EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim](https://arxiv.org/abs/2608.08522) | Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.08522) / [pdf](https://arxiv.org/pdf/2608.08522) |
 | 2026-08-09 | [RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion](https://arxiv.org/abs/2608.08476) | Meng Wang, Hongxia Yu, Wenzhe He, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.08476) / [pdf](https://arxiv.org/pdf/2608.08476) |
 | 2026-08-08 | [SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106) | Peng Zhang | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.08106) / [pdf](https://arxiv.org/pdf/2608.08106) |
