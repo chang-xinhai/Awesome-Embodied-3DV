@@ -56,7 +56,8 @@
       "url": "https://arxiv.org/abs/2608.11150",
       "pdf_url": "https://arxiv.org/pdf/2608.11150",
       "query_sources": [
-        "embodied-world-models"
+        "embodied-world-models",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -68,6 +69,45 @@
         ],
         "embodiment_world_models": [
           "3D Grounding / Memory"
+        ]
+      }
+    },
+    "2608.11100": {
+      "arxiv_id": "2608.11100",
+      "title": "WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes",
+      "abstract": "Climate-driven environmental change is driving an increase in both the frequency and severity of wildfire events, making accurate simulation and prediction critical for effective risk mitigation and landscape management. While recent physics-based wildfire models achieve high realism by explicitly simulating combustion, heat transfer, and fuel dynamics, they remain largely restricted to synthetic environments with complete and idealized knowledge of forest structure, limiting their applicability to real-world environments captured via aerial imagery. To provide a pathway toward real-world wildfire digital twins derived directly from observational data, we present WildFireGS, a physics-based wildfire simulation framework operating directly on large-scale, semantics-enriched 3D Gaussian Splatting forest reconstructions. Our approach bridges learning-based scene reconstruction and environmental simulation by augmenting Gaussian primitives with semantics and material properties that encode vegetation type and fuel characteristics. We introduce a particle-based combustion model that operates natively on Gaussian representations, simulating ignition, heat transfer, combustion, and flame propagation across complex forest structures. This enables direct physics-based simulation of fire behavior on reconstructed real-world environments, without requiring conversion to explicit meshes or volumetric grids. We demonstrate the modularity of WildFireGS through a rain-driven cooling mechanism in terms of an energy-sink process to realistically model fire containment. Evaluations on synthetic scenes and real aerial forest captures show physically consistent wildfire behavior, reproducing characteristic dynamics including propagation scaling with vegetation density, wind velocity, and terrain slope. In addition, we validate our model through novel firebreak experiments and biomass loss estimation.",
+      "authors": [
+        "Nienke Driessen",
+        "Joris Rijsdijk",
+        "Sören Pirk",
+        "Wojtek Palubicki",
+        "Dominik L. Michels",
+        "Michael Weinmann"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.GR",
+      "categories": [
+        "cs.GR"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.11100",
+      "pdf_url": "https://arxiv.org/pdf/2608.11100",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction"
         ]
       }
     },
@@ -187,6 +227,38 @@
         ]
       }
     },
+    "2608.10938": {
+      "arxiv_id": "2608.10938",
+      "title": "GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting",
+      "abstract": "Despite substantial progress in visual localization, from scene coordinate regression to direct camera pose regression, achieving both robust generalization and high accuracy remain challenging. This study introduces GS-CPE (Gaussian Splatting based Camera Pose Estimation), a coarse-to-fine framework for 6-DoF camera pose estimation that unifies geometry-based coarse pose estimation with robust 3D Gaussian Splatting (3DGS) warping based pose refinement. GS-CPE first estimates a coarse pose via retrieval-guided geometric pose estimation on a 3DGS scene representation, then refines it by minimizing a visibility aware masked RGB warping objective in a multi-scale optimization framework, with adaptive re-rendering. Extensive experiments on indoor and outdoor benchmarks including 7Scenes, Cambridge Landmarks, FAST-LIVO2 datasets, and a custom dataset demonstrate state-of-the-art performance, consistently outperforming in both accuracy and generalization.",
+      "authors": [
+        "Huaiyuan Weng",
+        "Chul Min Yeum",
+        "Su-Min Kang"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "8 pages, accepted at IROS 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10938",
+      "pdf_url": "https://arxiv.org/pdf/2608.10938",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
     "2608.10888": {
       "arxiv_id": "2608.10888",
       "title": "Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging",
@@ -207,6 +279,7 @@
       "url": "https://arxiv.org/abs/2608.10888",
       "pdf_url": "https://arxiv.org/pdf/2608.10888",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -257,6 +330,75 @@
         ]
       }
     },
+    "2608.10756": {
+      "arxiv_id": "2608.10756",
+      "title": "Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting",
+      "abstract": "Embodied mobile manipulation requires language, visual observations, three-dimensional scene structure, and action feasibility to be aligned before execution. We study open-vocabulary target grounding with few-shot manipulation in local household workspaces and present an embodied multimodal grounding framework that integrates active multi-view Semantic 3D Gaussian Splatting (Semantic-3DGS), reachability-aware base positioning, and a diffusion-based vision-language-action policy. A task-driven local Semantic-3DGS serves as a shared interface across active sensing, language-conditioned 3D localization, obstacle-aware scene reasoning, base preparation, and semantic conditioning of the action model. To preserve pretrained action priors, the 3D semantic cues are injected only into the late action-expert blocks. In expanded 50-trial real-robot evaluations against representative vision-language-action (VLA) approaches, the full system achieves 60% long-horizon success compared with 40% for PointVLA and 28% for DexVLA, and reaches 74% success in heavily cluttered manipulation compared with 52% for the single-view variant and 46% for PointVLA. It also maintains 75% success under a 75 cm height shift and eliminates photo-induced false grasps. These results indicate that explicit, refreshable 3D semantic grounding can improve robustness under clutter, occlusion, viewpoint variation, and embodiment constraints.",
+      "authors": [
+        "Huosen Ou",
+        "Dongni Song",
+        "Yuncong Wang",
+        "Tao Zhou",
+        "Yiding Ji"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26)",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10756",
+      "pdf_url": "https://arxiv.org/pdf/2608.10756",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2608.10718": {
+      "arxiv_id": "2608.10718",
+      "title": "TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4",
+      "abstract": "This technical report describes the RMC2 Team's champion solution for the WBCD 2026 Track 4: Deformable Manipulation Challenge. The task requires a robot to pick a single T-shirt from a stack, load it onto a printing pallet, align the collar with a target area, and smooth the printing region, a sequence that involves single-layer separation, deformable transport, precise placement, and contact-rich surface adjustment. The competition strongly incentivizes fully autonomous execution, motivating the development of an autonomous solution. We built a fully autonomous system around the TCAM (TermiBrain Causal Action Model) framework, with the design principle that hardware, perception, data, and learning should jointly reduce the physical interaction complexity the policy must handle. A custom 3D-printed gripper designed for single-layer fabric separation improves picking reliability on a dual-arm ARX X5 platform. A wrist-centric four-camera setup pairs upper fisheye cameras for task-level context with lower RGB cameras for close-range gripper-cloth contact observation. We combine portable UMI-style demonstrations with real-robot demonstrations collected on the deployable platform to provide both broad manipulation priors and deployment-specific dynamics. TCAM ties these components into a closed loop: each trajectory is analyzed to identify the physical factors contributing to its outcome, driving targeted data recollection and policy fine-tuning. The policy outputs 30-step end-effector delta-pose action chunks from a multi-view VLA backbone. In the final competition, our system loaded 25 T-shirts at an average of approximately 23 seconds per attempt, with 22 achieving the required surface smoothness, securing first place in Track 4.",
+      "authors": [
+        "Guangrui Shen",
+        "Zhili He",
+        "Shigang Wang",
+        "Yuanjun Sun",
+        "Qing Yu"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10718",
+      "pdf_url": "https://arxiv.org/pdf/2608.10718",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
     "2608.10712": {
       "arxiv_id": "2608.10712",
       "title": "Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging",
@@ -278,7 +420,8 @@
       "url": "https://arxiv.org/abs/2608.10712",
       "pdf_url": "https://arxiv.org/pdf/2608.10712",
       "query_sources": [
-        "reconstruction-and-mapping"
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -321,7 +464,8 @@
       "url": "https://arxiv.org/abs/2608.10682",
       "pdf_url": "https://arxiv.org/pdf/2608.10682",
       "query_sources": [
-        "reconstruction-and-mapping"
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -376,6 +520,44 @@
         ]
       }
     },
+    "2608.10602": {
+      "arxiv_id": "2608.10602",
+      "title": "Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization",
+      "abstract": "3D Gaussian Splatting (3DGS) has recently enabled real-time novel view synthesis with impressive quality. However, it struggles to recover accurate surfaces under limited viewpoints and due to the inherent irregularity of Gaussian primitives. The resulting geometric errors are notoriously difficult to correct manually. To address these issues, we propose Gaussian Sculpting, a fully differentiable end-to-end framework for high-quality surface reconstruction. Our key insight is to anchor Gaussians onto an evolving differentiable surface, allowing them to guide signed distance field (SDF) optimization instead of extracting the surface only during post-processing. To enable stable gradient isolation during joint optimization, we design a bi-level training strategy in which the outer loop optimizes the geometry represented by the SDF, while the inner loop updates the Gaussians with the geometry fixed. We further impose constraints on Gaussian parameters to ensure consistency with the underlying surface, thereby improving both geometric and appearance fidelity during optimization. In addition, we introduce a multi-resolution subdivision scheme based on octree-like partitioning to preserve fine details while reducing memory consumption. Experiments on object-level scenes demonstrate that our method effectively removes redundant surfaces, recovers missing structures caused by limited viewpoints, and achieves strong reconstruction quality even at relatively low resolutions.",
+      "authors": [
+        "Ke Jiaxin",
+        "Juncheng Liu",
+        "Yi Wang",
+        "Zhouhui Lian",
+        "Bin Liu",
+        "Shengfa Wang",
+        "Xiangjia He"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10602",
+      "pdf_url": "https://arxiv.org/pdf/2608.10602",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Neural Implicit / SDF"
+        ]
+      }
+    },
     "2608.10449": {
       "arxiv_id": "2608.10449",
       "title": "PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots",
@@ -413,6 +595,74 @@
       "matches": {
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2608.10345": {
+      "arxiv_id": "2608.10345",
+      "title": "CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images",
+      "abstract": "Free-viewpoint 3D scene media is increasingly important for immersive applications, yet practical capture often suffers from severe view sparsity and motion blur. Although neural rendering has advanced sparse-view synthesis, existing blur-aware methods typically require substantial multi-view redundancy, accurate camera poses, or costly per-scene optimization. We address a stringent yet practical setting: reconstructing a coherent 3D scene from only two motion-blurred images with known intrinsics, without input-view poses, auxiliary sharp images, or per-scene test-time optimization. To this end, we propose CasDeblurGS, a cascaded framework that progressively recovers reliable cross-view information from local 2D correspondences to global 3D guidance. Stage 1 constructs locally reliable guidance through occlusion-aware correspondence filtering, while Stage 2 aggregates the intermediate restorations into a provisional pose-free 3D Gaussian representation whose input-view re-renders provide dense global guidance for final restoration. The resulting views enable a more coherent 3D representation and higher-quality novel-view synthesis. Experiments on real-world and synthetic Deblur-NeRF scenes show consistent gains over strong baselines, improving PSNR by 1.19 dB and 2.11 dB, respectively. Progressive ablations, cross-view correspondence visualization, and camera reprojection analysis further demonstrate improvements in both rendering quality and multi-view geometric consistency.",
+      "authors": [
+        "Haeyun Choi",
+        "Minhyuk Jang",
+        "I-Gil Kim"
+      ],
+      "published": "2026-08-11",
+      "updated": "2026-08-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10345",
+      "pdf_url": "https://arxiv.org/pdf/2608.10345",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Radiance Field / NeRF"
+        ]
+      }
+    },
+    "2608.10286": {
+      "arxiv_id": "2608.10286",
+      "title": "TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration",
+      "abstract": "We present TRACE-GS, an on-policy trajectory distillation framework that leverages privileged geometric conditioning at training time, thereby adapting a diffusion prior to sparse-view 3D Gaussian Splatting (3DGS) restoration. Rather than pursuing increasingly sophisticated restoration architectures, we identify a more fundamental limitation shared by existing diffusion-based approaches: supervision at independently noised states does not cover those reached during inference. In sparse-view 3DGS, under-constrained geometry biases denoising from the outset, and the resulting deviations compound along the rollout. TRACE-GS instead performs on-policy trajectory distillation: a teacher conditioned on richer geometry from additional training views supplies targets along the sparse-view student's own rollout, aligning denoising directions and cross-view responses at each visited state. This training-only geometry places TRACE-GS in the learning using privileged information (LUPI) setting. At deployment, only the sparse-view student is retained, and its restored renderings serve as pseudo-observations for 3DGS refinement. To the best of our knowledge, TRACE-GS is the first to derive on-policy supervision from privileged geometry for sparse-view 3DGS restoration, achieving consistent gains and strong generalization across datasets and sparse-view settings.",
+      "authors": [
+        "Linlian Jiang",
+        "Yuchen Xi",
+        "Sadman Rakib Pinon",
+        "Ruigang Yang",
+        "Yang Wang",
+        "Xinxin Zuo"
+      ],
+      "published": "2026-08-10",
+      "updated": "2026-08-10",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.10286",
+      "pdf_url": "https://arxiv.org/pdf/2608.10286",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
         ]
       }
     },
@@ -506,7 +756,8 @@
       "url": "https://arxiv.org/abs/2608.10057",
       "pdf_url": "https://arxiv.org/pdf/2608.10057",
       "query_sources": [
-        "embodied-world-models"
+        "embodied-world-models",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -862,7 +1113,7 @@
         "Miaojing Shi"
       ],
       "published": "2026-08-10",
-      "updated": "2026-08-10",
+      "updated": "2026-08-11",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -1351,7 +1602,7 @@
         "Rodrigo Verschae"
       ],
       "published": "2026-08-09",
-      "updated": "2026-08-09",
+      "updated": "2026-08-11",
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO"
@@ -309774,6 +310025,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-12",
-  "paper_count": 8272,
-  "generated_at": "2026-08-12T02:35:21+00:00"
+  "paper_count": 8279,
+  "generated_at": "2026-08-12T13:10:42+00:00"
 }

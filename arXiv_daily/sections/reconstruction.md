@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2687 · **Unique arXiv IDs:** 2687
+**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2688 · **Unique arXiv IDs:** 2688
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-11 | [WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100) | Nienke Driessen, Joris Rijsdijk, Sören Pirk, et al. | cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.11100) / [pdf](https://arxiv.org/pdf/2608.11100) |
 | 2026-08-11 | [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077) | Hang Li, Jiahe Li, Meiying Gu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.11077) / [pdf](https://arxiv.org/pdf/2608.11077) |
 | 2026-08-11 | [Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging](https://arxiv.org/abs/2608.10888) | Sehoon Tak, Jae-Sang Hyun | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.10888) / [pdf](https://arxiv.org/pdf/2608.10888) |
 | 2026-08-11 | [Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712) | Tim-Felix Fassch, Jochen Kall, Cyrill Stachniss | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.10712) / [pdf](https://arxiv.org/pdf/2608.10712) |

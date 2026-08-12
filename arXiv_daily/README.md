@@ -2,15 +2,15 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Unique papers:** 8272
+**Coverage:** 2025-01-01 to 2026-08-12 · **Unique papers:** 8279
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1650 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
-| [3D/4D Representation](sections/representation.md) | 2805 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2687 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [Data Perception](sections/data-perception.md) | 1651 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [3D/4D Representation](sections/representation.md) | 2811 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
+| [3D Reconstruction](sections/reconstruction.md) | 2688 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 899 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
 | [Embodiment & World Models](sections/embodiment-world-models.md) | 2000 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 488 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
@@ -21,6 +21,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-08-11 — [TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4](https://arxiv.org/abs/2608.10718)
 - 2026-08-10 — [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602)
 - 2026-08-10 — [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449)
 - 2026-08-10 — [Bootstrapping Vision-Language Model for Hysteroscopic Surgical Scene Segmentation](https://arxiv.org/abs/2608.09302)
@@ -30,23 +31,23 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-08 — [SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106)
 - 2026-08-06 — [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117)
 - 2026-08-06 — [A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence](https://arxiv.org/abs/2608.05570)
-- 2026-08-05 — [An active-learning framework for real-time depth perception from monocular vision streams](https://arxiv.org/abs/2608.04917)
 
 ### 3D/4D Representation
 
 - 2026-08-11 — [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150)
+- 2026-08-11 — [WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100)
 - 2026-08-11 — [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077)
+- 2026-08-11 — [GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938)
+- 2026-08-11 — [Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756)
 - 2026-08-11 — [Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712)
 - 2026-08-11 — [Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682)
-- 2026-08-10 — [LEGO: Leveled Language Gaussian Splatting](https://arxiv.org/abs/2608.10057)
-- 2026-08-10 — [Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2608.09146)
-- 2026-08-10 — [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110)
-- 2026-08-09 — [EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949)
-- 2026-08-09 — [JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659)
-- 2026-08-09 — [EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585)
+- 2026-08-11 — [Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602)
+- 2026-08-11 — [CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345)
+- 2026-08-10 — [TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration](https://arxiv.org/abs/2608.10286)
 
 ### 3D Reconstruction
 
+- 2026-08-11 — [WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100)
 - 2026-08-11 — [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077)
 - 2026-08-11 — [Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging](https://arxiv.org/abs/2608.10888)
 - 2026-08-11 — [Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712)
@@ -56,7 +57,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-10 — [Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2608.09146)
 - 2026-08-10 — [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110)
 - 2026-08-09 — [EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949)
-- 2026-08-09 — [EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585)
 
 ### 3D Generation & Assets
 
