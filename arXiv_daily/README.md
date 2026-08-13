@@ -2,13 +2,13 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-13 · **Unique papers:** 8287
+**Coverage:** 2025-01-01 to 2026-08-13 · **Unique papers:** 8288
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1651 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 1652 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2813 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 2691 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 901 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
@@ -21,6 +21,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-08-12 — [Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision](https://arxiv.org/abs/2608.11564)
 - 2026-08-11 — [TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4](https://arxiv.org/abs/2608.10718)
 - 2026-08-10 — [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602)
 - 2026-08-10 — [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449)
@@ -30,7 +31,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-09 — [RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion](https://arxiv.org/abs/2608.08476)
 - 2026-08-08 — [SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106)
 - 2026-08-06 — [Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117)
-- 2026-08-06 — [A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence](https://arxiv.org/abs/2608.05570)
 
 ### 3D/4D Representation
 

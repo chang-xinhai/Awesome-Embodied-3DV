@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 1651 · **Unique arXiv IDs:** 1651
+**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 1652 · **Unique arXiv IDs:** 1652
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-12 | [Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision](https://arxiv.org/abs/2608.11564) | Jie Hong, Tingtian Li, Xuesong Li, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.11564) / [pdf](https://arxiv.org/pdf/2608.11564) |
 | 2026-08-11 | [TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4](https://arxiv.org/abs/2608.10718) | Guangrui Shen, Zhili He, Shigang Wang, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.10718) / [pdf](https://arxiv.org/pdf/2608.10718) |
 | 2026-08-10 | [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602) | Dipankar Bhattacharya, Ryman Hashem, Leo K. Cheng, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2608.09602) / [pdf](https://arxiv.org/pdf/2608.09602) |
 | 2026-08-10 | [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) | Kang He, Wenshuo Peng, Zihui Gao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.09449) / [pdf](https://arxiv.org/pdf/2608.09449) |

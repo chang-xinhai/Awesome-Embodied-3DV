@@ -65,6 +65,7 @@
       "url": "https://arxiv.org/abs/2608.12232",
       "pdf_url": "https://arxiv.org/pdf/2608.12232",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -104,6 +105,7 @@
       "url": "https://arxiv.org/abs/2608.12179",
       "pdf_url": "https://arxiv.org/pdf/2608.12179",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -140,7 +142,8 @@
       "url": "https://arxiv.org/abs/2608.12175",
       "pdf_url": "https://arxiv.org/pdf/2608.12175",
       "query_sources": [
-        "generation-and-assets"
+        "generation-and-assets",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -225,7 +228,8 @@
       "url": "https://arxiv.org/abs/2608.11928",
       "pdf_url": "https://arxiv.org/pdf/2608.11928",
       "query_sources": [
-        "generation-and-assets"
+        "generation-and-assets",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -270,6 +274,41 @@
       "matches": {
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.11564": {
+      "arxiv_id": "2608.11564",
+      "title": "Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision",
+      "abstract": "Depth estimation from thermal images is highly valuable for robotic applications in adverse conditions, such as nighttime and rainy weather. Recent studies have sought to transfer knowledge from RGB-based foundation models to thermal modalities, yet the rich hierarchical representations these models encode remain underutilized. To address this limitation, we propose RGB-HS, a novel framework for thermal-image depth estimation that leverages hierarchical supervision from an RGB-based foundation model. Specifically, we first replace the baseline thermal encoder with a foundational model and introduce a parallel RGB branch that also employs a foundational model as an encoder of the same architecture, taking RGB images as input. The alignment is then performed across multiple levels between the tokens of the two encoders, allowing the thermal student branch to capture both structural precision and semantic abstraction from the RGB teacher branch. Furthermore, we introduce verification to refine the alignment process by weighting tokens from the RGB branch based on RGB image quality. Extensive experiments on the popular benchmark demonstrate that RGB-HS achieves competitive performance and more effectively exploits the representational capacity of RGB-based foundation models for depth estimation on thermal images.",
+      "authors": [
+        "Jie Hong",
+        "Tingtian Li",
+        "Xuesong Li",
+        "Xiao Li"
+      ],
+      "published": "2026-08-12",
+      "updated": "2026-08-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": "Accepted in IROS 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.11564",
+      "pdf_url": "https://arxiv.org/pdf/2608.11564",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior",
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -310337,6 +310376,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-13",
-  "paper_count": 8287,
-  "generated_at": "2026-08-13T02:31:14+00:00"
+  "paper_count": 8288,
+  "generated_at": "2026-08-13T13:11:50+00:00"
 }
