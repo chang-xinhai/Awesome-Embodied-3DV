@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 488 · **Unique arXiv IDs:** 488
+**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 489 · **Unique arXiv IDs:** 489
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-12 | [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313) | Chuyue Li, Jinpeng Yu, Haozhe Wang, et al. | cs.CV, cs.CL | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.12313) / [pdf](https://arxiv.org/pdf/2608.12313) |
 | 2026-08-10 | [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) | Peterson Co, Sicheng Hu, Chunxuan Jiao, et al. | cs.RO, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.09298) / [pdf](https://arxiv.org/pdf/2608.09298) |
 | 2026-08-10 | [RAGMesh with FaME-G2E: Long-Form Text-Driven 3D Face Generation and Editing](https://arxiv.org/abs/2608.09186) | Hao Li, Ju Dai, Feng Zhou, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.09186) / [pdf](https://arxiv.org/pdf/2608.09186) |
 | 2026-08-08 | [DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea](https://arxiv.org/abs/2608.08025) | Jiaming Chen, Juntao Yang, Zhentao Zou, et al. | cs.RO, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.08025) / [pdf](https://arxiv.org/pdf/2608.08025) |

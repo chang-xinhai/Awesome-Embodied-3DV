@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2000 · **Unique arXiv IDs:** 2000
+**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 2003 · **Unique arXiv IDs:** 2003
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-12 | [Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](https://arxiv.org/abs/2608.12063) | Martin Schuck, Maks Sorokin, Simone Manni, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.12063) / [pdf](https://arxiv.org/pdf/2608.12063) |
+| 2026-08-12 | [DaViNCi: A Dataset Towards Outdoor Vision-and-Language Navigation with Continuous Actions and Dynamic Elements](https://arxiv.org/abs/2608.11901) | Zihao Xie, Pingrui Lai, Yitong Wu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.11901) / [pdf](https://arxiv.org/pdf/2608.11901) |
 | 2026-08-11 | [VIScore: Diagnosing Planning-Relevant Quality in Latent World Models](https://arxiv.org/abs/2608.11174) | Haiyu Wu, Randall Balestriero, Morgan Levine | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.11174) / [pdf](https://arxiv.org/pdf/2608.11174) |
 | 2026-08-11 | [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150) | Jiayu Ding, Meilu Song, Yun Chen, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.11150) / [pdf](https://arxiv.org/pdf/2608.11150) |
 | 2026-08-11 | [R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video](https://arxiv.org/abs/2608.11017) | Ke Ma, Yamin Mao, Weiming Li, et al. | cs.CV, cs.AI, cs.HC | World Model | [abs](https://arxiv.org/abs/2608.11017) / [pdf](https://arxiv.org/pdf/2608.11017) |
@@ -64,6 +66,7 @@
 | 2026-08-04 | [CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction](https://arxiv.org/abs/2608.03211) | Wanhao Liu, Jinsong Lin, Rulin Zhou, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.03211) / [pdf](https://arxiv.org/pdf/2608.03211) |
 | 2026-08-04 | [Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting](https://arxiv.org/abs/2608.03116) | Sergio A. Esteban, Jason H. K. Siu, Derrick Mach, et al. | cs.RO, eess.SY | Sim-to-Real | [abs](https://arxiv.org/abs/2608.03116) / [pdf](https://arxiv.org/pdf/2608.03116) |
 | 2026-08-04 | [Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation](https://arxiv.org/abs/2608.03064) | Jialu Huang, Yingxuan You, Fei Wang, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.03064) / [pdf](https://arxiv.org/pdf/2608.03064) |
+| 2026-08-03 | [Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) | Qi Wang, Tianyi Wang, Chengyang Li, et al. | cs.AI, cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.11246) / [pdf](https://arxiv.org/pdf/2608.11246) |
 | 2026-08-03 | [RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models](https://arxiv.org/abs/2608.02953) | Yuwei Ning, Liangzhi Wang, Yi Xiao, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.02953) / [pdf](https://arxiv.org/pdf/2608.02953) |
 | 2026-08-03 | [Certifying Plans under Model Mismatch: A Trilemma for Reachability from Scarce Data](https://arxiv.org/abs/2608.02453) | Yanliang Huang, Zhen Zhang, Ahmad Hafez, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.02453) / [pdf](https://arxiv.org/pdf/2608.02453) |
 | 2026-08-03 | [TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval](https://arxiv.org/abs/2608.02056) | Ji Huang, Yongsheng Dai, Tianyu Ren, et al. | cs.CV, cs.AI | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2608.02056) / [pdf](https://arxiv.org/pdf/2608.02056) |

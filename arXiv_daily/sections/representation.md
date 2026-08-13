@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2811 · **Unique arXiv IDs:** 2811
+**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 2813 · **Unique arXiv IDs:** 2813
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-12 | [TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer](https://arxiv.org/abs/2608.12175) | Muxin Zhang, Chaohui Yu, Yuanwang Yang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.12175) / [pdf](https://arxiv.org/pdf/2608.12175) |
+| 2026-08-12 | [Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding](https://arxiv.org/abs/2608.11928) | Zongjian Ding, Yudong Gao, Jiale Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11928) / [pdf](https://arxiv.org/pdf/2608.11928) |
 | 2026-08-11 | [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150) | Jiayu Ding, Meilu Song, Yun Chen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11150) / [pdf](https://arxiv.org/pdf/2608.11150) |
 | 2026-08-11 | [WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100) | Nienke Driessen, Joris Rijsdijk, Sören Pirk, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11100) / [pdf](https://arxiv.org/pdf/2608.11100) |
 | 2026-08-11 | [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077) | Hang Li, Jiahe Li, Meiying Gu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11077) / [pdf](https://arxiv.org/pdf/2608.11077) |

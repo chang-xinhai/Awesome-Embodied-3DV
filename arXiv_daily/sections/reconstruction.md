@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-12 · **Papers:** 2688 · **Unique arXiv IDs:** 2688
+**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 2691 · **Unique arXiv IDs:** 2691
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-12 | [ScaleVid: Geometry-Aware Video Object Scaling with Mesh-Free Inference](https://arxiv.org/abs/2608.12232) | Youze Huang, Penghui Ruan, Bojia Zi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.12232) / [pdf](https://arxiv.org/pdf/2608.12232) |
+| 2026-08-12 | [Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs](https://arxiv.org/abs/2608.12179) | Yung-Hsu Yang, Luigi Piccinelli, Samuel Rota Bulò, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.12179) / [pdf](https://arxiv.org/pdf/2608.12179) |
+| 2026-08-12 | [TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer](https://arxiv.org/abs/2608.12175) | Muxin Zhang, Chaohui Yu, Yuanwang Yang, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.12175) / [pdf](https://arxiv.org/pdf/2608.12175) |
 | 2026-08-11 | [WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100) | Nienke Driessen, Joris Rijsdijk, Sören Pirk, et al. | cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.11100) / [pdf](https://arxiv.org/pdf/2608.11100) |
 | 2026-08-11 | [Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077) | Hang Li, Jiahe Li, Meiying Gu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.11077) / [pdf](https://arxiv.org/pdf/2608.11077) |
 | 2026-08-11 | [Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging](https://arxiv.org/abs/2608.10888) | Sehoon Tak, Jae-Sang Hyun | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.10888) / [pdf](https://arxiv.org/pdf/2608.10888) |
