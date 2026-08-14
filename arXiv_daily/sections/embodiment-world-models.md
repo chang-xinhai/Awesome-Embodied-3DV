@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-13 · **Papers:** 2003 · **Unique arXiv IDs:** 2003
+**Coverage:** 2025-01-01 to 2026-08-14 · **Papers:** 2012 · **Unique arXiv IDs:** 2012
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-13 | [PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552) | Kaixin Ding, Xi Chen, Minghong Cai, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.13552) / [pdf](https://arxiv.org/pdf/2608.13552) |
+| 2026-08-13 | [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546) | Yuanyang Yin, Gongxuan Wang, Yifan Zhan, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.13546) / [pdf](https://arxiv.org/pdf/2608.13546) |
+| 2026-08-13 | [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://arxiv.org/abs/2608.13489) | DreamX Team, Rui Chen, Xiangxiang Chu, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.13489) / [pdf](https://arxiv.org/pdf/2608.13489) |
+| 2026-08-13 | [ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models](https://arxiv.org/abs/2608.13438) | Gehan Zheng, Matthew Johnson-Roberson, Weiming Zhi | cs.RO, cs.AI, cs.CV | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2608.13438) / [pdf](https://arxiv.org/pdf/2608.13438) |
+| 2026-08-13 | [S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation](https://arxiv.org/abs/2608.13103) | Shuzhe Zhang, Xin Zhu, Yinling Qian, et al. | cs.RO, eess.SY | World Model | [abs](https://arxiv.org/abs/2608.13103) / [pdf](https://arxiv.org/pdf/2608.13103) |
+| 2026-08-13 | [RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction](https://arxiv.org/abs/2608.13028) | Tianyu Sun, Zhoujie Fu, Zihui Gao, et al. | cs.CV, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.13028) / [pdf](https://arxiv.org/pdf/2608.13028) |
+| 2026-08-13 | [EgoPHI: Estimating Contact and Force from Egocentric Vision](https://arxiv.org/abs/2608.13014) | Andela Ilic, Rachel Schuchert, Yijing Jiang, et al. | cs.CV, cs.GR, cs.HC | Interaction / Affordance, Sim-to-Real | [abs](https://arxiv.org/abs/2608.13014) / [pdf](https://arxiv.org/pdf/2608.13014) |
+| 2026-08-13 | [HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments](https://arxiv.org/abs/2608.12860) | Quan-Dung Pham, Anh Dao, The-Anh Nguyen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.12860) / [pdf](https://arxiv.org/pdf/2608.12860) |
+| 2026-08-12 | [Scaling Automatic Research Agents via World Models](https://arxiv.org/abs/2608.12564) | Xiyuan Yang, Sheikh Sarwar, Jingru Cheng, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.12564) / [pdf](https://arxiv.org/pdf/2608.12564) |
 | 2026-08-12 | [Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](https://arxiv.org/abs/2608.12063) | Martin Schuck, Maks Sorokin, Simone Manni, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.12063) / [pdf](https://arxiv.org/pdf/2608.12063) |
 | 2026-08-12 | [DaViNCi: A Dataset Towards Outdoor Vision-and-Language Navigation with Continuous Actions and Dynamic Elements](https://arxiv.org/abs/2608.11901) | Zihao Xie, Pingrui Lai, Yitong Wu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.11901) / [pdf](https://arxiv.org/pdf/2608.11901) |
 | 2026-08-11 | [VIScore: Diagnosing Planning-Relevant Quality in Latent World Models](https://arxiv.org/abs/2608.11174) | Haiyu Wu, Randall Balestriero, Morgan Levine | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.11174) / [pdf](https://arxiv.org/pdf/2608.11174) |
