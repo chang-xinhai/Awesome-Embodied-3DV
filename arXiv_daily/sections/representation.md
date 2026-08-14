@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-14 · **Papers:** 2815 · **Unique arXiv IDs:** 2815
+**Coverage:** 2025-01-01 to 2026-08-14 · **Papers:** 2818 · **Unique arXiv IDs:** 2818
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -13,7 +13,10 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-08-13 | [GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502) | Yanming Yang, Chenxi Song, Ping Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.13502) / [pdf](https://arxiv.org/pdf/2608.13502) |
+| 2026-08-13 | [Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling](https://arxiv.org/abs/2608.13159) | Kiseok Choi, Inchul Kim, Jaemin Cho, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.13159) / [pdf](https://arxiv.org/pdf/2608.13159) |
+| 2026-08-13 | [Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes](https://arxiv.org/abs/2608.13095) | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, et al. | cs.RO, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.13095) / [pdf](https://arxiv.org/pdf/2608.13095) |
 | 2026-08-13 | [HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments](https://arxiv.org/abs/2608.12860) | Quan-Dung Pham, Anh Dao, The-Anh Nguyen, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.12860) / [pdf](https://arxiv.org/pdf/2608.12860) |
+| 2026-08-13 | [LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.12825) | Wenyu Li, Sidun Liu, Tongrui Hu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.12825) / [pdf](https://arxiv.org/pdf/2608.12825) |
 | 2026-08-12 | [TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer](https://arxiv.org/abs/2608.12175) | Muxin Zhang, Chaohui Yu, Yuanwang Yang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.12175) / [pdf](https://arxiv.org/pdf/2608.12175) |
 | 2026-08-12 | [Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding](https://arxiv.org/abs/2608.11928) | Zongjian Ding, Yudong Gao, Jiale Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11928) / [pdf](https://arxiv.org/pdf/2608.11928) |
 | 2026-08-11 | [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150) | Jiayu Ding, Meilu Song, Yun Chen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.11150) / [pdf](https://arxiv.org/pdf/2608.11150) |

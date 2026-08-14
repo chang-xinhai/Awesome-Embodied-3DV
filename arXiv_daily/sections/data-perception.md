@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-14 · **Papers:** 1652 · **Unique arXiv IDs:** 1652
+**Coverage:** 2025-01-01 to 2026-08-14 · **Papers:** 1656 · **Unique arXiv IDs:** 1656
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-13 | [A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms](https://arxiv.org/abs/2608.13511) | Edward Holmberg, Elias Ioup, Mahdi Abdelguerfi | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2608.13511) / [pdf](https://arxiv.org/pdf/2608.13511) |
+| 2026-08-13 | [Geometry-Grounded Unified 3D Perception for Autonomous Driving](https://arxiv.org/abs/2608.13147) | Longfei Xu, Xiaohui Wang, Zehao Huang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.13147) / [pdf](https://arxiv.org/pdf/2608.13147) |
+| 2026-08-13 | [RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion](https://arxiv.org/abs/2608.13102) | Wentao Zhao, Shouxuan Wu, Yongtao Cen, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.13102) / [pdf](https://arxiv.org/pdf/2608.13102) |
+| 2026-08-13 | [UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations](https://arxiv.org/abs/2608.13031) | Peng Li, Qianqian Xu, Shilong Bao, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.13031) / [pdf](https://arxiv.org/pdf/2608.13031) |
 | 2026-08-12 | [Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision](https://arxiv.org/abs/2608.11564) | Jie Hong, Tingtian Li, Xuesong Li, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.11564) / [pdf](https://arxiv.org/pdf/2608.11564) |
 | 2026-08-11 | [TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4](https://arxiv.org/abs/2608.10718) | Guangrui Shen, Zhili He, Shigang Wang, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.10718) / [pdf](https://arxiv.org/pdf/2608.10718) |
 | 2026-08-10 | [Nonlinear Model Predictive Control of a Robotic Soft Esophagus](https://arxiv.org/abs/2608.09602) | Dipankar Bhattacharya, Ryman Hashem, Leo K. Cheng, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2608.09602) / [pdf](https://arxiv.org/pdf/2608.09602) |
