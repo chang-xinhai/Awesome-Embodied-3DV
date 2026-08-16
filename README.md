@@ -397,6 +397,7 @@ This section focuses on the mathematical and data-structure layer used to repres
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-08-13 | Feed-Forward 3DGS, 3D Anchors, Spatially Grounded Tokens | National University of Defense Technology | [LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.12825) | arXiv | [project](https://leo-frank.github.io/LocusGS_viewer) |
 | 2026-08-03 | Streaming Feed-Forward, Persistent Geometry, Memory-Bounded 3DGS | University of Science and Technology of China | [StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.01659) | arXiv | [paper](https://arxiv.org/abs/2608.01659) |
 | 2026-08-03 | View-Conditioned, Feed-Forward 3DGS, Generalizable Reconstruction | Tsinghua University | [UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction](https://arxiv.org/abs/2608.02145) | arXiv | [paper](https://arxiv.org/abs/2608.02145) |
 | 2026-07-28 | Dynamic 3DGS, Adaptive Streaming, Volumetric Video | Authors | [SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971) | arXiv | [paper](https://arxiv.org/abs/2607.25971) |
@@ -515,6 +516,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-08-12 | Streaming Multi-View, Metric 3D, Feed-Forward Prior, Object Detection | ETH Zurich | [Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs](https://arxiv.org/abs/2608.12179) | ECCV 2026 | [project](https://royyang0714.github.io/Map-Det3D) |
+| 2026-08-07 | Sparse View, Editable Indoor Scenes, Executable Scene Programs | City University of Hong Kong | [Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012) | arXiv | [paper](https://arxiv.org/abs/2608.07012) |
 | 2026-07-31 | Active Reconstruction, Next-Best-View, Predictive Entropy | Fudan University | [GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](https://arxiv.org/abs/2607.29037) | arXiv | [paper](https://arxiv.org/abs/2607.29037) |
 | 2026-07-23 | Underwater 3D, Feed-Forward Reconstruction, Degradation Adaptation | HKUST | [WAT3R: Feedforward Underwater 3D Reconstruction](https://arxiv.org/abs/2607.21023) | arXiv | [project](https://xujiayi777.github.io/WAT3R.github.io/) |
 | 2026-07-15 | Feed-Forward Driving Reconstruction, Layered 3DGS, Dynamic Actors | NVIDIA | [Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation](https://arxiv.org/abs/2607.14203) | arXiv | [project](https://research.nvidia.com/labs/sil/projects/instant-nurec/) / [github](https://github.com/nvidia/instant-nurec) / [docs](https://docs.nvidia.com/nurec/index.html) |
@@ -784,6 +787,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-08-08 | Single Image, Physical CoT, URDF, Simulation-Ready | Aerospace Information Research Institute, CAS | [PhysX-CoT: Structured Physical Reasoning from a Single Image to Simulation-Ready 3D Assets](https://arxiv.org/abs/2608.08053) | arXiv | [paper](https://arxiv.org/abs/2608.08053) |
 | 2026-07-15 | Articulation + Physics, 40K Assets, Simulation-Ready | Zhejiang University | [UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets](https://arxiv.org/abs/2607.13586) | arXiv | [github](https://github.com/breezexian/UniPhysGen) |
 | 2026-05-20 | Rigid/Deformable/Articulated, Physical Attributes, Sim-Ready | Nanyang Technological University | [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | arXiv | [project](https://physx-omni.github.io/) / [dataset](https://huggingface.co/PhysX-Omni) |
 | 2026-05-14 | Agentic Generation, Articraft-10K, URDF Assets | Authors | [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187) | arXiv | [project](https://articraft3d.github.io/) / [github](https://github.com/mattzh72/articraft) |
@@ -807,6 +811,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-08-13 | Part-Aware Generation, Recursive Decomposition, Editable Assets | Shanghai Jiao Tong University | [SCULPT: Subtractive Composition for 3D Part Generation](https://arxiv.org/abs/2608.13541) | arXiv | [project](https://sculpt-part.github.io/) |
 | 2026-07-18 | Category-Agnostic, Neural Shape Editing, Coupled Representation | Authors | [CNS-Edit++: Category-Agnostic 3D Editing with Coupled Neural Shape Representation](https://arxiv.org/abs/2607.16577) | arXiv | [paper](https://arxiv.org/abs/2607.16577) |
 | 2026-06-23 | Garment Patterns, Simulation-Ready, Editing | University of Hong Kong | [PatternGSL: A Structured Specification Language for Template-Free and Simulation-Ready 3D Garments](https://arxiv.org/abs/2606.24564) | arXiv | [github](https://github.com/PatternGSL/PatternGSL) |
 | 2026-05-27 | Part-Controllable, Open-Vocabulary, Game-Ready | Roblox | [CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://arxiv.org/abs/2605.28763) | SIGGRAPH 2026 | [project](https://cubepart.github.io/) / [model](https://huggingface.co/Roblox/cubepart) |
@@ -1323,6 +1328,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-08-13 | VLN, Humanoid, Isaac Sim, 933 Episodes | VinMotion | [HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments](https://arxiv.org/abs/2608.12860) | arXiv | [project](https://humanoid-vln.github.io/) |
 | 2026-07-24 | VLM Agents, 3D Action, Layout/Articulation/Dynamics | Tencent Hunyuan | [SceneActBench: Can Agents Act on the 3D Scenes They See?](https://arxiv.org/abs/2607.22393) | arXiv | [github](https://github.com/Feinaldo2/SceneActBench) / [dataset](https://huggingface.co/datasets/FEInaldo/SceneActBench) |
 | 2026-07-23 | Future Surface, Dynamic Reconstruction, Held-Out Time | University of Guelph | [Future Rendering != Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window](https://arxiv.org/abs/2607.21471) | arXiv | [github](https://github.com/Ricky-S/futuresurf) / [dataset](https://huggingface.co/datasets/rickyshi/futuresurf) |
 | 2026-06-23 | T2V Evaluation, 3D Consistency, Reconstruction Profile | University of Bern | [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](https://arxiv.org/abs/2606.24829) | arXiv | [paper](https://arxiv.org/abs/2606.24829) |
