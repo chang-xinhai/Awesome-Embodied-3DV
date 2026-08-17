@@ -1,6 +1,456 @@
 {
   "schema_version": 1,
   "papers": {
+    "2608.14530": {
+      "arxiv_id": "2608.14530",
+      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+      "abstract": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making consistency and controllability fragile. We explicitly model the evolving world state, delegate exact geometric computation to a fixed, zero-parameter renderer, and leave the neural model to synthesize appearance. We instantiate this idea as Marionette, a world model for interactive games with articulated characters. First, a two-stage autoregressive dynamics model predicts an explicit and interpretable 276-dimensional 3D world state comprising multi-entity articulated skeletons, metric root trajectories, and rotations. Second, a zero-parameter graphics bridge converts the predicted state into pose-control videos, computing world-space geometry and occlusion in closed form. Third, a control-conditioned video-diffusion observation model synthesizes photorealistic RGB observations from the resulting structured controls. Our experiments establish two properties of Marionette. First, the predicted world state is directly controllable. Forcing a mismatched action stream changes root-aligned joint error by 31% across 48 held-out segments. Second, long-horizon behaviour is determined in the state, and can be repaired there. Left free, the two generated characters drift to 21.2 m apart (recorded sessions stay near 5 m) and a third of frames show ground penetration. Two rules imposed on the explicit state, a terrain collider and a separation cap, cut penetration by 66% and keep the pair engaged, with no change to the observation model. Routing appearance through the predicted state costs no fidelity we can detect, at an FVD of 831 against 799 for recorded pose.",
+      "authors": [
+        "Zian Meng",
+        "Zhen Li",
+        "Chuanhao Li",
+        "Qiang Li",
+        "Kaipeng Zhang"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "Project page: https://alayalab.github.io/Marionette/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14530",
+      "pdf_url": "https://arxiv.org/pdf/2608.14530",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.14490": {
+      "arxiv_id": "2608.14490",
+      "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin",
+      "abstract": "We present a Test-time World-model Inference (Twin) system, in which a frontier coding agent writes an executable world model for completing continual learning tasks, such as ARC-AGI-3 games. Traditional approaches hand-engineer such models, one custom design per task. Each game hides its rules and goal, and our system constructs them from simulation and interaction alone. Its inductive prior over grid games is strong enough to recover the true transitions of the game and the goal on nearly all levels. Replay validation happens in a twin world model. The harness enforces that an action is not made until the program reproduces every previous observed game transition. Each mismatch between a world model prediction and the actual action result becomes a counterexample that is used to repair the world model. Twin clears 179 out of 183 levels (97.8%), and does so more efficiently than humans in 158 out of 179 levels (88.3%). The system infers the goal before any reward on 156 of the levels it clears (87.2%), and in the remaining levels automatically discovers the goal by search. The benchmark scores completion and action efficiency, between 0 and 100, against humans playing each game for the first time. Played directly, the base model scores only 7.8%; an off-the-shelf harness increases it to 61.1%, whereas our twin world model increases the same base model to 93.3%, clearing 23 out of 25 games. Building a usable world model is simpler than anticipated, whereas the harder problem is inferring the right goal.",
+      "authors": [
+        "Alexy Skoutnev",
+        "Kirill Acharya",
+        "Gaston Longhitano",
+        "Madeleine Udell",
+        "Kevin Ellis",
+        "Iddo Drori"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "comment": "Project website with action-by-action replays of all 25 runs: https://arc-agi-3-twin.vercel.app/ Code: https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14490",
+      "pdf_url": "https://arxiv.org/pdf/2608.14490",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.14160": {
+      "arxiv_id": "2608.14160",
+      "title": "OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation",
+      "abstract": "Pixel-goal navigation specifies targets directly in the agent's camera view, but a target pixel provides neither metric depth nor traversability, making 3D goal grounding and collision-free continuous planning challenging. We present OccPlanner, a goal-aware occupancy-conditioned diffusion planner that grounds pixel goals in egocentric metric space and sequentially conditions the goal representation on temporal visual context and learned local 3D occupancy features. To provide occupancy supervision at scale, we introduce L3ROcc, which converts monocular RGB navigation videos into robot-centric local 3D occupancy annotations through geometric reconstruction and ray-based visibility reasoning. We train OccPlanner on InternData-N1 and evaluate it in closed-loop simulation across four unseen scene categories from InternScenes and two goal-distance ranges. In the 5-8 m setting, OccPlanner increases the average success rate (SR) over NavDP from 20.81% to 71.55% across the four categories, reaching 86.20% and 84.92% in cluttered-easy and cluttered-hard scenes, respectively. Real-world open-loop experiments on a Unitree Go2 further provide initial evidence of sim-to-real transfer and adaptation with L3ROcc-generated supervision.",
+      "authors": [
+        "Binling Huang",
+        "Nianjin Ye",
+        "Xi Yang",
+        "Liang Hu",
+        "Zhou Huang",
+        "Shuang Wei",
+        "Longrui Yang",
+        "Yanchi Chen",
+        "Lanpeng Jia"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "Technical report. 11 pages, 6 figures, and 2 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14160",
+      "pdf_url": "https://arxiv.org/pdf/2608.14160",
+      "query_sources": [
+        "depth-and-sensing",
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.14138": {
+      "arxiv_id": "2608.14138",
+      "title": "SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation",
+      "abstract": "Spatial perception and reasoning from visual observations require recovering geometric structure, establishing correspondences, and understanding spatial relations. Existing approaches typically address these capabilities separately using task-specific architectures or external geometric modules, limiting knowledge transfer among complementary representations of the same physical scene. We introduce SPARGen, a unified multimodal framework that casts 3D reconstruction, dense correspondence, and spatial reasoning as instruction-conditioned generation tasks. SPARGen serializes compact structured and linguistic outputs as token sequences while generating dense geometric fields in image-aligned forms, enabling spatial supervision to jointly shape shared representations within a native multimodal generative model. Experiments across benchmarks for 3D reconstruction, correspondence, and spatial reasoning show that SPARGen achieves competitive performance across heterogeneous spatial tasks within a single native multimodal generative framework.",
+      "authors": [
+        "Jinsheng Quan",
+        "Jianhua Li",
+        "Siyi Xie",
+        "Xuanke Shi",
+        "Kewang Deng",
+        "Zukai Chen",
+        "Feifei Shao",
+        "Lei Yang",
+        "Quan Wang",
+        "Yawei Luo"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14138",
+      "pdf_url": "https://arxiv.org/pdf/2608.14138",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2608.14136": {
+      "arxiv_id": "2608.14136",
+      "title": "HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting",
+      "abstract": "Octree-based anchor Gaussian Splatting has emerged as a scalable representation for city-scale novel view synthesis, where multi-level anchors adaptively capture scene content from coarse building structures to fine architectural details. However, we identify a fundamental limitation in existing methods: cross-level feature isolation, where each level's anchor features are optimized independently with no inter-level communication, causing color drift on building facades and over-smoothing in textured regions. We present HiCo-GS, a high-fidelity reconstruction framework with two complementary modules. Cross-Level Context Aggregation (CLCA) enables bidirectional hierarchical prior injection by leveraging the octree's spatial containment structure to aggregate per-level context vectors into parent-self-child triplets, fused via a lightweight MLP with residual connection. Coarse-level structural priors flow down to inform fine-level anchors, while fine-level detail statistics feed back to prevent over-smoothing, at negligible computational overhead. Depth-Normal Geometric Consistency (DNGC) regularization enforces agreement between rendered normals and depth-derived normals through an alpha-weighted consistency loss, complemented by edge-aware smoothness losses with progressive warmup that exploit the strong planar priors ubiquitous in urban geometry to suppress floating artifacts. We further introduce the China-Pagoda dataset comprising 8 ancient Chinese pagodas with over 1,200 images each, featuring dense ornamental carvings, curved multi-layer eaves, and repetitive fine-grained textures. Extensive experiments on Mill19, UrbanScene3D, MatrixCity, and China-Pagoda demonstrate that HiCo-GS achieves state-of-the-art rendering quality and substantially cleaner geometry across real-world and synthetic urban benchmarks.Code: https://github.com/WZ-CS/HiCo-GS.",
+      "authors": [
+        "Wei Zhang",
+        "Shengkai Yu",
+        "Shiqiang Gong",
+        "Qi Zhang",
+        "Qiang Li",
+        "Qi Wang"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "21 pages, including supplementary material. To appear in the Proceedings of the 34th ACM International Conference on Multimedia (MM '26)",
+      "journal_ref": null,
+      "doi": "10.1145/3767308.3836546",
+      "url": "https://arxiv.org/abs/2608.14136",
+      "pdf_url": "https://arxiv.org/pdf/2608.14136",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2608.14135": {
+      "arxiv_id": "2608.14135",
+      "title": "AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning",
+      "abstract": "Autonomous pursuit-evasion is a fundamental challenge for Unmanned Aerial Vehicles (UAVs), requiring rapid decision-making under tightly coupled dynamics and continuously changing opponent behaviors. Traditional rule-based or differential-game approaches often struggle with high-dimensional aerial interactions and agile maneuvering. We present AgilePE, a complete system for autonomous UAV pursuit-evasion via self-play reinforcement learning. AgilePE integrates agile low-level control, competitive policy optimization, and sim-to-real deployment in a unified framework. The policy directly maps onboard state observations to Collective Thrust and Body Rates (CTBR) commands, enabling end-to-end agile maneuvering without intermediate trajectory planners or waypoint controllers. For training, we use competitive self-play with Prioritized Fictitious Self-Play (PFSP) and a diversified opponent pool, enabling agents to improve against historical policies while stabilizing optimization and reducing policy oscillation. This process leads to the emergence of sophisticated pursuit and evasion strategies. For real-world deployment, we develop a hardware-aligned simulation pipeline that models actuator-response dynamics, communication latency, and domain randomization. The learned policies transfer zero-shot to real quadrotors without task-specific tuning. Real-world experiments reproduce pursuit-evasion tactics observed in simulation, including rapid dodging and flanking, and demonstrate interactive two-agent zero-shot deployment.",
+      "authors": [
+        "Wenhao Tang",
+        "Tianyang Chen",
+        "Zhejun Cui",
+        "Boyuan An",
+        "Jiayu Chen",
+        "Ruize Zhang",
+        "Huidong Liu",
+        "Tianyue Wu",
+        "Qingmin Liao",
+        "Fei Gao",
+        "Yu Wang",
+        "Chao Yu"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "comment": "8 pages, 7 figures. Under review",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14135",
+      "pdf_url": "https://arxiv.org/pdf/2608.14135",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.14125": {
+      "arxiv_id": "2608.14125",
+      "title": "Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost",
+      "abstract": "LeWM is a lightweight visual world model that learns latent dynamics end-to-end from pixels and ranks candidate action sequences by the distance between their predicted endpoints and the goal. However, LeWM has two limitations. First, during training, it learns local next-step transitions without evaluating complete trajectories relative to the task goal. Second, during planning, it ranks candidates solely by predicted endpoint distance. Because model predictions may differ from actual execution outcomes, the candidate whose predicted endpoint is closest to the goal may not perform best when executed in the environment. The evolution of the complete predicted trajectory can therefore provide complementary information beyond endpoint distance. To address these limitations, we propose Traj-LeWM, which retains LeWM's local-dynamics objective and endpoint score while introducing a goal-conditioned latent trajectory cost (LTC) that aggregates trajectory-level information as a complementary signal. During training, LTC-based trajectory-preference supervision complements next-step prediction in shaping the shared representation. During planning, LTC is combined with endpoint distance to incorporate intermediate-path information into candidate ranking. With joint endpoint-plus-LTC scoring, Traj-LeWM outperforms LeWM on Push-T, OGBench-Cube, Reacher, and Two-Room by $3$, $14$, $7$, and $7$ percentage points, respectively. Controlled experiments and ablations further verify the complementary roles of trajectory-level representation shaping and path-aware candidate ranking.",
+      "authors": [
+        "Xiaodi Huang",
+        "Ziyi Ding",
+        "Jingtian Wan",
+        "Yuchen Liu",
+        "Yuan Zhang",
+        "Xiao-Ping Zhang",
+        "Jiayu Chen",
+        "Zhang Zhang",
+        "Tao Huang"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14125",
+      "pdf_url": "https://arxiv.org/pdf/2608.14125",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.14027": {
+      "arxiv_id": "2608.14027",
+      "title": "E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras",
+      "abstract": "Benefiting from high temporal resolution and dynamic range, event-based local feature methods have attracted increasing attention. However, event sparsity, noise, and limited texture still hinder robust local feature learning. Deploying such methods on resource-constrained platforms such as unmanned aerial vehicles also requires balancing accuracy and energy efficiency. To address these challenges, this paper proposes \\textbf{E-S2Feat}, a spiking neural network framework for event-based local feature detection and description. The framework jointly optimizes local feature learning from the perspectives of feature representation and selection. First, a module-specific spiking activation mechanism preserves fine-grained structural cues and discriminative information under low-bit, energy-efficient inference, thereby improving overall representation fidelity. Furthermore, a semantic-guided feature modulation mechanism leverages semantic priors to refine keypoint response distributions and enhance local descriptor discriminability, thereby guiding the model to extract local features with greater geometric stability and stronger discriminative capability. Experiments on the ECD and EDS datasets show that the proposed method significantly outperforms baseline methods such as SuperEvent in pose estimation accuracy. It also achieves accuracy comparable to its artificial neural network counterpart while delivering an approximately 4.8-fold improvement in theoretical computational energy efficiency. Visual-inertial odometry experiments on the TUM-VIE dataset further verify the effectiveness and practical application potential of the proposed method in complete SLAM systems.",
+      "authors": [
+        "Yang Yi",
+        "Juntao Hua",
+        "Jinpu Zhang",
+        "Liangwei Fan",
+        "Hui Shen",
+        "Dewen Hu"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.14027",
+      "pdf_url": "https://arxiv.org/pdf/2608.14027",
+      "query_sources": [
+        "depth-and-sensing",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2608.13923": {
+      "arxiv_id": "2608.13923",
+      "title": "OpenBelief-Nav: Evidence-Preserving Object Memory for Open-Vocabulary Language-Guided Navigation",
+      "abstract": "Open-vocabulary 3D scene graphs provide compact semantic memory for language-guided navigation, but mapped objects are often exposed through a single fused feature or committed semantic label. Such commitment can remove minority yet task-relevant hypotheses from the task-time interface. We present OpenBelief-Nav, an evidence-preserving object memory that retains observation-level phrases, reliability cues, and frame-mask provenance while maintaining separate aggregate geometric and visual representations. Semantically related phrases are consolidated into a vocabulary-independent object belief from which task-specific readouts perform fixed-vocabulary projection or free-form retrieval. On five ScanNet200 and eight Replica scenes, full-belief projection achieves mIoU scores of 0.2742 and 0.2912, compared with 0.2393 and 0.2701 for a matched early-commit readout. Across 78 HM3D-YCB navigation trials, consensus and early-commit retrieval each achieve 60/78 successes, compared with 58/78 for belief-weighted retrieval and 55/78 for DualMap. Across 20 Unitree G1 runs organized as 10 matched evaluation cases, a correction policy permitting at most two verified candidate attempts improves target-confirmation success from 6/10 to 8/10 relative to top-1-only execution. Code will be released upon acceptance at https://openbelief-nav.github.io/.",
+      "authors": [
+        "Dinh Tuan Nguyen",
+        "Anh Dao",
+        "Phuong Nam Dang",
+        "Quan-Dung Pham",
+        "Tuyen P. Le",
+        "Truong Nguyen",
+        "Quan Nguyen"
+      ],
+      "published": "2026-08-14",
+      "updated": "2026-08-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.13923",
+      "pdf_url": "https://arxiv.org/pdf/2608.13923",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "3D Grounding / Memory"
+        ]
+      }
+    },
+    "2608.13807": {
+      "arxiv_id": "2608.13807",
+      "title": "Label-Free Deep-Tissue Peripheral Nerve Detection with a Handheld Multimodal OCT Probe and NerveDetNet",
+      "abstract": "Peripheral nerves buried beneath intact tissue are difficult to visualize during surgery and remain inaccessible to white light wide-field imaging and other surface optical imaging methods. Existing OCT nerve studies have largely relied on exposed nerves or polarization contrast with limited depth penetration, restricting their value for subsurface intraoperative guidance. Here, we introduce, to our knowledge, the first label-free framework for detecting peripheral nerves beneath unopened tissue and resolving their depth using intensity-based OCT structural signatures alone. The framework combines a handheld multimodal probe, integrating swept-source OCT with co-registered white light and autofluorescence imaging, with a ``confirm-then-capture'' workflow designed for practical surgical use. To enable efficient analysis of sparsely sampled OCT volumes, we develop NerveDetNet, a lightweight 2.5D segmentation network that recovers weak and spatially displaced nerve signals by incorporating spatial context, frame-order information, and shift-tolerant correlations across frames through a dedicated nerve feature correlation module. In ex vivo tissue experiments, NerveDetNet consistently outperformed six representative 2D baselines across all frame spacings, achieving a Dice score of 0.725 under the sparsest sampling condition while using approximately half the model parameters. End-to-end validation demonstrated localization of nerves invisible at the surface and depth-resolved detection up to 1.3--1.4~mm below the tissue surface, with OCT derived depth maps overlaid directly onto the surgical view. Together, these results establish a practical label-free approach for subsurface nerve visualization that supports intraoperative compatibility, enables efficient sparse-volume analysis, and provides depth-resolved guidance without tissue opening, contrast agents, or nerve exposure.",
+      "authors": [
+        "Yihan Wang",
+        "Ruilin You",
+        "Shaobai Li",
+        "Jiabin Chen",
+        "Bofan Song",
+        "Anh D. Le",
+        "Rongguang Liang"
+      ],
+      "published": "2026-08-13",
+      "updated": "2026-08-13",
+      "primary_category": "physics.optics",
+      "categories": [
+        "physics.optics",
+        "cs.CV",
+        "physics.med-ph"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.13807",
+      "pdf_url": "https://arxiv.org/pdf/2608.13807",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
+        ]
+      }
+    },
+    "2608.13719": {
+      "arxiv_id": "2608.13719",
+      "title": "Coverage Aware Active Evaluation for Failure Discovery with Paired Systems",
+      "abstract": "Autonomous systems can fail in rare and heterogeneous ways, making real-world failure discovery difficult under limited testing budgets. Although cheaper proxies such as simulators, lower-fidelity systems, or related policies can be sampled extensively to find failures, proxy failures often do not transfer to the real world due to sim-to-real and system-to-system gaps. The key challenge is therefore to effectively leverage proxy system information for accurate prediction of severe target system failures. We propose an adaptive failure discovery method that combines proxy evaluations with limited target system results to guide scenario selection for target system testing. Our method learns a local predictor of target risk by correcting proxy failure signals using control-variate-inspired residual modeling. To find failures that are both likely and diverse, we combine this predictor with a support-aware mutual-information objective that favors realistic, well-supported regions while expanding coverage across failure modes. Across autonomous driving, manipulation, and quadruped velocity-tracking tasks, our method discovers up to 2$\\times$ as many failures as random sampling and active-learning baselines, including severe and diverse failures missed by competing methods.",
+      "authors": [
+        "Anjali Parashar",
+        "Rachel Luo",
+        "Apoorva Sharma",
+        "Sushant Veer",
+        "Edward Schmerling",
+        "Carson Sobolewski",
+        "Mingxin Yu",
+        "Chuchu Fan",
+        "Marco Pavone"
+      ],
+      "published": "2026-08-13",
+      "updated": "2026-08-13",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "comment": "9 main pages followed by Appendix, total 21 pages, 12 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.13719",
+      "pdf_url": "https://arxiv.org/pdf/2608.13719",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.13678": {
+      "arxiv_id": "2608.13678",
+      "title": "hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance",
+      "abstract": "A central goal of robot learning is to enable robots to execute rich instructions specified at runtime. Large-scale language-conditioned policies have made substantial progress toward this goal, yet still struggle with temporal structure and safety constraints. Linear Temporal Logic (LTL) provides a powerful language to express complex, non-Markovian instructions. However, guiding learned manipulation policies toward LTL satisfaction remains challenging because modern policies generate short-horizon action chunks and replan in closed loop, while almost all LTL specifications are evaluated over long-horizon trajectories. In this paper, we introduce hint$^2$, a method for guiding short-horizon policies toward satisfying complex LTL specifications at inference time using hierarchical world models. Our key idea is to derive two separate guidance objectives using each world model's abstraction level. A high-level model predicts future action-induced transitions in task-relevant atomic propositions to guide progress through the LTL automaton, while a low-level dynamics model predicts immediate state evolution for accurate local safety guidance. Our results show that hint$^2$ overcomes the limitations of current LTL-guided diffusion methods, outperforms existing inference-time steering methods in CALVIN, and successfully completes instructions with complex liveness and safety constraints more elegantly than language-conditioned alternatives. Finally, we demonstrate that hint$^2$ can handle complex instructions on a real UR5e manipulator.",
+      "authors": [
+        "Moritz Zoellner",
+        "Anastasios Manganaris",
+        "Ahmed H. Qureshi",
+        "Rohan Paleja"
+      ],
+      "published": "2026-08-13",
+      "updated": "2026-08-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "comment": "Videos available on our project page: https://anonymous-hint2.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.13678",
+      "pdf_url": "https://arxiv.org/pdf/2608.13678",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
     "2608.13552": {
       "arxiv_id": "2608.13552",
       "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
@@ -20,7 +470,7 @@
         "Hengshuang Zhao"
       ],
       "published": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-14",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -4672,15 +5122,15 @@
     "2608.04720": {
       "arxiv_id": "2608.04720",
       "title": "YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions",
-      "abstract": "Real-time object detectors achieve remarkable accuracy under controlled conditions, yet degrade sharply on non-ideal inputs: fisheye distortion, game-renderedcharacters, aerial viewpoints, and 360°panoramas. We present YOLOv14, a detection framework with four adaptive mechanisms designed for specific types of inputvariation:(1) Deformable Area-Attention with windowed computation and shiftedwindows for geometric distortion;(2) Multi-level Game2Real Alignment with progressive adversarial training for domain shift;(3) View-Aware Contrastive Learning with adaptive temperature for viewpoint invariance; and (4) Scene-Adaptive Augmentation with dynamic loss balancing for scene diversity. Together, YOLOv14 achieves 49.1 mAP on COCO val2017 at 2.91 ms (T4 GPU), and delivers substantial gains on fisheye (+4.1 mAP), panorama (+6.6 mAP), drone (+6.4 mAP), andour synthesized game-character benchmark (+26.1 mAP). We release code and models to facilitate reproducible research.",
+      "abstract": "Real-time object detectors achieve remarkable accuracy under controlled conditions, yet degrade sharply on non-ideal inputs-fisheye distortion, game-rendered content, aerial views, and 360°panoramas. We present YOLOv14, a unified adaptive detection framework that addresses these variations through four complementary mechanisms, formalized under a novel Adaptive Routing and Modulation (ARM) paradigm. Unlike conventional unsupervised domain adaptation, our approach employs Target-Prior Guided Source-Domain Augmentation(TP-SDA), using only 50 unlabeled target images offline to estimate style statistics, while adversarial alignment serves as a lightweight regularizer rather than the primary adaptation driver. Together, these components enable YOLOv14 to achieve 49.1 mAP on COCO val2017 at 2.91 ms (T4 GPU), with substantial gains of +4.1 (fisheye), +6.6 (panorama), +6.4 (drone), and +26.1 (gamestylized) mAP over YOLOv12s. Crucially, we validate generalization on real-world game screenshots (GTA-V, Unity), achieving +14.2 mAP, confirming practical transferability beyond synthetic benchmarks. Code and models are released at https://github.com/zhangcbb/yolov14.",
       "authors": [
-        "Jinling Jia",
         "Jian Lu",
+        "Jinling Jia",
         "Jone Yawl",
         "Chenbin Zhang"
       ],
       "published": "2026-08-05",
-      "updated": "2026-08-07",
+      "updated": "2026-08-14",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -311082,6 +311532,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-17",
-  "paper_count": 8307,
-  "generated_at": "2026-08-17T01:46:00+00:00"
+  "paper_count": 8319,
+  "generated_at": "2026-08-17T12:44:53+00:00"
 }

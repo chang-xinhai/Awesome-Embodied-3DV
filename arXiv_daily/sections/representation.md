@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2818 · **Unique arXiv IDs:** 2818
+**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2819 · **Unique arXiv IDs:** 2819
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-14 | [HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting](https://arxiv.org/abs/2608.14136) | Wei Zhang, Shengkai Yu, Shiqiang Gong, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.14136) / [pdf](https://arxiv.org/pdf/2608.14136) |
 | 2026-08-13 | [GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502) | Yanming Yang, Chenxi Song, Ping Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.13502) / [pdf](https://arxiv.org/pdf/2608.13502) |
 | 2026-08-13 | [Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling](https://arxiv.org/abs/2608.13159) | Kiseok Choi, Inchul Kim, Jaemin Cho, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.13159) / [pdf](https://arxiv.org/pdf/2608.13159) |
 | 2026-08-13 | [Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes](https://arxiv.org/abs/2608.13095) | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, et al. | cs.RO, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.13095) / [pdf](https://arxiv.org/pdf/2608.13095) |

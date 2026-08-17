@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2693 · **Unique arXiv IDs:** 2693
+**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2695 · **Unique arXiv IDs:** 2695
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-14 | [SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation](https://arxiv.org/abs/2608.14138) | Jinsheng Quan, Jianhua Li, Siyi Xie, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.14138) / [pdf](https://arxiv.org/pdf/2608.14138) |
+| 2026-08-14 | [E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras](https://arxiv.org/abs/2608.14027) | Yang Yi, Juntao Hua, Jinpu Zhang, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.14027) / [pdf](https://arxiv.org/pdf/2608.14027) |
 | 2026-08-13 | [SCULPT: Subtractive Composition for 3D Part Generation](https://arxiv.org/abs/2608.13541) | Sikuang Li, Chen Yang, Jiemin Fang, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.13541) / [pdf](https://arxiv.org/pdf/2608.13541) |
 | 2026-08-13 | [GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502) | Yanming Yang, Chenxi Song, Ping Wang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.13502) / [pdf](https://arxiv.org/pdf/2608.13502) |
 | 2026-08-12 | [ScaleVid: Geometry-Aware Video Object Scaling with Mesh-Free Inference](https://arxiv.org/abs/2608.12232) | Youze Huang, Penghui Ruan, Bojia Zi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.12232) / [pdf](https://arxiv.org/pdf/2608.12232) |

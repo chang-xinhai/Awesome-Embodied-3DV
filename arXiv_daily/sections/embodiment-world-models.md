@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2012 · **Unique arXiv IDs:** 2012
+**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 2020 · **Unique arXiv IDs:** 2020
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-14 | [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](https://arxiv.org/abs/2608.14530) | Zian Meng, Zhen Li, Chuanhao Li, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.14530) / [pdf](https://arxiv.org/pdf/2608.14530) |
+| 2026-08-14 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](https://arxiv.org/abs/2608.14490) | Alexy Skoutnev, Kirill Acharya, Gaston Longhitano, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.14490) / [pdf](https://arxiv.org/pdf/2608.14490) |
+| 2026-08-14 | [OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation](https://arxiv.org/abs/2608.14160) | Binling Huang, Nianjin Ye, Xi Yang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.14160) / [pdf](https://arxiv.org/pdf/2608.14160) |
+| 2026-08-14 | [AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning](https://arxiv.org/abs/2608.14135) | Wenhao Tang, Tianyang Chen, Zhejun Cui, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.14135) / [pdf](https://arxiv.org/pdf/2608.14135) |
+| 2026-08-14 | [Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost](https://arxiv.org/abs/2608.14125) | Xiaodi Huang, Ziyi Ding, Jingtian Wan, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.14125) / [pdf](https://arxiv.org/pdf/2608.14125) |
+| 2026-08-14 | [OpenBelief-Nav: Evidence-Preserving Object Memory for Open-Vocabulary Language-Guided Navigation](https://arxiv.org/abs/2608.13923) | Dinh Tuan Nguyen, Anh Dao, Phuong Nam Dang, et al. | cs.CV, cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.13923) / [pdf](https://arxiv.org/pdf/2608.13923) |
+| 2026-08-13 | [Coverage Aware Active Evaluation for Failure Discovery with Paired Systems](https://arxiv.org/abs/2608.13719) | Anjali Parashar, Rachel Luo, Apoorva Sharma, et al. | cs.AI, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.13719) / [pdf](https://arxiv.org/pdf/2608.13719) |
+| 2026-08-13 | [hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance](https://arxiv.org/abs/2608.13678) | Moritz Zoellner, Anastasios Manganaris, Ahmed H. Qureshi, et al. | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.13678) / [pdf](https://arxiv.org/pdf/2608.13678) |
 | 2026-08-13 | [PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552) | Kaixin Ding, Xi Chen, Minghong Cai, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.13552) / [pdf](https://arxiv.org/pdf/2608.13552) |
 | 2026-08-13 | [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546) | Yuanyang Yin, Gongxuan Wang, Yifan Zhan, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.13546) / [pdf](https://arxiv.org/pdf/2608.13546) |
 | 2026-08-13 | [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://arxiv.org/abs/2608.13489) | DreamX Team, Rui Chen, Xiangxiang Chu, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.13489) / [pdf](https://arxiv.org/pdf/2608.13489) |

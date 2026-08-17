@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 1656 · **Unique arXiv IDs:** 1656
+**Coverage:** 2025-01-01 to 2026-08-17 · **Papers:** 1657 · **Unique arXiv IDs:** 1657
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-13 | [Label-Free Deep-Tissue Peripheral Nerve Detection with a Handheld Multimodal OCT Probe and NerveDetNet](https://arxiv.org/abs/2608.13807) | Yihan Wang, Ruilin You, Shaobai Li, et al. | physics.optics, cs.CV, physics.med-ph | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.13807) / [pdf](https://arxiv.org/pdf/2608.13807) |
 | 2026-08-13 | [A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms](https://arxiv.org/abs/2608.13511) | Edward Holmberg, Elias Ioup, Mahdi Abdelguerfi | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2608.13511) / [pdf](https://arxiv.org/pdf/2608.13511) |
 | 2026-08-13 | [Geometry-Grounded Unified 3D Perception for Autonomous Driving](https://arxiv.org/abs/2608.13147) | Longfei Xu, Xiaohui Wang, Zehao Huang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.13147) / [pdf](https://arxiv.org/pdf/2608.13147) |
 | 2026-08-13 | [RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion](https://arxiv.org/abs/2608.13102) | Wentao Zhao, Shouxuan Wu, Yongtao Cen, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.13102) / [pdf](https://arxiv.org/pdf/2608.13102) |
@@ -31,7 +32,7 @@
 | 2026-08-05 | [Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://arxiv.org/abs/2608.04865) | Chengming Feng, Hesam Araghi, Liming Zheng, et al. | cs.CV | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.04865) / [pdf](https://arxiv.org/pdf/2608.04865) |
 | 2026-08-05 | [From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline](https://arxiv.org/abs/2608.04769) | Shijun Ding, Chen Qian, Weiwei Shang, et al. | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2608.04769) / [pdf](https://arxiv.org/pdf/2608.04769) |
 | 2026-08-05 | [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](https://arxiv.org/abs/2608.04737) | Hakyeong Kim, Ruicheng Wang, Chengtang Yao, et al. | cs.CV, cs.GR | Depth / Geometry Prior, Active Imaging | [abs](https://arxiv.org/abs/2608.04737) / [pdf](https://arxiv.org/pdf/2608.04737) |
-| 2026-08-05 | [YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720) | Jinling Jia, Jian Lu, Jone Yawl, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.04720) / [pdf](https://arxiv.org/pdf/2608.04720) |
+| 2026-08-05 | [YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720) | Jian Lu, Jinling Jia, Jone Yawl, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.04720) / [pdf](https://arxiv.org/pdf/2608.04720) |
 | 2026-08-04 | [TriCLE: Tri-Modal Vision-Language Reasoning for Edge-Deployed Fine-Grained Clustering](https://arxiv.org/abs/2608.04175) | Kishor Datta Gupta, Md. Mahfuzur Rahman, Fahad Rahman, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.04175) / [pdf](https://arxiv.org/pdf/2608.04175) |
 | 2026-08-04 | [LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851) | Tianbao Zhang, Zeyu Liu, Shuyu Wu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.03851) / [pdf](https://arxiv.org/pdf/2608.03851) |
 | 2026-08-04 | [XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2608.03666) | Elena Izzo, Riccardo Toniolo, Lamberto Ballan | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.03666) / [pdf](https://arxiv.org/pdf/2608.03666) |
