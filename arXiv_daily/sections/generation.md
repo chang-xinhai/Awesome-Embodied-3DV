@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 904 · **Unique arXiv IDs:** 904
+**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 907 · **Unique arXiv IDs:** 907
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-17 | [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234) | Tianchen Deng, Xuefeng Chen, Shuang Wu, et al. | cs.CV | Scene / World Generation, 3D Editing | [abs](https://arxiv.org/abs/2608.16234) / [pdf](https://arxiv.org/pdf/2608.16234) |
+| 2026-08-16 | [ES3D: Embedding Semantics into 3D Space for Component-Aware Editing](https://arxiv.org/abs/2608.15749) | Xuancheng Jin, Rengan Xie, Jiayuan Lu, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2608.15749) / [pdf](https://arxiv.org/pdf/2608.15749) |
+| 2026-08-14 | [MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783) | Manwen Liao, Xinyu Lian, Jian Mao, et al. | cs.CV, cs.GR | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.14783) / [pdf](https://arxiv.org/pdf/2608.14783) |
 | 2026-08-13 | [SCULPT: Subtractive Composition for 3D Part Generation](https://arxiv.org/abs/2608.13541) | Sikuang Li, Chen Yang, Jiemin Fang, et al. | cs.CV, cs.GR | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.13541) / [pdf](https://arxiv.org/pdf/2608.13541) |
 | 2026-08-13 | [EgoPHI: Estimating Contact and Force from Egocentric Vision](https://arxiv.org/abs/2608.13014) | Andela Ilic, Rachel Schuchert, Yijing Jiang, et al. | cs.CV, cs.GR, cs.HC | Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.13014) / [pdf](https://arxiv.org/pdf/2608.13014) |
 | 2026-08-13 | [PixSDS: Why Latent SDS Makes Noisy Pixels](https://arxiv.org/abs/2608.12997) | Vsevolod Skorokhodov | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.12997) / [pdf](https://arxiv.org/pdf/2608.12997) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 2020 · **Unique arXiv IDs:** 2020
+**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 2029 · **Unique arXiv IDs:** 2029
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-17 | [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://arxiv.org/abs/2608.16859) | Weiliang Chen, Haowen Sun, Jun Gao, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.16859) / [pdf](https://arxiv.org/pdf/2608.16859) |
+| 2026-08-17 | [Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents](https://arxiv.org/abs/2608.16651) | Zhijian Li, Chao Ren, Peijin Wang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.16651) / [pdf](https://arxiv.org/pdf/2608.16651) |
+| 2026-08-17 | [DeepInsight II: One Trace from Benchmark to Robot](https://arxiv.org/abs/2608.16556) | Siyi Li, Yuchen Kang, Wuliang Wang, et al. | cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.16556) / [pdf](https://arxiv.org/pdf/2608.16556) |
+| 2026-08-17 | [DriveCache: Action-Aware Caching for Driving World Model Inference](https://arxiv.org/abs/2608.16354) | Jianchun Yang, Jian Liang, Xianda Guo, et al. | cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.16354) / [pdf](https://arxiv.org/pdf/2608.16354) |
+| 2026-08-17 | [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234) | Tianchen Deng, Xuefeng Chen, Shuang Wu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.16234) / [pdf](https://arxiv.org/pdf/2608.16234) |
+| 2026-08-16 | [Scaling Manual-Grounded Appliance Manipulation with Data Synthesis and Unified Planning](https://arxiv.org/abs/2608.15863) | Yuxing Long, Lei Kang, Ziyan Yu, et al. | cs.RO, cs.AI, cs.CL | Sim-to-Real | [abs](https://arxiv.org/abs/2608.15863) / [pdf](https://arxiv.org/pdf/2608.15863) |
+| 2026-08-16 | [Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation](https://arxiv.org/abs/2608.15490) | Peng Zhou, Jun Hu, Sihan Chen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.15490) / [pdf](https://arxiv.org/pdf/2608.15490) |
+| 2026-08-15 | [GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2608.14986) | Zhiqiang Hu, Shouren Huang, Masatoshi Ishikawa | cs.RO, cs.AI | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.14986) / [pdf](https://arxiv.org/pdf/2608.14986) |
+| 2026-08-15 | [Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails](https://arxiv.org/abs/2608.14952) | Cong Xu, Ravi Sankar | cs.RO, cs.CV, eess.SP | World Model | [abs](https://arxiv.org/abs/2608.14952) / [pdf](https://arxiv.org/pdf/2608.14952) |
 | 2026-08-14 | [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](https://arxiv.org/abs/2608.14530) | Zian Meng, Zhen Li, Chuanhao Li, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.14530) / [pdf](https://arxiv.org/pdf/2608.14530) |
 | 2026-08-14 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](https://arxiv.org/abs/2608.14490) | Alexy Skoutnev, Kirill Acharya, Gaston Longhitano, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.14490) / [pdf](https://arxiv.org/pdf/2608.14490) |
 | 2026-08-14 | [OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation](https://arxiv.org/abs/2608.14160) | Binling Huang, Nianjin Ye, Xi Yang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.14160) / [pdf](https://arxiv.org/pdf/2608.14160) |

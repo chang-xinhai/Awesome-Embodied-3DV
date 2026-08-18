@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 1657 · **Unique arXiv IDs:** 1657
+**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 1663 · **Unique arXiv IDs:** 1663
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-17 | [Binarized High-Efficiency RAW Video Restoration and Beyond](https://arxiv.org/abs/2608.16756) | Tianyu Zhu, Ying Fu, Hesong Li, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.16756) / [pdf](https://arxiv.org/pdf/2608.16756) |
+| 2026-08-17 | [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.16572) | Fucai Zhu, Yanhou Lai, Paul Maestre, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.16572) / [pdf](https://arxiv.org/pdf/2608.16572) |
+| 2026-08-17 | [FLEET: Token-Based Feature Extraction for Event Camera-based Reinforcement Learning](https://arxiv.org/abs/2608.16523) | Tristan Gottwald, Maximilian Schier, Melanie Schaller, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.16523) / [pdf](https://arxiv.org/pdf/2608.16523) |
+| 2026-08-16 | [WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations](https://arxiv.org/abs/2608.15659) | Xiaojie Xu, Zhengyuan Lin, Runyi Li, et al. | cs.CV, cs.GR | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.15659) / [pdf](https://arxiv.org/pdf/2608.15659) |
+| 2026-08-15 | [VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments](https://arxiv.org/abs/2608.15284) | Haolin Yang, Yuxing Long, Zihan Yang, et al. | cs.RO, cs.AI, cs.CL | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.15284) / [pdf](https://arxiv.org/pdf/2608.15284) |
+| 2026-08-15 | [Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference](https://arxiv.org/abs/2608.15282) | Yi Yu, Jian Peng, Yucheng Lin, et al. | cs.LG, cs.CV, physics.bio-ph | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.15282) / [pdf](https://arxiv.org/pdf/2608.15282) |
 | 2026-08-13 | [Label-Free Deep-Tissue Peripheral Nerve Detection with a Handheld Multimodal OCT Probe and NerveDetNet](https://arxiv.org/abs/2608.13807) | Yihan Wang, Ruilin You, Shaobai Li, et al. | physics.optics, cs.CV, physics.med-ph | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.13807) / [pdf](https://arxiv.org/pdf/2608.13807) |
 | 2026-08-13 | [A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms](https://arxiv.org/abs/2608.13511) | Edward Holmberg, Elias Ioup, Mahdi Abdelguerfi | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2608.13511) / [pdf](https://arxiv.org/pdf/2608.13511) |
 | 2026-08-13 | [Geometry-Grounded Unified 3D Perception for Autonomous Driving](https://arxiv.org/abs/2608.13147) | Longfei Xu, Xiaohui Wang, Zehao Huang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.13147) / [pdf](https://arxiv.org/pdf/2608.13147) |
