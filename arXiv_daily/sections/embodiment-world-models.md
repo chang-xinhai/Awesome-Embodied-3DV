@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 2036 · **Unique arXiv IDs:** 2036
+**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 2037 · **Unique arXiv IDs:** 2037
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-18 | [Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077) | Hongyu Li, Bowen Wen, Xinghao Zhu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.18077) / [pdf](https://arxiv.org/pdf/2608.18077) |
 | 2026-08-18 | [ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787) | Adrian Kneip, Martin Lefebvre, Daniel Gehrig, et al. | cs.AR, cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.17787) / [pdf](https://arxiv.org/pdf/2608.17787) |
 | 2026-08-18 | [Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision](https://arxiv.org/abs/2608.17628) | Amir Arsalan Nematollahi, Shayan Ahmadi, Mehdi Tale Masouleh, et al. | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17628) / [pdf](https://arxiv.org/pdf/2608.17628) |
 | 2026-08-18 | [Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields](https://arxiv.org/abs/2608.17496) | Kaiming Zhong, Tianhua Liu, Yue Wang | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.17496) / [pdf](https://arxiv.org/pdf/2608.17496) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 1663 · **Unique arXiv IDs:** 1663
+**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 1667 · **Unique arXiv IDs:** 1667
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-18 | [Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682) | Bernardo Taveira, Carl Lindström, Joakim Johnander, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.17682) / [pdf](https://arxiv.org/pdf/2608.17682) |
+| 2026-08-17 | [Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2608.17178) | Christopher Lang, Alexander Braun, Abhinav Valada | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.17178) / [pdf](https://arxiv.org/pdf/2608.17178) |
+| 2026-08-17 | [The 10th AI City Challenge](https://arxiv.org/abs/2608.17044) | Zheng Tang, Shuo Wang, David C. Anastasiu, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.17044) / [pdf](https://arxiv.org/pdf/2608.17044) |
+| 2026-08-17 | [PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation](https://arxiv.org/abs/2608.16984) | Zhiyuan Yuan, Guanying Chen, Lingteng Qiu, et al. | cs.CV, cs.AI, cs.GR | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.16984) / [pdf](https://arxiv.org/pdf/2608.16984) |
 | 2026-08-17 | [Binarized High-Efficiency RAW Video Restoration and Beyond](https://arxiv.org/abs/2608.16756) | Tianyu Zhu, Ying Fu, Hesong Li, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.16756) / [pdf](https://arxiv.org/pdf/2608.16756) |
 | 2026-08-17 | [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.16572) | Fucai Zhu, Yanhou Lai, Paul Maestre, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.16572) / [pdf](https://arxiv.org/pdf/2608.16572) |
 | 2026-08-17 | [FLEET: Token-Based Feature Extraction for Event Camera-based Reinforcement Learning](https://arxiv.org/abs/2608.16523) | Tristan Gottwald, Maximilian Schier, Melanie Schaller, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.16523) / [pdf](https://arxiv.org/pdf/2608.16523) |
