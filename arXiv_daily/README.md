@@ -2,17 +2,17 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Unique papers:** 8354
+**Coverage:** 2025-01-01 to 2026-08-19 · **Unique papers:** 8363
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
 | [Data Perception](sections/data-perception.md) | 1663 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
-| [3D/4D Representation](sections/representation.md) | 2831 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2705 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D/4D Representation](sections/representation.md) | 2832 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
+| [3D Reconstruction](sections/reconstruction.md) | 2707 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 907 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
-| [Embodiment & World Models](sections/embodiment-world-models.md) | 2029 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
+| [Embodiment & World Models](sections/embodiment-world-models.md) | 2036 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 492 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
@@ -34,6 +34,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### 3D/4D Representation
 
+- 2026-08-18 — [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535)
 - 2026-08-17 — [SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863)
 - 2026-08-17 — [LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting](https://arxiv.org/abs/2608.16324)
 - 2026-08-17 — [Beyond Similarity Matching: Structured Reasoning for Open-Vocabulary Referring Segmentation in 3DGS](https://arxiv.org/abs/2608.16103)
@@ -43,10 +44,11 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-15 — [HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions](https://arxiv.org/abs/2608.15420)
 - 2026-08-15 — [SCORE: Shape-Conforming Regions for Flight in Enclosed, Degraded Environments](https://arxiv.org/abs/2608.15289)
 - 2026-08-15 — [MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM](https://arxiv.org/abs/2608.15024)
-- 2026-08-15 — [GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2608.14986)
 
 ### 3D Reconstruction
 
+- 2026-08-18 — [OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects](https://arxiv.org/abs/2608.17633)
+- 2026-08-18 — [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535)
 - 2026-08-17 — [SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863)
 - 2026-08-17 — [Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI](https://arxiv.org/abs/2608.16725)
 - 2026-08-17 — [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.16572)
@@ -55,8 +57,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-15 — [Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement](https://arxiv.org/abs/2608.15251)
 - 2026-08-15 — [MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM](https://arxiv.org/abs/2608.15024)
 - 2026-08-15 — [HP2-SLAM: Adaptive Hybrid ICP for Robust and Efficient LiDAR SLAM](https://arxiv.org/abs/2608.14996)
-- 2026-08-14 — [Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2608.14902)
-- 2026-08-14 — [SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation](https://arxiv.org/abs/2608.14138)
 
 ### 3D Generation & Assets
 
@@ -73,16 +73,16 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Embodiment & World Models
 
+- 2026-08-18 — [ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787)
+- 2026-08-18 — [Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision](https://arxiv.org/abs/2608.17628)
+- 2026-08-18 — [Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields](https://arxiv.org/abs/2608.17496)
+- 2026-08-18 — [Robust Brachiation on a Life-Sized Dual-Arm Robot Using Waypoint-Guided Reinforcement Learning](https://arxiv.org/abs/2608.17320)
+- 2026-08-17 — [PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents](https://arxiv.org/abs/2608.17129)
+- 2026-08-17 — [Inference-Time Attention Steering for Vision-Language-Action Driving Models](https://arxiv.org/abs/2608.17095)
+- 2026-08-17 — [FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences](https://arxiv.org/abs/2608.17027)
 - 2026-08-17 — [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://arxiv.org/abs/2608.16859)
 - 2026-08-17 — [Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents](https://arxiv.org/abs/2608.16651)
 - 2026-08-17 — [DeepInsight II: One Trace from Benchmark to Robot](https://arxiv.org/abs/2608.16556)
-- 2026-08-17 — [DriveCache: Action-Aware Caching for Driving World Model Inference](https://arxiv.org/abs/2608.16354)
-- 2026-08-17 — [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234)
-- 2026-08-16 — [Scaling Manual-Grounded Appliance Manipulation with Data Synthesis and Unified Planning](https://arxiv.org/abs/2608.15863)
-- 2026-08-16 — [Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation](https://arxiv.org/abs/2608.15490)
-- 2026-08-15 — [GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2608.14986)
-- 2026-08-15 — [Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails](https://arxiv.org/abs/2608.14952)
-- 2026-08-14 — [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](https://arxiv.org/abs/2608.14530)
 
 ### Datasets, Benchmarks & Infrastructure
 

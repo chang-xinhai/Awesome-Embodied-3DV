@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 2029 · **Unique arXiv IDs:** 2029
+**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 2036 · **Unique arXiv IDs:** 2036
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-18 | [ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787) | Adrian Kneip, Martin Lefebvre, Daniel Gehrig, et al. | cs.AR, cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.17787) / [pdf](https://arxiv.org/pdf/2608.17787) |
+| 2026-08-18 | [Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision](https://arxiv.org/abs/2608.17628) | Amir Arsalan Nematollahi, Shayan Ahmadi, Mehdi Tale Masouleh, et al. | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17628) / [pdf](https://arxiv.org/pdf/2608.17628) |
+| 2026-08-18 | [Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields](https://arxiv.org/abs/2608.17496) | Kaiming Zhong, Tianhua Liu, Yue Wang | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.17496) / [pdf](https://arxiv.org/pdf/2608.17496) |
+| 2026-08-18 | [Robust Brachiation on a Life-Sized Dual-Arm Robot Using Waypoint-Guided Reinforcement Learning](https://arxiv.org/abs/2608.17320) | Ayumu Iwata, Kento Kawaharazuka, Keita Yoneda, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17320) / [pdf](https://arxiv.org/pdf/2608.17320) |
+| 2026-08-17 | [PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents](https://arxiv.org/abs/2608.17129) | Vineet Bhat, Siyi Chen, Alex Zook, et al. | cs.CV, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17129) / [pdf](https://arxiv.org/pdf/2608.17129) |
+| 2026-08-17 | [Inference-Time Attention Steering for Vision-Language-Action Driving Models](https://arxiv.org/abs/2608.17095) | Darshan Nagendra Prasad, Lars Ullrich, Knut Graichen | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.17095) / [pdf](https://arxiv.org/pdf/2608.17095) |
+| 2026-08-17 | [FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences](https://arxiv.org/abs/2608.17027) | Omar Rayyan, Zhi Li, Max Argus, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17027) / [pdf](https://arxiv.org/pdf/2608.17027) |
 | 2026-08-17 | [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://arxiv.org/abs/2608.16859) | Weiliang Chen, Haowen Sun, Jun Gao, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.16859) / [pdf](https://arxiv.org/pdf/2608.16859) |
 | 2026-08-17 | [Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents](https://arxiv.org/abs/2608.16651) | Zhijian Li, Chao Ren, Peijin Wang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.16651) / [pdf](https://arxiv.org/pdf/2608.16651) |
 | 2026-08-17 | [DeepInsight II: One Trace from Benchmark to Robot](https://arxiv.org/abs/2608.16556) | Siyi Li, Yuchen Kang, Wuliang Wang, et al. | cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.16556) / [pdf](https://arxiv.org/pdf/2608.16556) |

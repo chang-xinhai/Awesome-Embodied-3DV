@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 2831 · **Unique arXiv IDs:** 2831
+**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 2832 · **Unique arXiv IDs:** 2832
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-18 | [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535) | Qijian Tian, Zimeng Wu, Xuhong Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.17535) / [pdf](https://arxiv.org/pdf/2608.17535) |
 | 2026-08-17 | [SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863) | Yejun Zhang, Zihan Wang, Xu Ji, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.16863) / [pdf](https://arxiv.org/pdf/2608.16863) |
 | 2026-08-17 | [LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting](https://arxiv.org/abs/2608.16324) | Louen Pottier | cs.CV, cs.LG | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.16324) / [pdf](https://arxiv.org/pdf/2608.16324) |
 | 2026-08-17 | [Beyond Similarity Matching: Structured Reasoning for Open-Vocabulary Referring Segmentation in 3DGS](https://arxiv.org/abs/2608.16103) | Yizhao Wang, Xinfa Wang, Jingbo Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.16103) / [pdf](https://arxiv.org/pdf/2608.16103) |

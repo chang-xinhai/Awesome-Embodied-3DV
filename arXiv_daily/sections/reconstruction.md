@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-18 · **Papers:** 2705 · **Unique arXiv IDs:** 2705
+**Coverage:** 2025-01-01 to 2026-08-19 · **Papers:** 2707 · **Unique arXiv IDs:** 2707
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-18 | [OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects](https://arxiv.org/abs/2608.17633) | Tianjing Hao, Haiyu Lan, Angsong Li, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.17633) / [pdf](https://arxiv.org/pdf/2608.17633) |
+| 2026-08-18 | [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535) | Qijian Tian, Zimeng Wu, Xuhong Wang, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2608.17535) / [pdf](https://arxiv.org/pdf/2608.17535) |
 | 2026-08-17 | [SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863) | Yejun Zhang, Zihan Wang, Xu Ji, et al. | cs.CV | Feed-Forward Geometry, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.16863) / [pdf](https://arxiv.org/pdf/2608.16863) |
 | 2026-08-17 | [Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI](https://arxiv.org/abs/2608.16725) | Chiara Tappermann, Steffen Renisch, Lars Ole Schwen, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.16725) / [pdf](https://arxiv.org/pdf/2608.16725) |
 | 2026-08-17 | [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.16572) | Fucai Zhu, Yanhou Lai, Paul Maestre, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.16572) / [pdf](https://arxiv.org/pdf/2608.16572) |
