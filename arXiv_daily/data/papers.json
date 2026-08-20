@@ -1,6 +1,456 @@
 {
   "schema_version": 1,
   "papers": {
+    "2608.19182": {
+      "arxiv_id": "2608.19182",
+      "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
+      "abstract": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments that can solve long-horizon tasks directly from raw visuo-tactile perception. ADEPT pretrains a dexterous policy on a generic object reposing task, then post-trains downstream policies with this pretrained behavior as a prior. ADEPT enables learning new behaviors that are otherwise difficult to discover from scratch on multi-fingered robots and avoids learning the same set of skills over again for every new downstream task. The pretrained policy zero-shots the reposing phase of downstream tasks, but naïve RL fine-tuning rapidly degrades this capability during transfer. We address this with a stable post-training recipe combining behavior-cloning distillation, critic warm-up, and conservative on-policy updates. To safely exploit the full kinematic dexterity, we introduce a joint-space Geometric Fabric that mediates between the RL policy and the robot. We distill post-trained teachers into perceptive students that zero-shot sim-to-real transfer on two embodiments: a 23 DoF Kuka-Allegro with two RGB cameras, and a 29 DoF Flexiv-Sharpa with two RGB cameras and five vision-based tactile sensors, and can solve long-horizon tasks from challenging initial states with dexterity at human-level speed.",
+      "authors": [
+        "Jayjun Lee",
+        "Jessica Yin",
+        "Asif Rana",
+        "Nicholas Blauch",
+        "Sam Mady",
+        "Mohak Bhardwaj",
+        "Nima Fazeli",
+        "Nathan Ratliff",
+        "Karl Van Wyk",
+        "Ankur Handa"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "comment": "Project page: https://adept-dexterity.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19182",
+      "pdf_url": "https://arxiv.org/pdf/2608.19182",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.19066": {
+      "arxiv_id": "2608.19066",
+      "title": "GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting",
+      "abstract": "This paper proposes a lightweight, plug-and-play framework that improves robustness to viewpoint shifts in Vision-Language-Action (VLA) policies without policy retraining. To our knowledge, this is the first approach to directly leverage 3D Gaussian-based novel-view synthesis for observation-space adaptation in VLA policies. Current VLA performance relies on the implicit assumption that training and deployment camera configurations are identical. Our experiments show that even a small displacement of the camera mount can reduce the success rate on the LIBERO benchmark from about 90% to about 10% in the worst case. Prior approaches, such as large-scale fine-tuning or generative data augmentation, are computationally expensive and risk catastrophic forgetting. To address this, viewpoint shifts are reformulated as a localized novel-view synthesis problem. Under a Locality assumption, that camera perturbations remain within a small bounded region relative to the workspace, viewpoint normalization reduces to a scene- and policy-independent disocclusion task. Our work implements this idea with a 4M-parameter 3D-Gaussian canonicalizer prepended to a frozen VLA policy. Without modifying policy weights, GS-VLA improves performance across three orthogonal axes: (1) Policy architectures, (2) Unseen task suites, and (3) Perturbation scales. These results show that a lightweight visual module can recover a large fraction of the performance lost under viewpoint shift, without policy retraining.",
+      "authors": [
+        "Yechan Park",
+        "HyunJin Kim"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19066",
+      "pdf_url": "https://arxiv.org/pdf/2608.19066",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2608.19059": {
+      "arxiv_id": "2608.19059",
+      "title": "LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding",
+      "abstract": "Long-term robot operation in evolving environments requires object-level understanding that persists across repeated revisits. Existing systems either overwrite history to maintain an up-to-date map or store semantic snapshots without consistent cross-session object identity, resulting in temporal amnesia: the systematic loss of object history that prevents answering queries such as \"Where has the green chair been across all sessions?\" We propose LT-Mem, a volatility-aware memory evolution framework that unifies spatially aligned instance-level 3D perception with volatility-conditioned temporal reasoning. First, a multi-session SLAM backbone provides spatially aligned per-object observations across sessions. Second, a reasoning layer governs how object memory evolves: deterministic evidence scoring preserves cross-session identity, and a volatility-aware policy selects among overwrite, hold, and multi-hypothesis actions based on each object's dynamics. Third, the resulting Tri-Memory structure (Live, Delta, Meta) preserves both current states and event histories, enabling longitudinal object-centric reasoning. We further introduce LT-VQA, a dataset and evaluation suite comprising multi-session recordings, persistent identity annotations, and temporal QA pairs. Experiments show that LT-Mem consistently outperforms baselines across all metrics while consuming an order of magnitude fewer tokens, and ablations confirm that gains are driven by the structured memory architecture rather than LLM capacity.",
+      "authors": [
+        "Yumin Lee",
+        "Hyoseok Ju",
+        "Giseop Kim"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "8 pages, 8 figures, 6 tables. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19059",
+      "pdf_url": "https://arxiv.org/pdf/2608.19059",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2608.18840": {
+      "arxiv_id": "2608.18840",
+      "title": "Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction",
+      "abstract": "Indoor scene synthesis provides essential environments for embodied AI, robotic manipulation, and simulation-based policy learning. Recent code-based scene generation methods produce editable and extensible environments, yet they remain focused on visual construction and object-level articulation, leaving the functional usage of scenes largely unmodeled. To address this problem, we present RoomWright, an agentic usage-driven framework for generating 3D scenes represented entirely as code for embodied interaction. RoomWright performs usage-driven object reasoning, which treats each anchor as a task centre and admits task-required objects and their affordances. A code agent further enables multi-part interaction by compiling each interaction into a trigger, condition, effect rule that updates structured object states, capturing causal dependencies across objects. Moreover, since manipuland orientation is ambiguous and hard to recover from pixels, RoomWright alleviates this via annotation-informed usage-guided orientation. Extensive experiments demonstrate the effectiveness of our method. The resulting scenes are executable, editable, and simulation-ready, providing interactive environments for embodied AI and policy learning.",
+      "authors": [
+        "Zijian Xiao",
+        "Zipeng Ye",
+        "Jinkun Hao",
+        "Xiong Yang",
+        "Yuchen Xie",
+        "Ran Yi"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18840",
+      "pdf_url": "https://arxiv.org/pdf/2608.18840",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Simulation-Ready / Physical",
+          "Scene / World Generation"
+        ]
+      }
+    },
+    "2608.18669": {
+      "arxiv_id": "2608.18669",
+      "title": "Reinforced Planning with Latent World Models",
+      "abstract": "Humans solve complex problems by constructing plans and mentally simulating their outcomes with an internal model of the world. Machine learning has produced world models that similarly predict the outcomes of action sequences, but the improvement of candidate plans still isn't fully learned. Current planners are either hand-designed, distilled from a hand-designed optimizer, or learned only to inform an amortized policy rather than to revise the plan itself. We introduce the Reinforced Planning, a method based on the idea that search can be learned by reinforcing good search rules into a neural planner. Our implementation RP1 learns both how to evaluate imagined outcomes through a critic, as well as how to improve multi-step plans through an optimizer trained fully offline from imagined world-model roll-outs. To our knowledge, RP1 is the first method to fully learn how to improve multi-step plans. Furthermore, it can be trained independently of and attached to any pretrained latent world model. Across visual navigation, arm reaching, and robotic manipulation on two world-model backbones, RP1 substantially outperforms hand-designed search algorithms, reaching near-perfect success in several settings while using $1,000 \\times$ less world-model rollouts and being up to $67 \\times$ faster than the strongest alternative under concurrent planner inference.",
+      "authors": [
+        "Armin Sommer",
+        "Jannik Schilling"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "comment": "Preprint",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18669",
+      "pdf_url": "https://arxiv.org/pdf/2608.18669",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.18632": {
+      "arxiv_id": "2608.18632",
+      "title": "Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage",
+      "abstract": "Aerial nadir video combines weak geometric constraints with severe perceptual aliasing, making it a difficult regime for monocular SLAM. We benchmark five monocular SLAM systems on local UAV flights, synthetic city-scale imagery, and long-range aerial sequences. To isolate visual performance, we provide no inertial or GNSS aiding. Performance varies strongly with environment and trajectory scale: MASt3R-SLAM achieves the lowest mean horizontal MAE on the five DJI flights (0.53\\% of reference path length), whereas no system consistently preserves global trajectory shape on the long GES and ALTO sequences. Overall, DROID-SLAM performs best, averaging 2.88\\% of reference path length across completed runs. Vertical position remains poor, and large-area trajectories remain highly distorted despite loop-closure capability. Current monocular SLAM methods are by themselves therefore insufficient for reliable visual-only aerial navigation.",
+      "authors": [
+        "Gašper Spagnolo",
+        "Matej Dobrevski",
+        "Danijel Skočaj"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "6 pages, submitted to ERK 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18632",
+      "pdf_url": "https://arxiv.org/pdf/2608.18632",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2608.18593": {
+      "arxiv_id": "2608.18593",
+      "title": "ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation",
+      "abstract": "Single-image rephotography aims to synthesize new shots of a scene from a single reference image with specified viewpoints, focal lengths, and photographic effects, which are intrinsically coupled in imaging. Existing methods typically treat these factors separately and struggle under joint control: novel-view synthesis may introduce geometric distortions under focal-length changes, while super-resolution and instruction-guided editing remain confined to 2D and cannot reliably extend detail restoration or appearance control to novel viewpoints. We attribute these limitations to imperfect single-image 3D reconstruction and the sampling limit of continuous focal-length enlargement. To reduce projection bias from geometric errors, we use implicitly transformed foundation-model features for robust target-view guidance. We further formulate focal-length enlargement as a geometry-guided super-resolution problem and exploit generative detail priors to recover details lost during sparse 3D resampling. Built on this 3D-aware generative backbone, we lift photographic-effect control from 2D filtering to 3D-aware appearance editing, preserving content consistency across viewpoints and focal lengths. These components form ReX-Shot, a geometry- and camera-grounded generative framework for single-image rephotography. To our knowledge, ReX-Shot is the first unified framework to jointly control viewpoint, focal length, and parameterized photographic effects from a single image. Experiments show that ReX-Shot outperforms representative baselines across all three controls while enabling near-real-time interactive rephotography.",
+      "authors": [
+        "Ruiqi Zhang",
+        "Hao Zhu",
+        "Wenhao Zhang",
+        "Qi Zhang",
+        "Junqi Shi",
+        "Ming Lu",
+        "Xun Cao",
+        "Zhan Ma"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Project page: https://ruiqi-nju.github.io/ReX-Shot/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18593",
+      "pdf_url": "https://arxiv.org/pdf/2608.18593",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2608.18560": {
+      "arxiv_id": "2608.18560",
+      "title": "SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects",
+      "abstract": "Fine-grained control over continuous semantic attributes of 3D objects is essential for 3D content creation, but is not well supported by conventional 3D modeling workflows or prompt-based interaction with existing generative AI tools. While slider-based methods have proven effective for fine-grained semantic control in 2D image generation, no equivalent approach exists for 3D. Extending these 2D methods to 3D is non-trivial due to challenges unique to 3D, including geometric integrity and cross-view coherence. We present SemanticSlider3D, a technique for continuous semantic attribute editing of 3D objects that requires no per-attribute training. Given a user-specified attribute, our pipeline constructs a semantic editing direction in the latent space of a state-of-the-art 3D generation model, presenting a diverse and coherent spectrum of 3D variations. A technical validation on a dataset of 50 3D object-attribute pairs shows our method was preferred by all five human assessors across variation range, consistency, 3D object quality, and attribute disentanglement, over a baseline combining a 2D slider with an image-to-3D model. An exploratory study with six participants demonstrates that SemanticSlider3D supported decision-making in 3D prototyping and was perceived as a valuable addition to existing workflows.",
+      "authors": [
+        "Ru Wang",
+        "Rahul Jain",
+        "Koichiro Niinuma",
+        "Aakar Gupta"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.HC",
+      "categories": [
+        "cs.HC",
+        "cs.CV"
+      ],
+      "comment": "UIST 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18560",
+      "pdf_url": "https://arxiv.org/pdf/2608.18560",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D"
+        ]
+      }
+    },
+    "2608.18413": {
+      "arxiv_id": "2608.18413",
+      "title": "CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction",
+      "abstract": "3D Gaussian Splatting enables efficient novel view synthesis, but accurate mesh reconstruction remains difficult in weakly observed and occluded regions, where Gaussian primitives may grow into unstable or geometrically inconsistent structures. We propose CoMVS-GS, a general surface reconstruction framework that combines Multi-View Stereo with Gaussian splatting. CoMVS-GS initializes Gaussian primitives from dense multi-view stereo points with pre-flattened scales and normal-aligned orientations, providing stronger geometric priors than sparse structure-from-motion initialization and reducing ambiguity during early optimization. It further introduces PatchMatch-3DGS Mutual Supervision, where Gaussian-rendered depths and normals initialize PatchMatch refinement, and refined PatchMatch depths supervise Gaussian optimization to improve weakly constrained geometry. For surface extraction, CoMVS-GS replaces truncated signed distance field voxel fusion with a Delaunay graph-cut meshing pipeline, reducing sensitivity to voxel resolution while preserving visibility-consistent surface evidence. Experiments on DTU, GauU-Scene V2, and MatrixCity show that CoMVS-GS remains competitive on object-level reconstruction and improves geometric accuracy and mesh compactness in outdoor scenes while maintaining high rendering quality.",
+      "authors": [
+        "Shihan Chen",
+        "Junjing Zhang",
+        "Qingsong Yan",
+        "Haibing Liu",
+        "Haofan Ren",
+        "Fei Deng"
+      ],
+      "published": "2026-08-19",
+      "updated": "2026-08-19",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18413",
+      "pdf_url": "https://arxiv.org/pdf/2608.18413",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Neural Implicit / SDF"
+        ],
+        "reconstruction": [
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2608.18388": {
+      "arxiv_id": "2608.18388",
+      "title": "Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting",
+      "abstract": "We present Depth Anything V4 (DAV4), a framework for dynamic 4D scene reconstruction from monocular video. Our key contribution is the application of Riemannian Flow Matching (RFM) to 4D Gaussian Splatting parameters, defining probability paths directly on non-Euclidean manifolds (scale, rotation, opacity), ensuring all intermediate states are valid. Through controlled experiments, we isolate RFM's contribution from test-time optimization (TTO) and pre-training. A deterministic MLP baseline with the same data, architecture, and TTO achieves F-score 0.762; RFM achieves 0.806 - the +0.044 gain is RFM's isolated contribution. We provide corrected computational cost analysis: pre-training is 360 GPU-hours, amortizing for large-scale deployment (over 10,000 scenes). Uncertainty is quantified via Negative Gaussian Log-Likelihood and Expected Calibration Error. DAV4 outperforms prior Depth Anything models and per-scene 4D-GS on dynamic reconstruction and novel-view synthesis, while using no human-annotated depth labels as training losses.",
+      "authors": [
+        "Jiaming Fan",
+        "Jian Lu",
+        "Jinling Jia",
+        "Chenbin Zhang"
+      ],
+      "published": "2026-08-18",
+      "updated": "2026-08-18",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18388",
+      "pdf_url": "https://arxiv.org/pdf/2608.18388",
+      "query_sources": [
+        "depth-and-sensing",
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Dynamic / 4D"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2608.18285": {
+      "arxiv_id": "2608.18285",
+      "title": "QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting",
+      "abstract": "3D scene representation techniques such as neural radiance fields (NeRFs) and Gaussian splatting have made substantial progress in novel view synthesis, achieving high-quality renderings from arbitrary view angles. More recently, such techniques have been extended to dynamic 3D scenes; however, achieving sustainable online free-viewpoint video (FVV) streaming remains challenging, especially for longer videos, due to significant storage demands of detailed scene representations and high reconstruction/rendering speed needs. To address these challenges, we propose Quantized Anchored Residual Coding Gaussian Streaming (QuARC-GS), a quantization-aware 4D scene optimization framework for online dynamic scene reconstruction that achieves ultra-high compression while maintaining reconstruction speed and quality. QuARC-GS represents a scene using a single canonical frame and highly compressed per-frame residuals. Specifically, we compress each residual through two complementary strategies targeting motion, appearance, and densification. We introduce quantization-aware anchor deformation, which suppresses insignificant motion updates while preserving meaningful deformations, maintaining reconstruction quality under low-storage streaming. Furthermore, we design a change-gated densification strategy that allocates new Gaussians only in regions exhibiting genuine temporal changes, effectively eliminating redundant appearance updates and reducing storage overhead. Extensive experiments on widely used datasets demonstrate that QuARC-GS enables competitive reconstruction quality and training speed while cutting per-frame storage by up to 11$\\times$ compared to the state-of-the-art.",
+      "authors": [
+        "Vu Trung Nghia Nguyen",
+        "Yuchen Wang",
+        "Kyung Chul Lee",
+        "Kevin C. Zhou"
+      ],
+      "published": "2026-08-18",
+      "updated": "2026-08-18",
+      "primary_category": "eess.IV",
+      "categories": [
+        "eess.IV",
+        "cs.CV"
+      ],
+      "comment": "9 pages, 5 figures, 3 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18285",
+      "pdf_url": "https://arxiv.org/pdf/2608.18285",
+      "query_sources": [
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Dynamic / 4D"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2608.18234": {
+      "arxiv_id": "2608.18234",
+      "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction",
+      "abstract": "Whole-body motion tracking policies turn a humanoid into a robust control interface: the teleoperator---or an upstream model---only supplies a coarse movement intent, while the low-level policy keeps the robot balanced and physically feasible. Existing trackers deliver this interface only on flat ground: trained in empty scenes, they never learn how contact with terrain and objects reshapes their dynamics, and they attempt to teach the policy to balance under any command by continually enlarging the reference-motion corpus, which stops working once feasible behaviors become environment-dependent. We present GigaBrain-WBC-0.5, the first Behavior World Model (BWM) for humanoid whole-body control. Rather than a purely reactive tracker, we train a causal Transformer to jointly predict its next action, next state, and the distribution over its next latent behavior command, so the network that acts also models how the environment shapes what it can do next. An automatic terrain-annotation pipeline recovers full 3D contact geometry from retargeted motion, enabling terrain annotation at the scale of existing motion datasets. The predicted distribution is reused at deployment to detect implausible commands online and retract them onto learned behaviors, so the robot attempts tasks in a \"best-effort\" manner. The result is a unified policy that takes real-time command, interacts with environment, and stays robust to implausible commands, falls, and disturbances. GigaBrain-WBC-0.5 achieves the highest success rate across all four regimes among three large-scale tracker baselines: 81.3% on terrain interaction (4.3x the strongest baseline), 83.1% under implausible commands, and 99.3% fall recovery (16.8x the strongest baseline). Hardware trials show robust interaction under missing supports and disturbances; the Unitree G1 checkpoint transfers to the Maker L01 robot with simple fine-tuning.",
+      "authors": [
+        "Ziyang Cheng",
+        "Tianshu Tang",
+        "Jinxin Lan",
+        "Xinze Chen",
+        "Yuhan Gong",
+        "Zhichao Liu",
+        "Changzhong Wu",
+        "Yahao Mao",
+        "Zongyan Deng",
+        "Mingxuan Ma",
+        "Huasen Xi",
+        "Yilong Liu",
+        "Yutong Wu",
+        "Xiaofeng Wang",
+        "Yang Wang",
+        "Yun Ye",
+        "Guan Huang",
+        "Xiaojie Jin",
+        "Zheng Zhu",
+        "Jiwen Lu"
+      ],
+      "published": "2026-08-18",
+      "updated": "2026-08-18",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "comment": "20 pages, 8 figures, 4 tables. Technical report. Project page: https://shepherd1226.github.io/gigabrain-wbc-0.5/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.18234",
+      "pdf_url": "https://arxiv.org/pdf/2608.18234",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
     "2608.18077": {
       "arxiv_id": "2608.18077",
       "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
@@ -321,7 +771,7 @@
         "Wang Chuang"
       ],
       "published": "2026-08-18",
-      "updated": "2026-08-18",
+      "updated": "2026-08-19",
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO"
@@ -1747,13 +2197,13 @@
         "Yongtao Ge"
       ],
       "published": "2026-08-16",
-      "updated": "2026-08-16",
+      "updated": "2026-08-19",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
         "cs.GR"
       ],
-      "comment": null,
+      "comment": "update code and data links",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2608.15659",
@@ -313868,6 +314318,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-20",
-  "paper_count": 8380,
-  "generated_at": "2026-08-20T01:45:59+00:00"
+  "paper_count": 8392,
+  "generated_at": "2026-08-20T12:49:14+00:00"
 }

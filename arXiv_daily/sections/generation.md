@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 909 · **Unique arXiv IDs:** 909
+**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 911 · **Unique arXiv IDs:** 911
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-19 | [Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction](https://arxiv.org/abs/2608.18840) | Zijian Xiao, Zipeng Ye, Jinkun Hao, et al. | cs.RO, cs.CV | Simulation-Ready / Physical, Scene / World Generation | [abs](https://arxiv.org/abs/2608.18840) / [pdf](https://arxiv.org/pdf/2608.18840) |
+| 2026-08-19 | [SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects](https://arxiv.org/abs/2608.18560) | Ru Wang, Rahul Jain, Koichiro Niinuma, et al. | cs.HC, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.18560) / [pdf](https://arxiv.org/pdf/2608.18560) |
 | 2026-08-18 | [GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation](https://arxiv.org/abs/2608.17988) | Ming Qian, Zijian Wang, Minchao Sun, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.17988) / [pdf](https://arxiv.org/pdf/2608.17988) |
 | 2026-08-18 | [Training with synthetic data for drone detection in thermal imagery](https://arxiv.org/abs/2608.17799) | Tanel Liiv, Sander Soodla, Nzamba Bignoumba, et al. | cs.CV, cs.AI, cs.ET | Scene / World Generation | [abs](https://arxiv.org/abs/2608.17799) / [pdf](https://arxiv.org/pdf/2608.17799) |
 | 2026-08-17 | [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234) | Tianchen Deng, Xuefeng Chen, Shuang Wu, et al. | cs.CV | Scene / World Generation, 3D Editing | [abs](https://arxiv.org/abs/2608.16234) / [pdf](https://arxiv.org/pdf/2608.16234) |

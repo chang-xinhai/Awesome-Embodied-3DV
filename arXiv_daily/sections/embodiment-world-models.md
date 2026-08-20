@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 2037 · **Unique arXiv IDs:** 2037
+**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 2040 · **Unique arXiv IDs:** 2040
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-19 | [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182) | Jayjun Lee, Jessica Yin, Asif Rana, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.19182) / [pdf](https://arxiv.org/pdf/2608.19182) |
+| 2026-08-19 | [Reinforced Planning with Latent World Models](https://arxiv.org/abs/2608.18669) | Armin Sommer, Jannik Schilling | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.18669) / [pdf](https://arxiv.org/pdf/2608.18669) |
+| 2026-08-18 | [GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction](https://arxiv.org/abs/2608.18234) | Ziyang Cheng, Tianshu Tang, Jinxin Lan, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.18234) / [pdf](https://arxiv.org/pdf/2608.18234) |
 | 2026-08-18 | [Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077) | Hongyu Li, Bowen Wen, Xinghao Zhu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.18077) / [pdf](https://arxiv.org/pdf/2608.18077) |
 | 2026-08-18 | [ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787) | Adrian Kneip, Martin Lefebvre, Daniel Gehrig, et al. | cs.AR, cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.17787) / [pdf](https://arxiv.org/pdf/2608.17787) |
 | 2026-08-18 | [Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision](https://arxiv.org/abs/2608.17628) | Amir Arsalan Nematollahi, Shayan Ahmadi, Mehdi Tale Masouleh, et al. | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.17628) / [pdf](https://arxiv.org/pdf/2608.17628) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 2715 · **Unique arXiv IDs:** 2715
+**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 2721 · **Unique arXiv IDs:** 2721
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-19 | [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059) | Yumin Lee, Hyoseok Ju, Giseop Kim | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.19059) / [pdf](https://arxiv.org/pdf/2608.19059) |
+| 2026-08-19 | [Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage](https://arxiv.org/abs/2608.18632) | Gašper Spagnolo, Matej Dobrevski, Danijel Skočaj | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.18632) / [pdf](https://arxiv.org/pdf/2608.18632) |
+| 2026-08-19 | [ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation](https://arxiv.org/abs/2608.18593) | Ruiqi Zhang, Hao Zhu, Wenhao Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.18593) / [pdf](https://arxiv.org/pdf/2608.18593) |
+| 2026-08-19 | [CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413) | Shihan Chen, Junjing Zhang, Qingsong Yan, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.18413) / [pdf](https://arxiv.org/pdf/2608.18413) |
+| 2026-08-18 | [Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388) | Jiaming Fan, Jian Lu, Jinling Jia, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.18388) / [pdf](https://arxiv.org/pdf/2608.18388) |
+| 2026-08-18 | [QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting](https://arxiv.org/abs/2608.18285) | Vu Trung Nghia Nguyen, Yuchen Wang, Kyung Chul Lee, et al. | eess.IV, cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.18285) / [pdf](https://arxiv.org/pdf/2608.18285) |
 | 2026-08-18 | [Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study](https://arxiv.org/abs/2608.18028) | Simon Weber, Mateo de Mayo, Je Hyeong Hong, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.18028) / [pdf](https://arxiv.org/pdf/2608.18028) |
 | 2026-08-18 | [Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices](https://arxiv.org/abs/2608.17874) | Rajat Roy, Aditya Arun Kumar Yadav, Hardik Jain | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.17874) / [pdf](https://arxiv.org/pdf/2608.17874) |
 | 2026-08-18 | [GenRec: Knowing Where to Reconstruct and Where to Generate](https://arxiv.org/abs/2608.17832) | Ata Çelen, Jaewoo Jung, Federico Tombari, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.17832) / [pdf](https://arxiv.org/pdf/2608.17832) |
