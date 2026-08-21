@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 2843 · **Unique arXiv IDs:** 2843
+**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 2844 · **Unique arXiv IDs:** 2844
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-20 | [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335) | Yudong Jin, Tao Xie, Qihang Zhang, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.20335) / [pdf](https://arxiv.org/pdf/2608.20335) |
 | 2026-08-20 | [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000) | Magnus Kaufmann Gjerde, Joakim Bruslund Haurum, Jeppe Revall Frisvad, et al. | cs.CV | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2608.20000) / [pdf](https://arxiv.org/pdf/2608.20000) |
 | 2026-08-19 | [GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066) | Yechan Park, HyunJin Kim | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.19066) / [pdf](https://arxiv.org/pdf/2608.19066) |
 | 2026-08-19 | [CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413) | Shihan Chen, Junjing Zhang, Qingsong Yan, et al. | cs.CV | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2608.18413) / [pdf](https://arxiv.org/pdf/2608.18413) |

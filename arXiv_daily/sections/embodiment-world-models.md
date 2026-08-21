@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 2041 · **Unique arXiv IDs:** 2041
+**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 2046 · **Unique arXiv IDs:** 2046
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -13,6 +13,11 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-08-20 | [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251) | Xincheng Tang, Yiji Chen, Youhan Xie, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20251) / [pdf](https://arxiv.org/pdf/2608.20251) |
+| 2026-08-20 | [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](https://arxiv.org/abs/2608.20087) | Tao Huang, Ruofei Liu, Xuchen Tang, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20087) / [pdf](https://arxiv.org/pdf/2608.20087) |
+| 2026-08-20 | [Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training](https://arxiv.org/abs/2608.19973) | Shangbo Yuan, Jie Xu, Xiaofeng Zhu, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.19973) / [pdf](https://arxiv.org/pdf/2608.19973) |
+| 2026-08-20 | [ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control](https://arxiv.org/abs/2608.19804) | Xu Yang, Kailai Sun, Dianyu Zhong, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.19804) / [pdf](https://arxiv.org/pdf/2608.19804) |
+| 2026-08-20 | [World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms](https://arxiv.org/abs/2608.19661) | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.19661) / [pdf](https://arxiv.org/pdf/2608.19661) |
+| 2026-08-19 | [SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation](https://arxiv.org/abs/2608.19425) | Dijie Zhu, Seunghun Oh, Ruopeng Huang, et al. | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.19425) / [pdf](https://arxiv.org/pdf/2608.19425) |
 | 2026-08-19 | [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182) | Jayjun Lee, Jessica Yin, Asif Rana, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.19182) / [pdf](https://arxiv.org/pdf/2608.19182) |
 | 2026-08-19 | [Reinforced Planning with Latent World Models](https://arxiv.org/abs/2608.18669) | Armin Sommer, Jannik Schilling | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.18669) / [pdf](https://arxiv.org/pdf/2608.18669) |
 | 2026-08-18 | [GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction](https://arxiv.org/abs/2608.18234) | Ziyang Cheng, Tianshu Tang, Jinxin Lan, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2608.18234) / [pdf](https://arxiv.org/pdf/2608.18234) |
