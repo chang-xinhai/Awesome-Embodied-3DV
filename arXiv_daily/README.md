@@ -2,17 +2,17 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Unique papers:** 8392
+**Coverage:** 2025-01-01 to 2026-08-21 · **Unique papers:** 8398
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1667 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
-| [3D/4D Representation](sections/representation.md) | 2842 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2721 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
-| [3D Generation & Assets](sections/generation.md) | 911 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
-| [Embodiment & World Models](sections/embodiment-world-models.md) | 2040 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
+| [Data Perception](sections/data-perception.md) | 1668 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [3D/4D Representation](sections/representation.md) | 2843 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
+| [3D Reconstruction](sections/reconstruction.md) | 2725 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D Generation & Assets](sections/generation.md) | 912 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
+| [Embodiment & World Models](sections/embodiment-world-models.md) | 2041 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 493 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
@@ -21,6 +21,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-08-20 — [Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal](https://arxiv.org/abs/2608.20212)
 - 2026-08-18 — [Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682)
 - 2026-08-17 — [Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2608.17178)
 - 2026-08-17 — [The 10th AI City Challenge](https://arxiv.org/abs/2608.17044)
@@ -30,10 +31,10 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-17 — [FLEET: Token-Based Feature Extraction for Event Camera-based Reinforcement Learning](https://arxiv.org/abs/2608.16523)
 - 2026-08-16 — [WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations](https://arxiv.org/abs/2608.15659)
 - 2026-08-15 — [VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments](https://arxiv.org/abs/2608.15284)
-- 2026-08-15 — [Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference](https://arxiv.org/abs/2608.15282)
 
 ### 3D/4D Representation
 
+- 2026-08-20 — [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000)
 - 2026-08-19 — [GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066)
 - 2026-08-19 — [CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413)
 - 2026-08-18 — [Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388)
@@ -43,23 +44,23 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-18 — [Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682)
 - 2026-08-18 — [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535)
 - 2026-08-18 — [NGS-Marker: Robust Native Watermarking for 3D Gaussian Splatting](https://arxiv.org/abs/2608.17447)
-- 2026-08-18 — [SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering](https://arxiv.org/abs/2608.17420)
 
 ### 3D Reconstruction
 
+- 2026-08-20 — [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000)
+- 2026-08-20 — [Gallileo-4D: Frozen Backbone Ensemble for Dynamic 4D Reconstruction](https://arxiv.org/abs/2608.19743)
+- 2026-08-20 — [RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693)
+- 2026-08-20 — [Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models](https://arxiv.org/abs/2608.19556)
 - 2026-08-19 — [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059)
 - 2026-08-19 — [Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage](https://arxiv.org/abs/2608.18632)
 - 2026-08-19 — [ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation](https://arxiv.org/abs/2608.18593)
 - 2026-08-19 — [CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413)
 - 2026-08-18 — [Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388)
 - 2026-08-18 — [QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting](https://arxiv.org/abs/2608.18285)
-- 2026-08-18 — [Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study](https://arxiv.org/abs/2608.18028)
-- 2026-08-18 — [Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices](https://arxiv.org/abs/2608.17874)
-- 2026-08-18 — [GenRec: Knowing Where to Reconstruct and Where to Generate](https://arxiv.org/abs/2608.17832)
-- 2026-08-18 — [OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects](https://arxiv.org/abs/2608.17633)
 
 ### 3D Generation & Assets
 
+- 2026-08-20 — [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251)
 - 2026-08-19 — [Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction](https://arxiv.org/abs/2608.18840)
 - 2026-08-19 — [SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects](https://arxiv.org/abs/2608.18560)
 - 2026-08-18 — [GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation](https://arxiv.org/abs/2608.17988)
@@ -69,10 +70,10 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-14 — [MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783)
 - 2026-08-13 — [SCULPT: Subtractive Composition for 3D Part Generation](https://arxiv.org/abs/2608.13541)
 - 2026-08-13 — [EgoPHI: Estimating Contact and Force from Egocentric Vision](https://arxiv.org/abs/2608.13014)
-- 2026-08-13 — [PixSDS: Why Latent SDS Makes Noisy Pixels](https://arxiv.org/abs/2608.12997)
 
 ### Embodiment & World Models
 
+- 2026-08-20 — [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251)
 - 2026-08-19 — [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182)
 - 2026-08-19 — [Reinforced Planning with Latent World Models](https://arxiv.org/abs/2608.18669)
 - 2026-08-18 — [GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction](https://arxiv.org/abs/2608.18234)
@@ -82,7 +83,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-18 — [Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields](https://arxiv.org/abs/2608.17496)
 - 2026-08-18 — [Robust Brachiation on a Life-Sized Dual-Arm Robot Using Waypoint-Guided Reinforcement Learning](https://arxiv.org/abs/2608.17320)
 - 2026-08-17 — [PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents](https://arxiv.org/abs/2608.17129)
-- 2026-08-17 — [Inference-Time Attention Steering for Vision-Language-Action Driving Models](https://arxiv.org/abs/2608.17095)
 
 ### Datasets, Benchmarks & Infrastructure
 

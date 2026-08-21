@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 1667 · **Unique arXiv IDs:** 1667
+**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 1668 · **Unique arXiv IDs:** 1668
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-20 | [Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal](https://arxiv.org/abs/2608.20212) | Radim Spetlik, David Futschik, Radek Danecek, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.20212) / [pdf](https://arxiv.org/pdf/2608.20212) |
 | 2026-08-18 | [Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682) | Bernardo Taveira, Carl Lindström, Joakim Johnander, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.17682) / [pdf](https://arxiv.org/pdf/2608.17682) |
 | 2026-08-17 | [Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2608.17178) | Christopher Lang, Alexander Braun, Abhinav Valada | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.17178) / [pdf](https://arxiv.org/pdf/2608.17178) |
 | 2026-08-17 | [The 10th AI City Challenge](https://arxiv.org/abs/2608.17044) | Zheng Tang, Shuo Wang, David C. Anastasiu, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.17044) / [pdf](https://arxiv.org/pdf/2608.17044) |

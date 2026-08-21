@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-20 · **Papers:** 2721 · **Unique arXiv IDs:** 2721
+**Coverage:** 2025-01-01 to 2026-08-21 · **Papers:** 2725 · **Unique arXiv IDs:** 2725
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-20 | [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000) | Magnus Kaufmann Gjerde, Joakim Bruslund Haurum, Jeppe Revall Frisvad, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.20000) / [pdf](https://arxiv.org/pdf/2608.20000) |
+| 2026-08-20 | [Gallileo-4D: Frozen Backbone Ensemble for Dynamic 4D Reconstruction](https://arxiv.org/abs/2608.19743) | Nicolò Savioli | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.19743) / [pdf](https://arxiv.org/pdf/2608.19743) |
+| 2026-08-20 | [RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693) | Johannes Künzel, Peter Eisert, Anna Hilsmann | cs.CV, cs.LG | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.19693) / [pdf](https://arxiv.org/pdf/2608.19693) |
+| 2026-08-20 | [Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models](https://arxiv.org/abs/2608.19556) | Yuanhao Ban, Jiaqi Feng, Hengguang Zhou, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.19556) / [pdf](https://arxiv.org/pdf/2608.19556) |
 | 2026-08-19 | [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059) | Yumin Lee, Hyoseok Ju, Giseop Kim | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.19059) / [pdf](https://arxiv.org/pdf/2608.19059) |
 | 2026-08-19 | [Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage](https://arxiv.org/abs/2608.18632) | Gašper Spagnolo, Matej Dobrevski, Danijel Skočaj | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.18632) / [pdf](https://arxiv.org/pdf/2608.18632) |
 | 2026-08-19 | [ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation](https://arxiv.org/abs/2608.18593) | Ruiqi Zhang, Hao Zhu, Wenhao Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.18593) / [pdf](https://arxiv.org/pdf/2608.18593) |

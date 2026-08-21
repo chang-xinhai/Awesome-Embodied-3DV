@@ -1,6 +1,229 @@
 {
   "schema_version": 1,
   "papers": {
+    "2608.20251": {
+      "arxiv_id": "2608.20251",
+      "title": "Video2DoorTraversal: Push Door Traversal via Simulated Door Twins",
+      "abstract": "Door opening and traversal is a long-horizon loco-manipulation task that requires precise handle interaction and coordinated base-arm control. We present Video2DoorTraversal, a single-video real-to-sim-to-real framework for wheel-legged mobile manipulators. Given one RGB video of a real door, DoorTwin reconstructs an instance-aligned, articulated, and simulation-ready door twin with realistic geometry and appearance. A simulation-in-the-loop agent converts the recovered articulation into a parameterized skill program and iteratively refines failed rollouts to generate physically executable demonstrations. These demonstrations are used to train ArticuACT, a dual-depth policy that predicts coordinated base, arm, and gripper commands using robot-centric camera conditioning and interaction-aware supervision. With all perception and policy inference running onboard, the system achieves a 96.57% average success rate across five real doors and an 80.95% zero-shot success rate on structurally similar unseen doors, while completing the full approach, opening, and traversal sequence in approximately 13s on average. Project Page: https://video2doortraversal.github.io/.",
+      "authors": [
+        "Xincheng Tang",
+        "Yiji Chen",
+        "Youhan Xie",
+        "Wanyu Li",
+        "Zhengjie Shu",
+        "Lai Jiang",
+        "Wenkang Hu",
+        "Yitong Li",
+        "Jinchuang Zhang",
+        "Xibin Song",
+        "Ruigang Yang"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "8 pages, 6 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20251",
+      "pdf_url": "https://arxiv.org/pdf/2608.20251",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "generation",
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "generation": [
+          "Simulation-Ready / Physical"
+        ],
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.20212": {
+      "arxiv_id": "2608.20212",
+      "title": "Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal",
+      "abstract": "High-fidelity removal of eyeglasses from video is a major challenge in facial attribute editing, as the underlying facial geometry is often obscured by complex refractive distortions and view-dependent specular reflections. While large-scale generative priors have shown promise in eye-glasses removal via static image inpainting, they often lack the structural constraints necessary to maintain identity, expression, and pose, leading to visible \"identity drift\" in both static images and dynamic sequences. In this paper, we propose a novel transfer framework that addresses the stochastic nature of generative priors. Our pipeline first extracts high-fidelity synthetic face images from a commercial-grade generative model (Nano Banana, Gemini 3 Pro Image), regularizes them via a three-stage structural filtering process to preserve identity, expression, and pose, and finally applies physically-based simulation of lens optics during training to provide diverse, paired data. This process transfers Nano Banana's photo-realistic, multi-view knowledge into a specialized restoration architecture, JFSnet (Joint Feature-Spatial network). JFSnet integrates DINOv2-based semantic features with a convolutional decoder for spatial reconstruction, leveraging translation equivariance constraints to improve temporal consistency and high-frequency detail preservation. Evaluations on the curated Flickr-Faces-HQ (FFHQ) subset (12,163 images) show that our approach achieves high fidelity and structural accuracy, while maintaining inference speed of 27.68 FPS. In perceptual studies on CelebV-Text video sequences, our results are consistently preferred over diffusion and GAN-based baselines for ocular consistency, temporal stability, and overall restoration quality.",
+      "authors": [
+        "Radim Spetlik",
+        "David Futschik",
+        "Radek Danecek",
+        "Feitong Tan",
+        "Ziqian Bai",
+        "Rohit Pandey",
+        "Yinda Zhang"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20212",
+      "pdf_url": "https://arxiv.org/pdf/2608.20212",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Transparent / Specular"
+        ]
+      }
+    },
+    "2608.20000": {
+      "arxiv_id": "2608.20000",
+      "title": "Point-Based 3D Reconstruction from Sparse Views under Known Illumination",
+      "abstract": "Sparse view 3D reconstruction is commonly addressed with neural implicit surfaces or dense point-based representations such as Gaussian splatting. Surface-aware splatting methods improve extracted geometry through oriented primitives and regularization, while RadiosityGS incorporates differentiable light transport through a radiosity inspired finite-element surfel formulation. We propose a differentiable point rendering method based on opacity-bearing beta surfels. An opacity explicit adjoint light transport formulation provides gradients for surfel geometry and appearance parameters, allowing physically based light transport to constrain reconstruction. Across five synthetic objects reconstructed from ten posed views, our method achieves the lowest mean symmetric Chamfer distance among the evaluated baselines and reduces mean Chamfer distance by 28.5% relative to the strongest point-based baseline while using only 267 surfels on average, approximately ~161 fewer primitives. Directional Chamfer results further show improved accuracy and competitive completion relative to related point-based methods. These results show that, in the controlled direct illumination setting, compact beta surfels combined with transport-based optimization can recover surfaces without relying on the tens to hundreds of thousands of primitives used by the evaluated baselines.",
+      "authors": [
+        "Magnus Kaufmann Gjerde",
+        "Joakim Bruslund Haurum",
+        "Jeppe Revall Frisvad",
+        "Markus Worchel",
+        "J. Andreas Bærentzen",
+        "Thomas B. Moeslund"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20000",
+      "pdf_url": "https://arxiv.org/pdf/2608.20000",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Neural Implicit / SDF"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2608.19743": {
+      "arxiv_id": "2608.19743",
+      "title": "Gallileo-4D: Frozen Backbone Ensemble for Dynamic 4D Reconstruction",
+      "abstract": "We describe our entry to the PhysAI Dynamic 4D Reconstruction Challenge, which placed third of 27 teams at 0.58356 APD on the final leaderboard, without a single gradient update. This was not the plan: of thirteen fine-tuning configurations of a pre-trained 4D backbone, twelve degraded the challenge score, and eleven of those twelve improved local validation at the same time. We trace this inversion to the structure of the benchmark: only 25% of the evaluation set belongs to the data variant released for training, so updates that fit the available data damage the pre-trained features the remaining 75% relies on. Our system therefore freezes the backbone and spends its budget at inference time, fusing three decoding configurations -- temporal stride-3, horizontal-flip test-time augmentation, and dense stride-1 -- under a convex weighting. The ensemble recovers +0.041 APD over the frozen baseline, more than any training run achieved, at zero training cost.",
+      "authors": [
+        "Nicolò Savioli"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Technical report for the PhysAI Dynamic 4D Reconstruction Challenge at the ECCV 2026 Workshop on Physical AI. Third of 27 teams. 14 pages, 10 figures. Code: https://github.com/odaxai/Gallileo-4D Weights: https://huggingface.co/OdaxAI/gallileo-4d-weights",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19743",
+      "pdf_url": "https://arxiv.org/pdf/2608.19743",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2608.19693": {
+      "arxiv_id": "2608.19693",
+      "title": "RIPE++: Reinforced Keypoint Learning from Positive Pairs Only",
+      "abstract": "Sparse keypoint extraction and matching underpin core tasks in geometric computer vision, including structure-from-motion, visual SLAM, augmented reality, and medical image registration. Learning robust local feature representations, however, typically requires accurate camera poses or depth supervision, which are often unavailable in real-world settings. Reinforcement learning (RL) has recently emerged as a promising alternative, requiring only the information if two images show the same scene or not. However, existing RL formulations such as RIPE rely on coarse binary rewards and carefully constructed negative training pairs, limiting training stability and descriptor discriminability. In this paper, we revisit RL-based keypoint learning and propose a reward that fully exploits the geometric consistency signal, deriving both reward and penalty from a single positive pair without contrasting against negatives. This richer signal provides sufficient supervisory contrast to learn discriminative detectors and descriptors from positive image pairs alone, enabling representation learning under extremely limited supervision. Furthermore, we show that the same RL objective can be extended to the matching stage by adapting LightGlue, raising AUC@5 on MegaDepth1500 from 56.58 to 59.65 and enabling weakly-supervised training of the full sparse matching pipeline from image pairs with partial visual overlap. We validate our approach on established benchmarks, demonstrating competitive results compared to fully-supervised methods. We further show that the method can be even trained on low texture medical video sequences, where camera poses are usually unavailable and standard SfM pipelines often fail. Code and data are available at https://github.com/fraunhoferhhi/RIPEpp .",
+      "authors": [
+        "Johannes Künzel",
+        "Peter Eisert",
+        "Anna Hilsmann"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "comment": "LIMIT@ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19693",
+      "pdf_url": "https://arxiv.org/pdf/2608.19693",
+      "query_sources": [
+        "depth-and-sensing",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2608.19556": {
+      "arxiv_id": "2608.19556",
+      "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+      "abstract": "Streaming autoregressive diffusion models enable real-time, long-horizon video generation, but their training objectives optimize local frame prediction rather than the geometry and dynamics of a coherent world: long rollouts accumulate geometric drift and degrade into static or unnatural motion. Recent bidirectional approaches address this problem using rewards signals built upon 3D Gaussian-Splatting reconstruction. However, a single rigid 3d reconstruction cannot model a dynamic scene, so this critic penalizes genuine object motion as reconstruction error and is maximized by freezing the video. This shortcut is especially detrimental in the AR setting, where each chunk can propagate an already-static configuration. In this work, we propose Stream4D, which replaces the static critic with a feed-forward 4D reconstruction reward that explicitly models scene dynamics, allowing coherent motion to receive high consistency rewards. To further guide motion magnitude and quality, we add a motion prior that rewards natural scene-flow magnitude while penalizing jitter and non-rigid artifacts. Our final recipe combines these two terms with a lightweight perceptual anchor. Across various autoregressive video backbones and various generation horizons, Stream4D improves 4D reconstruction quality, preserves motion more effectively, and achieves higher human-aligned preference. Project page: https://banyuanhao.github.io/Stream4D/",
+      "authors": [
+        "Yuanhao Ban",
+        "Jiaqi Feng",
+        "Hengguang Zhou",
+        "Xiaohuan Pei",
+        "Justin Cui",
+        "Cho-Jui Hsieh"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.19556",
+      "pdf_url": "https://arxiv.org/pdf/2608.19556",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ]
+      }
+    },
     "2608.19182": {
       "arxiv_id": "2608.19182",
       "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
@@ -329,12 +552,12 @@
         "Chenbin Zhang"
       ],
       "published": "2026-08-18",
-      "updated": "2026-08-18",
+      "updated": "2026-08-20",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
       ],
-      "comment": null,
+      "comment": "Major errors in research",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2608.18388",
@@ -314317,7 +314540,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-08-20",
-  "paper_count": 8392,
-  "generated_at": "2026-08-20T12:49:14+00:00"
+  "coverage_end": "2026-08-21",
+  "paper_count": 8398,
+  "generated_at": "2026-08-21T01:47:38+00:00"
 }
