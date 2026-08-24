@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2844 · **Unique arXiv IDs:** 2844
+**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2846 · **Unique arXiv IDs:** 2846
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-21 | [TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction](https://arxiv.org/abs/2608.20687) | Chuanjin Fan, Wenjie Chang, Bohao Liao, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.20687) / [pdf](https://arxiv.org/pdf/2608.20687) |
+| 2026-08-20 | [Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction](https://arxiv.org/abs/2608.20602) | Shamus Li, Ruiming Cao, Laura Waller, et al. | eess.IV, cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.20602) / [pdf](https://arxiv.org/pdf/2608.20602) |
 | 2026-08-20 | [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335) | Yudong Jin, Tao Xie, Qihang Zhang, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.20335) / [pdf](https://arxiv.org/pdf/2608.20335) |
 | 2026-08-20 | [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000) | Magnus Kaufmann Gjerde, Joakim Bruslund Haurum, Jeppe Revall Frisvad, et al. | cs.CV | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2608.20000) / [pdf](https://arxiv.org/pdf/2608.20000) |
 | 2026-08-19 | [GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066) | Yechan Park, HyunJin Kim | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.19066) / [pdf](https://arxiv.org/pdf/2608.19066) |

@@ -1,6 +1,411 @@
 {
   "schema_version": 1,
   "papers": {
+    "2608.20948": {
+      "arxiv_id": "2608.20948",
+      "title": "Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight",
+      "abstract": "Autonomous flight in unknown cluttered environments is hindered by the computation-quality-memory trilemma of onboard trajectory generation. In this paper, we propose an efficient end-to-end local planner via imitation learning. A lightweight offline-primitive-based dataset collection framework is designed to produce safe and high-quality trajectory primitives in non-convex environments. A compact neural network directly maps sensory inputs to polynomial coefficients that inherently encode higher-order dynamical information. The learned policy generates smooth, empirically collision-free and dynamically feasible trajectories in real time without back-end solving. It achieves ultra-fast computation (below 1ms on a standard desktop and average 3.68ms during onboard flight), while maintaining low onboard memory requirements (less than 1.5MiB). Extensive simulation benchmarks demonstrate superiority in both planning latency and target-reaching progress quality. Zero-shot deployment in real-world experiments further validates the robust sim-to-real transfer capability of the proposed method.",
+      "authors": [
+        "Zhitao Liu",
+        "Guangtong Xu",
+        "Zihan Wang",
+        "Jialiang Hou",
+        "Chao Xu",
+        "Fei Gao"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "comment": "Accepted by IEEE Transactions on Industrial Informatics",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20948",
+      "pdf_url": "https://arxiv.org/pdf/2608.20948",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2608.20936": {
+      "arxiv_id": "2608.20936",
+      "title": "Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control",
+      "abstract": "World models for continuous control are commonly trained for a fixed physical system and can degrade when known morphology parameters such as link lengths, masses, damping, and actuation change. Existing approaches often provide these parameters as conditioning information, but leave unspecified which part of the learned transition should remain reusable and which part should change with morphology. We propose Graph-Operator World Models (GraphOp-WM), a structured world model for generalization across unseen morphology parameters within related articulated robot families. GraphOp-WM represents bodies and their kinematic relations as an attributed graph and factorizes each transition into a morphology-independent local dynamics basis and a morphology-conditioned structured operator. The operator combines node-local modulation, kinematic-tree coupling, and a low-rank global correction, while architectural information separation, basis normalization, and paired-morphology supervision encourage static morphology dependence to be carried by the operator pathway. Graph-level readout and edge-wise action representations provide a compatible interface for reward, value, and TD-MPC-style planning. We further define controlled MuJoCo parameter splits covering interpolation, extrapolation, and held-out compositions of link geometry, mass, damping, and actuation parameters in Hopper, Walker2d, and HalfCheetah.",
+      "authors": [
+        "Xu Yang",
+        "Yiqin Yang",
+        "Qianchuan Zhao"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20936",
+      "pdf_url": "https://arxiv.org/pdf/2608.20936",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.20891": {
+      "arxiv_id": "2608.20891",
+      "title": "IMU-Free Body-Frame State Estimation with Sparse Scene Flow for Quadcopters",
+      "abstract": "We present a vision-only state estimation system for X-configuration quadcopters equipped with a canonical stereo camera pair and no inertial sensors. The system operates entirely in the body frame, requiring only synchronised stereo images and motor thrust commands. A continuous-discrete extended Kalman filter on a composite manifold state $\\langle SE(3), \\mathbb{R}^3, \\ldots \\rangle$ maintains estimates of body-frame pose, velocity, angular velocity, gravity, and disturbances, using stationary scene points as implicit inertial references. Feature points are detected (FAST, Shi-Tomasi), tracked temporally (SSD, Lucas-Kanade) and matched across cameras (NCC), with search regions predicted from filter-derived pose and point uncertainty. Chi-squared gating on the normalised innovation admits only stationary points to the filter. The system also produces a sparse 3D point cloud carrying per-point position, velocity and joint covariance. These come from a 4-view (two stereo pairs at two timestamps) full bundle adjustment that jointly estimates position and velocity from stereo disparity and temporal parallax, with the filter-derived relative pose as a prior. Feature points in the EKF do not enter the solver; their information is reflected through the pose prior. Point cloud density is spatially adaptive: an external focus point directs allocation, producing dense coverage in the region of attention and sparse coverage elsewhere. The output is a body-frame state estimate, a calibrated pose change, and a sparse scene flow. It is intended as a measurement source for a downstream world model anchored in the current body frame, without dependence on GPS, IMU, or any world-frame infrastructure, though the architecture accommodates their future integration.",
+      "authors": [
+        "Daniel Grønhaug",
+        "Sofie Markeset",
+        "Mathias Kolberg"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "56 pages, 5 figures, 2 tables. Evaluated on the VID dataset (arXiv:2103.11152)",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20891",
+      "pdf_url": "https://arxiv.org/pdf/2608.20891",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2608.20759": {
+      "arxiv_id": "2608.20759",
+      "title": "DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion",
+      "abstract": "Single-image 3D human reconstruction often suffers from over-smoothed textures and geometric inconsistencies. While diffusion models improve generative quality, their reliance on multi-view synthesis prior to 3D reconstruction is computationally expensive and prone to view inconsistency. We propose DiGS-Avatar, which reformulates this task as an efficient, diffusion-based UV-latent completion task, ensuring 3D consistency by design. To capture accurate spatial structure, we introduce a teacher-student framework where a multi-view teacher provides geometrically aligned pseudo-ground-truth latents to supervise a single-view diffusion student. Treating this inferred latent as a robust structural skeleton, our method injects high-level semantic features to accurately recover fine textural details without disrupting spatial integrity. The refined representation is then decoded into 3D Gaussian primitives. Extensive experiments demonstrate that DiGS-Avatar achieves state-of-the-art or highly competitive visual fidelity and zero-shot generalization, while reconstructing a fully animatable 3D avatar in just 0.71 seconds. Code is available at https://github.com/KLMAV-CUC/DiGS-Avatar.",
+      "authors": [
+        "Jiakun Li",
+        "Li Fang",
+        "Hao Zhu",
+        "Fei Hu",
+        "Long Ye",
+        "Yuan Zhang",
+        "Jinyao Yan"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20759",
+      "pdf_url": "https://arxiv.org/pdf/2608.20759",
+      "query_sources": [
+        "generation-and-assets",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2608.20748": {
+      "arxiv_id": "2608.20748",
+      "title": "Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer",
+      "abstract": "The Visual Geometry Grounded Transformer (VGGT) enables unified feed-forward 3D reconstruction from multi-view images. However, deploying such a high-performance model may expose critical security vulnerabilities. Traditional adversarial perturbations require costly per-scene optimization, while Universal Adversarial Perturbations (UAPs) rely on a single static pattern and fail to effectively attack VGGT. To address these limitations, we propose \\textbf{MVAP-G}, a multi-view adversarial perturbation generator that produces imperceptible consistent perturbations across multiple views in a single feed-forward pass. To ensure perturbation consistency across diverse scenes, we design a cross-view adversarial alignment mechanism to process multi-view images. Experiments demonstrate that MVAP-G significantly degrades VGGT performance without iterative optimization during inference. This work pioneers multi-view adversarial attacks on 3D foundation models, uncovering severe vulnerabilities and underscoring the urgent need for robust 3D vision systems. The code is available at https://github.com/qsong2001/mvap-g.",
+      "authors": [
+        "Qi Song",
+        "Ziyuan Luo",
+        "Haoliang Han",
+        "Renjie Wan"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20748",
+      "pdf_url": "https://arxiv.org/pdf/2608.20748",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2608.20740": {
+      "arxiv_id": "2608.20740",
+      "title": "VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds",
+      "abstract": "State-of-the-art 3D reconstruction models, whether from visual, range, or both, tend to underperform on thin objects. This is partially due to the small amount of space such objects occupy in RGB images and in 3D point clouds. To test the extent of their errors, we collected the first thin object dataset comprising of synchronized RGB images, depth maps, and tactile response maps, where each frame is associated with inertial measurements, camera pose and calibration, and groundtruth depth and segmentation maps obtained from laser scanning of thin objects. We hypothesize that tactile data can aid in the reconstruction of thin objects as their response maps provide local shape and deformation information. Our dataset, termed VisTa3D, comprises of 387 scenes covering 70 thin objects over 17 environments. We benchmarked current 3D reconstruction models on VisTa3D and found that, indeed, they exhibit low fidelity on thin objects. To test if tactile data can help, we introduce the first visual-range-tactile 3D reconstruction model as a baseline. Code and data: https://huggingface.co/datasets/shaniaguo/VisTa3D.",
+      "authors": [
+        "Shania Guo",
+        "Yeongsik Seo",
+        "Andrew Fu",
+        "Mei Hao",
+        "Iris Xia",
+        "Jiwon Jenny Lee",
+        "Xinyi Mary Xie",
+        "Hyoungseob Park",
+        "Aaron Dollar",
+        "Alex Wong"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20740",
+      "pdf_url": "https://arxiv.org/pdf/2608.20740",
+      "query_sources": [
+        "depth-and-sensing",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ],
+        "datasets_infrastructure": [
+          "Dataset"
+        ]
+      }
+    },
+    "2608.20691": {
+      "arxiv_id": "2608.20691",
+      "title": "Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation",
+      "abstract": "Panoramic image generation is increasingly important for immersive applications such as virtual reality, augmented reality, and 3D content creation. Unlike perspective images, panoramic images represent a viewer-centered $360^\\circ$ surrounding space, where directional expressions such as left, right, front, and behind play a central role in spatial understanding. However, existing text-to-panorama methods largely rely on implicit spatial reasoning and often fail to faithfully ground object-level directional descriptions in spherical panoramic scenes. A straightforward alternative is to introduce explicit layouts, but requiring manually specified spatial conditions reduces the flexibility of language-based interaction and does not directly resolve the misalignment between egocentric directional language and panoramic image space. To address this issue, we propose PanoCtrl, an object-centric framework for controllable text-to-panorama generation. Our method explicitly bridges natural language and spherical panoramic space by converting textual descriptions into structured object-level spherical conditions and integrating them into the diffusion process. Specifically, we introduce PanoParse, a text-conditioned parser that predicts object semantics and spherical bounding field-of-view (BFoV) parameters, and \\textbf{PanoControl}, which injects object-level semantic and spatial guidance into the diffusion transformer through object-aware attention and spatial residual enhancement. To support this task, we construct PanoGround, a dataset with object-level spherical annotations and diverse directional descriptions for controllable panoramic generation. Extensive experiments demonstrate that PanoCtrl achieves state-of-the-art performance in both spatial alignment and image quality.",
+      "authors": [
+        "Derui Li",
+        "Qian Qiao",
+        "Yuhao Sun",
+        "Wenhao Guo",
+        "Peng Lu"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20691",
+      "pdf_url": "https://arxiv.org/pdf/2608.20691",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
+    "2608.20687": {
+      "arxiv_id": "2608.20687",
+      "title": "TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction",
+      "abstract": "3D Gaussian Splatting has achieved remarkable success in novel view synthesis. However, extracting high-fidelity surfaces directly from 3DGS remains challenging due to its discrete and unstructured nature. Existing 3DGS-based reconstruction methods typically rely on multi-view geometric consistency or local constraints. Without an explicit structured geometric prior during optimization, these methods often struggle to resolve structural ambiguities, leading to artifacts and floaters, particularly in textureless or occluded regions. To address this limitation, we propose TopoSurfel, a novel framework that closes the loop between Gaussian surfels and continuous meshes. Unlike recent methods that incorporate mesh extraction into the differentiable pipeline by introducing auxiliary neural networks or extra per-Gaussian parameters, we dynamically extract a continuous proxy mesh via a non-trainable differentiable iso-surfacing process. Leveraging this differentiable connection, we introduce a mesh-guided surfel evolution strategy, including normal alignment and geometry-aware density control, to effectively suppress floaters and fill surface holes. Furthermore, to address the initialization challenges in large-scale environments, we propose a spatially aware hybrid re-initialization strategy that ensures robust reconstruction across complex scenes. Extensive experiments demonstrate that TopoSurfel achieves competitive geometric reconstruction accuracy while maintaining high-quality mesh-based novel view synthesis. The code for our method is available at https://github.com/Fan-Treasure/TopoSurfel.",
+      "authors": [
+        "Chuanjin Fan",
+        "Wenjie Chang",
+        "Bohao Liao",
+        "Yujia Chen",
+        "Wenfei Yang",
+        "Tianzhu Zhang"
+      ],
+      "published": "2026-08-21",
+      "updated": "2026-08-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20687",
+      "pdf_url": "https://arxiv.org/pdf/2608.20687",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2608.20602": {
+      "arxiv_id": "2608.20602",
+      "title": "Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction",
+      "abstract": "Many consumer smartphones, stereo cameras, and light field cameras record multiple synchronized viewpoints in a single exposure event. However, novel view synthesis pipelines commonly use only a monocular stream and rely on camera motion or learned priors to obtain angular coverage. In this paper, we ask: why do we use only one viewpoint? We analyze sensor-limited multi-view, where one sensor trades off spatial and angular resolution, and exposure-limited multi-view, where multiple sensors on one commodity device observe each event simultaneously. We introduce a new dataset incorporating three types of commodity multi-view cameras, and evaluate sparse-view 3DGS and 4DGS baselines measuring reconstruction quality as a function of number of exposures and angle between extreme views. Our results demonstrate that using multiple cameras, even with a low baseline, significantly improves reconstruction quality in single-shot, few-shot, and casual video settings. In addition, under a fixed sensor budget, angular sampling improves reconstruction when exposures are scarce despite lower spatial resolution. The gains are most pronounced for single-shot and dynamic scenes, where a stationary monocular camera lacks the angular diversity to recover scene geometry and motion.",
+      "authors": [
+        "Shamus Li",
+        "Ruiming Cao",
+        "Laura Waller",
+        "Kristina Monakhova",
+        "Sara Fridovich-Keil"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "eess.IV",
+      "categories": [
+        "eess.IV",
+        "cs.CV"
+      ],
+      "comment": "Project page: https://shamus.li/lightfield-gaussian-splatting",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20602",
+      "pdf_url": "https://arxiv.org/pdf/2608.20602",
+      "query_sources": [
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Dynamic / 4D"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2608.20534": {
+      "arxiv_id": "2608.20534",
+      "title": "Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation",
+      "abstract": "Generating egocentric video from a single exocentric video is an emerging and important topic for AR/VR and physical AI. Compared with conventional novel view synthesis, exo-to-ego generation is a significantly harder task because the standard geometric conditioning becomes highly unreliable under extreme view changes and large unobservable regions. We present Grounded-Exo2Ego, a principled framework that addresses these challenges at both the architectural and data levels. Architecturally, Grounded-Exo2Ego is a dual-branch video diffusion model that couples a geometric anchoring branch, which conditions the generation on the rendering of a 3D reconstruction, with a novel semantic grounding branch, which goes beyond the prevailing geometry-based approach and improves quality by synthesizing challenging regions based on object-level context. Additionally, we found that the overlooked issue of camera-reconstruction misalignment severely undermines exo-to-ego learning. We thus introduce a camera re-localization algorithm that resolves this issue and substantially improves quality across all metrics. We further develop a fully automated synthetic data engine that generates and renders rigged 3D characters in procedurally generated environments. Evaluation on the challenging EgoExo4D dataset shows that our method outperforms recent state-of-the-art approaches by large margins across all metrics. Detailed ablations validate improvements from each of our contributions at both the data and architectural level.",
+      "authors": [
+        "Shengze Wang",
+        "Michael Stengel",
+        "Tianye Li",
+        "Seonwook Park",
+        "Amrita Mazumdar",
+        "Koki Nagano",
+        "Alex Trevithick",
+        "Shalini De Mello"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "website url: https://research.nvidia.com/labs/amri/projects/grounded-exo2ego/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20534",
+      "pdf_url": "https://arxiv.org/pdf/2608.20534",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2608.20448": {
+      "arxiv_id": "2608.20448",
+      "title": "MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control",
+      "abstract": "Digital 3D objects used in games and animation are often required to be compositional; that is, decomposed into semantically meaningful parts. Recent 3D generation methods can produce high-quality compositional objects conditioned on image or text prompts. Yet, such global conditioning lacks the precise part-level controllability required for professional creative workflows. To address this, we introduce MultiCube, a novel compositional 3D generation method that provides explicit, independent control over both the semantics and spatial arrangement of each part. MultiCube takes as input a global text prompt, a text schema specifying the desired parts, and a spatial layout indicating the bounding boxes of the parts in the given schema. It outputs a 3D object composed of distinct meshes, one per specified part, that adhere to the given semantic and spatial conditions. Our approach employs a two-stage diffusion process, first generating a schema- and layout-aligned monolithic mesh, then decomposing the mesh into individual parts simultaneously. A novel Part Layout Adapter is used to encode per-part conditions independently of the other parts. Experiments demonstrate that our method can generate high-quality compositional 3D objects with precise part-level control, including those with unique layouts difficult to achieve with text or image prompting alone. Project page: https://multi-cube.github.io",
+      "authors": [
+        "Ava Pun",
+        "Kangle Deng",
+        "Yiheng Zhu",
+        "Jun-Yan Zhu",
+        "Maneesh Agrawala",
+        "Tinghui Zhou"
+      ],
+      "published": "2026-08-20",
+      "updated": "2026-08-20",
+      "primary_category": "cs.GR",
+      "categories": [
+        "cs.GR",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2608.20448",
+      "pdf_url": "https://arxiv.org/pdf/2608.20448",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D",
+          "Part / Articulated Asset"
+        ]
+      }
+    },
     "2608.20335": {
       "arxiv_id": "2608.20335",
       "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
@@ -430,12 +835,12 @@
         "Bohan Zhuang"
       ],
       "published": "2026-08-20",
-      "updated": "2026-08-20",
+      "updated": "2026-08-21",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
       ],
-      "comment": "Project page: https://alexandertsui.github.io/block3d/",
+      "comment": "Code is not ready for publication",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2608.19567",
@@ -1286,7 +1691,7 @@
     "2608.17633": {
       "arxiv_id": "2608.17633",
       "title": "OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects",
-      "abstract": "Integrating open-vocabulary perception into object-level 3D scene graphs is a double-edged sword. While vision-language detectors recover long-tail categories and small, fine-grained objects overlooked by closed-set models, they also tend to fragment large surfaces and merge small objects into larger neighboring objects, compromising instance-level consistency and undermining mapping fidelity. Moreover, existing methods struggle to retrieve previously unmapped targets or determine whether a queried object is absent, hindering robust embodied open-world navigation and exploration. We present OVIP-SG, a unified framework for instance-preserving semantic mapping, functional scene partitioning, and language-guided small, fine-grained object retrieval. OVIP-SG uses a vision-language model (VLM) to enumerate scene-specific categories for robust open-world detection. Symmetric 3D Intersection over Union (IoU) association and area-weighted feature fusion preserve small independent instances, while VLM-inferred object functions partition scenes into compact functional search regions. A four-stage cascaded retrieval pipeline further incorporates voxel voting and determines target absence from exploration coverage. Under a unified evaluation protocol on Replica, OVIP-SG outperforms ConceptGraphs by 6.31 points in class-mean accuracy (mAcc) and 5.15 points in frequency-weighted mIoU (F-mIoU) while achieving a class-agnostic native-instance Panoptic Quality (PQ) of 0.398. It reduces the search area to 21.8% of the indoor floor space and reaches 0.773 balanced accuracy for object-presence classification. Real-world robotic experiments further demonstrate its practical effectiveness. Code is available at https://github.com/Agibot-Spatial-AI/OVIP-SG.",
+      "abstract": "Integrating open-vocabulary perception into object-level 3D scene graphs is a double-edged sword. While vision-language detectors recover long-tail categories and small, fine-grained objects overlooked by closed-set models, they also tend to fragment large surfaces and merge small objects into larger neighboring objects, compromising instance-level consistency and undermining mapping fidelity. Moreover, existing methods struggle to retrieve previously unmapped targets or determine whether a queried object is absent, hindering robust embodied open-world navigation and exploration. We present OVIP-SG, a unified framework for instance-preserving semantic mapping, functional scene partitioning, and language-guided small, fine-grained object retrieval. OVIP-SG uses a vision-language model (VLM) to enumerate scene-specific categories for robust open-world detection. Symmetric 3D Intersection over Union (IoU) association and area-weighted feature fusion preserve small independent instances, while VLM-inferred object functions partition scenes into compact functional search regions. A four-stage cascaded retrieval pipeline further incorporates voxel voting and determines target absence from exploration coverage. Under a unified evaluation protocol on Replica, OVIP-SG outperforms ConceptGraphs by 6.31 points in class-mean accuracy (mAcc) and 5.15 points in frequency-weighted mIoU (F-mIoU) while achieving a class-agnostic native-instance Panoptic Quality (PQ) of 0.398. It reduces the search area to 21.8% of the indoor floor space and reaches 0.773 balanced accuracy for object-presence classification. Real-world robotic experiments further demonstrate its practical effectiveness. Code is available at https://github.com/Agibot-Spatial-Intelligence/OVIP-SG.",
       "authors": [
         "Tianjing Hao",
         "Haiyu Lan",
@@ -1299,7 +1704,7 @@
         "Wang Chuang"
       ],
       "published": "2026-08-18",
-      "updated": "2026-08-20",
+      "updated": "2026-08-21",
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO"
@@ -314846,6 +315251,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-08-24",
-  "paper_count": 8406,
-  "generated_at": "2026-08-24T01:39:42+00:00"
+  "paper_count": 8417,
+  "generated_at": "2026-08-24T12:48:20+00:00"
 }

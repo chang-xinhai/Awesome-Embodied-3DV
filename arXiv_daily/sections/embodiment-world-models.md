@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2046 · **Unique arXiv IDs:** 2046
+**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2049 · **Unique arXiv IDs:** 2049
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-21 | [Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight](https://arxiv.org/abs/2608.20948) | Zhitao Liu, Guangtong Xu, Zihan Wang, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20948) / [pdf](https://arxiv.org/pdf/2608.20948) |
+| 2026-08-21 | [Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control](https://arxiv.org/abs/2608.20936) | Xu Yang, Yiqin Yang, Qianchuan Zhao | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2608.20936) / [pdf](https://arxiv.org/pdf/2608.20936) |
+| 2026-08-21 | [IMU-Free Body-Frame State Estimation with Sparse Scene Flow for Quadcopters](https://arxiv.org/abs/2608.20891) | Daniel Grønhaug, Sofie Markeset, Mathias Kolberg | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.20891) / [pdf](https://arxiv.org/pdf/2608.20891) |
 | 2026-08-20 | [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251) | Xincheng Tang, Yiji Chen, Youhan Xie, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20251) / [pdf](https://arxiv.org/pdf/2608.20251) |
 | 2026-08-20 | [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](https://arxiv.org/abs/2608.20087) | Tao Huang, Ruofei Liu, Xuchen Tang, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20087) / [pdf](https://arxiv.org/pdf/2608.20087) |
 | 2026-08-20 | [Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training](https://arxiv.org/abs/2608.19973) | Shangbo Yuan, Jie Xu, Xiaofeng Zhu, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.19973) / [pdf](https://arxiv.org/pdf/2608.19973) |

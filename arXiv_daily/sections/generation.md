@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 914 · **Unique arXiv IDs:** 914
+**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 915 · **Unique arXiv IDs:** 915
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-20 | [MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control](https://arxiv.org/abs/2608.20448) | Ava Pun, Kangle Deng, Yiheng Zhu, et al. | cs.GR, cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.20448) / [pdf](https://arxiv.org/pdf/2608.20448) |
 | 2026-08-20 | [Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning](https://arxiv.org/abs/2608.20284) | Weiliang Huang, Huanrong Liu, Bob Zhang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2608.20284) / [pdf](https://arxiv.org/pdf/2608.20284) |
 | 2026-08-20 | [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251) | Xincheng Tang, Yiji Chen, Youhan Xie, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.20251) / [pdf](https://arxiv.org/pdf/2608.20251) |
 | 2026-08-20 | [Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion](https://arxiv.org/abs/2608.19567) | Bowen Cui, Weijie Wang, Zeyu Zhang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.19567) / [pdf](https://arxiv.org/pdf/2608.19567) |

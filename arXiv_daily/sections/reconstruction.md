@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2725 · **Unique arXiv IDs:** 2725
+**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2730 · **Unique arXiv IDs:** 2730
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-21 | [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759) | Jiakun Li, Li Fang, Hao Zhu, et al. | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.20759) / [pdf](https://arxiv.org/pdf/2608.20759) |
+| 2026-08-21 | [Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer](https://arxiv.org/abs/2608.20748) | Qi Song, Ziyuan Luo, Haoliang Han, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.20748) / [pdf](https://arxiv.org/pdf/2608.20748) |
+| 2026-08-21 | [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) | Shania Guo, Yeongsik Seo, Andrew Fu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.20740) / [pdf](https://arxiv.org/pdf/2608.20740) |
+| 2026-08-20 | [Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction](https://arxiv.org/abs/2608.20602) | Shamus Li, Ruiming Cao, Laura Waller, et al. | eess.IV, cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.20602) / [pdf](https://arxiv.org/pdf/2608.20602) |
+| 2026-08-20 | [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](https://arxiv.org/abs/2608.20534) | Shengze Wang, Michael Stengel, Tianye Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.20534) / [pdf](https://arxiv.org/pdf/2608.20534) |
 | 2026-08-20 | [Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000) | Magnus Kaufmann Gjerde, Joakim Bruslund Haurum, Jeppe Revall Frisvad, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.20000) / [pdf](https://arxiv.org/pdf/2608.20000) |
 | 2026-08-20 | [Gallileo-4D: Frozen Backbone Ensemble for Dynamic 4D Reconstruction](https://arxiv.org/abs/2608.19743) | Nicolò Savioli | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.19743) / [pdf](https://arxiv.org/pdf/2608.19743) |
 | 2026-08-20 | [RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693) | Johannes Künzel, Peter Eisert, Anna Hilsmann | cs.CV, cs.LG | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.19693) / [pdf](https://arxiv.org/pdf/2608.19693) |

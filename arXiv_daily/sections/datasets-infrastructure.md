@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 493 · **Unique arXiv IDs:** 493
+**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 494 · **Unique arXiv IDs:** 494
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-21 | [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) | Shania Guo, Yeongsik Seo, Andrew Fu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.20740) / [pdf](https://arxiv.org/pdf/2608.20740) |
 | 2026-08-18 | [SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering](https://arxiv.org/abs/2608.17420) | Gen Li, Shu Han, Yun Xi Qiao, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.17420) / [pdf](https://arxiv.org/pdf/2608.17420) |
 | 2026-08-17 | [OceanDepths: A Global Dataset of Paired Subsurface and Surface Ocean Observations](https://arxiv.org/abs/2608.16373) | Simon Donike, Ruben Cartuyvels, Antonino Ian Ferola, et al. | cs.LG, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.16373) / [pdf](https://arxiv.org/pdf/2608.16373) |
 | 2026-08-17 | [Audio-Visual Segmentation via Depth-Guided Collaborative Modeling](https://arxiv.org/abs/2608.16285) | Zhaojin Fu, Yuyang Hong, Qi Yang, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2608.16285) / [pdf](https://arxiv.org/pdf/2608.16285) |
