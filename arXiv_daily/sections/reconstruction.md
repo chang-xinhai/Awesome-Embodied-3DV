@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-25 · **Papers:** 2730 · **Unique arXiv IDs:** 2730
+**Coverage:** 2025-01-01 to 2026-08-25 · **Papers:** 2739 · **Unique arXiv IDs:** 2739
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-24 | [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354) | Alperen Avan, Jordi Sanchez-Riera | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23354) / [pdf](https://arxiv.org/pdf/2608.23354) |
+| 2026-08-24 | [Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation](https://arxiv.org/abs/2608.23206) | YiHsuan Tsai | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.23206) / [pdf](https://arxiv.org/pdf/2608.23206) |
+| 2026-08-24 | [Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning](https://arxiv.org/abs/2608.23055) | Simon Hakenes, Tobias Glasmachers | cs.LG, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23055) / [pdf](https://arxiv.org/pdf/2608.23055) |
+| 2026-08-24 | [RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim](https://arxiv.org/abs/2608.23040) | Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23040) / [pdf](https://arxiv.org/pdf/2608.23040) |
+| 2026-08-24 | [Misanthrope: A Privacy-Preserving Keypoint Detector](https://arxiv.org/abs/2608.23012) | Francesco Vultaggio, Predrag Djindjic, Markus Gerke, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23012) / [pdf](https://arxiv.org/pdf/2608.23012) |
+| 2026-08-24 | [AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction](https://arxiv.org/abs/2608.22906) | Yingxiang Xu, Kerui Ren, Wenqi Guo, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2608.22906) / [pdf](https://arxiv.org/pdf/2608.22906) |
+| 2026-08-24 | [SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation](https://arxiv.org/abs/2608.22896) | Shibo Zhao, Guofei Chen, Honghao Zhu, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.22896) / [pdf](https://arxiv.org/pdf/2608.22896) |
+| 2026-08-24 | [NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction](https://arxiv.org/abs/2608.22888) | Xiaopeng Guo, Wai Chung Tse, Yipeng Zhu, et al. | cs.CV | Feed-Forward Geometry, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2608.22888) / [pdf](https://arxiv.org/pdf/2608.22888) |
+| 2026-08-21 | [In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee](https://arxiv.org/abs/2608.21685) | Hudson Kim, Ryan Soussan, Brian Coltin, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.21685) / [pdf](https://arxiv.org/pdf/2608.21685) |
 | 2026-08-21 | [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759) | Jiakun Li, Li Fang, Hao Zhu, et al. | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.20759) / [pdf](https://arxiv.org/pdf/2608.20759) |
 | 2026-08-21 | [Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer](https://arxiv.org/abs/2608.20748) | Qi Song, Ziyuan Luo, Haoliang Han, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.20748) / [pdf](https://arxiv.org/pdf/2608.20748) |
 | 2026-08-21 | [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) | Shania Guo, Yeongsik Seo, Andrew Fu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.20740) / [pdf](https://arxiv.org/pdf/2608.20740) |
