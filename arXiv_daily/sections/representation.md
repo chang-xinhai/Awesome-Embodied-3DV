@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-24 · **Papers:** 2846 · **Unique arXiv IDs:** 2846
+**Coverage:** 2025-01-01 to 2026-08-25 · **Papers:** 2846 · **Unique arXiv IDs:** 2846
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
