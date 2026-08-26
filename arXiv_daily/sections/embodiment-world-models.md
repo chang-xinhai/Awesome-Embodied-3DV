@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2064 · **Unique arXiv IDs:** 2064
+**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2072 · **Unique arXiv IDs:** 2072
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-25 | [LeFlow: Generative Latent Flow Planning for World Models](https://arxiv.org/abs/2608.24855) | Hsiang-Wei Huang, Jianxu Shangguan, Junbin Lu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.24855) / [pdf](https://arxiv.org/pdf/2608.24855) |
+| 2026-08-25 | [Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training](https://arxiv.org/abs/2608.24680) | Wenxuan Shen, Dongna Jin, Dongping Chen | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.24680) / [pdf](https://arxiv.org/pdf/2608.24680) |
+| 2026-08-25 | [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479) | Zihao Wu, Hongyao Tang, Yi Ma, et al. | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.24479) / [pdf](https://arxiv.org/pdf/2608.24479) |
+| 2026-08-25 | [CARO: Contact-Agnostic Residual Observation for Zero-Shot Robust Quadruped Locomotion](https://arxiv.org/abs/2608.24217) | Zihan Yang, Shixuan Han, Kexin Guo, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.24217) / [pdf](https://arxiv.org/pdf/2608.24217) |
+| 2026-08-25 | [NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics](https://arxiv.org/abs/2608.24199) | Javier Gamazo Tejero, Lukas Zbinden, Keyur Sheth, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.24199) / [pdf](https://arxiv.org/pdf/2608.24199) |
+| 2026-08-25 | [TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks](https://arxiv.org/abs/2608.24101) | Zhi Cao, Howard Ji, Kevin Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.24101) / [pdf](https://arxiv.org/pdf/2608.24101) |
+| 2026-08-24 | [Platonic Representation Hypothesis on World Models](https://arxiv.org/abs/2608.23720) | Wenhow Li, Chengwei MA, Hui Xiong, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.23720) / [pdf](https://arxiv.org/pdf/2608.23720) |
+| 2026-08-24 | [Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs](https://arxiv.org/abs/2608.23650) | Noé Zapata, Gerardo Pérez, Alejandro Torrejón, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.23650) / [pdf](https://arxiv.org/pdf/2608.23650) |
 | 2026-08-24 | [ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565) | Zhifei Chen, Luozhou Wang, Guibao Shen, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.23565) / [pdf](https://arxiv.org/pdf/2608.23565) |
 | 2026-08-24 | [Correcting a learned physical invariant improves world-model rollouts](https://arxiv.org/abs/2608.23526) | Richard Bao | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.23526) / [pdf](https://arxiv.org/pdf/2608.23526) |
 | 2026-08-24 | [EchoWM: Open and Enterable Omnimodal World Models](https://arxiv.org/abs/2608.23189) | Songchun Zhang, Yaowei Li, Junhao Zhuang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.23189) / [pdf](https://arxiv.org/pdf/2608.23189) |

@@ -2,18 +2,18 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Unique papers:** 8453
+**Coverage:** 2025-01-01 to 2026-08-26 · **Unique papers:** 8470
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1674 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 1675 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2858 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2739 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
-| [3D Generation & Assets](sections/generation.md) | 915 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
-| [Embodiment & World Models](sections/embodiment-world-models.md) | 2064 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
-| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 494 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
+| [3D Reconstruction](sections/reconstruction.md) | 2742 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D Generation & Assets](sections/generation.md) | 919 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
+| [Embodiment & World Models](sections/embodiment-world-models.md) | 2072 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
+| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 496 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
 
@@ -21,6 +21,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-08-25 — [X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis](https://arxiv.org/abs/2608.24563)
 - 2026-08-24 — [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354)
 - 2026-08-24 — [Mover360: Controllable Object Manipulation in 360° Panoramic Images](https://arxiv.org/abs/2608.23238)
 - 2026-08-24 — [Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays](https://arxiv.org/abs/2608.23175)
@@ -30,7 +31,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-20 — [Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal](https://arxiv.org/abs/2608.20212)
 - 2026-08-18 — [Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682)
 - 2026-08-17 — [Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2608.17178)
-- 2026-08-17 — [The 10th AI City Challenge](https://arxiv.org/abs/2608.17044)
 
 ### 3D/4D Representation
 
@@ -47,6 +47,9 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### 3D Reconstruction
 
+- 2026-08-25 — [GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714)
+- 2026-08-25 — [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212)
+- 2026-08-25 — [SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image](https://arxiv.org/abs/2608.23930)
 - 2026-08-24 — [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354)
 - 2026-08-24 — [Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation](https://arxiv.org/abs/2608.23206)
 - 2026-08-24 — [Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning](https://arxiv.org/abs/2608.23055)
@@ -54,38 +57,37 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-24 — [Misanthrope: A Privacy-Preserving Keypoint Detector](https://arxiv.org/abs/2608.23012)
 - 2026-08-24 — [AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction](https://arxiv.org/abs/2608.22906)
 - 2026-08-24 — [SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation](https://arxiv.org/abs/2608.22896)
-- 2026-08-24 — [NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction](https://arxiv.org/abs/2608.22888)
-- 2026-08-21 — [In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee](https://arxiv.org/abs/2608.21685)
-- 2026-08-21 — [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759)
 
 ### 3D Generation & Assets
 
+- 2026-08-25 — [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212)
+- 2026-08-25 — [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169)
+- 2026-08-25 — [Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943)
+- 2026-08-24 — [Gen2Physics: Grounding Generated 3D Meshes in Physics via Multi-View Material Decomposition](https://arxiv.org/abs/2608.23869)
 - 2026-08-20 — [MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control](https://arxiv.org/abs/2608.20448)
 - 2026-08-20 — [Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning](https://arxiv.org/abs/2608.20284)
 - 2026-08-20 — [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251)
 - 2026-08-20 — [Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion](https://arxiv.org/abs/2608.19567)
 - 2026-08-19 — [Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction](https://arxiv.org/abs/2608.18840)
 - 2026-08-19 — [SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects](https://arxiv.org/abs/2608.18560)
-- 2026-08-18 — [GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation](https://arxiv.org/abs/2608.17988)
-- 2026-08-18 — [Training with synthetic data for drone detection in thermal imagery](https://arxiv.org/abs/2608.17799)
-- 2026-08-17 — [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234)
-- 2026-08-16 — [ES3D: Embedding Semantics into 3D Space for Component-Aware Editing](https://arxiv.org/abs/2608.15749)
 
 ### Embodiment & World Models
 
+- 2026-08-25 — [LeFlow: Generative Latent Flow Planning for World Models](https://arxiv.org/abs/2608.24855)
+- 2026-08-25 — [Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training](https://arxiv.org/abs/2608.24680)
+- 2026-08-25 — [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479)
+- 2026-08-25 — [CARO: Contact-Agnostic Residual Observation for Zero-Shot Robust Quadruped Locomotion](https://arxiv.org/abs/2608.24217)
+- 2026-08-25 — [NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics](https://arxiv.org/abs/2608.24199)
+- 2026-08-25 — [TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks](https://arxiv.org/abs/2608.24101)
+- 2026-08-24 — [Platonic Representation Hypothesis on World Models](https://arxiv.org/abs/2608.23720)
+- 2026-08-24 — [Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs](https://arxiv.org/abs/2608.23650)
 - 2026-08-24 — [ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565)
 - 2026-08-24 — [Correcting a learned physical invariant improves world-model rollouts](https://arxiv.org/abs/2608.23526)
-- 2026-08-24 — [EchoWM: Open and Enterable Omnimodal World Models](https://arxiv.org/abs/2608.23189)
-- 2026-08-24 — [Bridge Damage Detection from Low-Light UAV Imagery via Degradation-Aware Mixture-of-Experts Enhancement](https://arxiv.org/abs/2608.23136)
-- 2026-08-24 — [MOSH-WM: Mask-Grounded Soft-Hamiltonian Dynamics for Object-Centric World Models](https://arxiv.org/abs/2608.22750)
-- 2026-08-23 — [Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning](https://arxiv.org/abs/2608.22294)
-- 2026-08-23 — [DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model](https://arxiv.org/abs/2608.22278)
-- 2026-08-23 — [On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models](https://arxiv.org/abs/2608.22197)
-- 2026-08-22 — [Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos](https://arxiv.org/abs/2608.22102)
-- 2026-08-22 — [Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control](https://arxiv.org/abs/2608.22100)
 
 ### Datasets, Benchmarks & Infrastructure
 
+- 2026-08-25 — [Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor](https://arxiv.org/abs/2608.24162)
+- 2026-08-23 — [Cross-Generation Optimization of YOLOv26, YOLOv11, and YOLOv8 for Fine-Grained Small-Object Detection and Instance Segmentation in Complex Orchards](https://arxiv.org/abs/2608.23636)
 - 2026-08-21 — [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740)
 - 2026-08-18 — [SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering](https://arxiv.org/abs/2608.17420)
 - 2026-08-17 — [OceanDepths: A Global Dataset of Paired Subsurface and Surface Ocean Observations](https://arxiv.org/abs/2608.16373)
@@ -94,8 +96,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-08-12 — [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313)
 - 2026-08-10 — [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298)
 - 2026-08-10 — [RAGMesh with FaME-G2E: Long-Form Text-Driven 3D Face Generation and Editing](https://arxiv.org/abs/2608.09186)
-- 2026-08-08 — [DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea](https://arxiv.org/abs/2608.08025)
-- 2026-08-06 — [Depth-Guided Video Object Counting in Crowded Scenes](https://arxiv.org/abs/2608.06236)
 
 ## Method
 

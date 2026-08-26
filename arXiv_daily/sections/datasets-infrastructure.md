@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 494 · **Unique arXiv IDs:** 494
+**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 496 · **Unique arXiv IDs:** 496
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-25 | [Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor](https://arxiv.org/abs/2608.24162) | Ziyang Ma, Yuhao Sun, Zichen Ai, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2608.24162) / [pdf](https://arxiv.org/pdf/2608.24162) |
+| 2026-08-23 | [Cross-Generation Optimization of YOLOv26, YOLOv11, and YOLOv8 for Fine-Grained Small-Object Detection and Instance Segmentation in Complex Orchards](https://arxiv.org/abs/2608.23636) | Ranjan Sapkota, Manoj Karkee | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.23636) / [pdf](https://arxiv.org/pdf/2608.23636) |
 | 2026-08-21 | [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) | Shania Guo, Yeongsik Seo, Andrew Fu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.20740) / [pdf](https://arxiv.org/pdf/2608.20740) |
 | 2026-08-18 | [SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering](https://arxiv.org/abs/2608.17420) | Gen Li, Shu Han, Yun Xi Qiao, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.17420) / [pdf](https://arxiv.org/pdf/2608.17420) |
 | 2026-08-17 | [OceanDepths: A Global Dataset of Paired Subsurface and Surface Ocean Observations](https://arxiv.org/abs/2608.16373) | Simon Donike, Ruben Cartuyvels, Antonino Ian Ferola, et al. | cs.LG, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2608.16373) / [pdf](https://arxiv.org/pdf/2608.16373) |

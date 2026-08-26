@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 1674 · **Unique arXiv IDs:** 1674
+**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 1675 · **Unique arXiv IDs:** 1675
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-25 | [X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis](https://arxiv.org/abs/2608.24563) | Sonali Godavarthy, Matthias Neuwirth-Trapp, Tim-Felix Faasch, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.24563) / [pdf](https://arxiv.org/pdf/2608.24563) |
 | 2026-08-24 | [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354) | Alperen Avan, Jordi Sanchez-Riera | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.23354) / [pdf](https://arxiv.org/pdf/2608.23354) |
 | 2026-08-24 | [Mover360: Controllable Object Manipulation in 360° Panoramic Images](https://arxiv.org/abs/2608.23238) | Haoyi Zhong, Fang-Lue Zhang, Andrew Chalmers, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.23238) / [pdf](https://arxiv.org/pdf/2608.23238) |
 | 2026-08-24 | [Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays](https://arxiv.org/abs/2608.23175) | Sakshi Goel, Ayush Goyal, K S Venkatesh, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.23175) / [pdf](https://arxiv.org/pdf/2608.23175) |

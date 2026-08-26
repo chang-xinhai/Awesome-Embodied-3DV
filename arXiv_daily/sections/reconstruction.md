@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2739 · **Unique arXiv IDs:** 2739
+**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2742 · **Unique arXiv IDs:** 2742
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-25 | [GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714) | Zijian Zhang, Yuqing Jiang, Weitao Zhou, et al. | cs.RO | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.24714) / [pdf](https://arxiv.org/pdf/2608.24714) |
+| 2026-08-25 | [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212) | Yumeng He, Yichen Song, Xiaotian Yang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.24212) / [pdf](https://arxiv.org/pdf/2608.24212) |
+| 2026-08-25 | [SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image](https://arxiv.org/abs/2608.23930) | Zefan Tian, Yuteng Ye, Yiheng Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.23930) / [pdf](https://arxiv.org/pdf/2608.23930) |
 | 2026-08-24 | [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354) | Alperen Avan, Jordi Sanchez-Riera | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23354) / [pdf](https://arxiv.org/pdf/2608.23354) |
 | 2026-08-24 | [Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation](https://arxiv.org/abs/2608.23206) | YiHsuan Tsai | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2608.23206) / [pdf](https://arxiv.org/pdf/2608.23206) |
 | 2026-08-24 | [Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning](https://arxiv.org/abs/2608.23055) | Simon Hakenes, Tobias Glasmachers | cs.LG, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.23055) / [pdf](https://arxiv.org/pdf/2608.23055) |

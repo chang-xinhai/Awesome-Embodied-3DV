@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 915 · **Unique arXiv IDs:** 915
+**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 919 · **Unique arXiv IDs:** 919
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-25 | [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212) | Yumeng He, Yichen Song, Xiaotian Yang, et al. | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.24212) / [pdf](https://arxiv.org/pdf/2608.24212) |
+| 2026-08-25 | [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169) | Bo Pang, Jiaqi Pan, Xiaocheng Zhang, et al. | cs.CV, cs.GR, cs.HC | 3D Editing | [abs](https://arxiv.org/abs/2608.24169) / [pdf](https://arxiv.org/pdf/2608.24169) |
+| 2026-08-25 | [Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943) | Mayank Singh, Michele Stoppa, Alvise Memo, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.23943) / [pdf](https://arxiv.org/pdf/2608.23943) |
+| 2026-08-24 | [Gen2Physics: Grounding Generated 3D Meshes in Physics via Multi-View Material Decomposition](https://arxiv.org/abs/2608.23869) | Mauro Comi, Jordi Serrano Berbel, Kevis-Kokitsi Maninis, et al. | cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.23869) / [pdf](https://arxiv.org/pdf/2608.23869) |
 | 2026-08-20 | [MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control](https://arxiv.org/abs/2608.20448) | Ava Pun, Kangle Deng, Yiheng Zhu, et al. | cs.GR, cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2608.20448) / [pdf](https://arxiv.org/pdf/2608.20448) |
 | 2026-08-20 | [Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning](https://arxiv.org/abs/2608.20284) | Weiliang Huang, Huanrong Liu, Bob Zhang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2608.20284) / [pdf](https://arxiv.org/pdf/2608.20284) |
 | 2026-08-20 | [Video2DoorTraversal: Push Door Traversal via Simulated Door Twins](https://arxiv.org/abs/2608.20251) | Xincheng Tang, Yiji Chen, Youhan Xie, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.20251) / [pdf](https://arxiv.org/pdf/2608.20251) |
