@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 1675 · **Unique arXiv IDs:** 1675
+**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 1677 · **Unique arXiv IDs:** 1677
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-26 | [TDFNet: Tri-projection Deformable Fusion Network for Panoramic Salient Object Detection](https://arxiv.org/abs/2608.25808) | Qiangqiang Zhou, Jiacong Yu, Jiawei Xu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.25808) / [pdf](https://arxiv.org/pdf/2608.25808) |
+| 2026-08-26 | [PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting](https://arxiv.org/abs/2608.25472) | Jiarui Ge, Jintao Ma, Bangxu Fan, et al. | cs.CV, physics.med-ph | Active Imaging | [abs](https://arxiv.org/abs/2608.25472) / [pdf](https://arxiv.org/pdf/2608.25472) |
 | 2026-08-25 | [X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis](https://arxiv.org/abs/2608.24563) | Sonali Godavarthy, Matthias Neuwirth-Trapp, Tim-Felix Faasch, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.24563) / [pdf](https://arxiv.org/pdf/2608.24563) |
 | 2026-08-24 | [OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation](https://arxiv.org/abs/2608.23354) | Alperen Avan, Jordi Sanchez-Riera | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2608.23354) / [pdf](https://arxiv.org/pdf/2608.23354) |
 | 2026-08-24 | [Mover360: Controllable Object Manipulation in 360° Panoramic Images](https://arxiv.org/abs/2608.23238) | Haoyi Zhong, Fang-Lue Zhang, Andrew Chalmers, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.23238) / [pdf](https://arxiv.org/pdf/2608.23238) |

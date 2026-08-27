@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2072 · **Unique arXiv IDs:** 2072
+**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 2076 · **Unique arXiv IDs:** 2076
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-26 | [4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting](https://arxiv.org/abs/2608.25956) | Yueen Ma, Zenglin Xu, Irwin King | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.25956) / [pdf](https://arxiv.org/pdf/2608.25956) |
+| 2026-08-26 | [Code World Model: Coding Agent as World Brain](https://arxiv.org/abs/2608.25927) | Yiwen Chen, Guosheng Lin, Chi Zhang | cs.CV, cs.AI, cs.CL | World Model | [abs](https://arxiv.org/abs/2608.25927) / [pdf](https://arxiv.org/pdf/2608.25927) |
+| 2026-08-26 | [PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation](https://arxiv.org/abs/2608.25666) | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2608.25666) / [pdf](https://arxiv.org/pdf/2608.25666) |
+| 2026-08-26 | [Advantage-Driven Explicit Memory for Social Navigation](https://arxiv.org/abs/2608.25610) | Yeonsoo Park, Mattia Racca, Guillaume Bono, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.25610) / [pdf](https://arxiv.org/pdf/2608.25610) |
 | 2026-08-25 | [LeFlow: Generative Latent Flow Planning for World Models](https://arxiv.org/abs/2608.24855) | Hsiang-Wei Huang, Jianxu Shangguan, Junbin Lu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.24855) / [pdf](https://arxiv.org/pdf/2608.24855) |
 | 2026-08-25 | [Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training](https://arxiv.org/abs/2608.24680) | Wenxuan Shen, Dongna Jin, Dongping Chen | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.24680) / [pdf](https://arxiv.org/pdf/2608.24680) |
 | 2026-08-25 | [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479) | Zihao Wu, Hongyao Tang, Yi Ma, et al. | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2608.24479) / [pdf](https://arxiv.org/pdf/2608.24479) |
@@ -30,7 +34,7 @@
 | 2026-08-23 | [On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models](https://arxiv.org/abs/2608.22197) | Yang Yu | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.22197) / [pdf](https://arxiv.org/pdf/2608.22197) |
 | 2026-08-22 | [Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos](https://arxiv.org/abs/2608.22102) | Xiaoyang Liu, Kai Han | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.22102) / [pdf](https://arxiv.org/pdf/2608.22102) |
 | 2026-08-22 | [Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control](https://arxiv.org/abs/2608.22100) | Roman Ibrahimov, Salma Mozaffari, Arash Adel | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.22100) / [pdf](https://arxiv.org/pdf/2608.22100) |
-| 2026-08-22 | [Inferring Action from Future Latent State for Robotic Manipulation](https://arxiv.org/abs/2608.22067) | Fenghao Lei, Zhixiong Huang, Long Yang, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.22067) / [pdf](https://arxiv.org/pdf/2608.22067) |
+| 2026-08-22 | [DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation](https://arxiv.org/abs/2608.22067) | Fenghao Lei, Zhixiong Huang, Long Yang, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.22067) / [pdf](https://arxiv.org/pdf/2608.22067) |
 | 2026-08-22 | [DELTA: Deformable Elevation-Based Local Terrain Attention Encoder for Sparse-Terrain Quadrupedal Locomotion](https://arxiv.org/abs/2608.22033) | Sanghyun Park, Moonkyu Jung, Jemin Hwangbo | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.22033) / [pdf](https://arxiv.org/pdf/2608.22033) |
 | 2026-08-21 | [Betting for Sim-to-Real Performance Certificates](https://arxiv.org/abs/2608.21572) | Yujia Chen, Bowen Weng | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.21572) / [pdf](https://arxiv.org/pdf/2608.21572) |
 | 2026-08-21 | [Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight](https://arxiv.org/abs/2608.20948) | Zhitao Liu, Guangtong Xu, Zihan Wang, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.20948) / [pdf](https://arxiv.org/pdf/2608.20948) |

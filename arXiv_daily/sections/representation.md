@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2858 · **Unique arXiv IDs:** 2858
+**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 2863 · **Unique arXiv IDs:** 2863
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-26 | [4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting](https://arxiv.org/abs/2608.25956) | Yueen Ma, Zenglin Xu, Irwin King | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.25956) / [pdf](https://arxiv.org/pdf/2608.25956) |
+| 2026-08-26 | [THA-Flow Generative Model: Prosthesis Geometry Prediction from Preoperative CT](https://arxiv.org/abs/2608.25845) | Yiping Wang, Jie Li, Jingyu Shen, et al. | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2608.25845) / [pdf](https://arxiv.org/pdf/2608.25845) |
+| 2026-08-26 | [Gaussian Splatting Underwater: A Controlled Cross-Regime Study](https://arxiv.org/abs/2608.25483) | Olaya Álvarez-Tuñón, Stella Graßhof | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.25483) / [pdf](https://arxiv.org/pdf/2608.25483) |
+| 2026-08-26 | [PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting](https://arxiv.org/abs/2608.25472) | Jiarui Ge, Jintao Ma, Bangxu Fan, et al. | cs.CV, physics.med-ph | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.25472) / [pdf](https://arxiv.org/pdf/2608.25472) |
+| 2026-08-26 | [PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction](https://arxiv.org/abs/2608.25401) | Mary Raymond | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.25401) / [pdf](https://arxiv.org/pdf/2608.25401) |
 | 2026-08-24 | [FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549) | Khiem Vuong, Deva Ramanan, Srinivasa Narasimhan | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.23549) / [pdf](https://arxiv.org/pdf/2608.23549) |
 | 2026-08-24 | [AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction](https://arxiv.org/abs/2608.22906) | Yingxiang Xu, Kerui Ren, Wenqi Guo, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.22906) / [pdf](https://arxiv.org/pdf/2608.22906) |
 | 2026-08-24 | [NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction](https://arxiv.org/abs/2608.22888) | Xiaopeng Guo, Wai Chung Tse, Yipeng Zhu, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2608.22888) / [pdf](https://arxiv.org/pdf/2608.22888) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-26 · **Papers:** 2742 · **Unique arXiv IDs:** 2742
+**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 2745 · **Unique arXiv IDs:** 2745
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-26 | [AGRO-Nav: Autonomous Graph-based Orchard Navigation](https://arxiv.org/abs/2608.25799) | Ho Young Yun, Jaemin Yu, Duksu Kim | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.25799) / [pdf](https://arxiv.org/pdf/2608.25799) |
+| 2026-08-26 | [Gaussian Splatting Underwater: A Controlled Cross-Regime Study](https://arxiv.org/abs/2608.25483) | Olaya Álvarez-Tuñón, Stella Graßhof | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.25483) / [pdf](https://arxiv.org/pdf/2608.25483) |
+| 2026-08-26 | [PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction](https://arxiv.org/abs/2608.25401) | Mary Raymond | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.25401) / [pdf](https://arxiv.org/pdf/2608.25401) |
 | 2026-08-25 | [GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models](https://arxiv.org/abs/2608.24714) | Zijian Zhang, Yuqing Jiang, Weitao Zhou, et al. | cs.RO | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.24714) / [pdf](https://arxiv.org/pdf/2608.24714) |
 | 2026-08-25 | [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212) | Yumeng He, Yichen Song, Xiaotian Yang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.24212) / [pdf](https://arxiv.org/pdf/2608.24212) |
 | 2026-08-25 | [SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image](https://arxiv.org/abs/2608.23930) | Zefan Tian, Yuteng Ye, Yiheng Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.23930) / [pdf](https://arxiv.org/pdf/2608.23930) |
