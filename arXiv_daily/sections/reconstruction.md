@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 2745 · **Unique arXiv IDs:** 2745
+**Coverage:** 2025-01-01 to 2026-08-28 · **Papers:** 2750 · **Unique arXiv IDs:** 2750
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-27 | [Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects](https://arxiv.org/abs/2608.27301) | Brian De La Cruz, Aaron Y. Zhao, Maitrey Gramopadhye, et al. | cs.GR, cs.CV, cs.HC | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.27301) / [pdf](https://arxiv.org/pdf/2608.27301) |
+| 2026-08-27 | [Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS](https://arxiv.org/abs/2608.26951) | Kangmin Seo, Jae-Pil Heo | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.26951) / [pdf](https://arxiv.org/pdf/2608.26951) |
+| 2026-08-27 | [KISS-GS: 3D Gaussian Splatting Compression Kept Simple](https://arxiv.org/abs/2608.26948) | Wieland Morgenstern, Friedrich Elias Branschke, Florian Fleischmann, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.26948) / [pdf](https://arxiv.org/pdf/2608.26948) |
+| 2026-08-27 | [CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction](https://arxiv.org/abs/2608.26868) | Jean-Daniel de Ambrogi, Aladine Chetouani, Vincent Nguyen, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.26868) / [pdf](https://arxiv.org/pdf/2608.26868) |
+| 2026-08-26 | [Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots](https://arxiv.org/abs/2608.26383) | Yongho Kim, Mengjiao Han, Victor Mateevitsi, et al. | cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.26383) / [pdf](https://arxiv.org/pdf/2608.26383) |
 | 2026-08-26 | [AGRO-Nav: Autonomous Graph-based Orchard Navigation](https://arxiv.org/abs/2608.25799) | Ho Young Yun, Jaemin Yu, Duksu Kim | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.25799) / [pdf](https://arxiv.org/pdf/2608.25799) |
 | 2026-08-26 | [Gaussian Splatting Underwater: A Controlled Cross-Regime Study](https://arxiv.org/abs/2608.25483) | Olaya Álvarez-Tuñón, Stella Graßhof | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.25483) / [pdf](https://arxiv.org/pdf/2608.25483) |
 | 2026-08-26 | [PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction](https://arxiv.org/abs/2608.25401) | Mary Raymond | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.25401) / [pdf](https://arxiv.org/pdf/2608.25401) |

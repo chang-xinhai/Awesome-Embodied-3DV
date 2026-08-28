@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 2076 · **Unique arXiv IDs:** 2076
+**Coverage:** 2025-01-01 to 2026-08-28 · **Papers:** 2081 · **Unique arXiv IDs:** 2081
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-27 | [Reconstructing Humans and Objects in Interaction using Large Reconstruction Models](https://arxiv.org/abs/2608.27407) | Agniv Chatterjee, Georgios Pavlakos | cs.CV | Interaction / Affordance | [abs](https://arxiv.org/abs/2608.27407) / [pdf](https://arxiv.org/pdf/2608.27407) |
+| 2026-08-27 | [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://arxiv.org/abs/2608.27345) | Yuandong Pu, Le Zhuo, Sayak Paul, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.27345) / [pdf](https://arxiv.org/pdf/2608.27345) |
+| 2026-08-27 | [R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models](https://arxiv.org/abs/2608.27328) | Qiwen Gu, Bingjie Gao, Rui Chen, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.27328) / [pdf](https://arxiv.org/pdf/2608.27328) |
+| 2026-08-26 | [WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression](https://arxiv.org/abs/2608.26239) | Maeve Zhang, Rain Sun, Xiang Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.26239) / [pdf](https://arxiv.org/pdf/2608.26239) |
 | 2026-08-26 | [4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting](https://arxiv.org/abs/2608.25956) | Yueen Ma, Zenglin Xu, Irwin King | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.25956) / [pdf](https://arxiv.org/pdf/2608.25956) |
 | 2026-08-26 | [Code World Model: Coding Agent as World Brain](https://arxiv.org/abs/2608.25927) | Yiwen Chen, Guosheng Lin, Chi Zhang | cs.CV, cs.AI, cs.CL | World Model | [abs](https://arxiv.org/abs/2608.25927) / [pdf](https://arxiv.org/pdf/2608.25927) |
 | 2026-08-26 | [PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation](https://arxiv.org/abs/2608.25666) | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2608.25666) / [pdf](https://arxiv.org/pdf/2608.25666) |
@@ -29,6 +33,7 @@
 | 2026-08-24 | [EchoWM: Open and Enterable Omnimodal World Models](https://arxiv.org/abs/2608.23189) | Songchun Zhang, Yaowei Li, Junhao Zhuang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.23189) / [pdf](https://arxiv.org/pdf/2608.23189) |
 | 2026-08-24 | [Bridge Damage Detection from Low-Light UAV Imagery via Degradation-Aware Mixture-of-Experts Enhancement](https://arxiv.org/abs/2608.23136) | Hu Wang, Hongxu Pu, Zhiqi Hu, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.23136) / [pdf](https://arxiv.org/pdf/2608.23136) |
 | 2026-08-24 | [MOSH-WM: Mask-Grounded Soft-Hamiltonian Dynamics for Object-Centric World Models](https://arxiv.org/abs/2608.22750) | Zhekai Wang, Haoxiang Huang, Xiang Liu, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.22750) / [pdf](https://arxiv.org/pdf/2608.22750) |
+| 2026-08-23 | [Predicting Consequences and Reinforcing Navigation Policies with Latent World Models](https://arxiv.org/abs/2608.26190) | Zengmao Wang, Wei Gao, Shuhan Shen | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.26190) / [pdf](https://arxiv.org/pdf/2608.26190) |
 | 2026-08-23 | [Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning](https://arxiv.org/abs/2608.22294) | Juntao Cheng, Jingkai Wang, Yijun Shen, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.22294) / [pdf](https://arxiv.org/pdf/2608.22294) |
 | 2026-08-23 | [DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model](https://arxiv.org/abs/2608.22278) | Jie Yin, Xingyu Lai | cs.RO | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2608.22278) / [pdf](https://arxiv.org/pdf/2608.22278) |
 | 2026-08-23 | [On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models](https://arxiv.org/abs/2608.22197) | Yang Yu | cs.LG | World Model | [abs](https://arxiv.org/abs/2608.22197) / [pdf](https://arxiv.org/pdf/2608.22197) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-27 · **Papers:** 919 · **Unique arXiv IDs:** 919
+**Coverage:** 2025-01-01 to 2026-08-28 · **Papers:** 920 · **Unique arXiv IDs:** 920
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-27 | [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073) | Chuan Fang, Lingteng Qiu, Yixun Liang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2608.27073) / [pdf](https://arxiv.org/pdf/2608.27073) |
 | 2026-08-25 | [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212) | Yumeng He, Yichen Song, Xiaotian Yang, et al. | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.24212) / [pdf](https://arxiv.org/pdf/2608.24212) |
 | 2026-08-25 | [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169) | Bo Pang, Jiaqi Pan, Xiaocheng Zhang, et al. | cs.CV, cs.GR, cs.HC | 3D Editing | [abs](https://arxiv.org/abs/2608.24169) / [pdf](https://arxiv.org/pdf/2608.24169) |
 | 2026-08-25 | [Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943) | Mayank Singh, Michele Stoppa, Alvise Memo, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.23943) / [pdf](https://arxiv.org/pdf/2608.23943) |
