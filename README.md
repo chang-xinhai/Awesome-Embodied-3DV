@@ -61,7 +61,6 @@ Start here if you want the shortest path through the field.
 - [2026-08-04] Added a six-topic, automatically refreshed [arXiv Daily](arXiv_daily/README.md) candidate archive, with manual verification required before promotion to this curated list.
 - [2026-06-15] Added a dedicated **3D Editing** taxonomy under 3D Generation, covering object-level, scene-level, and dynamic / 4D editing methods.
 - [2026-04-30] Initialized **Awesome-Embodied-3DV** with a six-part taxonomy for data perception, representations, reconstruction, generation, embodied world models, and infrastructure.
-- [2026-04-30] Added `AGENTS.md` to define curation scope, metadata rules, and maintenance workflow.
 
 ## Contents
 
