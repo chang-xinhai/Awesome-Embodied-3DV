@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-30 · **Papers:** 2081 · **Unique arXiv IDs:** 2081
+**Coverage:** 2025-01-01 to 2026-08-31 · **Papers:** 2085 · **Unique arXiv IDs:** 2085
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090) | Kango Yanagida, Kazuki Miyazawa, Takato Horii | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.28090) / [pdf](https://arxiv.org/pdf/2608.28090) |
+| 2026-08-28 | [Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data](https://arxiv.org/abs/2608.27996) | Zhenyu Tao, Wei Xu, Xiaohu You, et al. | cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.27996) / [pdf](https://arxiv.org/pdf/2608.27996) |
+| 2026-08-28 | [Low-Altitude Fluid Antenna Network with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2608.27909) | Tong Zhang, Yanfei Su, Shuai Wang, et al. | cs.IT, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.27909) / [pdf](https://arxiv.org/pdf/2608.27909) |
+| 2026-08-27 | [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://arxiv.org/abs/2608.27508) | Yu Han, Tianwen Qian | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.27508) / [pdf](https://arxiv.org/pdf/2608.27508) |
 | 2026-08-27 | [Reconstructing Humans and Objects in Interaction using Large Reconstruction Models](https://arxiv.org/abs/2608.27407) | Agniv Chatterjee, Georgios Pavlakos | cs.CV | Interaction / Affordance | [abs](https://arxiv.org/abs/2608.27407) / [pdf](https://arxiv.org/pdf/2608.27407) |
 | 2026-08-27 | [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://arxiv.org/abs/2608.27345) | Yuandong Pu, Le Zhuo, Sayak Paul, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.27345) / [pdf](https://arxiv.org/pdf/2608.27345) |
 | 2026-08-27 | [R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models](https://arxiv.org/abs/2608.27328) | Qiwen Gu, Bingjie Gao, Rui Chen, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.27328) / [pdf](https://arxiv.org/pdf/2608.27328) |

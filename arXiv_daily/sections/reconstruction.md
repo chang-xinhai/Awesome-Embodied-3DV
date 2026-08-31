@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-30 · **Papers:** 2750 · **Unique arXiv IDs:** 2750
+**Coverage:** 2025-01-01 to 2026-08-31 · **Papers:** 2758 · **Unique arXiv IDs:** 2758
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos](https://arxiv.org/abs/2608.28570) | Seungyeon Kim, Noémie Jaquier | cs.RO | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.28570) / [pdf](https://arxiv.org/pdf/2608.28570) |
+| 2026-08-28 | [GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image](https://arxiv.org/abs/2608.28386) | Semin Kim, Haechan Shin, Jongyoo Kim | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.28386) / [pdf](https://arxiv.org/pdf/2608.28386) |
+| 2026-08-28 | [Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction](https://arxiv.org/abs/2608.28343) | Mrudul Mittal, Soumyashree Kar | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.28343) / [pdf](https://arxiv.org/pdf/2608.28343) |
+| 2026-08-28 | [GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping](https://arxiv.org/abs/2608.28288) | Xiang Yang, Yongli Wang, Yunsheng Zhang | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2608.28288) / [pdf](https://arxiv.org/pdf/2608.28288) |
+| 2026-08-28 | [WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild](https://arxiv.org/abs/2608.28240) | Yuhao Bai, Qianqiu Tan, Lilong Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.28240) / [pdf](https://arxiv.org/pdf/2608.28240) |
+| 2026-08-28 | [3D-USE: From Image-Level to Scene-Level Underwater Enhancement](https://arxiv.org/abs/2608.28020) | Jieyu Yuan, Yuanlin Zhang, Jihong Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.28020) / [pdf](https://arxiv.org/pdf/2608.28020) |
+| 2026-08-27 | [One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments](https://arxiv.org/abs/2608.27628) | Matěj Boxan, Nicolas Lauzon, Veronica Vannini, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.27628) / [pdf](https://arxiv.org/pdf/2608.27628) |
+| 2026-08-27 | [Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction](https://arxiv.org/abs/2608.27529) | Jiarong Han, Jincheng Xiong, Yuzhou Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.27529) / [pdf](https://arxiv.org/pdf/2608.27529) |
 | 2026-08-27 | [Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects](https://arxiv.org/abs/2608.27301) | Brian De La Cruz, Aaron Y. Zhao, Maitrey Gramopadhye, et al. | cs.GR, cs.CV, cs.HC | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.27301) / [pdf](https://arxiv.org/pdf/2608.27301) |
 | 2026-08-27 | [Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS](https://arxiv.org/abs/2608.26951) | Kangmin Seo, Jae-Pil Heo | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.26951) / [pdf](https://arxiv.org/pdf/2608.26951) |
 | 2026-08-27 | [KISS-GS: 3D Gaussian Splatting Compression Kept Simple](https://arxiv.org/abs/2608.26948) | Wieland Morgenstern, Friedrich Elias Branschke, Florian Fleischmann, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.26948) / [pdf](https://arxiv.org/pdf/2608.26948) |

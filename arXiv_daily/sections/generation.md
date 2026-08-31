@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-30 · **Papers:** 920 · **Unique arXiv IDs:** 920
+**Coverage:** 2025-01-01 to 2026-08-31 · **Papers:** 922 · **Unique arXiv IDs:** 922
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.28578) | Nan Wang, Mohit Yadav, Jonathan Wulff, et al. | cs.RO, cs.AI, cs.LG | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.28578) / [pdf](https://arxiv.org/pdf/2608.28578) |
+| 2026-08-28 | [Cyc3D: Evaluating Cyclic Structural Stability and Asset Usability in Image-to-3D Generation](https://arxiv.org/abs/2608.28080) | Liwen Zhang | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.28080) / [pdf](https://arxiv.org/pdf/2608.28080) |
 | 2026-08-27 | [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073) | Chuan Fang, Lingteng Qiu, Yixun Liang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2608.27073) / [pdf](https://arxiv.org/pdf/2608.27073) |
 | 2026-08-25 | [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212) | Yumeng He, Yichen Song, Xiaotian Yang, et al. | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.24212) / [pdf](https://arxiv.org/pdf/2608.24212) |
 | 2026-08-25 | [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169) | Bo Pang, Jiaqi Pan, Xiaocheng Zhang, et al. | cs.CV, cs.GR, cs.HC | 3D Editing | [abs](https://arxiv.org/abs/2608.24169) / [pdf](https://arxiv.org/pdf/2608.24169) |

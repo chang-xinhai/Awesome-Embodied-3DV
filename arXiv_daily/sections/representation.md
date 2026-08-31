@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-30 · **Papers:** 2869 · **Unique arXiv IDs:** 2869
+**Coverage:** 2025-01-01 to 2026-08-31 · **Papers:** 2873 · **Unique arXiv IDs:** 2873
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos](https://arxiv.org/abs/2608.28570) | Seungyeon Kim, Noémie Jaquier | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.28570) / [pdf](https://arxiv.org/pdf/2608.28570) |
+| 2026-08-28 | [Non-Uniform Quantisation for 3DGS Compression](https://arxiv.org/abs/2608.28272) | Bert Van hauwermeiren, Patrice Rondao Alface, Adrian Munteanu | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.28272) / [pdf](https://arxiv.org/pdf/2608.28272) |
+| 2026-08-28 | [WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild](https://arxiv.org/abs/2608.28240) | Yuhao Bai, Qianqiu Tan, Lilong Chen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.28240) / [pdf](https://arxiv.org/pdf/2608.28240) |
+| 2026-08-27 | [ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields](https://arxiv.org/abs/2608.27735) | Ka Heng Shiu, Kartic Subr | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.27735) / [pdf](https://arxiv.org/pdf/2608.27735) |
 | 2026-08-27 | [Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects](https://arxiv.org/abs/2608.27301) | Brian De La Cruz, Aaron Y. Zhao, Maitrey Gramopadhye, et al. | cs.GR, cs.CV, cs.HC | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2608.27301) / [pdf](https://arxiv.org/pdf/2608.27301) |
 | 2026-08-27 | [Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS](https://arxiv.org/abs/2608.26951) | Kangmin Seo, Jae-Pil Heo | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.26951) / [pdf](https://arxiv.org/pdf/2608.26951) |
 | 2026-08-27 | [KISS-GS: 3D Gaussian Splatting Compression Kept Simple](https://arxiv.org/abs/2608.26948) | Wieland Morgenstern, Friedrich Elias Branschke, Florian Fleischmann, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2608.26948) / [pdf](https://arxiv.org/pdf/2608.26948) |

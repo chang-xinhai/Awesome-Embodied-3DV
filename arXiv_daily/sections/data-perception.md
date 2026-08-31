@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-08-30 · **Papers:** 1677 · **Unique arXiv IDs:** 1677
+**Coverage:** 2025-01-01 to 2026-08-31 · **Papers:** 1679 · **Unique arXiv IDs:** 1679
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [Video Generative Models as Geometry Learner](https://arxiv.org/abs/2608.28549) | Haosen Yang, Jifei Song, Zhensong Zhang, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.28549) / [pdf](https://arxiv.org/pdf/2608.28549) |
+| 2026-08-28 | [From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation](https://arxiv.org/abs/2608.27860) | Rit Gangopadhyay, Alex Wong | cs.CV, cs.AI | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.27860) / [pdf](https://arxiv.org/pdf/2608.27860) |
 | 2026-08-26 | [TDFNet: Tri-projection Deformable Fusion Network for Panoramic Salient Object Detection](https://arxiv.org/abs/2608.25808) | Qiangqiang Zhou, Jiacong Yu, Jiawei Xu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.25808) / [pdf](https://arxiv.org/pdf/2608.25808) |
 | 2026-08-26 | [PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting](https://arxiv.org/abs/2608.25472) | Jiarui Ge, Jintao Ma, Bangxu Fan, et al. | cs.CV, physics.med-ph | Active Imaging | [abs](https://arxiv.org/abs/2608.25472) / [pdf](https://arxiv.org/pdf/2608.25472) |
 | 2026-08-25 | [X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis](https://arxiv.org/abs/2608.24563) | Sonali Godavarthy, Matthias Neuwirth-Trapp, Tim-Felix Faasch, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.24563) / [pdf](https://arxiv.org/pdf/2608.24563) |
