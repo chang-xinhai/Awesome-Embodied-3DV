@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 922 · **Unique arXiv IDs:** 922
+**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 926 · **Unique arXiv IDs:** 926
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-31 | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821) | Minghan Qin, Yuang Wang, Xiuyu Yang, et al. | cs.CV, cs.AI | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.30821) / [pdf](https://arxiv.org/pdf/2608.30821) |
+| 2026-08-31 | [ScenePilot: Grow-and-Repair Policy for Text-Driven 3D Indoor Scene Generation](https://arxiv.org/abs/2608.30307) | Jiawei Zhang, Hongsong Wang, Pan Zhou | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2608.30307) / [pdf](https://arxiv.org/pdf/2608.30307) |
+| 2026-08-30 | [FuncRoom-Agent: Sequential Feed-Forward 3D Functional Indoor Scene Generation](https://arxiv.org/abs/2608.29519) | Hao Feng, Zhi Zuo, MingJian Liang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2608.29519) / [pdf](https://arxiv.org/pdf/2608.29519) |
+| 2026-08-29 | [Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models](https://arxiv.org/abs/2608.29137) | Shuangkang Fang, Yufeng Wang, Yi-Hsuan Tsai, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2608.29137) / [pdf](https://arxiv.org/pdf/2608.29137) |
 | 2026-08-28 | [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.28578) | Nan Wang, Mohit Yadav, Jonathan Wulff, et al. | cs.RO, cs.AI, cs.LG | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2608.28578) / [pdf](https://arxiv.org/pdf/2608.28578) |
 | 2026-08-28 | [Cyc3D: Evaluating Cyclic Structural Stability and Asset Usability in Image-to-3D Generation](https://arxiv.org/abs/2608.28080) | Liwen Zhang | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2608.28080) / [pdf](https://arxiv.org/pdf/2608.28080) |
 | 2026-08-27 | [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073) | Chuan Fang, Lingteng Qiu, Yixun Liang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2608.27073) / [pdf](https://arxiv.org/pdf/2608.27073) |

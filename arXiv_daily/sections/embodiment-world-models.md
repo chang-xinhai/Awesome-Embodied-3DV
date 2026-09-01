@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 2085 · **Unique arXiv IDs:** 2085
+**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 2099 · **Unique arXiv IDs:** 2099
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,9 +12,23 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-31 | [CAER: Causal Action Effect Reweighting for World Model Training](https://arxiv.org/abs/2608.30897) | Jianjie Fang, Xvyuan Liu, Ziyou Wang, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.30897) / [pdf](https://arxiv.org/pdf/2608.30897) |
+| 2026-08-31 | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821) | Minghan Qin, Yuang Wang, Xiuyu Yang, et al. | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.30821) / [pdf](https://arxiv.org/pdf/2608.30821) |
+| 2026-08-31 | [Learning to infer and manipulate through distributed whole-arm interaction in a soft robot](https://arxiv.org/abs/2608.30773) | Chuhan Zhang, Ebrahim Shahabi, Kseniia Khomenko, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.30773) / [pdf](https://arxiv.org/pdf/2608.30773) |
+| 2026-08-31 | [Motus2: A Self-Evolving General World Model for Dexterous Manipulation](https://arxiv.org/abs/2608.30237) | Hongzhe Bi, Zihao Zhou, Yihang Tang, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.30237) / [pdf](https://arxiv.org/pdf/2608.30237) |
+| 2026-08-30 | [AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies](https://arxiv.org/abs/2608.29937) | Yafei Zhang, Nan Wu | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.29937) / [pdf](https://arxiv.org/pdf/2608.29937) |
+| 2026-08-30 | [Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model](https://arxiv.org/abs/2608.29904) | Hai Nguyen-Truong, Tuan-Anh Vu, Dang Huynh | cs.CV | World Model | [abs](https://arxiv.org/abs/2608.29904) / [pdf](https://arxiv.org/pdf/2608.29904) |
+| 2026-08-30 | [Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772) | Dong Hu, Chao Huang, Carman K. M. Lee, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2608.29772) / [pdf](https://arxiv.org/pdf/2608.29772) |
+| 2026-08-30 | [Task-Relevant Feature-Dynamics Fidelity Enables Zero-Shot Sim-to-Real Transfer for Robotic Ultrasound Scanning](https://arxiv.org/abs/2608.29516) | Yizhao Qian, Jiayuan Luo, Wanyi Zhu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.29516) / [pdf](https://arxiv.org/pdf/2608.29516) |
+| 2026-08-29 | [Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2608.29177) | Boyu Cai, Li Yang, Yan Xu, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2608.29177) / [pdf](https://arxiv.org/pdf/2608.29177) |
+| 2026-08-29 | [CGFM-Nav: Cognitive Graph-Field Memory for Semantic-Guided Lifelong Multimodal Embodied Navigation](https://arxiv.org/abs/2608.29114) | Yuxiang Xiao, Xibei Chen, Xin Zhou, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.29114) / [pdf](https://arxiv.org/pdf/2608.29114) |
+| 2026-08-29 | [Agri-Sim: Agricultural Simulation Platform for Embodied Intelligence Evaluation in Greenhouse Robotics](https://arxiv.org/abs/2608.29100) | Shuhan Shi, Zhenfeng Xue, Minghao Mei, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.29100) / [pdf](https://arxiv.org/pdf/2608.29100) |
+| 2026-08-29 | [DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation](https://arxiv.org/abs/2608.29078) | Makoto Sato, Tatsuya Matsushima, Yutaka Matsuo, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.29078) / [pdf](https://arxiv.org/pdf/2608.29078) |
+| 2026-08-28 | [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718) | Tianyi Wang, Jiazhou Chen, Yiming Xu, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2608.28718) / [pdf](https://arxiv.org/pdf/2608.28718) |
 | 2026-08-28 | [Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090) | Kango Yanagida, Kazuki Miyazawa, Takato Horii | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.28090) / [pdf](https://arxiv.org/pdf/2608.28090) |
 | 2026-08-28 | [Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data](https://arxiv.org/abs/2608.27996) | Zhenyu Tao, Wei Xu, Xiaohu You, et al. | cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.27996) / [pdf](https://arxiv.org/pdf/2608.27996) |
 | 2026-08-28 | [Low-Altitude Fluid Antenna Network with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2608.27909) | Tong Zhang, Yanfei Su, Shuai Wang, et al. | cs.IT, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.27909) / [pdf](https://arxiv.org/pdf/2608.27909) |
+| 2026-08-27 | [RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction](https://arxiv.org/abs/2608.28693) | Zifan Wang, Ziang Ren, Pengyang Shi, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2608.28693) / [pdf](https://arxiv.org/pdf/2608.28693) |
 | 2026-08-27 | [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://arxiv.org/abs/2608.27508) | Yu Han, Tianwen Qian | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.27508) / [pdf](https://arxiv.org/pdf/2608.27508) |
 | 2026-08-27 | [Reconstructing Humans and Objects in Interaction using Large Reconstruction Models](https://arxiv.org/abs/2608.27407) | Agniv Chatterjee, Georgios Pavlakos | cs.CV | Interaction / Affordance | [abs](https://arxiv.org/abs/2608.27407) / [pdf](https://arxiv.org/pdf/2608.27407) |
 | 2026-08-27 | [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://arxiv.org/abs/2608.27345) | Yuandong Pu, Le Zhuo, Sayak Paul, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2608.27345) / [pdf](https://arxiv.org/pdf/2608.27345) |

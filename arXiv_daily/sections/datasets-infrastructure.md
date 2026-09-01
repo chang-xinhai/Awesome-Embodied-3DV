@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 497 · **Unique arXiv IDs:** 497
+**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 499 · **Unique arXiv IDs:** 499
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-28 | [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718) | Tianyi Wang, Jiazhou Chen, Yiming Xu, et al. | cs.RO, cs.AI, cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.28718) / [pdf](https://arxiv.org/pdf/2608.28718) |
+| 2026-08-27 | [Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines](https://arxiv.org/abs/2608.28697) | Deng Quan | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.28697) / [pdf](https://arxiv.org/pdf/2608.28697) |
 | 2026-08-27 | [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073) | Chuan Fang, Lingteng Qiu, Yixun Liang, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2608.27073) / [pdf](https://arxiv.org/pdf/2608.27073) |
 | 2026-08-25 | [Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor](https://arxiv.org/abs/2608.24162) | Ziyang Ma, Yuhao Sun, Zichen Ai, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2608.24162) / [pdf](https://arxiv.org/pdf/2608.24162) |
 | 2026-08-23 | [Cross-Generation Optimization of YOLOv26, YOLOv11, and YOLOv8 for Fine-Grained Small-Object Detection and Instance Segmentation in Complex Orchards](https://arxiv.org/abs/2608.23636) | Ranjan Sapkota, Manoj Karkee | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.23636) / [pdf](https://arxiv.org/pdf/2608.23636) |

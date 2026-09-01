@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 1679 · **Unique arXiv IDs:** 1679
+**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 1687 · **Unique arXiv IDs:** 1687
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-31 | [Multi-View Reflective Surface Inspection via Semantic-Saliency Cross-Verification](https://arxiv.org/abs/2608.30997) | Van-Giang Nguyen, Thanh-Tuan Tran, Xuan-Hieu Phan, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2608.30997) / [pdf](https://arxiv.org/pdf/2608.30997) |
+| 2026-08-31 | [HorizonNet for visual terrain navigation](https://arxiv.org/abs/2608.30471) | Bertil Grelsson, Andreas Robinson, Michael Felsberg, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.30471) / [pdf](https://arxiv.org/pdf/2608.30471) |
+| 2026-08-31 | [Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention](https://arxiv.org/abs/2608.30129) | Bingde Liu, Wu Ran, Jinglei Zhang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.30129) / [pdf](https://arxiv.org/pdf/2608.30129) |
+| 2026-08-30 | [OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes](https://arxiv.org/abs/2608.29881) | Muxin Liu, Tianbo Liu, Jing Xia, et al. | cs.CV | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2608.29881) / [pdf](https://arxiv.org/pdf/2608.29881) |
+| 2026-08-29 | [Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs](https://arxiv.org/abs/2608.29374) | Yu Cheng, Arushi Goel, Hakan Bilen | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.29374) / [pdf](https://arxiv.org/pdf/2608.29374) |
+| 2026-08-29 | [Computational Depth Measurement in Thermographic Video: Overcoming Spatial Overfitting via Spatio-Temporal Decoupling](https://arxiv.org/abs/2608.29223) | Zain Ul Abidin, Habeeban Memon, Junaid Ahmed | cs.AI, cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2608.29223) / [pdf](https://arxiv.org/pdf/2608.29223) |
+| 2026-08-29 | [Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction](https://arxiv.org/abs/2608.29211) | Angel Daruna, Ben Southall, Niluthpol Chowdhury Mithun, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.29211) / [pdf](https://arxiv.org/pdf/2608.29211) |
+| 2026-08-29 | [AdapToPASS: Ambiguity-aware Adaptive Spherical Transformer for Panoramic Semantic Segmentation](https://arxiv.org/abs/2608.29081) | Soumyaratna Debnath, Weiming Zhang, Shriram Damodaran, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.29081) / [pdf](https://arxiv.org/pdf/2608.29081) |
 | 2026-08-28 | [Video Generative Models as Geometry Learner](https://arxiv.org/abs/2608.28549) | Haosen Yang, Jifei Song, Zhensong Zhang, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2608.28549) / [pdf](https://arxiv.org/pdf/2608.28549) |
 | 2026-08-28 | [From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation](https://arxiv.org/abs/2608.27860) | Rit Gangopadhyay, Alex Wong | cs.CV, cs.AI | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.27860) / [pdf](https://arxiv.org/pdf/2608.27860) |
 | 2026-08-26 | [TDFNet: Tri-projection Deformable Fusion Network for Panoramic Salient Object Detection](https://arxiv.org/abs/2608.25808) | Qiangqiang Zhou, Jiacong Yu, Jiawei Xu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2608.25808) / [pdf](https://arxiv.org/pdf/2608.25808) |
