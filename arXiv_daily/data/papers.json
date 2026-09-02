@@ -1247,7 +1247,7 @@
         "Chengkai Dai"
       ],
       "published": "2026-08-31",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
@@ -321392,5 +321392,5 @@
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-09-02",
   "paper_count": 8585,
-  "generated_at": "2026-09-02T03:11:33+00:00"
+  "generated_at": "2026-09-02T16:05:08+00:00"
 }
