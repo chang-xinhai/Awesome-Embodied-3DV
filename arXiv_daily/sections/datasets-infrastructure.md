@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 499 · **Unique arXiv IDs:** 499
+**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 500 · **Unique arXiv IDs:** 500
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-31 | [Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation](https://arxiv.org/abs/2609.00369) | Vida Adeli, Soroush Mehraban, Jacob Rommann, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.00369) / [pdf](https://arxiv.org/pdf/2609.00369) |
 | 2026-08-28 | [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718) | Tianyi Wang, Jiazhou Chen, Yiming Xu, et al. | cs.RO, cs.AI, cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.28718) / [pdf](https://arxiv.org/pdf/2608.28718) |
 | 2026-08-27 | [Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines](https://arxiv.org/abs/2608.28697) | Deng Quan | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2608.28697) / [pdf](https://arxiv.org/pdf/2608.28697) |
 | 2026-08-27 | [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073) | Chuan Fang, Lingteng Qiu, Yixun Liang, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2608.27073) / [pdf](https://arxiv.org/pdf/2608.27073) |

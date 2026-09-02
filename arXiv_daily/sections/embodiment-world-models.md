@@ -4,14 +4,31 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 2099 · **Unique arXiv IDs:** 2099
+**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2111 · **Unique arXiv IDs:** 2111
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants](https://arxiv.org/abs/2609.01579) | Rohit Menon, Shiva Rudra Lolla, Niklas Mueller-Goldingen, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.01579) / [pdf](https://arxiv.org/pdf/2609.01579) |
+| 2026-09-01 | [H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560) | Danze Chen, Zeqing Wang, Ziyue Lin, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.01560) / [pdf](https://arxiv.org/pdf/2609.01560) |
+| 2026-09-01 | [Provably Safe Sim-to-Real Transfer](https://arxiv.org/abs/2609.01418) | Tingting Ni, Maryam Kamgarpour | cs.LG, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.01418) / [pdf](https://arxiv.org/pdf/2609.01418) |
+| 2026-09-01 | [REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs](https://arxiv.org/abs/2609.01215) | Riyaaz Shaik, Chandru Venkataraman | cs.LG, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.01215) / [pdf](https://arxiv.org/pdf/2609.01215) |
+| 2026-09-01 | [HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments](https://arxiv.org/abs/2609.00950) | Ruijie Tang, Chenye Zou, Guoquan Wu, et al. | cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.00950) / [pdf](https://arxiv.org/pdf/2609.00950) |
+| 2026-09-01 | [Solaris: Towards Interfaces That Are Generated, Not Coded](https://arxiv.org/abs/2609.00776) | Yuval Alaluf, Omri Avrahami, Guy Bukchin Leshem, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.00776) / [pdf](https://arxiv.org/pdf/2609.00776) |
+| 2026-09-01 | [VOIM: Training-Free Open-Vocabulary 3D Instance Mapping for RGB-D and Monocular SLAM](https://arxiv.org/abs/2609.00775) | Sangmin Song, Sarath Kodagoda, Marc G. Carmichael, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.00775) / [pdf](https://arxiv.org/pdf/2609.00775) |
+| 2026-09-01 | [Non-Prehensile Throwing: A Reinforcement Learning Perspective](https://arxiv.org/abs/2609.00771) | Abdullah Mustafa, Ryo Hanai, Ixchel G. Ramirez-Alpizar, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.00771) / [pdf](https://arxiv.org/pdf/2609.00771) |
+| 2026-09-01 | [DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments](https://arxiv.org/abs/2609.00619) | Ming Liao, Chao Ye, Jianing Fei, et al. | cs.RO | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2609.00619) / [pdf](https://arxiv.org/pdf/2609.00619) |
 
 ## 2026-08
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-08-31 | [Towards a Belief-Based World Model for LLM Agents](https://arxiv.org/abs/2609.00455) | Shubham Kumar, Harshit Kumar, Narendra Ahuja, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.00455) / [pdf](https://arxiv.org/pdf/2609.00455) |
+| 2026-08-31 | [ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training](https://arxiv.org/abs/2609.00188) | Xionghao Wu, Yijun Yang, Shiyang Zhou, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.00188) / [pdf](https://arxiv.org/pdf/2609.00188) |
+| 2026-08-31 | [IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training](https://arxiv.org/abs/2609.00161) | Rongze Tang, Jianjie Fang, Zhaolu Wang, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.00161) / [pdf](https://arxiv.org/pdf/2609.00161) |
 | 2026-08-31 | [CAER: Causal Action Effect Reweighting for World Model Training](https://arxiv.org/abs/2608.30897) | Jianjie Fang, Xvyuan Liu, Ziyou Wang, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2608.30897) / [pdf](https://arxiv.org/pdf/2608.30897) |
 | 2026-08-31 | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821) | Minghan Qin, Yuang Wang, Xiuyu Yang, et al. | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2608.30821) / [pdf](https://arxiv.org/pdf/2608.30821) |
 | 2026-08-31 | [Learning to infer and manipulate through distributed whole-arm interaction in a soft robot](https://arxiv.org/abs/2608.30773) | Chuhan Zhang, Ebrahim Shahabi, Kseniia Khomenko, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2608.30773) / [pdf](https://arxiv.org/pdf/2608.30773) |

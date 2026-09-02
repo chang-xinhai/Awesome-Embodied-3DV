@@ -4,9 +4,21 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 2777 · **Unique arXiv IDs:** 2777
+**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2784 · **Unique arXiv IDs:** 2784
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516) | Qian Wang, Yu Wang, Weiqi Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.01516) / [pdf](https://arxiv.org/pdf/2609.01516) |
+| 2026-09-01 | [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276) | Kai Guan, Minchao Jiang, Ruichen WangLi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.01276) / [pdf](https://arxiv.org/pdf/2609.01276) |
+| 2026-09-01 | [Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172) | Muxin Liu, Xiaoyang Lyu, Yang-Tian Sun, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.01172) / [pdf](https://arxiv.org/pdf/2609.01172) |
+| 2026-09-01 | [On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios](https://arxiv.org/abs/2609.00923) | Zhe Shen, Liyuan Lou, Yifei Yu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.00923) / [pdf](https://arxiv.org/pdf/2609.00923) |
+| 2026-09-01 | [VOIM: Training-Free Open-Vocabulary 3D Instance Mapping for RGB-D and Monocular SLAM](https://arxiv.org/abs/2609.00775) | Sangmin Song, Sarath Kodagoda, Marc G. Carmichael, et al. | cs.CV, cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.00775) / [pdf](https://arxiv.org/pdf/2609.00775) |
+| 2026-09-01 | [Feed-Forward Multi-view Multi-person Reconstruction with Contrastive Human-Aware 3D Representation](https://arxiv.org/abs/2609.00745) | Yuanwang Yang, Buzhen Huang, Zongxuan Ren, et al. | cs.CV | Feed-Forward Geometry, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.00745) / [pdf](https://arxiv.org/pdf/2609.00745) |
+| 2026-09-01 | [Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction](https://arxiv.org/abs/2609.00610) | Xiaoyan Liu, Jiaxin Liu, Kangrui Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.00610) / [pdf](https://arxiv.org/pdf/2609.00610) |
 
 ## 2026-08
 

@@ -4,9 +4,19 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 1687 · **Unique arXiv IDs:** 1687
+**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 1692 · **Unique arXiv IDs:** 1692
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants](https://arxiv.org/abs/2609.01579) | Rohit Menon, Shiva Rudra Lolla, Niklas Mueller-Goldingen, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.01579) / [pdf](https://arxiv.org/pdf/2609.01579) |
+| 2026-09-01 | [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276) | Kai Guan, Minchao Jiang, Ruichen WangLi, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.01276) / [pdf](https://arxiv.org/pdf/2609.01276) |
+| 2026-09-01 | [Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172) | Muxin Liu, Xiaoyang Lyu, Yang-Tian Sun, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.01172) / [pdf](https://arxiv.org/pdf/2609.01172) |
+| 2026-09-01 | [MultiGait: A Multi-Sensor Multi-Perspective Multi-Session Biometric Inference Benchmark and its Dataset](https://arxiv.org/abs/2609.01036) | Julian Todt, Felix Morsbach, Philip Dissert, et al. | cs.CR, cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.01036) / [pdf](https://arxiv.org/pdf/2609.01036) |
+| 2026-09-01 | [Inverse Rendering for Modeling with Line Primitives](https://arxiv.org/abs/2609.00625) | Kenji Tojo, Ariel Shamir, Nobuyuki Umetani, et al. | cs.GR, cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2609.00625) / [pdf](https://arxiv.org/pdf/2609.00625) |
 
 ## 2026-08
 

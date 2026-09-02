@@ -4,9 +4,17 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-01 · **Papers:** 2888 · **Unique arXiv IDs:** 2888
+**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2891 · **Unique arXiv IDs:** 2891
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516) | Qian Wang, Yu Wang, Weiqi Li, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.01516) / [pdf](https://arxiv.org/pdf/2609.01516) |
+| 2026-09-01 | [EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.00994) | Wei Dong, Shahram Shirani, Jun Chen, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.00994) / [pdf](https://arxiv.org/pdf/2609.00994) |
+| 2026-09-01 | [Inverse Rendering for Modeling with Line Primitives](https://arxiv.org/abs/2609.00625) | Kenji Tojo, Ariel Shamir, Nobuyuki Umetani, et al. | cs.GR, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.00625) / [pdf](https://arxiv.org/pdf/2609.00625) |
 
 ## 2026-08
 
