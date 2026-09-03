@@ -2,13 +2,13 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Unique papers:** 8601
+**Coverage:** 2025-01-01 to 2026-09-03 · **Unique papers:** 8604
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1692 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 1695 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2895 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 2788 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 928 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
@@ -21,6 +21,9 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-09-02 — [Adapting a Foundation Model for Lunar Surface Height Estimation](https://arxiv.org/abs/2609.02448)
+- 2026-09-02 — [From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs](https://arxiv.org/abs/2609.02319)
+- 2026-09-02 — [Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation](https://arxiv.org/abs/2609.01997)
 - 2026-09-01 — [SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants](https://arxiv.org/abs/2609.01579)
 - 2026-09-01 — [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276)
 - 2026-09-01 — [Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172)
@@ -28,9 +31,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-09-01 — [Inverse Rendering for Modeling with Line Primitives](https://arxiv.org/abs/2609.00625)
 - 2026-08-31 — [Multi-View Reflective Surface Inspection via Semantic-Saliency Cross-Verification](https://arxiv.org/abs/2608.30997)
 - 2026-08-31 — [HorizonNet for visual terrain navigation](https://arxiv.org/abs/2608.30471)
-- 2026-08-31 — [Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention](https://arxiv.org/abs/2608.30129)
-- 2026-08-30 — [OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes](https://arxiv.org/abs/2608.29881)
-- 2026-08-29 — [Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs](https://arxiv.org/abs/2608.29374)
 
 ### 3D/4D Representation
 

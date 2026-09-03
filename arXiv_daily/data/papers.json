@@ -246,6 +246,7 @@
       "url": "https://arxiv.org/abs/2609.02542",
       "pdf_url": "https://arxiv.org/pdf/2609.02542",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -279,6 +280,7 @@
       "url": "https://arxiv.org/abs/2609.02531",
       "pdf_url": "https://arxiv.org/pdf/2609.02531",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -287,6 +289,74 @@
       "matches": {
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2609.02448": {
+      "arxiv_id": "2609.02448",
+      "title": "Adapting a Foundation Model for Lunar Surface Height Estimation",
+      "abstract": "Digital elevation models (DEMs) can provide accurate height information, making it invaluable for analyzing the lunar surface. As the European Space Agency (ESA) prepares for future lunar missions that aim to land on the Moon, a precise method for height estimation will be essential for hazardous terrain that could endanger the landing approach. Traditional approaches to generate DEMs from imagery, such as shape from shading (SfS) and stereophotogrammetry (SPG) have been proven highly valuable for this task. However, due to advancements in machine learning, especially computer vision, the focus has shifted towards monocular depth estimation via deep learning. The lunar surface is covered by rocks and craters, and classic hazard detection methods rely solely on 2D image data. Our goal is to address this issue by developing a relative lunar surface height estimator that can provide additional information for hazard localization. In this letter, we present a methodology that builds on the well-known zero-shot relative depth estimation model Depth Anything V2 (DAV2). Other works have been using it as a state-of-the-art comparison for their proposed lunar DEM estimation method, but without adaptations to the target domain. Thus, it may underperform. Therefore, we propose a fine-tuning strategy with publicly available SPG-derived DEM data of the lunar surface. Our results demonstrate a significant improvement in performance compared to the zero-shot model, effectively transforming DAV2 into a reliable relative depth estimator of the lunar surface.",
+      "authors": [
+        "Patrick Bauer",
+        "Marius Schwinning",
+        "Melanie Siegel",
+        "Andreas Weinmann",
+        "Hichem Snoussi"
+      ],
+      "published": "2026-09-02",
+      "updated": "2026-09-02",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.02448",
+      "pdf_url": "https://arxiv.org/pdf/2609.02448",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2609.02319": {
+      "arxiv_id": "2609.02319",
+      "title": "From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs",
+      "abstract": "Ultra-low-altitude unmanned aerial vehicles (UAVs) require surround vision near buildings, vegetation, and other obstacles. We present a parallax-aware onboard platform that converts four synchronized fisheye streams into an open 1280x640 equirectangular panorama (ERP) interface. A purpose-built carbon-fiber airframe integrates the cameras, NVIDIA Jetson Orin NX, a flight controller, and a global navigation satellite system (GNSS) receiver. The formation pipeline selects projection depth per overlap and combines controlled seams and photometric fusion. Its accuracy profile adds content-adaptive seam search and a validation-gated residual mesh, whereas its deployed profile retains margin-gated Per-seam updates for sensor-rate operation. Evaluation uses more than 50,000 four-view groups from 18 field sequences. Relative to Fixed Depth, the accuracy profile reduces far-field P90 feature misalignment by 41.6%; the deployed Per-seam profile achieves the lowest aggregate geometric errors across held-out sites. Under a paced 20 Hz replay, the deployed profile sustains 19.99 frames/s at 13.29W mean module-input power. Eight-sector ERP sampling reaches 90.8% mean daytime visual-place-recognition Recall@5. Together, these results validate an integrated onboard panoramic-perception architecture that unifies parallax-aware formation, sensor-rate embedded execution, and reusable downstream vision interfaces for ultra-low-altitude UAVs. The project has been open-sourced at https://github.com/DUNDAI1998/parallax-aware-uav-panorama.",
+      "authors": [
+        "Dun Dai",
+        "Ze Lu",
+        "Cheng He",
+        "Yaowen Wang",
+        "Quan Quan"
+      ],
+      "published": "2026-09-02",
+      "updated": "2026-09-02",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.02319",
+      "pdf_url": "https://arxiv.org/pdf/2609.02319",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
         ]
       }
     },
@@ -319,6 +389,39 @@
         "representation": [
           "Gaussian Splatting",
           "Dynamic / 4D"
+        ]
+      }
+    },
+    "2609.01997": {
+      "arxiv_id": "2609.01997",
+      "title": "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation",
+      "abstract": "We propose LF-MultiDiffusion, a training-free panorama generation method that extends MultiDiffusion to support linear projections between target and reference image spaces. Our key idea is to reformulate latent aggregation as a regularized least-squares problem and solve it efficiently with a Krylov-based iterative solver inside the denoising loop. This formulation enables denser and more natural mappings than prior training-free methods, yielding more stable generation with far fewer perspective views. As a result, LF-MultiDiffusion reduces the number of image generator evaluations during denoising and significantly improves inference efficiency. Experiments show that LF-MultiDiffusion achieves better visual quality, text alignment, and panoramic consistency than the strongest training-free baseline, while providing a 15.36$\\times$ speedup. Our project page is available at: https://ahykw.github.io/lfmd.",
+      "authors": [
+        "Akio Hayakawa",
+        "Yusuke Mukuta",
+        "Tatsuya Harada"
+      ],
+      "published": "2026-09-02",
+      "updated": "2026-09-02",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "comment": "Accepted to ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.01997",
+      "pdf_url": "https://arxiv.org/pdf/2609.01997",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
         ]
       }
     },
@@ -425,6 +528,7 @@
       "url": "https://arxiv.org/abs/2609.01899",
       "pdf_url": "https://arxiv.org/pdf/2609.01899",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -2336,13 +2440,13 @@
         "Daniel Cremers"
       ],
       "published": "2026-08-30",
-      "updated": "2026-08-30",
+      "updated": "2026-09-02",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
         "cs.AI"
       ],
-      "comment": null,
+      "comment": "Need to improve the writing",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2608.29705",
@@ -3653,7 +3757,9 @@
       "updated": "2026-08-28",
       "primary_category": "cs.AI",
       "categories": [
-        "cs.AI"
+        "cs.AI",
+        "cs.IT",
+        "math.ST"
       ],
       "comment": "Submitted to IEEE",
       "journal_ref": null,
@@ -321981,6 +322087,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-09-03",
-  "paper_count": 8601,
-  "generated_at": "2026-09-03T03:50:54+00:00"
+  "paper_count": 8604,
+  "generated_at": "2026-09-03T15:54:26+00:00"
 }
