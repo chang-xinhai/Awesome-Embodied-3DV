@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2891 · **Unique arXiv IDs:** 2891
+**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2895 · **Unique arXiv IDs:** 2895
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-02 | [InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling](https://arxiv.org/abs/2609.02747) | Tianheng Lu, Guangyu Wang, Ruqi Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.02747) / [pdf](https://arxiv.org/pdf/2609.02747) |
+| 2026-09-02 | [LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543) | Hezhi Cao, Panhao Cheng, huangsheng du, et al. | cs.GR, eess.IV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.02543) / [pdf](https://arxiv.org/pdf/2609.02543) |
+| 2026-09-02 | [CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.02184) | Kyungdae Park, Chae Eun Rhee | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.02184) / [pdf](https://arxiv.org/pdf/2609.02184) |
+| 2026-09-01 | [Automated Maize Ear Phenotyping Using 3D Reconstructions](https://arxiv.org/abs/2609.01921) | Ritwesh A. Kumar, Som Tripathi, Peja Matthews, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.01921) / [pdf](https://arxiv.org/pdf/2609.01921) |
 | 2026-09-01 | [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516) | Qian Wang, Yu Wang, Weiqi Li, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.01516) / [pdf](https://arxiv.org/pdf/2609.01516) |
 | 2026-09-01 | [EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.00994) | Wei Dong, Shahram Shirani, Jun Chen, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.00994) / [pdf](https://arxiv.org/pdf/2609.00994) |
 | 2026-09-01 | [Inverse Rendering for Modeling with Line Primitives](https://arxiv.org/abs/2609.00625) | Kenji Tojo, Ariel Shamir, Nobuyuki Umetani, et al. | cs.GR, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.00625) / [pdf](https://arxiv.org/pdf/2609.00625) |

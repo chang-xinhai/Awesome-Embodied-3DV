@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2784 · **Unique arXiv IDs:** 2784
+**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2788 · **Unique arXiv IDs:** 2788
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-02 | [RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/abs/2609.02847) | Xiaolei Lang, Ze Kang, Zehao Huang, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.02847) / [pdf](https://arxiv.org/pdf/2609.02847) |
+| 2026-09-02 | [AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels](https://arxiv.org/abs/2609.02798) | Javier Tirado-Garín, Alan Savio Paul, Shuai Chen, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.02798) / [pdf](https://arxiv.org/pdf/2609.02798) |
+| 2026-09-02 | [MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception](https://arxiv.org/abs/2609.02717) | Guido Caccianiga, Sergey Prokudin, Yutong Chen, et al. | cs.CV, cs.RO | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.02717) / [pdf](https://arxiv.org/pdf/2609.02717) |
+| 2026-09-01 | [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899) | Skanda Koppula, Frano Rajic, Abdullah Faiz Ur Rahman, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.01899) / [pdf](https://arxiv.org/pdf/2609.01899) |
 | 2026-09-01 | [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516) | Qian Wang, Yu Wang, Weiqi Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.01516) / [pdf](https://arxiv.org/pdf/2609.01516) |
 | 2026-09-01 | [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276) | Kai Guan, Minchao Jiang, Ruichen WangLi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.01276) / [pdf](https://arxiv.org/pdf/2609.01276) |
 | 2026-09-01 | [Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172) | Muxin Liu, Xiaoyang Lyu, Yang-Tian Sun, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.01172) / [pdf](https://arxiv.org/pdf/2609.01172) |

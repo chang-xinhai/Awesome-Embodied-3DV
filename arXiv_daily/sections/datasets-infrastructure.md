@@ -4,9 +4,15 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 500 · **Unique arXiv IDs:** 500
+**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 501 · **Unique arXiv IDs:** 501
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899) | Skanda Koppula, Frano Rajic, Abdullah Faiz Ur Rahman, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.01899) / [pdf](https://arxiv.org/pdf/2609.01899) |
 
 ## 2026-08
 

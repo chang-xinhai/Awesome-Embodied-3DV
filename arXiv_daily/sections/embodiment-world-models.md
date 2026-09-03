@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 2111 · **Unique arXiv IDs:** 2111
+**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2117 · **Unique arXiv IDs:** 2117
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-02 | [Discriminative World Models for Web Agents](https://arxiv.org/abs/2609.02885) | Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.02885) / [pdf](https://arxiv.org/pdf/2609.02885) |
+| 2026-09-02 | [World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain](https://arxiv.org/abs/2609.02542) | Yuxi Liu, Lijun Han, Ziming Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.02542) / [pdf](https://arxiv.org/pdf/2609.02542) |
+| 2026-09-02 | [Spatially Aware World Action Model via Geometric Latent Diffusion](https://arxiv.org/abs/2609.02531) | Javier Alejandro Lopetegui Gonzalez, Paul Pacaud, Cordelia Schmid | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.02531) / [pdf](https://arxiv.org/pdf/2609.02531) |
+| 2026-09-01 | [One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry](https://arxiv.org/abs/2609.01938) | Satvik Sharma, Samrat Sahoo, Huang Huang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.01938) / [pdf](https://arxiv.org/pdf/2609.01938) |
+| 2026-09-01 | [Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization](https://arxiv.org/abs/2609.01861) | Yuhan Chen, Zhihua Tian, Mahavir Dabas, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.01861) / [pdf](https://arxiv.org/pdf/2609.01861) |
+| 2026-09-01 | [Sim2Signal: Sim-to-Real Benchmarks for Traffic Signal Control](https://arxiv.org/abs/2609.01676) | Ferdous Al Rafi, Susrik Mukherjee, Latika Liladhar Dekate, et al. | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2609.01676) / [pdf](https://arxiv.org/pdf/2609.01676) |
 | 2026-09-01 | [SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants](https://arxiv.org/abs/2609.01579) | Rohit Menon, Shiva Rudra Lolla, Niklas Mueller-Goldingen, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.01579) / [pdf](https://arxiv.org/pdf/2609.01579) |
 | 2026-09-01 | [H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560) | Danze Chen, Zeqing Wang, Ziyue Lin, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.01560) / [pdf](https://arxiv.org/pdf/2609.01560) |
 | 2026-09-01 | [Provably Safe Sim-to-Real Transfer](https://arxiv.org/abs/2609.01418) | Tingting Ni, Maryam Kamgarpour | cs.LG, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.01418) / [pdf](https://arxiv.org/pdf/2609.01418) |

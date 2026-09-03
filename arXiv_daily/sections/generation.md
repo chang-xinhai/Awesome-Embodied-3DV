@@ -4,9 +4,16 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-02 · **Papers:** 926 · **Unique arXiv IDs:** 926
+**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 928 · **Unique arXiv IDs:** 928
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
+
+## 2026-09
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-01 | [Kirin: Animal Motion Generation from In-the-Wild Video](https://arxiv.org/abs/2609.01823) | Brian Nlong Zhao, Zhuoyang Pan, James M. Rehg, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.01823) / [pdf](https://arxiv.org/pdf/2609.01823) |
+| 2026-09-01 | [ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes](https://arxiv.org/abs/2609.01740) | Mingda Lin, Weijie Wang, Zeyu Zhang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.01740) / [pdf](https://arxiv.org/pdf/2609.01740) |
 
 ## 2026-08
 
