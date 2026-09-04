@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 1695 · **Unique arXiv IDs:** 1695
+**Coverage:** 2025-01-01 to 2026-09-04 · **Papers:** 1696 · **Unique arXiv IDs:** 1696
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-03 | [Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation](https://arxiv.org/abs/2609.03970) | Augustin Raju, Abilash Madavath, Chandra Yuvesh Aubeeluck, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.03970) / [pdf](https://arxiv.org/pdf/2609.03970) |
 | 2026-09-02 | [Adapting a Foundation Model for Lunar Surface Height Estimation](https://arxiv.org/abs/2609.02448) | Patrick Bauer, Marius Schwinning, Melanie Siegel, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.02448) / [pdf](https://arxiv.org/pdf/2609.02448) |
 | 2026-09-02 | [From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs](https://arxiv.org/abs/2609.02319) | Dun Dai, Ze Lu, Cheng He, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.02319) / [pdf](https://arxiv.org/pdf/2609.02319) |
 | 2026-09-02 | [Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation](https://arxiv.org/abs/2609.01997) | Akio Hayakawa, Yusuke Mukuta, Tatsuya Harada | cs.CV, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.01997) / [pdf](https://arxiv.org/pdf/2609.01997) |

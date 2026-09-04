@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2117 · **Unique arXiv IDs:** 2117
+**Coverage:** 2025-01-01 to 2026-09-04 · **Papers:** 2127 · **Unique arXiv IDs:** 2127
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-03 | [A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle](https://arxiv.org/abs/2609.04147) | Gustavo Claudio Karl Couto, Eric Aislan Antonelo, Gabriel George Zipperer | cs.LG, cs.AI, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.04147) / [pdf](https://arxiv.org/pdf/2609.04147) |
+| 2026-09-03 | [OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping](https://arxiv.org/abs/2609.03919) | Zelong Lv, Sicheng Xu, Jianfeng Xiang, et al. | cs.CV | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.03919) / [pdf](https://arxiv.org/pdf/2609.03919) |
+| 2026-09-03 | [A hybrid pipeline for dynamic ontology-based semantic mapping](https://arxiv.org/abs/2609.03891) | Konstantinos Dimitropoulos, Ioannis Hatzilygeroudis | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.03891) / [pdf](https://arxiv.org/pdf/2609.03891) |
+| 2026-09-03 | [Rethinking World Models for Safety-Critical Embodied Systems](https://arxiv.org/abs/2609.03774) | Kailang Ma, Heye Huang, Inhi Kim, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.03774) / [pdf](https://arxiv.org/pdf/2609.03774) |
+| 2026-09-03 | [Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving](https://arxiv.org/abs/2609.03572) | Zhaoxin Fan, Tianbao Zhang, Wenjun Wu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.03572) / [pdf](https://arxiv.org/pdf/2609.03572) |
+| 2026-09-03 | [Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning](https://arxiv.org/abs/2609.03565) | Muyuan Liu, Yue Huang, Zheng Liang, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.03565) / [pdf](https://arxiv.org/pdf/2609.03565) |
+| 2026-09-03 | [R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models](https://arxiv.org/abs/2609.03276) | Yidi Wang, Feixiang Ruan, Ruoqu Chen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.03276) / [pdf](https://arxiv.org/pdf/2609.03276) |
+| 2026-09-03 | [Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving](https://arxiv.org/abs/2609.03225) | Yuxuan Han, Kunyuan Wu, Liyunong Yang, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2609.03225) / [pdf](https://arxiv.org/pdf/2609.03225) |
+| 2026-09-02 | [VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement](https://arxiv.org/abs/2609.03153) | Wenzhuo Xu, Yuchen Zhu, Chongjian Ge, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.03153) / [pdf](https://arxiv.org/pdf/2609.03153) |
+| 2026-09-02 | [GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations](https://arxiv.org/abs/2609.03067) | Duncan Eddy, Isaac R. Ward, Grace Ra Kim, et al. | cs.RO, eess.SY | World Model | [abs](https://arxiv.org/abs/2609.03067) / [pdf](https://arxiv.org/pdf/2609.03067) |
 | 2026-09-02 | [Discriminative World Models for Web Agents](https://arxiv.org/abs/2609.02885) | Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.02885) / [pdf](https://arxiv.org/pdf/2609.02885) |
 | 2026-09-02 | [World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain](https://arxiv.org/abs/2609.02542) | Yuxi Liu, Lijun Han, Ziming Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.02542) / [pdf](https://arxiv.org/pdf/2609.02542) |
 | 2026-09-02 | [Spatially Aware World Action Model via Geometric Latent Diffusion](https://arxiv.org/abs/2609.02531) | Javier Alejandro Lopetegui Gonzalez, Paul Pacaud, Cordelia Schmid | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.02531) / [pdf](https://arxiv.org/pdf/2609.02531) |

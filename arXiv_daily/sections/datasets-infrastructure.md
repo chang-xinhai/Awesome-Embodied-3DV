@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 501 · **Unique arXiv IDs:** 501
+**Coverage:** 2025-01-01 to 2026-09-04 · **Papers:** 505 · **Unique arXiv IDs:** 505
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-03 | [TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization](https://arxiv.org/abs/2609.03613) | Wei Tan, Matias Turkulainen, Lauri Ilola, et al. | cs.GR | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.03613) / [pdf](https://arxiv.org/pdf/2609.03613) |
+| 2026-09-03 | [TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534) | Theo Morales, Nhat-Quynh Le-Pham, Robin Atkins, et al. | cs.CV, cs.AI, cs.GR | Dataset | [abs](https://arxiv.org/abs/2609.03534) / [pdf](https://arxiv.org/pdf/2609.03534) |
+| 2026-09-03 | [When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection](https://arxiv.org/abs/2609.03378) | Xuehao Wang, Jiaxin Hua, Runmei Li, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.03378) / [pdf](https://arxiv.org/pdf/2609.03378) |
+| 2026-09-02 | [WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation](https://arxiv.org/abs/2609.03102) | Zilin Dai, Lehong Wang, Yi Yang, et al. | cs.CV | Simulator / Toolchain | [abs](https://arxiv.org/abs/2609.03102) / [pdf](https://arxiv.org/pdf/2609.03102) |
 | 2026-09-01 | [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899) | Skanda Koppula, Frano Rajic, Abdullah Faiz Ur Rahman, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.01899) / [pdf](https://arxiv.org/pdf/2609.01899) |
 
 ## 2026-08

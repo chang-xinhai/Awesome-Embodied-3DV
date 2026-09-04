@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2788 · **Unique arXiv IDs:** 2788
+**Coverage:** 2025-01-01 to 2026-09-04 · **Papers:** 2798 · **Unique arXiv IDs:** 2798
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-03 | [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201) | Chin-Yang Lin, Yang-Che Sun, Cheng Sun, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.04201) / [pdf](https://arxiv.org/pdf/2609.04201) |
+| 2026-09-03 | [Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174) | Denis M. Akola, David F. Fouhey | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.04174) / [pdf](https://arxiv.org/pdf/2609.04174) |
+| 2026-09-03 | [Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931) | Thomas Lucas, Maxime Pietrantoni, Philippe Weinzaepfel, et al. | cs.CV, cs.LG | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.03931) / [pdf](https://arxiv.org/pdf/2609.03931) |
+| 2026-09-03 | [A hybrid pipeline for dynamic ontology-based semantic mapping](https://arxiv.org/abs/2609.03891) | Konstantinos Dimitropoulos, Ioannis Hatzilygeroudis | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.03891) / [pdf](https://arxiv.org/pdf/2609.03891) |
+| 2026-09-03 | [A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement](https://arxiv.org/abs/2609.03794) | SeyedMohammadAmin Nabi Pour, S. Gareth Pierce, Randika Vithanage, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.03794) / [pdf](https://arxiv.org/pdf/2609.03794) |
+| 2026-09-03 | [ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation](https://arxiv.org/abs/2609.03756) | Javier del Pino, Salvador Rodríguez, Alejandro Garabito, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.03756) / [pdf](https://arxiv.org/pdf/2609.03756) |
+| 2026-09-03 | [RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback](https://arxiv.org/abs/2609.03720) | Gabriel Manuel Garcia, Stephanie Aravecchia, Miguel Angel Olivares-Mendez | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.03720) / [pdf](https://arxiv.org/pdf/2609.03720) |
+| 2026-09-03 | [Stabilizing Camera-Controlled Novel View Synthesis at Inference Time](https://arxiv.org/abs/2609.03639) | Prajwal Singh, Arjun Badola, Seema Kumari, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.03639) / [pdf](https://arxiv.org/pdf/2609.03639) |
+| 2026-09-03 | [TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534) | Theo Morales, Nhat-Quynh Le-Pham, Robin Atkins, et al. | cs.CV, cs.AI, cs.GR | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.03534) / [pdf](https://arxiv.org/pdf/2609.03534) |
+| 2026-09-03 | [P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing](https://arxiv.org/abs/2609.03349) | Yanshu Zhang, Shichong Peng, Mehran Aghabozorgi, et al. | cs.CV, cs.GR | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.03349) / [pdf](https://arxiv.org/pdf/2609.03349) |
 | 2026-09-02 | [RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/abs/2609.02847) | Xiaolei Lang, Ze Kang, Zehao Huang, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.02847) / [pdf](https://arxiv.org/pdf/2609.02847) |
 | 2026-09-02 | [AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels](https://arxiv.org/abs/2609.02798) | Javier Tirado-Garín, Alan Savio Paul, Shuai Chen, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.02798) / [pdf](https://arxiv.org/pdf/2609.02798) |
 | 2026-09-02 | [MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception](https://arxiv.org/abs/2609.02717) | Guido Caccianiga, Sergey Prokudin, Yutong Chen, et al. | cs.CV, cs.RO | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.02717) / [pdf](https://arxiv.org/pdf/2609.02717) |

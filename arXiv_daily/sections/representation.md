@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-03 · **Papers:** 2895 · **Unique arXiv IDs:** 2895
+**Coverage:** 2025-01-01 to 2026-09-04 · **Papers:** 2904 · **Unique arXiv IDs:** 2904
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-03 | [Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931) | Thomas Lucas, Maxime Pietrantoni, Philippe Weinzaepfel, et al. | cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03931) / [pdf](https://arxiv.org/pdf/2609.03931) |
+| 2026-09-03 | [Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing](https://arxiv.org/abs/2609.03897) | Cheng-Kang Ted Chao, Yotam Gingold | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03897) / [pdf](https://arxiv.org/pdf/2609.03897) |
+| 2026-09-03 | [Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations](https://arxiv.org/abs/2609.03657) | Onat Şahin, Mohammad Altillawi, George Eskandar, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.03657) / [pdf](https://arxiv.org/pdf/2609.03657) |
+| 2026-09-03 | [TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization](https://arxiv.org/abs/2609.03613) | Wei Tan, Matias Turkulainen, Lauri Ilola, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03613) / [pdf](https://arxiv.org/pdf/2609.03613) |
+| 2026-09-03 | [TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534) | Theo Morales, Nhat-Quynh Le-Pham, Robin Atkins, et al. | cs.CV, cs.AI, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.03534) / [pdf](https://arxiv.org/pdf/2609.03534) |
+| 2026-09-03 | [STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction](https://arxiv.org/abs/2609.03447) | Bocheng Li, Wenjuan Zhang, Jie Pan. Dongxu Han, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03447) / [pdf](https://arxiv.org/pdf/2609.03447) |
+| 2026-09-03 | [P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing](https://arxiv.org/abs/2609.03349) | Yanshu Zhang, Shichong Peng, Mehran Aghabozorgi, et al. | cs.CV, cs.GR | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.03349) / [pdf](https://arxiv.org/pdf/2609.03349) |
+| 2026-09-03 | [PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://arxiv.org/abs/2609.03341) | Yanshu Zhang, George Shramko, Pratul P. Srinivasan, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03341) / [pdf](https://arxiv.org/pdf/2609.03341) |
+| 2026-09-03 | [Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training](https://arxiv.org/abs/2609.03334) | Yixiong Yang, Sisheng Zhang, Qingsong Yan, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03334) / [pdf](https://arxiv.org/pdf/2609.03334) |
 | 2026-09-02 | [InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling](https://arxiv.org/abs/2609.02747) | Tianheng Lu, Guangyu Wang, Ruqi Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.02747) / [pdf](https://arxiv.org/pdf/2609.02747) |
 | 2026-09-02 | [LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543) | Hezhi Cao, Panhao Cheng, huangsheng du, et al. | cs.GR, eess.IV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.02543) / [pdf](https://arxiv.org/pdf/2609.02543) |
 | 2026-09-02 | [CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.02184) | Kyungdae Park, Chae Eun Rhee | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.02184) / [pdf](https://arxiv.org/pdf/2609.02184) |
