@@ -3533,7 +3533,7 @@
         "Chengkai Dai"
       ],
       "published": "2026-08-31",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
@@ -3543,7 +3543,7 @@
       ],
       "comment": null,
       "journal_ref": null,
-      "doi": null,
+      "doi": "10.1145/3829340.3842340",
       "url": "https://arxiv.org/abs/2608.30344",
       "pdf_url": "https://arxiv.org/pdf/2608.30344",
       "query_sources": [
@@ -7255,12 +7255,12 @@
         "YiHsuan Tsai"
       ],
       "published": "2026-08-24",
-      "updated": "2026-08-25",
+      "updated": "2026-09-04",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
       ],
-      "comment": "12 pages,5 figures,5 tables. Code and data will be released",
+      "comment": "15 pages, 3 figures, 9 tables. Code and weights: https://github.com/102324988/LSOP_code_release",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2608.23206",
@@ -323680,5 +323680,5 @@
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-09-07",
   "paper_count": 8648,
-  "generated_at": "2026-09-07T03:36:26+00:00"
+  "generated_at": "2026-09-07T17:22:39+00:00"
 }
