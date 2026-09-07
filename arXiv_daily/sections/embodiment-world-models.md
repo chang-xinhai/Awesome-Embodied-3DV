@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-06 · **Papers:** 2127 · **Unique arXiv IDs:** 2127
+**Coverage:** 2025-01-01 to 2026-09-07 · **Papers:** 2128 · **Unique arXiv IDs:** 2128
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -20,6 +20,7 @@
 | 2026-09-03 | [Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning](https://arxiv.org/abs/2609.03565) | Muyuan Liu, Yue Huang, Zheng Liang, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.03565) / [pdf](https://arxiv.org/pdf/2609.03565) |
 | 2026-09-03 | [R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models](https://arxiv.org/abs/2609.03276) | Yidi Wang, Feixiang Ruan, Ruoqu Chen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.03276) / [pdf](https://arxiv.org/pdf/2609.03276) |
 | 2026-09-03 | [Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving](https://arxiv.org/abs/2609.03225) | Yuxuan Han, Kunyuan Wu, Liyunong Yang, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2609.03225) / [pdf](https://arxiv.org/pdf/2609.03225) |
+| 2026-09-02 | [Spectral-Target Physical Latent Structuring for JEPA-Style World Models](https://arxiv.org/abs/2609.04264) | Penghao Zhu, Salvatore Penachio, Kaustav Mukherjee, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2609.04264) / [pdf](https://arxiv.org/pdf/2609.04264) |
 | 2026-09-02 | [VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement](https://arxiv.org/abs/2609.03153) | Wenzhuo Xu, Yuchen Zhu, Chongjian Ge, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.03153) / [pdf](https://arxiv.org/pdf/2609.03153) |
 | 2026-09-02 | [GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations](https://arxiv.org/abs/2609.03067) | Duncan Eddy, Isaac R. Ward, Grace Ra Kim, et al. | cs.RO, eess.SY | World Model | [abs](https://arxiv.org/abs/2609.03067) / [pdf](https://arxiv.org/pdf/2609.03067) |
 | 2026-09-02 | [Discriminative World Models for Web Agents](https://arxiv.org/abs/2609.02885) | Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.02885) / [pdf](https://arxiv.org/pdf/2609.02885) |

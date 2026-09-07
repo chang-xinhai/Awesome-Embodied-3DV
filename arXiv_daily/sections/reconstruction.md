@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-06 · **Papers:** 2798 · **Unique arXiv IDs:** 2798
+**Coverage:** 2025-01-01 to 2026-09-07 · **Papers:** 2803 · **Unique arXiv IDs:** 2803
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-04 | [FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement](https://arxiv.org/abs/2609.05325) | Kun Hu, Menggang Li, Kaidi Wu, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.05325) / [pdf](https://arxiv.org/pdf/2609.05325) |
+| 2026-09-04 | [BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210) | Vincent Leroy, Philippe Weinzaepfel, Lojze Zust, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Mapping / SLAM, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.05210) / [pdf](https://arxiv.org/pdf/2609.05210) |
+| 2026-09-04 | [Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction](https://arxiv.org/abs/2609.04984) | Tianle Du, Jie Wang, Xiaolong Xie, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.04984) / [pdf](https://arxiv.org/pdf/2609.04984) |
+| 2026-09-04 | [Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents](https://arxiv.org/abs/2609.04802) | Tianyidan Xie, Shenyi Wang, Qiang Tang, et al. | cs.CV, cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.04802) / [pdf](https://arxiv.org/pdf/2609.04802) |
+| 2026-09-04 | [HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718) | Ziding Zhao, Hainan Cui, Peilin Tao, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.04718) / [pdf](https://arxiv.org/pdf/2609.04718) |
 | 2026-09-03 | [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201) | Chin-Yang Lin, Yang-Che Sun, Cheng Sun, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.04201) / [pdf](https://arxiv.org/pdf/2609.04201) |
 | 2026-09-03 | [Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174) | Denis M. Akola, David F. Fouhey | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.04174) / [pdf](https://arxiv.org/pdf/2609.04174) |
 | 2026-09-03 | [Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931) | Thomas Lucas, Maxime Pietrantoni, Philippe Weinzaepfel, et al. | cs.CV, cs.LG | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.03931) / [pdf](https://arxiv.org/pdf/2609.03931) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-06 · **Papers:** 2904 · **Unique arXiv IDs:** 2904
+**Coverage:** 2025-01-01 to 2026-09-07 · **Papers:** 2909 · **Unique arXiv IDs:** 2909
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-04 | [WorldSculpt: Generating Compositional Worlds from Grounded Videos](https://arxiv.org/abs/2609.05416) | Muyao Niu, Jixuan He, Ruihan Yu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.05416) / [pdf](https://arxiv.org/pdf/2609.05416) |
+| 2026-09-04 | [Compact Neural Appearance Models for Efficient Gaussian Splatting](https://arxiv.org/abs/2609.05255) | Florian Hahlbohm, Jorge Condor, Linus Franke, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.05255) / [pdf](https://arxiv.org/pdf/2609.05255) |
+| 2026-09-04 | [Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction](https://arxiv.org/abs/2609.04984) | Tianle Du, Jie Wang, Xiaolong Xie, et al. | cs.CV | Radiance Field / NeRF, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.04984) / [pdf](https://arxiv.org/pdf/2609.04984) |
+| 2026-09-04 | [NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions](https://arxiv.org/abs/2609.04602) | Junhui Wang, Wei Yang, Xinyao Li, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.04602) / [pdf](https://arxiv.org/pdf/2609.04602) |
+| 2026-09-03 | [Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models](https://arxiv.org/abs/2609.04381) | Chenxi Tao, Seung-Kyum Choi | cs.CV, cs.AI, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.04381) / [pdf](https://arxiv.org/pdf/2609.04381) |
 | 2026-09-03 | [Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931) | Thomas Lucas, Maxime Pietrantoni, Philippe Weinzaepfel, et al. | cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03931) / [pdf](https://arxiv.org/pdf/2609.03931) |
 | 2026-09-03 | [Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing](https://arxiv.org/abs/2609.03897) | Cheng-Kang Ted Chao, Yotam Gingold | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.03897) / [pdf](https://arxiv.org/pdf/2609.03897) |
 | 2026-09-03 | [Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations](https://arxiv.org/abs/2609.03657) | Onat Şahin, Mohammad Altillawi, George Eskandar, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.03657) / [pdf](https://arxiv.org/pdf/2609.03657) |

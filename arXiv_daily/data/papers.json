@@ -1,6 +1,550 @@
 {
   "schema_version": 1,
   "papers": {
+    "2609.05416": {
+      "arxiv_id": "2609.05416",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "abstract": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simulation, and robotics. This task is challenging in densely cluttered scenes, where objects heavily occlude one another and each view reveals only a fraction of their geometry. Geometry-based approaches typically reconstruct the scene as a single representation and leave incomplete geometry in occluded regions, while existing compositional methods with generative priors are largely limited to relatively simple scenes. We show that complex scenes with hundreds of objects can instead be generated compositionally by adapting a strong single-object 3D generative prior to multi-view observations. We instantiate this paradigm with Pixal3D, extending it with a multi-view conditioning pathway that grounds object generation in multiple posed observations. Although the model is finetuned entirely on single objects in canonical space, it generalizes to large scenes with severe occlusion without any scene-level training, demonstrating the feasibility and scalability of this paradigm. We further introduce UE-MeshyScene, a photorealistic benchmark of densely cluttered scenes with hundreds of objects, per-object annotations, and ground-truth meshes. Across single-object, controlled multi-object, and UE-MeshyScene evaluations, our method consistently outperforms prior approaches, with larger gains as scene complexity and occlusion increase. Finally, we demonstrate broader applicability by converting generated 3DGS worlds, such as Marble and HY-World 2.0, into compositional mesh scenes.",
+      "authors": [
+        "Muyao Niu",
+        "Jixuan He",
+        "Ruihan Yu",
+        "Lian Fu",
+        "Yonghao Yu",
+        "Zheng-Hui Huang",
+        "Yifan Zhan",
+        "Fengbo Lan",
+        "Yongtao Ge",
+        "Yinqiang Zheng",
+        "Kaipeng Zhang",
+        "Zhixiang Wang"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Homepage: https://alaya-lab.github.io/WorldSculpt/; Github: https://github.com/AlayaLab/WorldSculpt",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05416",
+      "pdf_url": "https://arxiv.org/pdf/2609.05416",
+      "query_sources": [
+        "generation-and-assets",
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2609.05397": {
+      "arxiv_id": "2609.05397",
+      "title": "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
+      "abstract": "Reliable 3D understanding of the surrounding environment is a core requirement for autonomous driving. Multi-view surround camera rigs provide broad scene coverage, but the spatially adjacent images typically overlap only minimally. Consequently, the depth of most pixels must be inferred from monocular appearance cues. These cues can appear differently across images and may therefore be interpreted differently by the depth estimation model. We target two main sources of cross-image inconsistency: differences in camera intrinsics and the limited receptive field of each image. We address the former by conditioning the features on per-pixel camera-aware ray embeddings, enabling the network to account for camera-dependent variations in monocular cues. We address the latter by extending each pixel's context beyond its own image through cross-image attention constrained to geometrically plausible regions, derived from the calibrated rig setup. The model is trained in a fully self-supervised manner based on photometric consistency. Evaluations on DDAD and nuScenes show improved overall depth accuracy and cross-image depth consistency over state-of-the-art self-supervised methods under in-domain and cross-domain evaluation. Code is available at https://abualhanud.github.io/CrossDepthPage/.",
+      "authors": [
+        "Samer Abualhanud",
+        "Max Mehltretter"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05397",
+      "pdf_url": "https://arxiv.org/pdf/2609.05397",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2609.05382": {
+      "arxiv_id": "2609.05382",
+      "title": "Reflection-aware Generative Novel View Synthesis",
+      "abstract": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot exploit reflected content for scene generation. To fix this issue without additional training, our key idea is to treat a mirror image as two complementary views. From input images, we estimate the mirror plane and reflect camera poses to form virtual views. Based on this virtual view setup, we propose a two-stage generation method consisting of Mirror-gated attention and Reflection injection, which enables reflection-consistent NVS by explicitly leveraging reflection relationships in a multi-view diffusion model. Ref-GeNVS inherits the strong generalizability of the multi-view diffusion backbone, while it does not require finetuning. On synthetic and real scenes including mirrors, Ref-GeNVS outperforms recent generative NVS methods by generating reflection-consistent and contextually coherent novel views, revealing scene structure visible only through mirrors. Project page: https://kim-geonu.github.io/Ref-GeNVS/",
+      "authors": [
+        "GeonU Kim",
+        "Shin Dong-Yeon",
+        "Tae-Hyun Oh"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "ECCV2026, Project page: https://kim-geonu.github.io/Ref-GeNVS/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05382",
+      "pdf_url": "https://arxiv.org/pdf/2609.05382",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Scene / World Generation"
+        ]
+      }
+    },
+    "2609.05325": {
+      "arxiv_id": "2609.05325",
+      "title": "FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement",
+      "abstract": "Achieving robust SLAM in large-scale underground coal mines with complex structures and severe degeneracies remains highly challenging. Dense smoke and dust cause substantial loss of visual information and degrade LiDAR point-cloud features, while long, self-similar corridors induce geometric degeneration, leading to pronounced odometry drift. To address these issues, we propose FIRE-LIVWO: Failure-Immune mmWave Radar-Enhanced LiDAR-Inertial-Visual-Wheel Odometry, a tightly coupled multi-modal odometry framework based on an iterated error-state Kalman filter (IESKF). The framework fuses 4D mmWave radar, LiDAR, and visual features within a unified VoxelMap and jointly constructs LiDAR-radar point-to-plane residuals and sparse visual photometric residuals. In smoke-filled environments, we exploit the strong penetration of 4D mmWave radar and introduce pointwise Doppler velocity constraints to preserve state observability. In geometrically degenerate corridors, we tightly couple wheel odometry using non-holonomic constraints (NHC) and online lever-arm compensation to reduce drift. Our central contribution is a degeneration detection and adaptive fusion model switching strategy grounded in geometric and visual observability analysis, which quantifies observability online and dynamically adjusts modality weights. Real-world experiments in underground coal mines demonstrate that FIRE-LIVWO accurately identifies failure boundaries, enabling reliable modality switching under extreme conditions. Compared with baselines, it achieves superior accuracy and robustness (average localization error of 5.677m). We open source our code on Github to benefit the robotics community.",
+      "authors": [
+        "Kun Hu",
+        "Menggang Li",
+        "Kaidi Wu",
+        "Zhiwen Jin",
+        "Yingjie Zhao",
+        "Chaoquan Tang",
+        "Eryi Hu",
+        "Gongbo Zhou"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "Accepted by IROS 2026.The project website is \"https://kj-falloutlast.github.io/FIRE-LIVWO\"",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05325",
+      "pdf_url": "https://arxiv.org/pdf/2609.05325",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2609.05255": {
+      "arxiv_id": "2609.05255",
+      "title": "Compact Neural Appearance Models for Efficient Gaussian Splatting",
+      "abstract": "Explicit primitive-based radiance fields such as 3D Gaussian Splatting typically model view-dependent appearance using low-order spherical harmonics (SH). Although efficient to evaluate, SH coefficients dominate per-primitive storage and memory traffic, while their band-limited basis restricts angular detail. We present a thorough, end-to-end comparison of SH and recent spherical appearance models and introduce an implicit alternative that decodes compact per-primitive latent codes using a tiny shared MLP. We integrate all models into the same optimized pipeline, fusing their forward and backward passes into a differentiable CUDA rasterizer and provide a portable WebGL viewer for laptop and mobile GPUs. Our evaluation across reconstruction quality, memory use, and optimization and rendering performance shows that recent spherical models offer the strongest overall quality-efficiency trade-off. Our neural representation is the most compact model evaluated and, compared to third-degree SH, reduces the per-primitive appearance footprint from 192 to 28 bytes, accelerates optimization by 1.3$\\times$, while improving reconstruction quality. We further analyze how appearance parametrization shapes optimization, identifying differences in recovered geometry and the tendency of expressive models to absorb non-static scene content. Together, our framework and analysis provide practical guidance for replacing SH beyond what image metrics alone can capture.",
+      "authors": [
+        "Florian Hahlbohm",
+        "Jorge Condor",
+        "Linus Franke",
+        "Martin Eisemann",
+        "Marcus Magnor"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": "Project page: https://fhahlbohm.github.io/efficient-gaussian-appearance",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05255",
+      "pdf_url": "https://arxiv.org/pdf/2609.05255",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2609.05210": {
+      "arxiv_id": "2609.05210",
+      "title": "BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors",
+      "abstract": "Recent hybrid Structure-from-Motion (SfM) systems combine the robustness of feed-forward 3D reconstruction with the accuracy of traditional bundle adjustment (BA) with pixel matching. They are usually the best performing methods however their scalability and usability remains limited since estimating dense correspondences between views is prohibitively costly, especially considering time constraints inherent to online applications like Visual SLAM (VSLAM). In this paper, we introduce a regularized BA framework that leverages a fast multi-view matcher and monocular priors for initialization and regularization. In contrast to existing systems, our unified approach seamlessly supports both online VSLAM and offline reconstruction from unordered image collections within the same optimization framework and sharing common hyperparameters for all tasks. Extensive experiments across both domains demonstrate improved performance and speed tradeoffs over traditional, feed-forward, and hybrid baselines. Notably for VSLAM, our uncalibrated method outperforms all previous calibrated approaches.",
+      "authors": [
+        "Vincent Leroy",
+        "Philippe Weinzaepfel",
+        "Lojze Zust",
+        "Yohann Cabon",
+        "Jérome Revaud"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "ECCV'26",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.05210",
+      "pdf_url": "https://arxiv.org/pdf/2609.05210",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Mapping / SLAM",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2609.04984": {
+      "arxiv_id": "2609.04984",
+      "title": "Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction",
+      "abstract": "In the field of computer vision and graphics, high-quality reconstruction of the human body in static scenes has been achieved in recent years by a single multilayer perceptron (MLP) in a number of approaches. However, MLPs have capacity limitations, requiring substantial training time and computational resources for dynamic scene reconstruction. And the quality of reconstruction is significantly constrained. This paper proposes a method for effectively processing complex spatiotemporal signals in dynamic scene human 3D modeling. The proposed method uses Temporal Residual Neural Radiance Fields to achieve novel view rendering and new pose synthesis of human bodies.To address the problem of representing temporal signals in video sequences, we construct a temporal residual field which is not related to the MLP architecture. Secondly, to improve reconstruction efficiency, we propose an integrated approach that reduces trainable parameters and accelerates rendering, thereby enhancing the network's feature representation capability. Finally, we design a multi-dimensional loss function to accurately measure the loss between predicted and actual spatial pixel values. The experimental results show that our proposed approach improves the peak signal-to-noise ratio (PSNR) and structural similarity index (SSIM) accuracy metrics compared to the latest representative methods. It maintains similar accuracy to Anim-NeRF and Neural Body while achieving a nearly 780-fold increase in time efficiency.",
+      "authors": [
+        "Tianle Du",
+        "Jie Wang",
+        "Xiaolong Xie",
+        "Wei Li",
+        "Pengxiang Su",
+        "Jie Liu"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Published in Journal of Electronic Imaging, 2024",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04984",
+      "pdf_url": "https://arxiv.org/pdf/2609.04984",
+      "query_sources": [
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Radiance Field / NeRF",
+          "Dynamic / 4D"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2609.04942": {
+      "arxiv_id": "2609.04942",
+      "title": "Learning 3D Editing without Paired Supervision via Generative Prior Distillation",
+      "abstract": "Instruction-guided 3D editing is essential for interactive content creation, yet it faces a significant bottleneck: the severe scarcity of high-quality paired training data. Existing approaches attempt to bypass this by either relying on slow test-time optimization or training on pseudo-pairs constructed via complex pipelines, which often introduce structural drift and geometric artifacts. In this paper, we propose a novel framework that learns feed-forward 3D editing without paired 3D supervision via Generative Prior Distillation. Instead of relying on ground-truth 3D pairs, our core idea is to distill visual, semantic, and geometric knowledge from powerful foundation models directly into a 3D editing model. Specifically, through a differentiable rendering pipeline, we supervise the 3D representation using two complementary signals: a 2D visual prior from an image editing model at the main editing view, and a semantic prior from a Vision-Language Model at novel views to ensure strict instruction following and source identity preservation. Crucially, to address the geometric collapse and multi-view inconsistencies inherent in 2D projection supervision, we introduce a 3D-aware Distribution Matching regularization. Acting as a geometric prior, this term operates in the 3D latent space, constraining the edited output to remain within the manifold of realistic 3D assets defined by a pretrained image to 3D teacher model. Extensive experiments demonstrate that our method achieves superior instruction fidelity and cross-view consistency, significantly outperforming state-of-the-art baselines. Our project is available at: https://github.com/thiamine128/PriorEdit3D.",
+      "authors": [
+        "Hao Wen",
+        "Weibin Yun",
+        "Hongxing Fan",
+        "Haotian Lu",
+        "Rui Chen",
+        "Zehuan Huang",
+        "Lu Sheng"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "18 pages, 14 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04942",
+      "pdf_url": "https://arxiv.org/pdf/2609.04942",
+      "query_sources": [
+        "generation-and-assets",
+        "representations"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D",
+          "3D Editing"
+        ]
+      }
+    },
+    "2609.04827": {
+      "arxiv_id": "2609.04827",
+      "title": "Weather-Conditioned Depth Anything",
+      "abstract": "Monocular depth estimation foundation models, such as the Depth Anything series, have achieved remarkable performance across diverse domains. However, they still suffer from critical failures under adverse weather conditions, such as fog, rain, snow, or at night. To address this, we present Weather-Conditioned Depth Anything (DA-W), a framework that explicitly disentangles style from content for weather-robust depth estimation. Specifically, we introduce a Style Filter trained on a curated mix of real and synthetic degradation datasets to extract content-independent, degradation-aware weather embeddings. This style embedding is then injected into the Depth Anything backbone using a parameter-efficient, zero-initialized adapter. Such a lightweight modulation allows a single unified model to robustly adapt to diverse conditions, including fog, rain, snow, and low-light, while avoiding catastrophic forgetting of its core generalization abilities in normal conditions. We train the adapter using a pseudo-label distillation and alignment strategy. Our comprehensive experiments demonstrate that our proposed DA-W achieves state-of-the-art robust depth estimation, improving AbsRel by an average of 3.7% on our curated weather benchmarks, while matching or slightly outperforming performance on standard clean benchmarks. Our project page is available at https://zhaoming-tamu.github.io/WCDA/.",
+      "authors": [
+        "Zhaoming Xu",
+        "Chan-Wei Hu",
+        "Kuan-Ru Huang",
+        "Zihao Zhu",
+        "Renjie Li",
+        "Yang Zhou",
+        "Zhengzhong Tu"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04827",
+      "pdf_url": "https://arxiv.org/pdf/2609.04827",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2609.04802": {
+      "arxiv_id": "2609.04802",
+      "title": "Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents",
+      "abstract": "Embodied agents performing long-horizon tasks require a memory representation in which the state transitions of dynamic objects remain queryable in natural language across hours-to-days observation horizons. Existing systems either drop fine-grained motion (clip-level video-language embeddings), keep it only as raw coordinates (geometric SLAM), or organise it around immediate task context (agent working memories). None of them gives the agent a per-object timeline whose state transitions are themselves queryable in language. Our key contribution is \\textbf{Linguistic Trajectory Encoding} (LTE), which compresses dynamic object motion histories via a hybrid representation combining natural language descriptions, sparse spatial anchors, and visual anchors. LTE adapts compression to motion complexity by anchoring periods without reliable observations to the last seen location, while representing motion with geometric waypoints and linguistic descriptions to preserve accuracy. To evaluate these capabilities across extended time horizons, we construct the \\textbf{Spatial Memory Benchmark} (SMB) from EgoLife multi-day recordings, targeting capabilities absent in existing benchmarks: semantic trajectory retrieval and long-horizon object retrieval. On SMB, the LTE-based system achieves $45.3\\%$ success in semantic trajectory retrieval and $48.7\\%$ in long-horizon object retrieval, outperforming structured-memory and VLM baselines (best prior: $31.9\\%$ and $34.4\\%$). LTE achieves trajectory compression by factors of $8.7\\times$ to $26.1\\times$ with sub-second query latency on $24$\\,h video. On Ego4D natural-language queries, the system reaches $28.75\\%$ / $55.10\\%$ R@1/R@5, $+15.80$ / $+31.30$ pts over EgoVLPv2.",
+      "authors": [
+        "Tianyidan Xie",
+        "Shenyi Wang",
+        "Qiang Tang",
+        "Mingjie Wang",
+        "Zhicheng Qiu",
+        "Xuanfu Li",
+        "Zhan Xu",
+        "Jian Yang",
+        "Lanjun Wang",
+        "Zili Yi"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04802",
+      "pdf_url": "https://arxiv.org/pdf/2609.04802",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2609.04718": {
+      "arxiv_id": "2609.04718",
+      "title": "HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction",
+      "abstract": "Structure-from-Motion (SfM) is a fundamental tool for sparse 3D reconstruction with broad impact in robotics and vision, supporting mapping, localization, and large-scale scene modeling. However, conventional pipelines often fail under hard visual ambiguity caused by repeated or symmetric structures, and incur heavy computational cost due to redundant cameras and constraints. We present HiSfM, a hierarchical coarse-to-fine SfM framework that improves robustness and efficiency through scaffold construction. HiSfM first forms strong local communities using geometrical induced heuristics, then connects communities with a compact yet strong skeleton by packing edge-disjoint spanning trees (EDST) while verifying skeletal edges with a two-view disambiguator. We reconstruct a stable scaffold on this verified skeleton, serving as an anchor to capture the essence of the scene, and subsequently absorb remaining images via efficient registration and triangulation for further refinements. Experiments on ambiguity-focused benchmarks and general datasets show that HiSfM prevents ambiguity-induced failures while substantially reducing runtime compared to previous methods, and improves completeness over aggressive sparsification methods. Code is available at https://github.com/3dv-casia/HiSfM.",
+      "authors": [
+        "Ziding Zhao",
+        "Hainan Cui",
+        "Peilin Tao",
+        "Shuhan Shen"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04718",
+      "pdf_url": "https://arxiv.org/pdf/2609.04718",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2609.04602": {
+      "arxiv_id": "2609.04602",
+      "title": "NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions",
+      "abstract": "Fixed 3D Gaussian Splatting (3DGS) reconstructions provide realistic novel views but lack the traversability constraints, valid goals, and closed-loop protocols required for navigation evaluation. We introduce NavArena, an automated framework that transforms fixed 3DGS reconstructions into benchmarks for goal-oriented visual navigation. NavArena integrates a frozen 3DGS model for egocentric RGB-D rendering, an occupancy costmap derived from Gaussian density and height statistics for reachability and collision queries, and semantic goal candidates lifted from multi-view open-vocabulary masks. These components support the automatic generation and unified closed-loop evaluation of goal-oriented navigation episodes. Across more than 2{,}000 scenes, NavArena generates 22.2 million expert trajectories. Spatial and semantic evaluations assess the derived navigation representations, while policy rollouts demonstrate the diagnostic value of the unified evaluation protocol. NavArena enables scalable and reproducible navigation evaluation on large-scale 3DGS reconstructions, and all benchmark-generation tools, evaluation protocols, and derived assets will be released publicly.",
+      "authors": [
+        "Junhui Wang",
+        "Wei Yang",
+        "Xinyao Li",
+        "Ningjing Fan",
+        "Yuehao Yin",
+        "Xuecheng Chen",
+        "Chao Gao"
+      ],
+      "published": "2026-09-04",
+      "updated": "2026-09-04",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04602",
+      "pdf_url": "https://arxiv.org/pdf/2609.04602",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2609.04555": {
+      "arxiv_id": "2609.04555",
+      "title": "DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models",
+      "abstract": "Vision foundation models (VFMs) are valuable in data-scarce domains such as surgery, where a single pretrained backbone can provide rich representations for many downstream tasks. Yet the dominant self-supervised pretraining paradigm uses only RGB images, leaving readily available complementary signals, such as depth maps, unused. This is a particular missed opportunity in surgery, where natural-image VFMs transfer poorly while the scene geometry is rich and informative. With strong off-the-shelf models now able to produce pseudo-labeled dense depth for any image corpus, we hypothesize that such signals can be folded into pretraining to learn better representations. We present DART, an RGB-D pretraining recipe that builds on DINOv2 with a simple modification: a pixel-space depth reconstruction objective applied to masked iBOT patches, supervised by pseudo-labeled depth. Depth is used only during pretraining, so fine-tuning and inference remain RGB-only. We find that this pixel-level reconstruction head improves representation quality rather than disrupting it. We further show that depth, which encodes scene geometry, is more effective as a target than alternative dense signals such as Canny edges, confirming that the gains stem from depth rather than added supervision alone. Across eight surgical benchmarks spanning segmentation, depth estimation, and image-level recognition, DART outperforms both natural-image and in-domain baselines, including a vanilla DINOv2 trained on identical data, improving dense prediction while also strengthening image-level understanding. More broadly, DART shows that freely available geometric pseudo-labels can strengthen foundation model pretraining without extra labels or added inference cost, pointing toward stronger backbones for surgery.",
+      "authors": [
+        "John J. Han",
+        "Adam Schmidt",
+        "Muhammad Abdullah Jamal",
+        "Jie Ying Wu",
+        "Omid Mohareri"
+      ],
+      "published": "2026-09-03",
+      "updated": "2026-09-03",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Accepted to BMVC 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04555",
+      "pdf_url": "https://arxiv.org/pdf/2609.04555",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2609.04381": {
+      "arxiv_id": "2609.04381",
+      "title": "Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models",
+      "abstract": "Recognizing specific objects onboarded without a labeled training set recurs across manufacturing and service robotics, yet the conventional renderable prior, a computer-aided-design (CAD) model, is often unavailable. Two-dimensional capture supplies no shape prior, and frozen foundation features fail on geometrically similar, low-texture industrial parts. We ask what a short object-centric scan buys for recognition beyond the captured images themselves: each object is reconstructed with 3D Gaussian Splatting (3DGS), summarized into a per-class shape prototype, and fused with frozen DINOv2 image features. First, the scan recovers the recognition value of CAD without CAD: geometry from RGB-D depth (on T-LESS), 3DGS, and CAD gives comparable recognition (tied on HOPE, within 1.6 points on T-LESS); 3DGS is only a convenient route to a point cloud. Second, the payoff is governed by how recognizable the shape is: on shape-distinctive household objects (HOPE) geometry alone reaches 0.920 versus image-only 0.832, a ceiling below which fixed-weight fusion (0.872) sits. On shape-confusable textureless industrial parts (T-LESS) the gain is modest but consistent (0.560 to 0.591 fused, above both single signals). Third, the prior is complementary, not uniformly additive: it rescues far more image failures than it breaks successes, and its benefit grows under partial occlusion. Finally, the worth lies in geometry, not rendered pixels: 3DGS renderings do not help the image side, and frozen-feature recognition is nearly lighting-invariant (within 2.5 points). The study is scoped to recognition, not the BOP pose benchmark.",
+      "authors": [
+        "Chenxi Tao",
+        "Seung-Kyum Choi"
+      ],
+      "published": "2026-09-03",
+      "updated": "2026-09-03",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ],
+      "comment": "19 pages, 11 figures, 5 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04381",
+      "pdf_url": "https://arxiv.org/pdf/2609.04381",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2609.04348": {
+      "arxiv_id": "2609.04348",
+      "title": "Object Concepts Emerge from Motion",
+      "abstract": "Object-centric visual representations are important for physical-world perception, but existing visual pretraining methods often capture semantic categories without preserving the identity and coherence of individual instances. We present a biologically inspired framework that learns object-centric representations for single images from raw videos. Our approach uses motion boundaries as a source of object-level grouping: off-the-shelf optical flow and clustering produce pseudo-instance masks, which supervise a single-image encoder with pixel-level pairwise metric learning. The framework requires neither human annotations nor camera calibration. We first obtain 195 million pseudo-labeled frames from 7,163 hours of driving and web videos, then expand the supervision to 421 million frames with Motion-Verified Self-Training, which combines model proposals with motion evidence. We train encoders up to Swin-H and distill the learned representations into a family of Swin backbones. Across monocular depth estimation, 3D object detection, 3D occupancy prediction, and end-to-end planning, the resulting models achieve competitive or superior performance relative to supervised and self-supervised pretraining baselines, with particularly strong transfer on geometry- and instance-sensitive tasks. These results show that motion-derived supervision can teach static image encoders to represent visual instances, providing a complementary direction for scalable visual pretraining.",
+      "authors": [
+        "Boshi Li",
+        "Xiaohui Wang",
+        "Xiaoyang Wu",
+        "Zhichao Li",
+        "Ya Yang",
+        "Naiyan Wang"
+      ],
+      "published": "2026-09-03",
+      "updated": "2026-09-03",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04348",
+      "pdf_url": "https://arxiv.org/pdf/2609.04348",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
     "2609.04201": {
       "arxiv_id": "2609.04201",
       "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
@@ -907,6 +1451,39 @@
         ]
       }
     },
+    "2609.04264": {
+      "arxiv_id": "2609.04264",
+      "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
+      "abstract": "Latent world models have become increasingly popular as a method to predict and plan in latent space rather than pixel space. Recent architectures, such as LeWorldModel (LeWM), jointly train the encoder and predictor using regularization techniques like SIGReg to prevent representation collapse. Even with such regularization preventing representation collapse, we identify a new world model failure mode of \\textit{physical representation laziness}, particularly noted in highly dynamic environments. For these lazy cases, the learned latent states do not collapse but nonetheless fail to represent key physical properties, causing ubiquitous downstream planning failure. To resolve this issue, we propose training-time auxiliary supervision with a lightweight \"Fourier auxiliary head\", which enforces physically-informed structuring of the latent space with no additional inference-time cost and can be generalized to any environment. Experimentally, we show that the auxiliary head substantially improves planning success rates in dynamic environments where the baseline LeWM exhibits physical representation laziness. It also leads to modest improvements in other environments, even when the baseline does not exhibit physical representation laziness. We further observe superior planning performance being accompanied by higher latent space correlations with key physical properties, indicating both the ability of our method to physically structure latent states and the potential planning-side benefit to the learned representation being physically structured. We also see in low-data regimes, auxiliary supervision is particularly impactful in increasing success rate. These findings support the use of our Fourier auxiliary head method to improve both overall success rate and data efficiency, while avoiding representation laziness in latent world models.",
+      "authors": [
+        "Penghao Zhu",
+        "Salvatore Penachio",
+        "Kaustav Mukherjee",
+        "Aneesh Jonelagadda"
+      ],
+      "published": "2026-09-02",
+      "updated": "2026-09-02",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "comment": "9 pages, 4 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.04264",
+      "pdf_url": "https://arxiv.org/pdf/2609.04264",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
     "2609.03153": {
       "arxiv_id": "2609.03153",
       "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
@@ -1057,7 +1634,7 @@
     "2609.02847": {
       "arxiv_id": "2609.02847",
       "title": "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
-      "abstract": "Novel view synthesis from sparse inputs requires both geometric grounding from the observed views and generative priors of unobserved regions, motivating recent hybrid methods that combine reconstruction and generation. However, existing methods bridge the two with rendered images or explicit 3D representations such as point maps or 3D Gaussians. Generation is thus conditioned on a lossy and imperfect projection of the scene, inheriting its errors, and reconstruction receives no signal from generation to correct them. We present RoGe, an end-to-end unified reconstruction and generation framework that removes this explicit bridge. It targets roaming within a scene anchored by sparse views: given a few posed images and a camera trajectory, it synthesizes a temporally coherent video along that trajectory. From the sparse input views, RoGe builds an implicit scene representation with a feed-forward reconstruction model, and queries it with target camera rays to obtain per-view geometric features. These features are injected into a video diffusion model as conditioning, without any 3D intermediate. Both modules are trained jointly, so the generation objective directly shapes its own geometric conditioning. We conduct experiments on DL3DV, where RoGe outperforms reconstruction-based, generation-based, and hybrid baselines on image-level metrics and video-level temporal consistency. Ablations confirm that ray-queried implicit features outperform both raw reconstruction tokens and rendered RGB as conditioning, and that joint training brings further gains.",
+      "abstract": "Novel view synthesis from sparse inputs requires both geometric grounding from the observed views and generative priors of unobserved regions, motivating recent hybrid methods that combine reconstruction and generation. However, existing methods bridge the two with rendered images or explicit 3D representations such as point maps or 3D Gaussians. Generation is thus conditioned on a lossy and imperfect projection of the scene, inheriting its errors, and reconstruction receives no signal from generation to correct them. We present RoGe, an end-to-end unified reconstruction and generation framework that removes this explicit bridge. It targets roaming within a scene anchored by sparse views: given a few posed images and a camera trajectory, it synthesizes a temporally coherent video along that trajectory. From the sparse input views, RoGe builds an implicit scene representation with a feed-forward reconstruction model, and queries it with target camera rays to obtain per-view geometric features. These features are injected into a video diffusion model as conditioning, without any 3D intermediate. Both modules are trained jointly, so the generation objective directly shapes its own geometric conditioning. We conduct experiments on DL3DV, where RoGe outperforms reconstruction-based, generation-based, and hybrid baselines on image-level metrics and video-level temporal consistency. Ablations confirm that ray-queried implicit features outperform both raw reconstruction tokens and rendered RGB as conditioning, and that joint training brings further gains. Our project page is at https://jerry-locker.github.io/roge/.",
       "authors": [
         "Xiaolei Lang",
         "Ze Kang",
@@ -1065,7 +1642,7 @@
         "Naiyan Wang"
       ],
       "published": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -323101,7 +323678,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-09-06",
-  "paper_count": 8632,
-  "generated_at": "2026-09-06T15:02:42+00:00"
+  "coverage_end": "2026-09-07",
+  "paper_count": 8648,
+  "generated_at": "2026-09-07T03:36:26+00:00"
 }
