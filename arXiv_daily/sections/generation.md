@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-09 · **Papers:** 931 · **Unique arXiv IDs:** 931
+**Coverage:** 2025-01-01 to 2026-09-09 · **Papers:** 941 · **Unique arXiv IDs:** 941
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-08 | [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848) | Hongchi Xia, Tianhang Cheng, Wei-Chiu Ma, et al. | cs.CV, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.08848) / [pdf](https://arxiv.org/pdf/2609.08848) |
+| 2026-09-08 | [Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views](https://arxiv.org/abs/2609.08841) | Jinyu Miao, Jiusi Li, Yifei He, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2609.08841) / [pdf](https://arxiv.org/pdf/2609.08841) |
+| 2026-09-08 | [GSComplete: Gaussian Splat Completion with 2D Diffusion Priors](https://arxiv.org/abs/2609.08449) | Elias Brugger, Philipp Erler, Stefan Ohrhallinger, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.08449) / [pdf](https://arxiv.org/pdf/2609.08449) |
+| 2026-09-08 | [RoboCousin: Build Your Own Simulation Playground for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2609.08339) | Jingxuan Zhu, Jingyi Li, LiangLiang Chen, et al. | cs.RO, cs.AI | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.08339) / [pdf](https://arxiv.org/pdf/2609.08339) |
+| 2026-09-07 | [BlueprintAgent: Constraint-Triggered Targeted Revisits for Simulation-Ready Generation from Scanned Structural Blueprints](https://arxiv.org/abs/2609.07362) | Zhouyuan Xu, Chen Yang, Linhao Wang, et al. | cs.CL, cs.AI, cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.07362) / [pdf](https://arxiv.org/pdf/2609.07362) |
+| 2026-09-07 | [Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer](https://arxiv.org/abs/2609.07137) | Zhiwei Ning, Zhen Zhou, Puhua Jiang, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.07137) / [pdf](https://arxiv.org/pdf/2609.07137) |
+| 2026-09-07 | [Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline](https://arxiv.org/abs/2609.07085) | Qisen Wang, Yifan Zhao, Jia Li | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.07085) / [pdf](https://arxiv.org/pdf/2609.07085) |
+| 2026-09-06 | [PLSR: Progressive and Localized Super-Resolution of 3D Objects via Localized Latent Voxel Diffusion](https://arxiv.org/abs/2609.06436) | Yuxin Liu, Minshan Xie, Jiawen Liang, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.06436) / [pdf](https://arxiv.org/pdf/2609.06436) |
+| 2026-09-05 | [GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning](https://arxiv.org/abs/2609.05927) | Long Xu, Zhiqi Zhang, Mi Yan, et al. | cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2609.05927) / [pdf](https://arxiv.org/pdf/2609.05927) |
+| 2026-09-04 | [SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution](https://arxiv.org/abs/2609.05594) | Xingjian Ran, Xiaoye Mo, Sihao Liu, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical, Scene / World Generation | [abs](https://arxiv.org/abs/2609.05594) / [pdf](https://arxiv.org/pdf/2609.05594) |
 | 2026-09-04 | [Reflection-aware Generative Novel View Synthesis](https://arxiv.org/abs/2609.05382) | GeonU Kim, Shin Dong-Yeon, Tae-Hyun Oh | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2609.05382) / [pdf](https://arxiv.org/pdf/2609.05382) |
 | 2026-09-04 | [Learning 3D Editing without Paired Supervision via Generative Prior Distillation](https://arxiv.org/abs/2609.04942) | Hao Wen, Weibin Yun, Hongxing Fan, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2609.04942) / [pdf](https://arxiv.org/pdf/2609.04942) |
 | 2026-09-03 | [Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931) | Thomas Lucas, Maxime Pietrantoni, Philippe Weinzaepfel, et al. | cs.CV, cs.LG | Scene / World Generation | [abs](https://arxiv.org/abs/2609.03931) / [pdf](https://arxiv.org/pdf/2609.03931) |
