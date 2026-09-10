@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2823 · **Unique arXiv IDs:** 2823
+**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2827 · **Unique arXiv IDs:** 2827
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-09 | [Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction](https://arxiv.org/abs/2609.10376) | Pranav Poudel, Florence Dell'Aniello Picard, Nairouz Shehata, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.10376) / [pdf](https://arxiv.org/pdf/2609.10376) |
+| 2026-09-08 | [Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion](https://arxiv.org/abs/2609.09491) | Fadi Khatib, Meirav Galun, Ronen Basri | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.09491) / [pdf](https://arxiv.org/pdf/2609.09491) |
+| 2026-09-08 | [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418) | Yiran Qiao, Feng Wang, Jing Ma | cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.09418) / [pdf](https://arxiv.org/pdf/2609.09418) |
+| 2026-09-08 | [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://arxiv.org/abs/2609.09394) | Botao Ye, Marc Pollefeys, Ming-Hsuan Yang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.09394) / [pdf](https://arxiv.org/pdf/2609.09394) |
 | 2026-09-08 | [Point4D: Long-range 4D Motion Reconstruction](https://arxiv.org/abs/2609.09145) | Minsik Jeon, Jay Karhade, Deva Ramanan, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.09145) / [pdf](https://arxiv.org/pdf/2609.09145) |
 | 2026-09-08 | [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848) | Hongchi Xia, Tianhang Cheng, Wei-Chiu Ma, et al. | cs.CV, cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.08848) / [pdf](https://arxiv.org/pdf/2609.08848) |
 | 2026-09-08 | [Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views](https://arxiv.org/abs/2609.08841) | Jinyu Miao, Jiusi Li, Yifei He, et al. | cs.CV | Feed-Forward Geometry, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.08841) / [pdf](https://arxiv.org/pdf/2609.08841) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 1714 · **Unique arXiv IDs:** 1714
+**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 1716 · **Unique arXiv IDs:** 1716
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-09 | [Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322) | Samed Doğan, Nico Leuze, Alfred Schöttl | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.10322) / [pdf](https://arxiv.org/pdf/2609.10322) |
+| 2026-09-08 | [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://arxiv.org/abs/2609.09394) | Botao Ye, Marc Pollefeys, Ming-Hsuan Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.09394) / [pdf](https://arxiv.org/pdf/2609.09394) |
 | 2026-09-08 | [Evaluation Principles for MRI-MRA Registration in Trigeminal Neuralgia: An ROI-Centered Neurovascular Benchmark](https://arxiv.org/abs/2609.08805) | Xupeng Zhang, Xihang Wang, Michael Xie, et al. | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2609.08805) / [pdf](https://arxiv.org/pdf/2609.08805) |
 | 2026-09-08 | [MFVINS: Multiple Fisheye Camera-Based Visual Inertial System](https://arxiv.org/abs/2609.08626) | Eunseong Jang, YuJin Chung, Sang Jun Lee, et al. | cs.RO, cs.CV | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.08626) / [pdf](https://arxiv.org/pdf/2609.08626) |
 | 2026-09-08 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://arxiv.org/abs/2609.08084) | Igor Pavlovic, Thiemo Wandel, Anton Obukhov, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.08084) / [pdf](https://arxiv.org/pdf/2609.08084) |

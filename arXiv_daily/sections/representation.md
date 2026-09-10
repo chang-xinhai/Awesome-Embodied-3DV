@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2930 · **Unique arXiv IDs:** 2930
+**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2935 · **Unique arXiv IDs:** 2935
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-09 | [Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction](https://arxiv.org/abs/2609.10376) | Pranav Poudel, Florence Dell'Aniello Picard, Nairouz Shehata, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.10376) / [pdf](https://arxiv.org/pdf/2609.10376) |
+| 2026-09-09 | [Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322) | Samed Doğan, Nico Leuze, Alfred Schöttl | cs.CV | Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.10322) / [pdf](https://arxiv.org/pdf/2609.10322) |
+| 2026-09-09 | [View-Structured Conformal Prediction for 3D Gaussian Splatting](https://arxiv.org/abs/2609.10307) | Junzheng Chu, Bin Pan, Zhenwei Shi | cs.LG, cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.10307) / [pdf](https://arxiv.org/pdf/2609.10307) |
+| 2026-09-09 | [LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2609.10095) | Donghun Ryu, Minhyeok Lee | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.10095) / [pdf](https://arxiv.org/pdf/2609.10095) |
+| 2026-09-09 | [RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting](https://arxiv.org/abs/2609.09606) | YuanHang Wang, Xin Cao | cs.CV, cs.AI | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.09606) / [pdf](https://arxiv.org/pdf/2609.09606) |
 | 2026-09-08 | [CVT-GS: Learning to Simplify 3D Gaussian Splatting with Centroidal Voronoi Tessellation](https://arxiv.org/abs/2609.08730) | Bingxian Li, Yilong Li, Jingliang Peng, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.08730) / [pdf](https://arxiv.org/pdf/2609.08730) |
 | 2026-09-08 | [EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction](https://arxiv.org/abs/2609.08332) | Yuzhong Wang, Wenmin Wang, Xinxing Yu | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.08332) / [pdf](https://arxiv.org/pdf/2609.08332) |
 | 2026-09-08 | [MRI-Guided Reslice-Refined Cross-Slice SDF Reconstruction of the Left Ventricle from Cardiac MRI with Sparse Axial Supervision](https://arxiv.org/abs/2609.08148) | Quanxin Zheng, Shuai Zhao | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.08148) / [pdf](https://arxiv.org/pdf/2609.08148) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2155 · **Unique arXiv IDs:** 2155
+**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 2162 · **Unique arXiv IDs:** 2162
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-09 | [Programmable World Model](https://arxiv.org/abs/2609.10540) | Zheng-Hui Huang, Guixu Lin, Jiacheng Lin, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.10540) / [pdf](https://arxiv.org/pdf/2609.10540) |
+| 2026-09-09 | [DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation](https://arxiv.org/abs/2609.10506) | Nisarga Nilavadi, Ralf Römer, Moritz Reuss, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.10506) / [pdf](https://arxiv.org/pdf/2609.10506) |
+| 2026-09-09 | [HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy](https://arxiv.org/abs/2609.09941) | Zengjue Chen, Peidong Liu, Jiawei Li, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.09941) / [pdf](https://arxiv.org/pdf/2609.09941) |
+| 2026-09-09 | [ViBe: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control](https://arxiv.org/abs/2609.09918) | Lokesh Krishna, Sarvesh Venkatesan, An Zhang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.09918) / [pdf](https://arxiv.org/pdf/2609.09918) |
+| 2026-09-09 | [RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback](https://arxiv.org/abs/2609.09828) | Zhihao Cen, Chuhua Xian, Hailin Sun, et al. | cs.GR, cs.CV, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.09828) / [pdf](https://arxiv.org/pdf/2609.09828) |
+| 2026-09-08 | [MotionBlind: Probing the Illusion of Motion Understanding in Video-LLMs](https://arxiv.org/abs/2609.09528) | Dhairya Bhatia, Bishoy Galoaa, Oliver Fritsche, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.09528) / [pdf](https://arxiv.org/pdf/2609.09528) |
+| 2026-09-08 | [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418) | Yiran Qiao, Feng Wang, Jing Ma | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.09418) / [pdf](https://arxiv.org/pdf/2609.09418) |
 | 2026-09-08 | [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](https://arxiv.org/abs/2609.09155) | Yuncong Yang, Zhengtao Han, Furkan Ozyurt, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.09155) / [pdf](https://arxiv.org/pdf/2609.09155) |
 | 2026-09-08 | [GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting](https://arxiv.org/abs/2609.09082) | Thodoris Betsas, Anastasios Doulamis, Andreas Georgopoulos | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.09082) / [pdf](https://arxiv.org/pdf/2609.09082) |
 | 2026-09-08 | [Earth System World Model for What-If Simulations: A Case Study for Terrestrial Ecosystems](https://arxiv.org/abs/2609.08855) | Zhihao Wang, Ruichen Wang, Ruohan Li, et al. | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.08855) / [pdf](https://arxiv.org/pdf/2609.08855) |

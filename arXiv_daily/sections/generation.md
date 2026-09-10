@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 941 · **Unique arXiv IDs:** 941
+**Coverage:** 2025-01-01 to 2026-09-10 · **Papers:** 944 · **Unique arXiv IDs:** 944
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-09 | [Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/abs/2609.10531) | Jerred Chen, Simon Weber, Ronald Clark | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.10531) / [pdf](https://arxiv.org/pdf/2609.10531) |
+| 2026-09-09 | [StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts](https://arxiv.org/abs/2609.09890) | Qi Zhang, Yanyifan Wang, Weiyuan Zhang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2609.09890) / [pdf](https://arxiv.org/pdf/2609.09890) |
+| 2026-09-08 | [AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps](https://arxiv.org/abs/2609.09513) | Chunyi Sun, Ruyi Zha, Weijian Deng, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.09513) / [pdf](https://arxiv.org/pdf/2609.09513) |
 | 2026-09-08 | [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848) | Hongchi Xia, Tianhang Cheng, Wei-Chiu Ma, et al. | cs.CV, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.08848) / [pdf](https://arxiv.org/pdf/2609.08848) |
 | 2026-09-08 | [Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views](https://arxiv.org/abs/2609.08841) | Jinyu Miao, Jiusi Li, Yifei He, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2609.08841) / [pdf](https://arxiv.org/pdf/2609.08841) |
 | 2026-09-08 | [GSComplete: Gaussian Splat Completion with 2D Diffusion Priors](https://arxiv.org/abs/2609.08449) | Elias Brugger, Philipp Erler, Stefan Ohrhallinger, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.08449) / [pdf](https://arxiv.org/pdf/2609.08449) |
