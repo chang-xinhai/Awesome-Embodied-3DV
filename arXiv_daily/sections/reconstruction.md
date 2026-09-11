@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 2827 · **Unique arXiv IDs:** 2827
+**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 2830 · **Unique arXiv IDs:** 2830
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-10 | [Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting](https://arxiv.org/abs/2609.11766) | Fernando Cañadas-Aránega, José C. Moreno, José L. Blanco-Claraco, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.11766) / [pdf](https://arxiv.org/pdf/2609.11766) |
+| 2026-09-10 | [Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499) | Zhiqi Li, Yuxuan Liao, Bo Zhu | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.11499) / [pdf](https://arxiv.org/pdf/2609.11499) |
+| 2026-09-10 | [BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration](https://arxiv.org/abs/2609.11472) | Qianliang Wu, Haobo Jiang, Guangwei Gao, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.11472) / [pdf](https://arxiv.org/pdf/2609.11472) |
 | 2026-09-09 | [Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction](https://arxiv.org/abs/2609.10376) | Pranav Poudel, Florence Dell'Aniello Picard, Nairouz Shehata, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.10376) / [pdf](https://arxiv.org/pdf/2609.10376) |
 | 2026-09-08 | [Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion](https://arxiv.org/abs/2609.09491) | Fadi Khatib, Meirav Galun, Ronen Basri | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.09491) / [pdf](https://arxiv.org/pdf/2609.09491) |
 | 2026-09-08 | [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418) | Yiran Qiao, Feng Wang, Jing Ma | cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.09418) / [pdf](https://arxiv.org/pdf/2609.09418) |
@@ -73,7 +76,7 @@
 | 2026-08-31 | [Proximity3D: Shape from Capacitive Proximity on Sensing Manifold](https://arxiv.org/abs/2608.30344) | Hao Chen, Chenming Wu, Chun Ping Lam, et al. | cs.CV, cs.CG, cs.GR | Multi-View Geometry | [abs](https://arxiv.org/abs/2608.30344) / [pdf](https://arxiv.org/pdf/2608.30344) |
 | 2026-08-31 | [Amortized Anchor Refinement for Deployable Continuous-Time 4D Gaussian Reconstruction](https://arxiv.org/abs/2608.30218) | Jingong Chen, Qingwen Zhang, Sanghyeon Jun, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.30218) / [pdf](https://arxiv.org/pdf/2608.30218) |
 | 2026-08-30 | [Everybody Tracking Every Body](https://arxiv.org/abs/2608.29927) | Daeyun Shin, Yunhan Zhao, Shu Kong, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2608.29927) / [pdf](https://arxiv.org/pdf/2608.29927) |
-| 2026-08-30 | [A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705) | Nanxing Nick Deng, Qing Cheng, Niclas Zeller, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.29705) / [pdf](https://arxiv.org/pdf/2608.29705) |
+| 2026-08-30 | [A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models](https://arxiv.org/abs/2608.29705) | Nanxing Nick Deng, Qing Cheng, Niclas Zeller, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.29705) / [pdf](https://arxiv.org/pdf/2608.29705) |
 | 2026-08-30 | [GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame](https://arxiv.org/abs/2608.29680) | Zhe Dong, Wanqing Wu, Yuzhe Sun, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.29680) / [pdf](https://arxiv.org/pdf/2608.29680) |
 | 2026-08-29 | [LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing](https://arxiv.org/abs/2608.29269) | Haonan Zhou, Gaoxiang Linghu, Youlin Jia, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.29269) / [pdf](https://arxiv.org/pdf/2608.29269) |
 | 2026-08-29 | [Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction](https://arxiv.org/abs/2608.29211) | Angel Daruna, Ben Southall, Niluthpol Chowdhury Mithun, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2608.29211) / [pdf](https://arxiv.org/pdf/2608.29211) |

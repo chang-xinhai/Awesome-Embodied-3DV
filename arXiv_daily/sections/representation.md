@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 2935 · **Unique arXiv IDs:** 2935
+**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 2940 · **Unique arXiv IDs:** 2940
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-10 | [3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894) | Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar | cs.CV, cs.GR, cs.LG | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.11894) / [pdf](https://arxiv.org/pdf/2609.11894) |
+| 2026-09-10 | [Hologram Representation via Quadratic Phase Gaussian Splatting](https://arxiv.org/abs/2609.11434) | Haolong Wang, Yicheng Zhan, Kaan Akşit, et al. | cs.GR, cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.11434) / [pdf](https://arxiv.org/pdf/2609.11434) |
+| 2026-09-10 | [Tri-DehazeGS: Scene--Medium Decoupled Gaussian Splatting with Transmittance-Aware Optimization](https://arxiv.org/abs/2609.11223) | Kui Jiang, Yang Gu, Jiacheng Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.11223) / [pdf](https://arxiv.org/pdf/2609.11223) |
+| 2026-09-10 | [ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation](https://arxiv.org/abs/2609.11129) | Jiarui Liu, Heng Li, Weiyu Li, et al. | cs.CV | Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.11129) / [pdf](https://arxiv.org/pdf/2609.11129) |
+| 2026-09-10 | [RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079) | Jiarong Lian, Zhe Xiao, Zhaoyang Zhang, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.11079) / [pdf](https://arxiv.org/pdf/2609.11079) |
 | 2026-09-09 | [Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction](https://arxiv.org/abs/2609.10376) | Pranav Poudel, Florence Dell'Aniello Picard, Nairouz Shehata, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.10376) / [pdf](https://arxiv.org/pdf/2609.10376) |
 | 2026-09-09 | [Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322) | Samed Doğan, Nico Leuze, Alfred Schöttl | cs.CV | Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.10322) / [pdf](https://arxiv.org/pdf/2609.10322) |
 | 2026-09-09 | [View-Structured Conformal Prediction for 3D Gaussian Splatting](https://arxiv.org/abs/2609.10307) | Junzheng Chu, Bin Pan, Zhenwei Shi | cs.LG, cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.10307) / [pdf](https://arxiv.org/pdf/2609.10307) |

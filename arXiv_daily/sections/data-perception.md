@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 1716 · **Unique arXiv IDs:** 1716
+**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 1720 · **Unique arXiv IDs:** 1720
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-10 | [EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking](https://arxiv.org/abs/2609.11920) | Dexter Ong, Vijay Kumar, Pratik Chaudhari | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.11920) / [pdf](https://arxiv.org/pdf/2609.11920) |
+| 2026-09-10 | [SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms](https://arxiv.org/abs/2609.11382) | Charbel Toumieh, Niel Mistry, Benjamin Jarvis, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.11382) / [pdf](https://arxiv.org/pdf/2609.11382) |
+| 2026-09-10 | [RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079) | Jiarong Lian, Zhe Xiao, Zhaoyang Zhang, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.11079) / [pdf](https://arxiv.org/pdf/2609.11079) |
+| 2026-09-09 | [GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation](https://arxiv.org/abs/2609.10756) | Bin Zhao, Patrick Chiou, Nakul Garg | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.10756) / [pdf](https://arxiv.org/pdf/2609.10756) |
 | 2026-09-09 | [Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322) | Samed Doğan, Nico Leuze, Alfred Schöttl | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.10322) / [pdf](https://arxiv.org/pdf/2609.10322) |
 | 2026-09-08 | [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://arxiv.org/abs/2609.09394) | Botao Ye, Marc Pollefeys, Ming-Hsuan Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.09394) / [pdf](https://arxiv.org/pdf/2609.09394) |
 | 2026-09-08 | [Evaluation Principles for MRI-MRA Registration in Trigeminal Neuralgia: An ROI-Centered Neurovascular Benchmark](https://arxiv.org/abs/2609.08805) | Xupeng Zhang, Xihang Wang, Michael Xie, et al. | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2609.08805) / [pdf](https://arxiv.org/pdf/2609.08805) |

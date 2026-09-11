@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 944 · **Unique arXiv IDs:** 944
+**Coverage:** 2025-01-01 to 2026-09-11 · **Papers:** 945 · **Unique arXiv IDs:** 945
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-10 | [ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation](https://arxiv.org/abs/2609.11129) | Jiarui Liu, Heng Li, Weiyu Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.11129) / [pdf](https://arxiv.org/pdf/2609.11129) |
 | 2026-09-09 | [Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/abs/2609.10531) | Jerred Chen, Simon Weber, Ronald Clark | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.10531) / [pdf](https://arxiv.org/pdf/2609.10531) |
 | 2026-09-09 | [StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts](https://arxiv.org/abs/2609.09890) | Qi Zhang, Yanyifan Wang, Weiyuan Zhang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2609.09890) / [pdf](https://arxiv.org/pdf/2609.09890) |
 | 2026-09-08 | [AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps](https://arxiv.org/abs/2609.09513) | Chunyi Sun, Ruyi Zha, Weijian Deng, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.09513) / [pdf](https://arxiv.org/pdf/2609.09513) |
