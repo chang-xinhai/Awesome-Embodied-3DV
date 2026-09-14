@@ -131,6 +131,8 @@ The repository uses **core + strong adjacent** scope.
 - purely aesthetic 3D editing without relevance to geometry, assets, scenes, dynamics, or interaction
 - highly specialized 3DGS compression, acceleration, or rendering papers unless they are needed for online/embodied deployment
 - general SLAM papers that do not materially help dense 3D reconstruction or embodied scene state
+- navigation, manipulation, or robotics benchmarks whose primary contribution is not 3D/4D perception, reconstruction, representation, generation, or simulation-ready assets
+- small domain datasets that merely contain RGB-D or multi-view observations without a reusable 3D task, benchmark, or representation contribution
 - unverified papers, rumor-like projects, placeholders, or entries without a reliable public source
 
 ## Source priority
@@ -201,18 +203,12 @@ Each subsection should use the same compact table schema:
 
 ## Overlap policy
 
-Controlled duplication is allowed.
+Give every work one canonical full-table placement based on its main contribution.
 
-Examples:
-- PAGE-4D may appear in both `3D Reconstruction` and `Embodiment & World Models`.
-- ArtGS may appear in both `3D Generation` and `Robotics Integration & LLM Agents`.
-- Infinigen may appear in both `Scene-Level Generation` and `Datasets, Benchmarks & Infrastructure`.
-- a dataset paper may appear in both the method section and the dataset section if both roles are important.
-
-When duplicating an entry:
-- keep the metadata consistent across placements
-- adjust `Keywords` only if needed to explain the local role
-- do not create unnecessary variant titles
+- `Must Read` may link to a canonical work without counting as a second full entry.
+- Put released code, datasets, benchmarks, or simulator exports in the canonical row's `Others` cell instead of repeating the paper in an infrastructure table.
+- When a method spans perception, representation, reconstruction, generation, and embodiment, choose the section that describes its primary new artifact or capability.
+- Use a compact prose cross-reference only when readers would otherwise miss an important connection; do not duplicate the six-column row.
 
 ## Dataset metadata guidance
 
