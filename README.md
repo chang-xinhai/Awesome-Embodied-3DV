@@ -114,6 +114,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-10 | Metric Depth, 3DGS Relocalization, Sparse PnP Anchors, Temporal Memory | The Chinese University of Hong Kong, Shenzhen | [RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079) | arXiv | [paper](https://arxiv.org/abs/2609.11079) |
 | 2026-09-08 | Diffusion Transformer, Single-Step Depth, Sharp Details, Dense Prediction | EPFL / HUAWEI Bayer Lab | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://arxiv.org/abs/2609.08084) | SIGGRAPH Asia 2026 | [project](https://huggingface.co/spaces/huawei-bayerlab/marigold-v2-web) / [github](https://github.com/huawei-bayerlab/marigold-v2) |
 | 2026-09-08 | Any Camera, Metric Point Cloud, Optional Intrinsics/Sparse Depth | Google DeepMind | [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://arxiv.org/abs/2609.09394) | ECCV 2026 | [project](https://botaoye.github.io/omnipoint/) |
 | 2026-08-30 | Transparent/Reflective Scenes, Bias-Aware Training, 30M Parameters | The University of Hong Kong | [OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes](https://arxiv.org/abs/2608.29881) | arXiv | [project](https://mx-liu6.github.io/OptiGeo-web/) |
@@ -344,7 +345,6 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2026-06 | Event-Image Depth, Hypothesis Volume, Iterative Refinement | Southeast University | [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Depth_Hypothesis_Guided_Iterative_Refinement_for_Event-Image_Monocular_Depth_Estimation_CVPR_2026_paper.html) | CVPR 2026 | [paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Depth_Hypothesis_Guided_Iterative_Refinement_for_Event-Image_Monocular_Depth_Estimation_CVPR_2026_paper.html) |
 | 2026-04-16 | Event-Frame Stereo, Cross-Modal Prompting, High Dynamic Range | Southeast University | [Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](https://arxiv.org/abs/2604.15312) | CVPR 2026 | [paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Bidirectional_Cross-Modal_Prompting_for_Event-Frame_Asymmetric_Stereo_CVPR_2026_paper.html) |
 | 2026-04-02 | Event Stereo, Data Factory, Cross-Modal Distillation | University of Bologna | [EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](https://arxiv.org/abs/2604.02331) | CVPR 2026 | [project](https://bartn8.github.io/eventhub) |
-| 2026-03-24 | LiDAR, ZIP Encoding, 3D Reconstruction | Stanford | [LiZIP: Learned LiDAR Compression for Efficient and Effective 3D Reconstruction](https://arxiv.org/abs/2603.23162) | ICCV 2023 | [paper](https://arxiv.org/abs/2603.23162) |
 | 2026-02-03 | Event Camera, Neural SDF, Single-Camera Mesh | Saarland University | [EventNeuS: 3D Mesh Reconstruction from a Single Event Camera](https://arxiv.org/abs/2602.03847) | 3DV 2026 | [project](https://4dqv.mpi-inf.mpg.de/EventNeuS/) / [github](https://github.com/shreyas-sachan/Event-NeuS) / [dataset](https://nextcloud.mpi-inf.mpg.de/index.php/s/7cwjx3Dd9DMjneZ) |
 | 2025-12-20 | Event Camera, Structured Light, Real-Time RGB-D | Polytechnique Montreal | [E-RGB-D: Real-Time Event-Based Perception with Structured Light](https://arxiv.org/abs/2512.18429) | arXiv | [github](https://github.com/MISTLab/event_based_rgbd_ros) |
 | 2025-09-18 | Event Camera, Depth Estimation, Any-to-Any | Shanghai AI Lab | [Depth AnyEvent: Event Camera Based Monocular Depth Estimation via Dense Correspondence Distillation](https://arxiv.org/abs/2509.15224) | arXiv | [paper](https://arxiv.org/abs/2509.15224) |
@@ -355,6 +355,13 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2025-04-22 | Event Camera, Ray Density, 3D Conv, Spotlight | TU Berlin | [DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/abs/2504.15863) | NeurIPS 2025 Spotlight | [github](https://github.com/tub-rip/DERD-Net) |
 | 2025-03-03 | dToF, Video Depth Completion, Frequency Selective | Authors | [SVDC: Consistent Direct Time-of-Flight Video Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SVDC_Consistent_Direct_Time-of-Flight_Video_Depth_Completion_with_Frequency_Selective_CVPR_2025_paper.html) | CVPR 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SVDC_Consistent_Direct_Time-of-Flight_Video_Depth_Completion_with_Frequency_Selective_CVPR_2025_paper.html) / [paper](https://arxiv.org/abs/2503.01257) |
 | 2024-10-10 | Event Camera, Pose-Free, Gaussian Splatting, Highlight | Zhejiang Univ | [IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera](https://arxiv.org/abs/2410.08107) | CVPR 2025 Highlight | [github](https://github.com/WU-CVGL/IncEventGS) |
+
+#### 1.3.4 Radar & RF Imaging
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-10 | mmWave Radar, Complex-Valued Point Splatting, Material Model, Novel Views | Cornell Tech | [3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894) | arXiv | [paper](https://arxiv.org/abs/2609.11894) |
+| 2026-09-09 | mmWave Radar, Metric Depth, Smoke/Fog/Darkness, 95K Frames | Rice University | [GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation](https://arxiv.org/abs/2609.10756) | MobiCom 2026 | [project+data](https://phi-lab-rice.github.io/GRADE) |
 
 <a id="14-dense-mapping-systems"></a>
 
@@ -634,6 +641,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-09-08 | Long-Range 4D Motion, 3D Queries, Occlusion-Robust Trajectory Chaining | Carnegie Mellon University | [Point4D: Long-range 4D Motion Reconstruction](https://arxiv.org/abs/2609.09145) | arXiv | [project](https://point-4d.github.io/) |
+| 2026-09-08 | Event Stream, Extreme-Low-Frame-Rate RGB, Dynamic 3DGS, Real-Time | Macau University of Science and Technology | [EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction](https://arxiv.org/abs/2609.08332) | Neurocomputing | [github+dataset](https://github.com/joseclipse/EdMCGS) |
 | 2026-09-05 | Sparse-View 4D, Spatio-Temporal Depth Alignment, Dynamic 3DGS | BIGAI | [UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment](https://arxiv.org/abs/2609.05888) | ECCV 2026 | [project](https://yongzhelyu.github.io/UniFusion) |
 | 2026-08-18 | Query-Conditioned 4D, Scene Flow, Dynamic Points, Sparse-to-Dense | Kosmo Research | [UniQuery4R: Unified 4D Scene Reconstruction from a Single Query](https://arxiv.org/abs/2608.17283) | arXiv | [project](https://kosmoresearch.github.io/UniQuery4R/) |
 | 2026-07-29 | Articulated Objects, Structure-aware 3DGS, Part Connectivity | POSTECH | [StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction](https://arxiv.org/abs/2607.26889) | arXiv | [paper](https://arxiv.org/abs/2607.26889) |
@@ -708,6 +716,8 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-10 | Multi-View, Reconstruction Prior, Noise Inversion, Faithful Asset Completion | HKUST | [ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation](https://arxiv.org/abs/2609.11129) | arXiv | [paper](https://arxiv.org/abs/2609.11129) |
+| 2026-09-09 | Image-to-3D, Partial Geometry, Test-Time Guidance, SAM 3D | University of Oxford | [Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/abs/2609.10531) | arXiv | [paper](https://arxiv.org/abs/2609.10531) |
 | 2026-07-22 | Code-Native, Programmable, 3D Assets | Authors | [Nova3D: Code-Native Generation of Programmable 3D Assets](https://arxiv.org/abs/2607.22738) | arXiv | [paper](https://arxiv.org/abs/2607.22738) |
 | 2026-06-23 | Image-to-3DGS, Sparse Voxel, High-Fidelity Assets | The Australian National University | [FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874) | arXiv | [paper](https://arxiv.org/abs/2606.24874) |
 | 2026-06-23 | Vehicle Assets, 3D-Consistent Views, Simulation | Shanghai Jiao Tong University | [3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis](https://arxiv.org/abs/2606.24257) | arXiv | [paper](https://arxiv.org/abs/2606.24257) |
@@ -858,6 +868,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-10 | Single Image, Executable Scene Programs, Recursive Construction, Editable 3D | Georgia Institute of Technology | [Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499) | arXiv | [paper](https://arxiv.org/abs/2609.11499) |
 | 2026-09-05 | Agentic 3D Composition, Functional Objects, Executable Robot Scenes | Peking University / Galbot | [GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning](https://arxiv.org/abs/2609.05927) | arXiv | [paper](https://arxiv.org/abs/2609.05927) |
 | 2026-09-04 | Image-to-Scene, Agentic Layout Evolution, Simulation-Ready Diversity | The University of Hong Kong | [SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution](https://arxiv.org/abs/2609.05594) | arXiv | [project](https://rxjfighting.github.io/SceneMosaic/) / [github](https://github.com/rxjfighting/SceneMosaic) |
 | 2026-08-31 | Text-to-Scene, Grow-and-Repair, Functional Groups, SceneReverse-17K | Southeast University | [ScenePilot: Grow-and-Repair Policy for Text-Driven 3D Indoor Scene Generation](https://arxiv.org/abs/2608.30307) | arXiv | [project](https://zjw-louie.github.io/ScenePilot) |
@@ -1094,6 +1105,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-08 | Visual Calibration, Action-Conditioned World Model, Zero-Shot Simulator | UMass Amherst | [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](https://arxiv.org/abs/2609.09155) | arXiv | [project](https://umass-embodied-agi.github.io/SyncWorld/) |
 | 2026-09-03 | Long-Range World Generation, Octree 3D Map, Revisit Consistency | University of Science and Technology of China / Microsoft Research Asia | [OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping](https://arxiv.org/abs/2609.03919) | ECCV 2026 | [project](https://maxtirerror.github.io/octworldpage/) |
 | 2026-09-01 | Block-Wise Video Generation, Incremental Reconstruction, Streaming 4D | The Chinese University of Hong Kong | [Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction](https://arxiv.org/abs/2609.00610) | CVPR 2026 4DV Workshop | [paper](https://arxiv.org/abs/2609.00610) |
 | 2026-08-18 | Action Flow, Cross-Embodiment, World Model, Evaluation+Control | NVIDIA | [Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077) | arXiv | [project](https://nvidia-isaac.github.io/video_to_data/hydra-0/) |
@@ -1375,6 +1387,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-09-01 | Multi-View 3D Point Tracking, Camera Motion, Long Sequences | Google DeepMind | [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899) | arXiv | [paper](https://arxiv.org/abs/2609.01899) |
+| 2026-08-28 | 3D-Grounded World-Model Evaluation, 50 Tasks, 145K Videos, 50 Metrics | The University of Texas at Austin | [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718) | arXiv | [paper](https://arxiv.org/abs/2608.28718) |
 | 2026-08-27 | Interactive World Models, Revisit Memory, Relative Consistency, 300 Instances | DreamX Team, Alibaba Group | [R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models](https://arxiv.org/abs/2608.27328) | arXiv | [github](https://github.com/AMAP-ML/R2MBench) |
 | 2026-08-22 | 360° Video, In-the-Wild SfM, Dynamic Motion, Ground-Truth Benchmark | Google DeepMind | [ORBIT++: Benchmarking SfM in the Wild with 360° Video](https://arxiv.org/abs/2608.22039) | CVPR 2026 | [paper](https://arxiv.org/abs/2608.22039) |
 | 2026-08-21 | Thin Objects, Vision+Tactile+Point Cloud, Reconstruction Benchmark | Yale University | [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) | arXiv | [dataset](https://huggingface.co/datasets/shaniaguo/VisTa3D) |
