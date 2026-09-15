@@ -1,6 +1,78 @@
 {
   "schema_version": 1,
   "papers": {
+    "2609.13146": {
+      "arxiv_id": "2609.13146",
+      "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
+      "abstract": "Part-aware 3D asset generation enables applications such as editing, articulation, simulation, and fabrication, yet existing methods can generate visually complete individual parts without ensuring that they form a valid physical assembly. Consequently, generated neighboring parts may interpenetrate, lack valid connections, or collapse under gravity. We propose a physics-guided framework for improving single-image part-aware 3D generation with physically compatible geometry and stable connections. Our method resolves inter-part penetration, recovers a contact graph between neighboring parts, and introduces parameterized connectors at their contact surfaces. Using feedback from physical simulation, we refine connector placement, orientation, and dimensions to improve assembly stability while preserving the generated geometry. We further introduce a physics-based evaluation protocol that complements conventional geometric metrics by directly testing assembly validity and stability under gravity. Experiments comparing against multiple part-aware 3D generators show substantial improvements in physical realizability and stability while maintaining geometric quality. We additionally validate the resulting parts through 3D printing and real-world assembly.",
+      "authors": [
+        "Yu-Rou Tuan",
+        "Hao-Tang Tsui",
+        "Nicolas Ugrinovic",
+        "Kris Kitani",
+        "Xiaoxuan Ma"
+      ],
+      "published": "2026-09-11",
+      "updated": "2026-09-11",
+      "primary_category": "cs.GR",
+      "categories": [
+        "cs.GR",
+        "cs.CV"
+      ],
+      "comment": "Project page: https://lucytuan.github.io/SNAP3D/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.13146",
+      "pdf_url": "https://arxiv.org/pdf/2609.13146",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D",
+          "Part / Articulated Asset"
+        ]
+      }
+    },
+    "2609.12874": {
+      "arxiv_id": "2609.12874",
+      "title": "VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation",
+      "abstract": "Video tokenizers have emerged as a cornerstone of modern video modeling, underpinning progress in compression, reconstruction and generation by mapping high-dimensional visual signals into compact latent spaces. However, despite this progress, current tokenization paradigms largely remain within the 2D visual domain, treating videos as image sequences rather than observations of an underlying dynamic 3D world. Consequently, the learned tokens inherit this observation-centric bias, limiting their capacity to compactly represent real-world 4D scenes. To mitigate this issue, we propose VideoTok4D, a novel 4D-aware video tokenizer for compact world representation. Specifically, our approach comprises three key designs: 1) a spatiotemporal disentanglement strategy that factorizes videos into static and dynamic tokens for holistic world modeling; 2) a track-aware dynamic attention mechanism that aggregates trajectory-aligned cues to promote cross-view motion consistency; and 3) Co4DGen, a diffusion prior learned over the resulting VideoTok4D token space for efficient 4D scene generation. Extensive experiments have demonstrated that our proposed method achieves state-of-the-art performance while requiring up to 4 orders of magnitude less storage than dense 4D representations. Moreover, the compact token space substantially shortens diffusion sequences, enabling efficient generation.",
+      "authors": [
+        "Xinyi Chen",
+        "Hanxin Zhu",
+        "Xijun Wang",
+        "Xingrui Wang",
+        "Sen Liang",
+        "Xin Li",
+        "Zhibo Chen"
+      ],
+      "published": "2026-09-11",
+      "updated": "2026-09-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "9 pages, 5 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.12874",
+      "pdf_url": "https://arxiv.org/pdf/2609.12874",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Scene / World Generation"
+        ]
+      }
+    },
     "2609.11920": {
       "arxiv_id": "2609.11920",
       "title": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
@@ -327557,7 +327629,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-09-14",
-  "paper_count": 8756,
-  "generated_at": "2026-09-14T13:12:44+00:00"
+  "coverage_end": "2026-09-15",
+  "paper_count": 8758,
+  "generated_at": "2026-09-15T01:03:19+00:00"
 }

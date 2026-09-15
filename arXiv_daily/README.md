@@ -2,7 +2,7 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-09-14 · **Unique papers:** 8756
+**Coverage:** 2025-01-01 to 2026-09-15 · **Unique papers:** 8758
 
 ## Sections
 
@@ -11,7 +11,7 @@
 | [Data Perception](sections/data-perception.md) | 1720 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2940 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 2830 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
-| [3D Generation & Assets](sections/generation.md) | 945 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
+| [3D Generation & Assets](sections/generation.md) | 947 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
 | [Embodiment & World Models](sections/embodiment-world-models.md) | 2164 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
 | [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 507 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
@@ -60,6 +60,8 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### 3D Generation & Assets
 
+- 2026-09-11 — [SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image](https://arxiv.org/abs/2609.13146)
+- 2026-09-11 — [VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation](https://arxiv.org/abs/2609.12874)
 - 2026-09-10 — [ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation](https://arxiv.org/abs/2609.11129)
 - 2026-09-09 — [Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/abs/2609.10531)
 - 2026-09-09 — [StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts](https://arxiv.org/abs/2609.09890)
@@ -68,8 +70,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-09-08 — [Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views](https://arxiv.org/abs/2609.08841)
 - 2026-09-08 — [GSComplete: Gaussian Splat Completion with 2D Diffusion Priors](https://arxiv.org/abs/2609.08449)
 - 2026-09-08 — [RoboCousin: Build Your Own Simulation Playground for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2609.08339)
-- 2026-09-07 — [BlueprintAgent: Constraint-Triggered Targeted Revisits for Simulation-Ready Generation from Scanned Structural Blueprints](https://arxiv.org/abs/2609.07362)
-- 2026-09-07 — [Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer](https://arxiv.org/abs/2609.07137)
 
 ### Embodiment & World Models
 
