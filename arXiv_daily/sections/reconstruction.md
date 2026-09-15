@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 2830 · **Unique arXiv IDs:** 2830
+**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 2832 · **Unique arXiv IDs:** 2832
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-14 | [G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity](https://arxiv.org/abs/2609.15018) | Shuo Zhang, Xin Su, Wei Wang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.15018) / [pdf](https://arxiv.org/pdf/2609.15018) |
+| 2026-09-12 | [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991) | Yongyi Lu, Xiongfeng Huang, Zhijing Yang | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.13991) / [pdf](https://arxiv.org/pdf/2609.13991) |
 | 2026-09-10 | [Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting](https://arxiv.org/abs/2609.11766) | Fernando Cañadas-Aránega, José C. Moreno, José L. Blanco-Claraco, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.11766) / [pdf](https://arxiv.org/pdf/2609.11766) |
 | 2026-09-10 | [Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499) | Zhiqi Li, Yuxuan Liao, Bo Zhu | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.11499) / [pdf](https://arxiv.org/pdf/2609.11499) |
 | 2026-09-10 | [BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration](https://arxiv.org/abs/2609.11472) | Qianliang Wu, Haobo Jiang, Guangwei Gao, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.11472) / [pdf](https://arxiv.org/pdf/2609.11472) |

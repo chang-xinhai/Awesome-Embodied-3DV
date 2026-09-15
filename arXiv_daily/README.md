@@ -2,7 +2,7 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-09-15 · **Unique papers:** 8758
+**Coverage:** 2025-01-01 to 2026-09-15 · **Unique papers:** 8760
 
 ## Sections
 
@@ -10,10 +10,10 @@
 | :------ | -----: | :---- |
 | [Data Perception](sections/data-perception.md) | 1720 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 2940 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 2830 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D Reconstruction](sections/reconstruction.md) | 2832 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 947 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
 | [Embodiment & World Models](sections/embodiment-world-models.md) | 2164 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
-| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 507 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
+| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 508 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
 
@@ -47,6 +47,8 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### 3D Reconstruction
 
+- 2026-09-14 — [G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity](https://arxiv.org/abs/2609.15018)
+- 2026-09-12 — [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991)
 - 2026-09-10 — [Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting](https://arxiv.org/abs/2609.11766)
 - 2026-09-10 — [Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499)
 - 2026-09-10 — [BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration](https://arxiv.org/abs/2609.11472)
@@ -55,8 +57,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-09-08 — [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418)
 - 2026-09-08 — [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://arxiv.org/abs/2609.09394)
 - 2026-09-08 — [Point4D: Long-range 4D Motion Reconstruction](https://arxiv.org/abs/2609.09145)
-- 2026-09-08 — [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848)
-- 2026-09-08 — [Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views](https://arxiv.org/abs/2609.08841)
 
 ### 3D Generation & Assets
 
@@ -86,6 +86,7 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Datasets, Benchmarks & Infrastructure
 
+- 2026-09-12 — [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991)
 - 2026-09-09 — [What Symmetry Buys a Learned Motion Planner](https://arxiv.org/abs/2609.10033)
 - 2026-09-08 — [EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments](https://arxiv.org/abs/2609.08292)
 - 2026-09-03 — [TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization](https://arxiv.org/abs/2609.03613)
@@ -95,7 +96,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-09-01 — [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899)
 - 2026-08-31 — [Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation](https://arxiv.org/abs/2609.00369)
 - 2026-08-28 — [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718)
-- 2026-08-27 — [Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines](https://arxiv.org/abs/2608.28697)
 
 ## Method
 

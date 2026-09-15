@@ -1,6 +1,82 @@
 {
   "schema_version": 1,
   "papers": {
+    "2609.15018": {
+      "arxiv_id": "2609.15018",
+      "title": "G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity",
+      "abstract": "We study relative position encoding for multi-view vision Transformers under camera heterogeneity, including varying fields of view (FoVs) or projection models. Existing rotary relative position encodings commonly use image-plane positional coordinates, producing projection-dependent relative phases and inconsistent geometric cues for cross-projection attention. We introduce G-ray, a ray-level relative position encoding whose rotary phases are parameterized by camera-local ray angles. The same camera-local ray pair induces the same relative phase across projections, providing projection-invariant positional consistency. G-ray can be used directly or integrated with existing encodings, retaining complementary geometric cues without additional learned parameters. We validate G-ray in three host encodings, RoPE, GTA, and RayRoPE, across 3D reconstruction and novel-view synthesis (NVS). Across three heterogeneous 3D reconstruction benchmarks at 50 views, G-ray leads all six averaged metrics and reduces mean pointmap relative error by 45.8% over MapAnything, with calibration supplied to both. Trained exclusively on homogeneous pinhole images, the 3D reconstruction model handles mixed pinhole and non-pinhole inputs without retraining and remains competitive on homogeneous pinhole 3D reconstruction protocols. For NVS, GTA and RayRoPE improve with G-ray under joint viewpoint and FoV variation. The project's webpage is available at https://g-ray-project.github.io/.",
+      "authors": [
+        "Shuo Zhang",
+        "Xin Su",
+        "Wei Wang",
+        "Jun Liu",
+        "Xinrui Zeng",
+        "Yongsen Chen",
+        "Chenjie Wang",
+        "Guibo Zhu",
+        "Jinqiao Wang",
+        "Bin Luo",
+        "Liangpei Zhang"
+      ],
+      "published": "2026-09-14",
+      "updated": "2026-09-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "26 pages, 13 figures, 14 tables. Supplementary material included in the appendix. Project page: https://g-ray-project.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.15018",
+      "pdf_url": "https://arxiv.org/pdf/2609.15018",
+      "query_sources": [
+        "datasets-and-infrastructure"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2609.13991": {
+      "arxiv_id": "2609.13991",
+      "title": "Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding",
+      "abstract": "Reconstructing 3D objects from brain signals offers a promising avenue for understanding human visual cognition. While prior work has shown initial success using EEG signals for 3D reconstruction, existing methods typically employ a uniform diffusion decoder, overlooking the evolving semantic granularity of both EEG representations and the diffusion denoising process. In this paper, we propose Mind2Cloud, a novel EEG-to-point-cloud generation framework based on two-granularity diffusion decoding. The core of Mind2Cloud is a time-aware decoder that integrates a global Transformer branch and a local Point-Voxel CNN (PVCNN) branch across diffusion timesteps through a learnable fusion mask. Specifically, Transformer layers are incorporated into the early upsampling stages to capture global object structure under high uncertainty, while PVCNN modules are used in later stages to refine local geometric details. Inspired by the hierarchical nature of EEG-based visual representations, this design dynamically adapts its spatial granularity in accordance with the coarse-to-fine trajectory of diffusion denoising. We further introduce an adversarial refinement module to enhance geometric realism and semantic consistency. Extensive experiments on the EEG-3D dataset across all 12 subjects demonstrate that Mind2Cloud outperforms prior work in both geometric accuracy and semantic alignment, setting a new benchmark for EEG-to-point-cloud generation. Our source code is available at https://github.com/duasoi/Mind2Cloud.",
+      "authors": [
+        "Yongyi Lu",
+        "Xiongfeng Huang",
+        "Zhijing Yang"
+      ],
+      "published": "2026-09-12",
+      "updated": "2026-09-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "European Conference on Computer Vision -- ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2609.13991",
+      "pdf_url": "https://arxiv.org/pdf/2609.13991",
+      "query_sources": [
+        "datasets-and-infrastructure"
+      ],
+      "topics": [
+        "reconstruction",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ],
+        "datasets_infrastructure": [
+          "Dataset"
+        ]
+      }
+    },
     "2609.13146": {
       "arxiv_id": "2609.13146",
       "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
@@ -327630,6 +327706,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-09-15",
-  "paper_count": 8758,
-  "generated_at": "2026-09-15T01:03:19+00:00"
+  "paper_count": 8760,
+  "generated_at": "2026-09-15T12:44:23+00:00"
 }

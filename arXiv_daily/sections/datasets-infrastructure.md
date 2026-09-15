@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 507 · **Unique arXiv IDs:** 507
+**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 508 · **Unique arXiv IDs:** 508
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-12 | [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991) | Yongyi Lu, Xiongfeng Huang, Zhijing Yang | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.13991) / [pdf](https://arxiv.org/pdf/2609.13991) |
 | 2026-09-09 | [What Symmetry Buys a Learned Motion Planner](https://arxiv.org/abs/2609.10033) | Andrea Emir Sevincel | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.10033) / [pdf](https://arxiv.org/pdf/2609.10033) |
 | 2026-09-08 | [EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments](https://arxiv.org/abs/2609.08292) | Xilin Wang, Guoxi Zhang, Hongming Xu, et al. | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.08292) / [pdf](https://arxiv.org/pdf/2609.08292) |
 | 2026-09-03 | [TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization](https://arxiv.org/abs/2609.03613) | Wei Tan, Matias Turkulainen, Lauri Ilola, et al. | cs.GR | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.03613) / [pdf](https://arxiv.org/pdf/2609.03613) |
