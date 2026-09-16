@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2179 · **Unique arXiv IDs:** 2179
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2181 · **Unique arXiv IDs:** 2181
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-15 | [XPACE: Joint World and Action Modeling from Heterogeneous Experience](https://arxiv.org/abs/2609.17372) | Jiacheng Wei, Jerry Bai, Xiaoyu Yue, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.17372) / [pdf](https://arxiv.org/pdf/2609.17372) |
+| 2026-09-15 | [LCAP: Population-Informed Latent Chip Adaptation from Few Output Probes for Photonic Neural Networks](https://arxiv.org/abs/2609.16823) | Tianyu Gao, Guantian Zheng | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2609.16823) / [pdf](https://arxiv.org/pdf/2609.16823) |
 | 2026-09-14 | [When Should a World Model Move? Loss-Conditioned State Execution](https://arxiv.org/abs/2609.15801) | Jintao Xu, Zhengyu Chen, Ben Zhang, et al. | cs.AI, cs.LG, math.OC | World Model | [abs](https://arxiv.org/abs/2609.15801) / [pdf](https://arxiv.org/pdf/2609.15801) |
 | 2026-09-14 | [JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion](https://arxiv.org/abs/2609.15770) | Qihao Yuan, Yixuan Qiu, Ziyu Cao, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2609.15770) / [pdf](https://arxiv.org/pdf/2609.15770) |
 | 2026-09-14 | [From Prediction to Decision: World-Model-Guided Action Selection for Continuous Pile Excavation](https://arxiv.org/abs/2609.15382) | Ailing Zhang, Fan Gao, Song Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.15382) / [pdf](https://arxiv.org/pdf/2609.15382) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 1727 · **Unique arXiv IDs:** 1727
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 1731 · **Unique arXiv IDs:** 1731
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
+| 2026-09-15 | [TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer](https://arxiv.org/abs/2609.17198) | Yang Liu, Yifan He, Wenhao Zhao, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.17198) / [pdf](https://arxiv.org/pdf/2609.17198) |
+| 2026-09-14 | [Reasoning with Image Generation](https://arxiv.org/abs/2609.16409) | Nishad Singhi, Hector Garcia Rodriguez, Aditya Arora, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.16409) / [pdf](https://arxiv.org/pdf/2609.16409) |
 | 2026-09-14 | [LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration](https://arxiv.org/abs/2609.15098) | Jianhe Zhao, Yanhua Qiu, Zhiyu Zhang, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.15098) / [pdf](https://arxiv.org/pdf/2609.15098) |
 | 2026-09-13 | [Gaussian Process Implicit Surfaces as Participating Media: Realization-Free Rendering from Level-Crossing Statistics](https://arxiv.org/abs/2609.14695) | Jack Cui, Kehan Xu, Eugene d'Eon, et al. | cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.14695) / [pdf](https://arxiv.org/pdf/2609.14695) |
 | 2026-09-13 | [AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video](https://arxiv.org/abs/2609.14462) | Jiaming Tan, Mingliang Zhai, Zhen Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.14462) / [pdf](https://arxiv.org/pdf/2609.14462) |
@@ -39,6 +42,7 @@
 | 2026-09-04 | [CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation](https://arxiv.org/abs/2609.05397) | Samer Abualhanud, Max Mehltretter | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.05397) / [pdf](https://arxiv.org/pdf/2609.05397) |
 | 2026-09-04 | [MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision](https://arxiv.org/abs/2609.04958) | Zijie Zhu, Weiren Cai, Yizhou Wang, et al. | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04958) / [pdf](https://arxiv.org/pdf/2609.04958) |
 | 2026-09-04 | [Weather-Conditioned Depth Anything](https://arxiv.org/abs/2609.04827) | Zhaoming Xu, Chan-Wei Hu, Kuan-Ru Huang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04827) / [pdf](https://arxiv.org/pdf/2609.04827) |
+| 2026-09-03 | [Cascaded Non-Line-of-Sight Imaging](https://arxiv.org/abs/2609.16017) | Diego Royo, María Peña, Forrest B. Peterson, et al. | cs.GR, cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2609.16017) / [pdf](https://arxiv.org/pdf/2609.16017) |
 | 2026-09-03 | [DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models](https://arxiv.org/abs/2609.04555) | John J. Han, Adam Schmidt, Muhammad Abdullah Jamal, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04555) / [pdf](https://arxiv.org/pdf/2609.04555) |
 | 2026-09-03 | [Object Concepts Emerge from Motion](https://arxiv.org/abs/2609.04348) | Boshi Li, Xiaohui Wang, Xiaoyang Wu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04348) / [pdf](https://arxiv.org/pdf/2609.04348) |
 | 2026-09-03 | [Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation](https://arxiv.org/abs/2609.03970) | Augustin Raju, Abilash Madavath, Chandra Yuvesh Aubeeluck, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.03970) / [pdf](https://arxiv.org/pdf/2609.03970) |

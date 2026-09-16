@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2949 · **Unique arXiv IDs:** 2949
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2956 · **Unique arXiv IDs:** 2956
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
+| 2026-09-15 | [BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation](https://arxiv.org/abs/2609.17106) | Philipp Ausserlechner, Bernhard Neuberger, Alessandro Scherl, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.17106) / [pdf](https://arxiv.org/pdf/2609.17106) |
+| 2026-09-15 | [Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement](https://arxiv.org/abs/2609.17039) | Yuetong Wang, Jinsheng Quan, Yi Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.17039) / [pdf](https://arxiv.org/pdf/2609.17039) |
+| 2026-09-15 | [HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery](https://arxiv.org/abs/2609.16772) | Jie Yang, Yingdong Pi, Qiyan Luo, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.16772) / [pdf](https://arxiv.org/pdf/2609.16772) |
+| 2026-09-14 | [The Neverwhere Visual Parkour Benchmark Suite](https://arxiv.org/abs/2609.16443) | Ziyu Chen, Henghui Bao, Haoran Chang, et al. | cs.RO, cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.16443) / [pdf](https://arxiv.org/pdf/2609.16443) |
+| 2026-09-14 | [Racing in Volume with Flow Ensembles](https://arxiv.org/abs/2609.16310) | Saswat Subhajyoti Mallick, Riu Cherdchusakulchai, Marc Ruiz Olle, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.16310) / [pdf](https://arxiv.org/pdf/2609.16310) |
+| 2026-09-14 | [SceneBench: A Hierarchical Benchmark for Vision-Language Understanding of 3D Scenes](https://arxiv.org/abs/2609.16233) | Anubhav Khanal, Prabigya Acharya, Roshni Poudel, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.16233) / [pdf](https://arxiv.org/pdf/2609.16233) |
 | 2026-09-14 | [Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections](https://arxiv.org/abs/2609.15550) | Deyu Meng, Mojtaba Lashgari, Yiying Wang, et al. | cs.CG, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.15550) / [pdf](https://arxiv.org/pdf/2609.15550) |
 | 2026-09-14 | [What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation](https://arxiv.org/abs/2609.14899) | Sariah Patro, Arjun Mehra, Nikhil Bhatia | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.14899) / [pdf](https://arxiv.org/pdf/2609.14899) |
 | 2026-09-13 | [SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634) | Kumaran Karthik, Pramat Shastri Jois, Suresh Sundaram | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.14634) / [pdf](https://arxiv.org/pdf/2609.14634) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2850 · **Unique arXiv IDs:** 2850
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2861 · **Unique arXiv IDs:** 2861
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,17 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Mapping / SLAM, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
+| 2026-09-15 | [Online Geometric Change Detection via Scene Decomposition](https://arxiv.org/abs/2609.17302) | David Thorne, Samuel Jia Cong Chua, Nakul Joshi, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.17302) / [pdf](https://arxiv.org/pdf/2609.17302) |
+| 2026-09-15 | [DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming](https://arxiv.org/abs/2609.17230) | Idil Sulo, Alexey Supikov, Ilke Demir, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.17230) / [pdf](https://arxiv.org/pdf/2609.17230) |
+| 2026-09-15 | [HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM](https://arxiv.org/abs/2609.17168) | Mayowa Adebambo, Sebastian Donnelly, Armand Amaritei, et al. | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.17168) / [pdf](https://arxiv.org/pdf/2609.17168) |
+| 2026-09-15 | [Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement](https://arxiv.org/abs/2609.17039) | Yuetong Wang, Jinsheng Quan, Yi Yang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.17039) / [pdf](https://arxiv.org/pdf/2609.17039) |
+| 2026-09-15 | [Evaluating Mesh Reconstruction Methods for Crop Phenotyping](https://arxiv.org/abs/2609.16926) | Karanvir Singh, Theo Morales, Binh-Son Hua, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16926) / [pdf](https://arxiv.org/pdf/2609.16926) |
+| 2026-09-15 | [Seeing What Matters: Visual Cue Guided Video Planning for Generalizable Robot Navigation](https://arxiv.org/abs/2609.16737) | Hojin Lee, Sizhe Lester Li, Maximilian Hilger, et al. | cs.RO, cs.AI, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16737) / [pdf](https://arxiv.org/pdf/2609.16737) |
+| 2026-09-15 | [MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking](https://arxiv.org/abs/2609.16695) | Sifan Zhou, Qiwei Wang, Linyue Tan, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16695) / [pdf](https://arxiv.org/pdf/2609.16695) |
+| 2026-09-15 | [Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](https://arxiv.org/abs/2609.16686) | Lidia Al-Zogbi, Fangjie Li, Samuel Tobin, et al. | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16686) / [pdf](https://arxiv.org/pdf/2609.16686) |
+| 2026-09-15 | [Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos](https://arxiv.org/abs/2609.16672) | Hyunjun Kim, Hyeonwoo Na, Jaewoo Lee | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16672) / [pdf](https://arxiv.org/pdf/2609.16672) |
+| 2026-09-14 | [Racing in Volume with Flow Ensembles](https://arxiv.org/abs/2609.16310) | Saswat Subhajyoti Mallick, Riu Cherdchusakulchai, Marc Ruiz Olle, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.16310) / [pdf](https://arxiv.org/pdf/2609.16310) |
 | 2026-09-14 | [Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows](https://arxiv.org/abs/2609.15833) | Baptiste Brument, Robin Bruneau, Benjamin Coupry, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.15833) / [pdf](https://arxiv.org/pdf/2609.15833) |
 | 2026-09-14 | [SURE-Map: Self-Correcting Streaming Geometric Foundation Model](https://arxiv.org/abs/2609.15795) | Mingkai Liu, Hao Zhao, Xingxing Zuo | cs.CV | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.15795) / [pdf](https://arxiv.org/pdf/2609.15795) |
 | 2026-09-14 | [Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections](https://arxiv.org/abs/2609.15550) | Deyu Meng, Mojtaba Lashgari, Yiying Wang, et al. | cs.CG, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.15550) / [pdf](https://arxiv.org/pdf/2609.15550) |
