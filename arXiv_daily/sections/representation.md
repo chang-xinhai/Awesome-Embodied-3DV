@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 2940 · **Unique arXiv IDs:** 2940
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 2949 · **Unique arXiv IDs:** 2949
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-14 | [Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections](https://arxiv.org/abs/2609.15550) | Deyu Meng, Mojtaba Lashgari, Yiying Wang, et al. | cs.CG, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.15550) / [pdf](https://arxiv.org/pdf/2609.15550) |
+| 2026-09-14 | [What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation](https://arxiv.org/abs/2609.14899) | Sariah Patro, Arjun Mehra, Nikhil Bhatia | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.14899) / [pdf](https://arxiv.org/pdf/2609.14899) |
+| 2026-09-13 | [SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634) | Kumaran Karthik, Pramat Shastri Jois, Suresh Sundaram | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.14634) / [pdf](https://arxiv.org/pdf/2609.14634) |
+| 2026-09-13 | [CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction](https://arxiv.org/abs/2609.14521) | Zhirui Gao, Renjiao Yi, Yunfan Ye, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.14521) / [pdf](https://arxiv.org/pdf/2609.14521) |
+| 2026-09-12 | [Deformable 2D Gaussian Splatting for Efficient 4K Video Compression](https://arxiv.org/abs/2609.14129) | Chenhao Zhang, Fengqing Zhu | eess.IV, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.14129) / [pdf](https://arxiv.org/pdf/2609.14129) |
+| 2026-09-12 | [SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences](https://arxiv.org/abs/2609.13903) | Zhuoxiao Li, Xinyi Liu, Taoyu Wu, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.13903) / [pdf](https://arxiv.org/pdf/2609.13903) |
+| 2026-09-11 | [NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis](https://arxiv.org/abs/2609.12682) | Shaurya Pavan A, Vemunuri Divya Madhuri, Yash Pradeep Gawande, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.12682) / [pdf](https://arxiv.org/pdf/2609.12682) |
+| 2026-09-11 | [VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views](https://arxiv.org/abs/2609.12343) | Yunsu Jeong, Hyuk Heo, Youngsang Kwak, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.12343) / [pdf](https://arxiv.org/pdf/2609.12343) |
 | 2026-09-10 | [3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894) | Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar | cs.CV, cs.GR, cs.LG | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.11894) / [pdf](https://arxiv.org/pdf/2609.11894) |
 | 2026-09-10 | [Hologram Representation via Quadratic Phase Gaussian Splatting](https://arxiv.org/abs/2609.11434) | Haolong Wang, Yicheng Zhan, Kaan Akşit, et al. | cs.GR, cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.11434) / [pdf](https://arxiv.org/pdf/2609.11434) |
 | 2026-09-10 | [Tri-DehazeGS: Scene--Medium Decoupled Gaussian Splatting with Transmittance-Aware Optimization](https://arxiv.org/abs/2609.11223) | Kui Jiang, Yang Gu, Jiacheng Liu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.11223) / [pdf](https://arxiv.org/pdf/2609.11223) |
@@ -32,6 +40,7 @@
 | 2026-09-07 | [From Explicit References to Scene Manifolds: Distributional Fidelity and Realism for Radiance Field Quality Assessment](https://arxiv.org/abs/2609.07346) | Saeed Mahmoudpour, Gi-Mun Um, Hyon-Gon Choo, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.07346) / [pdf](https://arxiv.org/pdf/2609.07346) |
 | 2026-09-07 | [LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure](https://arxiv.org/abs/2609.07274) | Junze Bao, Ye Gao, Yiming Huang, et al. | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.07274) / [pdf](https://arxiv.org/pdf/2609.07274) |
 | 2026-09-07 | [Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting](https://arxiv.org/abs/2609.07231) | Jie Lu, Hengtan Zhang, Li Gong, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.07231) / [pdf](https://arxiv.org/pdf/2609.07231) |
+| 2026-09-06 | [Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting](https://arxiv.org/abs/2609.13262) | Yunlai Zhou, Yiren Lu, Tuo Liang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.13262) / [pdf](https://arxiv.org/pdf/2609.13262) |
 | 2026-09-06 | [MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting](https://arxiv.org/abs/2609.06874) | Chengkai Wang, Luoyu Hong, Yiting Zhao, et al. | eess.IV, cs.CE, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.06874) / [pdf](https://arxiv.org/pdf/2609.06874) |
 | 2026-09-06 | [Uni-Light: An Ultra-Lightweight Framework via Uncertainty-Aware Knowledge Distillation for Brain Tumour Segmentation](https://arxiv.org/abs/2609.06729) | Libing Kuang, Soren Salehi, Ziling Wu, et al. | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.06729) / [pdf](https://arxiv.org/pdf/2609.06729) |
 | 2026-09-06 | [ADELE - Adaptive Delaunay Grids for High-Fidelity Mesh-Native Reconstruction](https://arxiv.org/abs/2609.06723) | Johannes Weidenfeller, Shaofei Wang, Philipp Fürnstahl, et al. | cs.CV, cs.GR | Gaussian Splatting, Radiance Field / NeRF, Neural Implicit / SDF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.06723) / [pdf](https://arxiv.org/pdf/2609.06723) |

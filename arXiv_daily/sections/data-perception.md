@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-15 · **Papers:** 1720 · **Unique arXiv IDs:** 1720
+**Coverage:** 2025-01-01 to 2026-09-16 · **Papers:** 1727 · **Unique arXiv IDs:** 1727
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-14 | [LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration](https://arxiv.org/abs/2609.15098) | Jianhe Zhao, Yanhua Qiu, Zhiyu Zhang, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.15098) / [pdf](https://arxiv.org/pdf/2609.15098) |
+| 2026-09-13 | [Gaussian Process Implicit Surfaces as Participating Media: Realization-Free Rendering from Level-Crossing Statistics](https://arxiv.org/abs/2609.14695) | Jack Cui, Kehan Xu, Eugene d'Eon, et al. | cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.14695) / [pdf](https://arxiv.org/pdf/2609.14695) |
+| 2026-09-13 | [AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video](https://arxiv.org/abs/2609.14462) | Jiaming Tan, Mingliang Zhai, Zhen Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.14462) / [pdf](https://arxiv.org/pdf/2609.14462) |
+| 2026-09-11 | [ConeGaussian: Anti-Aliased Gaussian Ray-Tracing for Generic Central Cameras](https://arxiv.org/abs/2609.13397) | Deheng Zhang, Letian Shi, Runyi Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.13397) / [pdf](https://arxiv.org/pdf/2609.13397) |
+| 2026-09-11 | [KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image](https://arxiv.org/abs/2609.12559) | Jun Lu, Zhenming Chen, Lin Chen, et al. | cs.CV, cs.HC | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.12559) / [pdf](https://arxiv.org/pdf/2609.12559) |
+| 2026-09-10 | [An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework](https://arxiv.org/abs/2609.12206) | Ehsan Zobeidi, Omid Rezayof, Farshid Alambeigi | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.12206) / [pdf](https://arxiv.org/pdf/2609.12206) |
 | 2026-09-10 | [EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking](https://arxiv.org/abs/2609.11920) | Dexter Ong, Vijay Kumar, Pratik Chaudhari | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.11920) / [pdf](https://arxiv.org/pdf/2609.11920) |
 | 2026-09-10 | [SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms](https://arxiv.org/abs/2609.11382) | Charbel Toumieh, Niel Mistry, Benjamin Jarvis, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.11382) / [pdf](https://arxiv.org/pdf/2609.11382) |
 | 2026-09-10 | [RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079) | Jiarong Lian, Zhe Xiao, Zhaoyang Zhang, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.11079) / [pdf](https://arxiv.org/pdf/2609.11079) |
@@ -36,6 +42,7 @@
 | 2026-09-03 | [DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models](https://arxiv.org/abs/2609.04555) | John J. Han, Adam Schmidt, Muhammad Abdullah Jamal, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04555) / [pdf](https://arxiv.org/pdf/2609.04555) |
 | 2026-09-03 | [Object Concepts Emerge from Motion](https://arxiv.org/abs/2609.04348) | Boshi Li, Xiaohui Wang, Xiaoyang Wu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.04348) / [pdf](https://arxiv.org/pdf/2609.04348) |
 | 2026-09-03 | [Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation](https://arxiv.org/abs/2609.03970) | Augustin Raju, Abilash Madavath, Chandra Yuvesh Aubeeluck, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.03970) / [pdf](https://arxiv.org/pdf/2609.03970) |
+| 2026-09-02 | [EMCStereo: Attention-Enhanced Stereo Matching for Thin-Structure Depth Estimation with a Synthetic Tree-Branch Benchmark](https://arxiv.org/abs/2609.13233) | Yida Lin, Bing Xue, Mengjie Zhang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.13233) / [pdf](https://arxiv.org/pdf/2609.13233) |
 | 2026-09-02 | [Adapting a Foundation Model for Lunar Surface Height Estimation](https://arxiv.org/abs/2609.02448) | Patrick Bauer, Marius Schwinning, Melanie Siegel, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.02448) / [pdf](https://arxiv.org/pdf/2609.02448) |
 | 2026-09-02 | [From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs](https://arxiv.org/abs/2609.02319) | Dun Dai, Ze Lu, Cheng He, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.02319) / [pdf](https://arxiv.org/pdf/2609.02319) |
 | 2026-09-02 | [Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation](https://arxiv.org/abs/2609.01997) | Akio Hayakawa, Yusuke Mukuta, Tatsuya Harada | cs.CV, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.01997) / [pdf](https://arxiv.org/pdf/2609.01997) |
