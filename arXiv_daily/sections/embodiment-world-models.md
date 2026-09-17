@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 2181 · **Unique arXiv IDs:** 2181
+**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 2192 · **Unique arXiv IDs:** 2192
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,17 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
+| 2026-09-16 | [NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](https://arxiv.org/abs/2609.18898) | Yihan Zang, Da Li, Dominik Engel, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.18898) / [pdf](https://arxiv.org/pdf/2609.18898) |
+| 2026-09-16 | [WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning](https://arxiv.org/abs/2609.18685) | Remo Steiner, Vikram Ramasamy, David Tingdahl, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18685) / [pdf](https://arxiv.org/pdf/2609.18685) |
+| 2026-09-16 | [Sim-to-Real Traffic Scene Understanding by Decoupling Semantics from Caption Generation with V-JEPA](https://arxiv.org/abs/2609.18562) | Nguyen Hoai Thuong Bui, Thanh Nguyen Vo, Trinh Tra Giang Nguyen, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18562) / [pdf](https://arxiv.org/pdf/2609.18562) |
+| 2026-09-16 | [StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions](https://arxiv.org/abs/2609.18430) | Awomo-WM Team, :, Enhui Ma, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.18430) / [pdf](https://arxiv.org/pdf/2609.18430) |
+| 2026-09-16 | [Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation](https://arxiv.org/abs/2609.18293) | Tianyi Xiang, Xupeng Xie, Jiahang Cao, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18293) / [pdf](https://arxiv.org/pdf/2609.18293) |
+| 2026-09-16 | [TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation](https://arxiv.org/abs/2609.18174) | Jie Yin, Wanli Xing, Zeyuan Zhao, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18174) / [pdf](https://arxiv.org/pdf/2609.18174) |
+| 2026-09-16 | [A Comprehensive Review of Generative Physical Artificial Intelligence](https://arxiv.org/abs/2609.18111) | Satyam Gaba, Krutiksinh Rana, Siva Sai, et al. | cs.RO, cs.AI, cs.CL | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18111) / [pdf](https://arxiv.org/pdf/2609.18111) |
+| 2026-09-15 | [Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](https://arxiv.org/abs/2609.17909) | Mingyang Chen, Shengdong Chen, Xiaoxiao Fu, et al. | cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.17909) / [pdf](https://arxiv.org/pdf/2609.17909) |
+| 2026-09-15 | [Adaptive-MHE : A Sampling-Based Adaptive MPC for Legged Loco-Manipulation via Moving Horizon Estimation](https://arxiv.org/abs/2609.17832) | Hossein Keshavarz, Alejandro Ramirez-Serrano, Majid Khadiv | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.17832) / [pdf](https://arxiv.org/pdf/2609.17832) |
+| 2026-09-15 | [Learning Multi-Humanoid Pickup and Transport via Decentralized Object-Centric Control](https://arxiv.org/abs/2609.17824) | Bikram Pandit, Mohitvishnu S. Gadde, Aayam Kumar Shrestha, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.17824) / [pdf](https://arxiv.org/pdf/2609.17824) |
 | 2026-09-15 | [XPACE: Joint World and Action Modeling from Heterogeneous Experience](https://arxiv.org/abs/2609.17372) | Jiacheng Wei, Jerry Bai, Xiaoyu Yue, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.17372) / [pdf](https://arxiv.org/pdf/2609.17372) |
 | 2026-09-15 | [LCAP: Population-Informed Latent Chip Adaptation from Few Output Probes for Photonic Neural Networks](https://arxiv.org/abs/2609.16823) | Tianyu Gao, Guantian Zheng | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2609.16823) / [pdf](https://arxiv.org/pdf/2609.16823) |
 | 2026-09-14 | [When Should a World Model Move? Loss-Conditioned State Execution](https://arxiv.org/abs/2609.15801) | Jintao Xu, Zhengyu Chen, Ben Zhang, et al. | cs.AI, cs.LG, math.OC | World Model | [abs](https://arxiv.org/abs/2609.15801) / [pdf](https://arxiv.org/pdf/2609.15801) |

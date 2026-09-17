@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 2956 · **Unique arXiv IDs:** 2956
+**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 2961 · **Unique arXiv IDs:** 2961
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-16 | [NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](https://arxiv.org/abs/2609.18898) | Yihan Zang, Da Li, Dominik Engel, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18898) / [pdf](https://arxiv.org/pdf/2609.18898) |
+| 2026-09-16 | [Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting](https://arxiv.org/abs/2609.18737) | Harvey Caldeira, Haoran Wang, Guoxi Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18737) / [pdf](https://arxiv.org/pdf/2609.18737) |
+| 2026-09-16 | [MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ](https://arxiv.org/abs/2609.18624) | Emanuele Artioli, Mohammadreza Ghafari, Md Tariqul Islam, et al. | cs.MM, cs.GR, cs.NI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18624) / [pdf](https://arxiv.org/pdf/2609.18624) |
+| 2026-09-16 | [CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction](https://arxiv.org/abs/2609.18473) | Kristof Overdulve, Lode Jorissen, Nick Michiels | cs.CV, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.18473) / [pdf](https://arxiv.org/pdf/2609.18473) |
+| 2026-09-15 | [Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting](https://arxiv.org/abs/2609.17810) | Weiying Chen, Edmond Lou | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.17810) / [pdf](https://arxiv.org/pdf/2609.17810) |
 | 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
 | 2026-09-15 | [BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation](https://arxiv.org/abs/2609.17106) | Philipp Ausserlechner, Bernhard Neuberger, Alessandro Scherl, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.17106) / [pdf](https://arxiv.org/pdf/2609.17106) |
 | 2026-09-15 | [Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement](https://arxiv.org/abs/2609.17039) | Yuetong Wang, Jinsheng Quan, Yi Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.17039) / [pdf](https://arxiv.org/pdf/2609.17039) |

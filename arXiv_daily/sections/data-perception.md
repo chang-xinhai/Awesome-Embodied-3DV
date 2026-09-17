@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 1731 · **Unique arXiv IDs:** 1731
+**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 1733 · **Unique arXiv IDs:** 1733
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-16 | [MCLC-NET: Multimodal Continual Learning for Leaf Counting](https://arxiv.org/abs/2609.18129) | Ruchi Bhatt, Pratibha Kumari, Shreya Bansal, et al. | cs.CV, cs.LG | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.18129) / [pdf](https://arxiv.org/pdf/2609.18129) |
+| 2026-09-15 | [AgenTeeth: A Model-Agnostic Framework for Suppressing Hallucination in Frozen Vision-Language Models on Dental X-Rays via Tool Evidence Injection](https://arxiv.org/abs/2609.17800) | Ahmed Rafid, Fariya Ahmed, Rumman Adib, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.17800) / [pdf](https://arxiv.org/pdf/2609.17800) |
 | 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
 | 2026-09-15 | [TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer](https://arxiv.org/abs/2609.17198) | Yang Liu, Yifan He, Wenhao Zhao, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.17198) / [pdf](https://arxiv.org/pdf/2609.17198) |
 | 2026-09-14 | [Reasoning with Image Generation](https://arxiv.org/abs/2609.16409) | Nishad Singhi, Hector Garcia Rodriguez, Aditya Arora, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.16409) / [pdf](https://arxiv.org/pdf/2609.16409) |

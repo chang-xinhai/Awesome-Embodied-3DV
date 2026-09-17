@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 511 · **Unique arXiv IDs:** 511
+**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 513 · **Unique arXiv IDs:** 513
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-16 | [PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920) | Sneha Paul, Guile Wu, Bingbing Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.18920) / [pdf](https://arxiv.org/pdf/2609.18920) |
+| 2026-09-16 | [Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users](https://arxiv.org/abs/2609.18406) | Yilin Wen, Kechuan Dong, Fumiya Suginaka, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.18406) / [pdf](https://arxiv.org/pdf/2609.18406) |
 | 2026-09-15 | [EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset](https://arxiv.org/abs/2609.17189) | Ryosei Hara, Wataru Ikeda, Masashi Hatano, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.17189) / [pdf](https://arxiv.org/pdf/2609.17189) |
 | 2026-09-12 | [DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction](https://arxiv.org/abs/2609.14183) | Alex Posadas-Nava, August Berne, Giovanni Lavezzi, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2609.14183) / [pdf](https://arxiv.org/pdf/2609.14183) |
 | 2026-09-12 | [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991) | Yongyi Lu, Xiongfeng Huang, Zhijing Yang | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.13991) / [pdf](https://arxiv.org/pdf/2609.13991) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 950 · **Unique arXiv IDs:** 950
+**Coverage:** 2025-01-01 to 2026-09-17 · **Papers:** 951 · **Unique arXiv IDs:** 951
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
 | 2026-09-14 | [SAM3D-Part: Interactive Part Selection and Generation from 3D Objects](https://arxiv.org/abs/2609.15639) | Jiahao Chang, Dong Du, Wanhu Sun, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.15639) / [pdf](https://arxiv.org/pdf/2609.15639) |
 | 2026-09-14 | [ESG: Generating Physically Consistent Dynamic 3D Scenes from Text Descriptions](https://arxiv.org/abs/2609.15392) | Xintong Fang, Zhiyuan Fang, Rengan Xie, et al. | cs.GR, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2609.15392) / [pdf](https://arxiv.org/pdf/2609.15392) |
 | 2026-09-11 | [SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image](https://arxiv.org/abs/2609.13146) | Yu-Rou Tuan, Hao-Tang Tsui, Nicolas Ugrinovic, et al. | cs.GR, cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.13146) / [pdf](https://arxiv.org/pdf/2609.13146) |
