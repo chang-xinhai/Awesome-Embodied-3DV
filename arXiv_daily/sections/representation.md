@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2961 · **Unique arXiv IDs:** 2961
+**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2974 · **Unique arXiv IDs:** 2974
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,19 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-17 | [SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos](https://arxiv.org/abs/2609.20818) | Peiyu Liu, Dingxi Zhang, Federico Tombari, et al. | cs.CV, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.20818) / [pdf](https://arxiv.org/pdf/2609.20818) |
+| 2026-09-17 | [PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions](https://arxiv.org/abs/2609.20623) | Rinto Yagawa, Han Cheng, Dieter Schmalstieg, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.20623) / [pdf](https://arxiv.org/pdf/2609.20623) |
+| 2026-09-17 | [RawSLAM: Online HDR Gaussian SLAM from Linear Radiance](https://arxiv.org/abs/2609.20589) | Marina Orozco González, Luis Merino | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.20589) / [pdf](https://arxiv.org/pdf/2609.20589) |
+| 2026-09-17 | [CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding](https://arxiv.org/abs/2609.20586) | Zhikun Zhou, Kunyu Peng, Runyi Yang, et al. | cs.RO, cs.CV, eess.IV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.20586) / [pdf](https://arxiv.org/pdf/2609.20586) |
+| 2026-09-17 | [EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute](https://arxiv.org/abs/2609.20348) | Björn Ellensohn, Elmar Rueckert, Christian Rauch | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.20348) / [pdf](https://arxiv.org/pdf/2609.20348) |
+| 2026-09-17 | [GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets](https://arxiv.org/abs/2609.19907) | Jieting Xu, Rengan Xie, Zijian Huang, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19907) / [pdf](https://arxiv.org/pdf/2609.19907) |
+| 2026-09-17 | [Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings](https://arxiv.org/abs/2609.19782) | Yutao Ming, Teng Xu, Youjia Wang, et al. | cs.GR, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19782) / [pdf](https://arxiv.org/pdf/2609.19782) |
+| 2026-09-17 | [GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://arxiv.org/abs/2609.19716) | Zixiang Ai, Zhenyu Cui, Yufei Guo, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19716) / [pdf](https://arxiv.org/pdf/2609.19716) |
+| 2026-09-17 | [VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors](https://arxiv.org/abs/2609.19628) | Yuhang Han, Hao Wang, Jiaxi Cao, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19628) / [pdf](https://arxiv.org/pdf/2609.19628) |
+| 2026-09-17 | [SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints](https://arxiv.org/abs/2609.19533) | Mohamed Hefny, Karthik Dantu, Steven Y. Ko | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19533) / [pdf](https://arxiv.org/pdf/2609.19533) |
+| 2026-09-16 | [ParticleSplat: Self-supervised Object-centric Latent Particle Splatting](https://arxiv.org/abs/2609.19463) | Lyuxing He, Daniel Guo, Elizabeth Terveen, et al. | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19463) / [pdf](https://arxiv.org/pdf/2609.19463) |
+| 2026-09-16 | [RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects](https://arxiv.org/abs/2609.19421) | Xiaobiao Du, Yida Wang, Cheng Bi, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19421) / [pdf](https://arxiv.org/pdf/2609.19421) |
+| 2026-09-16 | [SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps](https://arxiv.org/abs/2609.19330) | Amirhossein Mollaei Khass, Athanasios Cosse, Nader Motee | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.19330) / [pdf](https://arxiv.org/pdf/2609.19330) |
 | 2026-09-16 | [NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](https://arxiv.org/abs/2609.18898) | Yihan Zang, Da Li, Dominik Engel, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18898) / [pdf](https://arxiv.org/pdf/2609.18898) |
 | 2026-09-16 | [Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting](https://arxiv.org/abs/2609.18737) | Harvey Caldeira, Haoran Wang, Guoxi Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18737) / [pdf](https://arxiv.org/pdf/2609.18737) |
 | 2026-09-16 | [MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ](https://arxiv.org/abs/2609.18624) | Emanuele Artioli, Mohammadreza Ghafari, Md Tariqul Islam, et al. | cs.MM, cs.GR, cs.NI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.18624) / [pdf](https://arxiv.org/pdf/2609.18624) |

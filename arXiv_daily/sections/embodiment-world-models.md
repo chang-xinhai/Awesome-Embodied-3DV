@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2192 · **Unique arXiv IDs:** 2192
+**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2206 · **Unique arXiv IDs:** 2206
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,20 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-17 | [MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving](https://arxiv.org/abs/2609.20747) | Thomas Steinecker, Denis Trescher, Alexander Bienemann, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20747) / [pdf](https://arxiv.org/pdf/2609.20747) |
+| 2026-09-17 | [Towards Scaling Marine Perception with Synthetic Data](https://arxiv.org/abs/2609.20680) | Haoyu Ma, Onur Bagoren, Anja Sheppard, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20680) / [pdf](https://arxiv.org/pdf/2609.20680) |
+| 2026-09-17 | [MAGNETAR: Multipath-Guided Spatial Posteriors for Transmitter Pose Inference in the Upper Mid-Band](https://arxiv.org/abs/2609.20670) | Haozhe Lei, Ruibin Chen, Yuhan Jiang, et al. | cs.RO, eess.SP | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20670) / [pdf](https://arxiv.org/pdf/2609.20670) |
+| 2026-09-17 | [DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation](https://arxiv.org/abs/2609.20649) | Yan Qin, Yue Chen, Wenwei Lin, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.20649) / [pdf](https://arxiv.org/pdf/2609.20649) |
+| 2026-09-17 | [Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation](https://arxiv.org/abs/2609.20477) | Tao Sun, Beining Han, Patrick Yin, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20477) / [pdf](https://arxiv.org/pdf/2609.20477) |
+| 2026-09-17 | [SenseFuse: Label-Free Fusion of Image and Shape Encoders for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2609.20475) | Euiseok Han, Tri Ton, Hwanhee Kim, et al. | cs.CV, cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.20475) / [pdf](https://arxiv.org/pdf/2609.20475) |
+| 2026-09-17 | [Astronex-World 1.0: Real-Time Interactive World Model Foundation](https://arxiv.org/abs/2609.20034) | Xin Zhou, Cong Miao | cs.CV, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.20034) / [pdf](https://arxiv.org/pdf/2609.20034) |
+| 2026-09-17 | [CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding](https://arxiv.org/abs/2609.19911) | Shuai Zhang, Hongye Hou, Qinghe Liu, et al. | cs.CV | Dynamic Scene Graph, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.19911) / [pdf](https://arxiv.org/pdf/2609.19911) |
+| 2026-09-17 | [Feeling Terrain Before Crossing: World Models for Off-Road Navigation](https://arxiv.org/abs/2609.19863) | E-In Son, Dong-Wook Kim, Ji-Hoon Hwang, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.19863) / [pdf](https://arxiv.org/pdf/2609.19863) |
+| 2026-09-17 | [WorldContact: A Contact-Centric World Model for Scalable Robot Learning](https://arxiv.org/abs/2609.19600) | Caoliwen Wang, Mengdi Wang, Heng Zhang, et al. | cs.RO | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2609.19600) / [pdf](https://arxiv.org/pdf/2609.19600) |
+| 2026-09-17 | [PerSeM: Persistent Semantic Memory for Long-Horizon Open-Vocabulary UAV Mapping](https://arxiv.org/abs/2609.19542) | Saurbh Singh Jamwal, Ganesh Ramakrishnan | cs.CV, cs.RO | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.19542) / [pdf](https://arxiv.org/pdf/2609.19542) |
+| 2026-09-16 | [SCOUT: Sim-to-Real Text-Based Person Retrieval by Embedding-Space Prediction over Frozen Video Features](https://arxiv.org/abs/2609.19483) | Abdarahmane Traoré, Andy Couturier, Éric Hervet | cs.CV, cs.IR | Sim-to-Real | [abs](https://arxiv.org/abs/2609.19483) / [pdf](https://arxiv.org/pdf/2609.19483) |
+| 2026-09-16 | [Open-vocabulary 3D object detection with promptable segmentation](https://arxiv.org/abs/2609.19358) | Ömer Faruk Deniz, Mustafa Taha Koçyiğit | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.19358) / [pdf](https://arxiv.org/pdf/2609.19358) |
+| 2026-09-16 | [GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning](https://arxiv.org/abs/2609.19315) | Ruiyang Wang, Hao-Lun Hsu, Swarajh Mehta, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.19315) / [pdf](https://arxiv.org/pdf/2609.19315) |
 | 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
 | 2026-09-16 | [NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](https://arxiv.org/abs/2609.18898) | Yihan Zang, Da Li, Dominik Engel, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.18898) / [pdf](https://arxiv.org/pdf/2609.18898) |
 | 2026-09-16 | [WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning](https://arxiv.org/abs/2609.18685) | Remo Steiner, Vikram Ramasamy, David Tingdahl, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.18685) / [pdf](https://arxiv.org/pdf/2609.18685) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2868 · **Unique arXiv IDs:** 2868
+**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 2879 · **Unique arXiv IDs:** 2879
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,17 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-17 | [Can 4D Foundation Models Remember?](https://arxiv.org/abs/2609.20819) | Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.20819) / [pdf](https://arxiv.org/pdf/2609.20819) |
+| 2026-09-17 | [Semantic SLAM in Precision Agriculture using Bayesian Inference](https://arxiv.org/abs/2609.20604) | Ruben Beumer, Sander Doodeman, René van de Molengraft, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.20604) / [pdf](https://arxiv.org/pdf/2609.20604) |
+| 2026-09-17 | [RawSLAM: Online HDR Gaussian SLAM from Linear Radiance](https://arxiv.org/abs/2609.20589) | Marina Orozco González, Luis Merino | cs.CV | Mapping / SLAM, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.20589) / [pdf](https://arxiv.org/pdf/2609.20589) |
+| 2026-09-17 | [GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction](https://arxiv.org/abs/2609.20012) | Enpeng Li, Yunzhou Zhang, Zhiyao Zhang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.20012) / [pdf](https://arxiv.org/pdf/2609.20012) |
+| 2026-09-17 | [SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes](https://arxiv.org/abs/2609.19815) | Suji Kang, Seok-Young Kim, Young Bin Kim, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.19815) / [pdf](https://arxiv.org/pdf/2609.19815) |
+| 2026-09-17 | [GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://arxiv.org/abs/2609.19716) | Zixiang Ai, Zhenyu Cui, Yufei Guo, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.19716) / [pdf](https://arxiv.org/pdf/2609.19716) |
+| 2026-09-17 | [VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors](https://arxiv.org/abs/2609.19628) | Yuhang Han, Hao Wang, Jiaxi Cao, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.19628) / [pdf](https://arxiv.org/pdf/2609.19628) |
+| 2026-09-17 | [PerSeM: Persistent Semantic Memory for Long-Horizon Open-Vocabulary UAV Mapping](https://arxiv.org/abs/2609.19542) | Saurbh Singh Jamwal, Ganesh Ramakrishnan | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.19542) / [pdf](https://arxiv.org/pdf/2609.19542) |
+| 2026-09-17 | [SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints](https://arxiv.org/abs/2609.19533) | Mohamed Hefny, Karthik Dantu, Steven Y. Ko | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.19533) / [pdf](https://arxiv.org/pdf/2609.19533) |
+| 2026-09-17 | [AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend](https://arxiv.org/abs/2609.19518) | Hengyi Wang, Lourdes Agapito | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.19518) / [pdf](https://arxiv.org/pdf/2609.19518) |
+| 2026-09-16 | [4D Radar Perception Algorithms for Autonomous Driving: A Review](https://arxiv.org/abs/2609.19216) | Xumin Wu, Jun Zhou, Jilin Mei, et al. | cs.RO, cs.CV, eess.SP | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.19216) / [pdf](https://arxiv.org/pdf/2609.19216) |
 | 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
 | 2026-09-16 | [PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920) | Sneha Paul, Guile Wu, Bingbing Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.18920) / [pdf](https://arxiv.org/pdf/2609.18920) |
 | 2026-09-16 | [SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM](https://arxiv.org/abs/2609.18893) | Kalvik Jakkala, Jason O'Kane | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.18893) / [pdf](https://arxiv.org/pdf/2609.18893) |

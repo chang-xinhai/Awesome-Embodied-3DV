@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 1733 · **Unique arXiv IDs:** 1733
+**Coverage:** 2025-01-01 to 2026-09-18 · **Papers:** 1737 · **Unique arXiv IDs:** 1737
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-17 | [Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control](https://arxiv.org/abs/2609.20731) | Yuheng Zhou, Haiyang Cheng, Yanqi Feng, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.20731) / [pdf](https://arxiv.org/pdf/2609.20731) |
+| 2026-09-17 | [GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets](https://arxiv.org/abs/2609.19907) | Jieting Xu, Rengan Xie, Zijian Huang, et al. | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.19907) / [pdf](https://arxiv.org/pdf/2609.19907) |
+| 2026-09-17 | [BinoGen: Scaling egocentric binocular data for embodied visual perception and learning](https://arxiv.org/abs/2609.19881) | Chunpeng Li, Ya-tang Li | cs.CV, cs.MM | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.19881) / [pdf](https://arxiv.org/pdf/2609.19881) |
+| 2026-09-16 | [RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects](https://arxiv.org/abs/2609.19421) | Xiaobiao Du, Yida Wang, Cheng Bi, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2609.19421) / [pdf](https://arxiv.org/pdf/2609.19421) |
 | 2026-09-16 | [MCLC-NET: Multimodal Continual Learning for Leaf Counting](https://arxiv.org/abs/2609.18129) | Ruchi Bhatt, Pratibha Kumari, Shreya Bansal, et al. | cs.CV, cs.LG | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.18129) / [pdf](https://arxiv.org/pdf/2609.18129) |
 | 2026-09-15 | [AgenTeeth: A Model-Agnostic Framework for Suppressing Hallucination in Frozen Vision-Language Models on Dental X-Rays via Tool Evidence Injection](https://arxiv.org/abs/2609.17800) | Ahmed Rafid, Fariya Ahmed, Rumman Adib, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.17800) / [pdf](https://arxiv.org/pdf/2609.17800) |
 | 2026-09-15 | [PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM](https://arxiv.org/abs/2609.17387) | Yongqi Mao, Hao Shi, Yufan Zhang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.17387) / [pdf](https://arxiv.org/pdf/2609.17387) |
