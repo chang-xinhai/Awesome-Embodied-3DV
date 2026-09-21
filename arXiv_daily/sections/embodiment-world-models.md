@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 2206 · **Unique arXiv IDs:** 2206
+**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 2218 · **Unique arXiv IDs:** 2218
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-18 | [Benchmarking World Models for Continual Learning on Compositional Tasks](https://arxiv.org/abs/2609.22055) | Haoyu Zhou, Joe Watson, Anson Lei, et al. | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.22055) / [pdf](https://arxiv.org/pdf/2609.22055) |
+| 2026-09-18 | [A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies](https://arxiv.org/abs/2609.21817) | Mathilde Kappel, Clémence Grislain, Mohamed Chetouani, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21817) / [pdf](https://arxiv.org/pdf/2609.21817) |
+| 2026-09-18 | [ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation](https://arxiv.org/abs/2609.21712) | Boni Hu, Xiong Wei, Haoming Huang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.21712) / [pdf](https://arxiv.org/pdf/2609.21712) |
+| 2026-09-18 | [NeuRIO: A Streaming Neural Estimator for Zero-Shot Sim-to-Real Multi-Robot Relative Inertial Odometry](https://arxiv.org/abs/2609.21707) | Zhehan Li, Jiadong Lu, Shengwei Ren, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21707) / [pdf](https://arxiv.org/pdf/2609.21707) |
+| 2026-09-18 | [SABER: Learning Attention-based Semantic Affordance for Legged Locomotion](https://arxiv.org/abs/2609.21572) | Hari Prasanth Palanivelu, Samuel Sze, Kennard Garrison Johannes, et al. | cs.RO | Interaction / Affordance, Sim-to-Real | [abs](https://arxiv.org/abs/2609.21572) / [pdf](https://arxiv.org/pdf/2609.21572) |
+| 2026-09-18 | [Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model](https://arxiv.org/abs/2609.21448) | Yixuan Feng, Peng Wang | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.21448) / [pdf](https://arxiv.org/pdf/2609.21448) |
+| 2026-09-18 | [A Scene Language Model for Open-Vocabulary Scene Mapping](https://arxiv.org/abs/2609.21400) | Adam Lilja, Fabio Hübel, Siming He, et al. | cs.CV, cs.RO | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.21400) / [pdf](https://arxiv.org/pdf/2609.21400) |
+| 2026-09-18 | [Stability-aware Residual Reinforcement Learning Framework for Robotic Manipulator Disturbance Compensation](https://arxiv.org/abs/2609.21307) | Jihong Kim, Joonhyuk Kwon, Hwa Soo Kim, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21307) / [pdf](https://arxiv.org/pdf/2609.21307) |
+| 2026-09-18 | [KnowDemo: Knowledge-Guided Robot Demonstration Generation from Human Videos](https://arxiv.org/abs/2609.21229) | Zhiyuan Gao, Yanxiang Zhan, Mohammad Khoshnazar, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21229) / [pdf](https://arxiv.org/pdf/2609.21229) |
+| 2026-09-17 | [MetaPusher: Meta Learning and Planning for Nonprehensile Manipulation of Unseen Objects with Rapid Online Adaption](https://arxiv.org/abs/2609.21122) | Donghyung Lee, Seyedali Golestaneh, Jaskrit Singh, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21122) / [pdf](https://arxiv.org/pdf/2609.21122) |
+| 2026-09-17 | [DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real](https://arxiv.org/abs/2609.21045) | Jin Wu, Lianjie Yuan, Zeyan Sun, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.21045) / [pdf](https://arxiv.org/pdf/2609.21045) |
+| 2026-09-17 | [WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing](https://arxiv.org/abs/2609.20892) | Guanzhong Sun, Junyi Ma, Yixuan Zhou, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.20892) / [pdf](https://arxiv.org/pdf/2609.20892) |
 | 2026-09-17 | [MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving](https://arxiv.org/abs/2609.20747) | Thomas Steinecker, Denis Trescher, Alexander Bienemann, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20747) / [pdf](https://arxiv.org/pdf/2609.20747) |
 | 2026-09-17 | [Towards Scaling Marine Perception with Synthetic Data](https://arxiv.org/abs/2609.20680) | Haoyu Ma, Onur Bagoren, Anja Sheppard, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20680) / [pdf](https://arxiv.org/pdf/2609.20680) |
 | 2026-09-17 | [MAGNETAR: Multipath-Guided Spatial Posteriors for Transmitter Pose Inference in the Upper Mid-Band](https://arxiv.org/abs/2609.20670) | Haozhe Lei, Ruibin Chen, Yuhan Jiang, et al. | cs.RO, eess.SP | Sim-to-Real | [abs](https://arxiv.org/abs/2609.20670) / [pdf](https://arxiv.org/pdf/2609.20670) |

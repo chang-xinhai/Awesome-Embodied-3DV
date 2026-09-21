@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 2879 · **Unique arXiv IDs:** 2879
+**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 2889 · **Unique arXiv IDs:** 2889
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-18 | [Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction](https://arxiv.org/abs/2609.21938) | Sunghyun Baek, Hanna Bae, Minchan Kwon, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.21938) / [pdf](https://arxiv.org/pdf/2609.21938) |
+| 2026-09-18 | [HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation](https://arxiv.org/abs/2609.21597) | André Lopo, Atabak Dehban, Rodrigo Ventura | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21597) / [pdf](https://arxiv.org/pdf/2609.21597) |
+| 2026-09-18 | [2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality](https://arxiv.org/abs/2609.21516) | Yuhan Xie, Jia Pan | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.21516) / [pdf](https://arxiv.org/pdf/2609.21516) |
+| 2026-09-18 | [Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering](https://arxiv.org/abs/2609.21502) | Tianchen Deng, Guole Shen, Yilin Shen, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21502) / [pdf](https://arxiv.org/pdf/2609.21502) |
+| 2026-09-18 | [Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction](https://arxiv.org/abs/2609.21437) | Jingke Zhou, Chenhang Ma, Zhizhou Zhong, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.21437) / [pdf](https://arxiv.org/pdf/2609.21437) |
+| 2026-09-18 | [WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field](https://arxiv.org/abs/2609.21391) | Hang Jiang, Jinghao Wang, Yiming Zhang, et al. | eess.IV, cs.AI, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.21391) / [pdf](https://arxiv.org/pdf/2609.21391) |
+| 2026-09-18 | [Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization](https://arxiv.org/abs/2609.21347) | Xiangfei Guo, Hao Shi, Yufan Zhang, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21347) / [pdf](https://arxiv.org/pdf/2609.21347) |
+| 2026-09-17 | [Noctif3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware](https://arxiv.org/abs/2609.21114) | Mihir Chauhan, Aditya Uday Abhang, Kevin Biju Mathew, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21114) / [pdf](https://arxiv.org/pdf/2609.21114) |
+| 2026-09-17 | [MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026) | Haozhe Lei, Sundeep Rangan | cs.RO, eess.SP | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21026) / [pdf](https://arxiv.org/pdf/2609.21026) |
+| 2026-09-17 | [Towards Effective Visual-Inertial SLAM with Passive-Only Sensors for Low-Cost Autonomous Underwater Vehicles](https://arxiv.org/abs/2609.21015) | Grant Schwidder, David Widhalm, Junaed Sattar | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.21015) / [pdf](https://arxiv.org/pdf/2609.21015) |
 | 2026-09-17 | [Can 4D Foundation Models Remember?](https://arxiv.org/abs/2609.20819) | Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.20819) / [pdf](https://arxiv.org/pdf/2609.20819) |
 | 2026-09-17 | [Semantic SLAM in Precision Agriculture using Bayesian Inference](https://arxiv.org/abs/2609.20604) | Ruben Beumer, Sander Doodeman, René van de Molengraft, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.20604) / [pdf](https://arxiv.org/pdf/2609.20604) |
 | 2026-09-17 | [RawSLAM: Online HDR Gaussian SLAM from Linear Radiance](https://arxiv.org/abs/2609.20589) | Marina Orozco González, Luis Merino | cs.CV | Mapping / SLAM, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.20589) / [pdf](https://arxiv.org/pdf/2609.20589) |

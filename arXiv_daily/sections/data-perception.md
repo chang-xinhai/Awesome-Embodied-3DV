@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 1737 · **Unique arXiv IDs:** 1737
+**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 1744 · **Unique arXiv IDs:** 1744
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-18 | [Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction](https://arxiv.org/abs/2609.21938) | Sunghyun Baek, Hanna Bae, Minchan Kwon, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.21938) / [pdf](https://arxiv.org/pdf/2609.21938) |
+| 2026-09-18 | [XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration](https://arxiv.org/abs/2609.21770) | Aurelien Godet, Gabriel Jobert, Mauro Dalla Mura | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.21770) / [pdf](https://arxiv.org/pdf/2609.21770) |
+| 2026-09-18 | [ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation](https://arxiv.org/abs/2609.21712) | Boni Hu, Xiong Wei, Haoming Huang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.21712) / [pdf](https://arxiv.org/pdf/2609.21712) |
+| 2026-09-18 | [Detection is solved, delineation is not: what governs tooth segmentation on panoramic radiographs](https://arxiv.org/abs/2609.21628) | Muhammad Rehan, Moaz Amjad, Syed Danial Ahmed, et al. | cs.CV, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.21628) / [pdf](https://arxiv.org/pdf/2609.21628) |
+| 2026-09-18 | [Field Tracking of Insects Using a Stereoscopic Event-Based Camera Setup](https://arxiv.org/abs/2609.21354) | Pratham G. Shenwai, Martin J. Lankheet, John T. Hrynuk, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.21354) / [pdf](https://arxiv.org/pdf/2609.21354) |
+| 2026-09-18 | [Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization](https://arxiv.org/abs/2609.21347) | Xiangfei Guo, Hao Shi, Yufan Zhang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.21347) / [pdf](https://arxiv.org/pdf/2609.21347) |
+| 2026-09-18 | [The EventCV Library for Event-Based Robotic Vision](https://arxiv.org/abs/2609.21330) | Adam D. Hines, Michael Milford, Tobias Fischer | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.21330) / [pdf](https://arxiv.org/pdf/2609.21330) |
 | 2026-09-17 | [Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control](https://arxiv.org/abs/2609.20731) | Yuheng Zhou, Haiyang Cheng, Yanqi Feng, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.20731) / [pdf](https://arxiv.org/pdf/2609.20731) |
 | 2026-09-17 | [GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets](https://arxiv.org/abs/2609.19907) | Jieting Xu, Rengan Xie, Zijian Huang, et al. | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.19907) / [pdf](https://arxiv.org/pdf/2609.19907) |
 | 2026-09-17 | [BinoGen: Scaling egocentric binocular data for embodied visual perception and learning](https://arxiv.org/abs/2609.19881) | Chunpeng Li, Ya-tang Li | cs.CV, cs.MM | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.19881) / [pdf](https://arxiv.org/pdf/2609.19881) |

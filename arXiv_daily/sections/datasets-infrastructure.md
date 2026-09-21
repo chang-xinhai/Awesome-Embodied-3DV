@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 513 · **Unique arXiv IDs:** 513
+**Coverage:** 2025-01-01 to 2026-09-21 · **Papers:** 514 · **Unique arXiv IDs:** 514
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-18 | [A benchmark dataset and baseline methods for four-dimensional STEM diffraction patterns](https://arxiv.org/abs/2609.21593) | Yuyan Guan, Haoran Zhang, Zian Mao, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.21593) / [pdf](https://arxiv.org/pdf/2609.21593) |
 | 2026-09-16 | [PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920) | Sneha Paul, Guile Wu, Bingbing Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.18920) / [pdf](https://arxiv.org/pdf/2609.18920) |
 | 2026-09-16 | [Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users](https://arxiv.org/abs/2609.18406) | Yilin Wen, Kechuan Dong, Fumiya Suginaka, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.18406) / [pdf](https://arxiv.org/pdf/2609.18406) |
 | 2026-09-15 | [EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset](https://arxiv.org/abs/2609.17189) | Ryosei Hara, Wataru Ikeda, Masashi Hatano, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.17189) / [pdf](https://arxiv.org/pdf/2609.17189) |
