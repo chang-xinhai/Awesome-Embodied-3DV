@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 1744 · **Unique arXiv IDs:** 1744
+**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 1750 · **Unique arXiv IDs:** 1750
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-21 | [CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention](https://arxiv.org/abs/2609.24494) | Xuezhi Xiang, Jiayao Liu, Heqi Xiang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.24494) / [pdf](https://arxiv.org/pdf/2609.24494) |
+| 2026-09-21 | [Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses](https://arxiv.org/abs/2609.24158) | Jiankuo Zhao, Xiangyu Zhu, Jijie Li, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2609.24158) / [pdf](https://arxiv.org/pdf/2609.24158) |
+| 2026-09-19 | [M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests](https://arxiv.org/abs/2609.23003) | Ethan Griffiths, Maryam Haghighat, Simon Denman, et al. | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.23003) / [pdf](https://arxiv.org/pdf/2609.23003) |
+| 2026-09-19 | [Combining Foundation Model Confidence and Monocular Depth for Training-Free Out-of-Distribution Segmentation](https://arxiv.org/abs/2609.22896) | Serin Varghese, Fabian Hüger, Kira Maag | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.22896) / [pdf](https://arxiv.org/pdf/2609.22896) |
+| 2026-09-19 | [PanoSeg3R: Feed-Forward 3D Semantic Segmentation for Panoramic Images with an Automatic Data Curation Pipeline](https://arxiv.org/abs/2609.22687) | Heechan Yoon, Dongki Jung, Phuc Nguyen, et al. | cs.CV | Active Imaging, Wide-FOV Perception, Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.22687) / [pdf](https://arxiv.org/pdf/2609.22687) |
 | 2026-09-18 | [Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction](https://arxiv.org/abs/2609.21938) | Sunghyun Baek, Hanna Bae, Minchan Kwon, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.21938) / [pdf](https://arxiv.org/pdf/2609.21938) |
 | 2026-09-18 | [XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration](https://arxiv.org/abs/2609.21770) | Aurelien Godet, Gabriel Jobert, Mauro Dalla Mura | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.21770) / [pdf](https://arxiv.org/pdf/2609.21770) |
 | 2026-09-18 | [ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation](https://arxiv.org/abs/2609.21712) | Boni Hu, Xiong Wei, Haoming Huang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.21712) / [pdf](https://arxiv.org/pdf/2609.21712) |
@@ -31,6 +36,7 @@
 | 2026-09-14 | [LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration](https://arxiv.org/abs/2609.15098) | Jianhe Zhao, Yanhua Qiu, Zhiyu Zhang, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.15098) / [pdf](https://arxiv.org/pdf/2609.15098) |
 | 2026-09-13 | [Gaussian Process Implicit Surfaces as Participating Media: Realization-Free Rendering from Level-Crossing Statistics](https://arxiv.org/abs/2609.14695) | Jack Cui, Kehan Xu, Eugene d'Eon, et al. | cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.14695) / [pdf](https://arxiv.org/pdf/2609.14695) |
 | 2026-09-13 | [AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video](https://arxiv.org/abs/2609.14462) | Jiaming Tan, Mingliang Zhai, Zhen Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.14462) / [pdf](https://arxiv.org/pdf/2609.14462) |
+| 2026-09-12 | [An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users](https://arxiv.org/abs/2609.22277) | Ali Akarma, Adeel Ahmad, Toqeer Ali Syed | cs.AI, cs.CV, cs.CY | Active Imaging | [abs](https://arxiv.org/abs/2609.22277) / [pdf](https://arxiv.org/pdf/2609.22277) |
 | 2026-09-11 | [ConeGaussian: Anti-Aliased Gaussian Ray-Tracing for Generic Central Cameras](https://arxiv.org/abs/2609.13397) | Deheng Zhang, Letian Shi, Runyi Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.13397) / [pdf](https://arxiv.org/pdf/2609.13397) |
 | 2026-09-11 | [KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image](https://arxiv.org/abs/2609.12559) | Jun Lu, Zhenming Chen, Lin Chen, et al. | cs.CV, cs.HC | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.12559) / [pdf](https://arxiv.org/pdf/2609.12559) |
 | 2026-09-10 | [An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework](https://arxiv.org/abs/2609.12206) | Ehsan Zobeidi, Omid Rezayof, Farshid Alambeigi | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.12206) / [pdf](https://arxiv.org/pdf/2609.12206) |

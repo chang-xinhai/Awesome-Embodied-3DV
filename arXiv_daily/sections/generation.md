@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 951 · **Unique arXiv IDs:** 951
+**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 953 · **Unique arXiv IDs:** 953
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-20 | [Semi-automated reconstruction of indoor geometry from 360-degree video for CFD-based airflow analysis in classrooms](https://arxiv.org/abs/2609.23425) | Dhruv Gamdha, James Afful, Shambhavi Joshi, et al. | cs.CV, cs.CE, physics.flu-dyn | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.23425) / [pdf](https://arxiv.org/pdf/2609.23425) |
+| 2026-09-19 | [DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation](https://arxiv.org/abs/2609.23103) | Guanxiong Chen, Yiduo Qu, Qianjun Xia, et al. | cs.RO, cs.AI | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.23103) / [pdf](https://arxiv.org/pdf/2609.23103) |
 | 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
 | 2026-09-14 | [SAM3D-Part: Interactive Part Selection and Generation from 3D Objects](https://arxiv.org/abs/2609.15639) | Jiahao Chang, Dong Du, Wanhu Sun, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.15639) / [pdf](https://arxiv.org/pdf/2609.15639) |
 | 2026-09-14 | [ESG: Generating Physically Consistent Dynamic 3D Scenes from Text Descriptions](https://arxiv.org/abs/2609.15392) | Xintong Fang, Zhiyuan Fang, Rengan Xie, et al. | cs.GR, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2609.15392) / [pdf](https://arxiv.org/pdf/2609.15392) |

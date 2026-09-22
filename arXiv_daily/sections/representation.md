@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 2981 · **Unique arXiv IDs:** 2981
+**Coverage:** 2025-01-01 to 2026-09-22 · **Papers:** 2995 · **Unique arXiv IDs:** 2995
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,20 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-21 | [Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting](https://arxiv.org/abs/2609.24531) | Rongfeng Lu, Lifeng Lin, Xiaobao Wei, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.24531) / [pdf](https://arxiv.org/pdf/2609.24531) |
+| 2026-09-21 | [OpenFlyScan: A Quality-Guided Aerial Reconstruction System for Consumer Drones](https://arxiv.org/abs/2609.24253) | Zhongrui You, Zhen Li, Junli Liu, et al. | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.24253) / [pdf](https://arxiv.org/pdf/2609.24253) |
+| 2026-09-21 | [BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation](https://arxiv.org/abs/2609.24140) | Kyeongsu Kang, Seongbo Ha, Sibaek Lee, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.24140) / [pdf](https://arxiv.org/pdf/2609.24140) |
+| 2026-09-20 | [Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene](https://arxiv.org/abs/2609.23796) | Yang-Tian Sun, Tianjia Liu, Zehuan Huang, et al. | cs.CV, cs.GR | Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.23796) / [pdf](https://arxiv.org/pdf/2609.23796) |
+| 2026-09-20 | [GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.23509) | Huiwen Xue, Kaixing Zhao, Zuheng Ming, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.23509) / [pdf](https://arxiv.org/pdf/2609.23509) |
+| 2026-09-20 | [Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM](https://arxiv.org/abs/2609.23491) | Rui Zhou, Zihan Zhu, Wei Zhang, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.23491) / [pdf](https://arxiv.org/pdf/2609.23491) |
+| 2026-09-20 | [GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2609.23436) | Hongfei Zhu, Haochen Deng, Sitao Zhang, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.23436) / [pdf](https://arxiv.org/pdf/2609.23436) |
+| 2026-09-20 | [Semi-automated reconstruction of indoor geometry from 360-degree video for CFD-based airflow analysis in classrooms](https://arxiv.org/abs/2609.23425) | Dhruv Gamdha, James Afful, Shambhavi Joshi, et al. | cs.CV, cs.CE, physics.flu-dyn | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.23425) / [pdf](https://arxiv.org/pdf/2609.23425) |
+| 2026-09-20 | [LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting](https://arxiv.org/abs/2609.23380) | Zhiwei Li, Yijia Guo, Yishi Lu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.23380) / [pdf](https://arxiv.org/pdf/2609.23380) |
+| 2026-09-19 | [GrapeSplat: Geometry-Grounded Reconstruction via Amalgamated Pose-Free Encoding for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2609.23182) | Si-Yu Lu, Yung-Yao Chen, Yi Jan Chen, et al. | cs.CV, cs.AI | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.23182) / [pdf](https://arxiv.org/pdf/2609.23182) |
+| 2026-09-19 | [VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction](https://arxiv.org/abs/2609.23049) | Haolin Yu, Jiadong Tang, YiXian Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.23049) / [pdf](https://arxiv.org/pdf/2609.23049) |
+| 2026-09-19 | [Compressing 3D Gaussian Splatting via Cross-Representation Priors](https://arxiv.org/abs/2609.23005) | Yezheng Zhang, Huanxiong Liang, Chuqin Zhou, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.23005) / [pdf](https://arxiv.org/pdf/2609.23005) |
+| 2026-09-19 | [D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction](https://arxiv.org/abs/2609.22941) | Yunqi Gao, Zhanfeng Liao, Hanzhang Tu, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.22941) / [pdf](https://arxiv.org/pdf/2609.22941) |
+| 2026-09-19 | [LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting](https://arxiv.org/abs/2609.22849) | Lifeng Xing, Dequan Jin, Kunpeng Bu, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.22849) / [pdf](https://arxiv.org/pdf/2609.22849) |
 | 2026-09-18 | [2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality](https://arxiv.org/abs/2609.21516) | Yuhan Xie, Jia Pan | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.21516) / [pdf](https://arxiv.org/pdf/2609.21516) |
 | 2026-09-18 | [VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization](https://arxiv.org/abs/2609.21498) | Yibin Zhao, Yihan Pan, Yangwen Li, et al. | cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.21498) / [pdf](https://arxiv.org/pdf/2609.21498) |
 | 2026-09-18 | [WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field](https://arxiv.org/abs/2609.21391) | Hang Jiang, Jinghao Wang, Yiming Zhang, et al. | eess.IV, cs.AI, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.21391) / [pdf](https://arxiv.org/pdf/2609.21391) |
