@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 516 · **Unique arXiv IDs:** 516
+**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 517 · **Unique arXiv IDs:** 517
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-22 | [Unsigned Distance Maps on 2D Point Cloud Registration](https://arxiv.org/abs/2609.25932) | Ricardo B. Sousa, Giorgio Grisetti, Héber Miguel Sobreira, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.25932) / [pdf](https://arxiv.org/pdf/2609.25932) |
 | 2026-09-20 | [HEARTH: An Object-Centric RGB-Thermal-3D Dataset for Temperature-Aware Robot Manipulation](https://arxiv.org/abs/2609.23418) | Yuning Su, Borui Li, Yonghao Shi, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.23418) / [pdf](https://arxiv.org/pdf/2609.23418) |
 | 2026-09-18 | [A benchmark dataset and baseline methods for four-dimensional STEM diffraction patterns](https://arxiv.org/abs/2609.21593) | Yuyan Guan, Haoran Zhang, Zian Mao, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.21593) / [pdf](https://arxiv.org/pdf/2609.21593) |
 | 2026-09-16 | [PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920) | Sneha Paul, Guile Wu, Bingbing Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.18920) / [pdf](https://arxiv.org/pdf/2609.18920) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 2250 · **Unique arXiv IDs:** 2250
+**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 2258 · **Unique arXiv IDs:** 2258
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-22 | [DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving](https://arxiv.org/abs/2609.26792) | Ziyang Leng, Sicheng Mo, Seth Z. Zhao, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.26792) / [pdf](https://arxiv.org/pdf/2609.26792) |
+| 2026-09-22 | [ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299) | Sinuo Wang, Zichong Gu, Yuhan Huang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.26299) / [pdf](https://arxiv.org/pdf/2609.26299) |
+| 2026-09-22 | [Dual-Frontier: When Can an Agent Trust Its World Model?](https://arxiv.org/abs/2609.26293) | Huatai Zhu, Qiang Chen, Ziqian Kou, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.26293) / [pdf](https://arxiv.org/pdf/2609.26293) |
+| 2026-09-22 | [Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models](https://arxiv.org/abs/2609.26007) | Yuhang Zhang, Rangya Zhang, Yujing Shang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.26007) / [pdf](https://arxiv.org/pdf/2609.26007) |
+| 2026-09-22 | [CODA: Depth-Aligned Scene Completion and Object Decomposition from a Single RGB-D Image](https://arxiv.org/abs/2609.25654) | Dongwon Son, Junhyek Han, Yoontae Cho, et al. | cs.RO, cs.CV, cs.LG | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.25654) / [pdf](https://arxiv.org/pdf/2609.25654) |
+| 2026-09-22 | [GameDirector: Decoupling Gameplay Logic from Rendering for Player-Configurable Game World Models](https://arxiv.org/abs/2609.25652) | Zijun Lin, Zhiyang Deng, Yuzhe Wu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.25652) / [pdf](https://arxiv.org/pdf/2609.25652) |
+| 2026-09-22 | [DynaForge: Planning-Guided Residual Learning for Dynamic Manipulation Demonstration Generation](https://arxiv.org/abs/2609.25631) | Yiyang Jin, Yu Zheng, Xiao He, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.25631) / [pdf](https://arxiv.org/pdf/2609.25631) |
+| 2026-09-21 | [Norm2Tex: Augmenting Visuo-Tactile Simulations with Texture](https://arxiv.org/abs/2609.25398) | Seongjin Bien, Débora Oliveira Makowski, Roberto Calandra, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.25398) / [pdf](https://arxiv.org/pdf/2609.25398) |
 | 2026-09-21 | [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://arxiv.org/abs/2609.24984) | Wangbo Yu, Kunhao Liu, Wenbo Hu, et al. | cs.CV, cs.AI, cs.GR | World Model | [abs](https://arxiv.org/abs/2609.24984) / [pdf](https://arxiv.org/pdf/2609.24984) |
 | 2026-09-21 | [DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation](https://arxiv.org/abs/2609.24976) | Haoran Yuan, Zekai Wang, Boning Shao, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.24976) / [pdf](https://arxiv.org/pdf/2609.24976) |
 | 2026-09-21 | [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](https://arxiv.org/abs/2609.24906) | Abhinav Jain, Cindy Grimm, Stefan Lee | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.24906) / [pdf](https://arxiv.org/pdf/2609.24906) |

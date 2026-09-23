@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 1750 · **Unique arXiv IDs:** 1750
+**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 1754 · **Unique arXiv IDs:** 1754
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-22 | [GTR: Gated Token Recurrence for Efficient Dense Prediction](https://arxiv.org/abs/2609.26590) | Zhe Feng, Longfei Liu, Wei Liu, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.26590) / [pdf](https://arxiv.org/pdf/2609.26590) |
+| 2026-09-22 | [Learning Air-Ground Motion Control with Temporal Mode Switching and Cross-Terrain Tracking](https://arxiv.org/abs/2609.26564) | Ruitian Pang, Mingrui Li, Xuanting Liu, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.26564) / [pdf](https://arxiv.org/pdf/2609.26564) |
+| 2026-09-22 | [LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction](https://arxiv.org/abs/2609.25803) | Tao Wan, Xiaoshan Wu, Yifei Yu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.25803) / [pdf](https://arxiv.org/pdf/2609.25803) |
+| 2026-09-22 | [Fisheye-VLA: Decoupling Coverage and Acuity for Manipulation with a Single Fisheye Camera](https://arxiv.org/abs/2609.25750) | Ziang Ren, Zike Yan, Raymond Zhang, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.25750) / [pdf](https://arxiv.org/pdf/2609.25750) |
 | 2026-09-21 | [CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention](https://arxiv.org/abs/2609.24494) | Xuezhi Xiang, Jiayao Liu, Heqi Xiang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.24494) / [pdf](https://arxiv.org/pdf/2609.24494) |
 | 2026-09-21 | [Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses](https://arxiv.org/abs/2609.24158) | Jiankuo Zhao, Xiangyu Zhu, Jijie Li, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2609.24158) / [pdf](https://arxiv.org/pdf/2609.24158) |
 | 2026-09-19 | [M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests](https://arxiv.org/abs/2609.23003) | Ethan Griffiths, Maryam Haghighat, Simon Denman, et al. | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.23003) / [pdf](https://arxiv.org/pdf/2609.23003) |

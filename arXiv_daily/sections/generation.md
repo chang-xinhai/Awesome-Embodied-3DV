@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 953 · **Unique arXiv IDs:** 953
+**Coverage:** 2025-01-01 to 2026-09-23 · **Papers:** 956 · **Unique arXiv IDs:** 956
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-22 | [Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning](https://arxiv.org/abs/2609.25741) | Dingkang Yang, Yizhou Liu, Wendong Cheng, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2609.25741) / [pdf](https://arxiv.org/pdf/2609.25741) |
+| 2026-09-22 | [AgriGen: Large-Scale Scene Generation Framework for Photorealistic Agricultural Robotics Simulation](https://arxiv.org/abs/2609.25725) | Utkarsh Bajpai, Serge Tleiji, Cédric Pradalier, et al. | cs.RO, cs.GR | Scene / World Generation | [abs](https://arxiv.org/abs/2609.25725) / [pdf](https://arxiv.org/pdf/2609.25725) |
+| 2026-09-22 | [Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity](https://arxiv.org/abs/2609.25538) | Wei Zhou, Xinzhe Shi, Xingxing Hao, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.25538) / [pdf](https://arxiv.org/pdf/2609.25538) |
 | 2026-09-20 | [Semi-automated reconstruction of indoor geometry from 360-degree video for CFD-based airflow analysis in classrooms](https://arxiv.org/abs/2609.23425) | Dhruv Gamdha, James Afful, Shambhavi Joshi, et al. | cs.CV, cs.CE, physics.flu-dyn | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.23425) / [pdf](https://arxiv.org/pdf/2609.23425) |
 | 2026-09-19 | [DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation](https://arxiv.org/abs/2609.23103) | Guanxiong Chen, Yiduo Qu, Qianjun Xia, et al. | cs.RO, cs.AI | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.23103) / [pdf](https://arxiv.org/pdf/2609.23103) |
 | 2026-09-16 | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | Jiaming Zhang, Homanga Bharadhwaj | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.19119) / [pdf](https://arxiv.org/pdf/2609.19119) |
