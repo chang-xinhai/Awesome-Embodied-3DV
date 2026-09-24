@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 517 · **Unique arXiv IDs:** 517
+**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 520 · **Unique arXiv IDs:** 520
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-23 | [Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB](https://arxiv.org/abs/2609.28360) | Xuying Huang, Swithinraj Moses Daniel, Sicong Pan, et al. | cs.CV, cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2609.28360) / [pdf](https://arxiv.org/pdf/2609.28360) |
+| 2026-09-23 | [SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine](https://arxiv.org/abs/2609.27442) | Han-Gyeol Kim, JaeWan Park, Junmin Park, et al. | cs.CV, eess.IV | Dataset | [abs](https://arxiv.org/abs/2609.27442) / [pdf](https://arxiv.org/pdf/2609.27442) |
+| 2026-09-22 | [SsgCaps: A controlled dataset for the evaluation of sound scene generation algorithms](https://arxiv.org/abs/2609.26854) | Modan Tailleur, Junwon Lee, Laurie M Heller, et al. | cs.GR, cs.AI | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2609.26854) / [pdf](https://arxiv.org/pdf/2609.26854) |
 | 2026-09-22 | [Unsigned Distance Maps on 2D Point Cloud Registration](https://arxiv.org/abs/2609.25932) | Ricardo B. Sousa, Giorgio Grisetti, Héber Miguel Sobreira, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.25932) / [pdf](https://arxiv.org/pdf/2609.25932) |
 | 2026-09-20 | [HEARTH: An Object-Centric RGB-Thermal-3D Dataset for Temperature-Aware Robot Manipulation](https://arxiv.org/abs/2609.23418) | Yuning Su, Borui Li, Yonghao Shi, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.23418) / [pdf](https://arxiv.org/pdf/2609.23418) |
 | 2026-09-18 | [A benchmark dataset and baseline methods for four-dimensional STEM diffraction patterns](https://arxiv.org/abs/2609.21593) | Yuyan Guan, Haoran Zhang, Zian Mao, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.21593) / [pdf](https://arxiv.org/pdf/2609.21593) |

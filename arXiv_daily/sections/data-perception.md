@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 1754 · **Unique arXiv IDs:** 1754
+**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 1757 · **Unique arXiv IDs:** 1757
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-23 | [VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation](https://arxiv.org/abs/2609.28184) | Enrico Saccon, Tommaso Faraci, Iñigo De La Ossa Zarzuelo, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.28184) / [pdf](https://arxiv.org/pdf/2609.28184) |
+| 2026-09-23 | [DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping](https://arxiv.org/abs/2609.27702) | Jaafar Mahmoud, Arthur Movsesyan, Mikhail Iumanov, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.27702) / [pdf](https://arxiv.org/pdf/2609.27702) |
+| 2026-09-23 | [RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement](https://arxiv.org/abs/2609.27612) | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.27612) / [pdf](https://arxiv.org/pdf/2609.27612) |
 | 2026-09-22 | [GTR: Gated Token Recurrence for Efficient Dense Prediction](https://arxiv.org/abs/2609.26590) | Zhe Feng, Longfei Liu, Wei Liu, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.26590) / [pdf](https://arxiv.org/pdf/2609.26590) |
 | 2026-09-22 | [Learning Air-Ground Motion Control with Temporal Mode Switching and Cross-Terrain Tracking](https://arxiv.org/abs/2609.26564) | Ruitian Pang, Mingrui Li, Xuanting Liu, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.26564) / [pdf](https://arxiv.org/pdf/2609.26564) |
 | 2026-09-22 | [LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction](https://arxiv.org/abs/2609.25803) | Tao Wan, Xiaoshan Wu, Yifei Yu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.25803) / [pdf](https://arxiv.org/pdf/2609.25803) |

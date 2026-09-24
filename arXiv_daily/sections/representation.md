@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 3003 · **Unique arXiv IDs:** 3003
+**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 3004 · **Unique arXiv IDs:** 3004
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-23 | [GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting](https://arxiv.org/abs/2609.27264) | Haoyuan Yue, Fengyuan Ye, Ziyin Li | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.27264) / [pdf](https://arxiv.org/pdf/2609.27264) |
 | 2026-09-22 | [φ-RIE: From Photorealistic Reconstruction to Interactive Environments](https://arxiv.org/abs/2609.26795) | Runyi Yang, Deheng Zhang, Xiaoye Wang, et al. | cs.RO, cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.26795) / [pdf](https://arxiv.org/pdf/2609.26795) |
 | 2026-09-22 | [ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards](https://arxiv.org/abs/2609.26315) | Alessandro Masini, Matteo Frosi, Mirko Usuelli, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.26315) / [pdf](https://arxiv.org/pdf/2609.26315) |
 | 2026-09-22 | [Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models](https://arxiv.org/abs/2609.26007) | Yuhang Zhang, Rangya Zhang, Yujing Shang, et al. | cs.RO, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.26007) / [pdf](https://arxiv.org/pdf/2609.26007) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 2258 · **Unique arXiv IDs:** 2258
+**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 2271 · **Unique arXiv IDs:** 2271
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-23 | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://arxiv.org/abs/2609.28416) | Shuang Sun, Guoxin Chen, Fanzhe Meng, et al. | cs.CL, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.28416) / [pdf](https://arxiv.org/pdf/2609.28416) |
+| 2026-09-23 | [Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model](https://arxiv.org/abs/2609.28414) | Xiwen Chen, Rigaudiere Z. Li, Zhiruo Zhou, et al. | cs.CV, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.28414) / [pdf](https://arxiv.org/pdf/2609.28414) |
+| 2026-09-23 | [PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation](https://arxiv.org/abs/2609.28393) | Hantao Ye, Ross Worobel, Zhuoli Xie, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.28393) / [pdf](https://arxiv.org/pdf/2609.28393) |
+| 2026-09-23 | [Talk2Escape: Conversational Grounding for Vision-and-Language Navigation](https://arxiv.org/abs/2609.28296) | Zerui Li, Sihao Lin, Yanyan Shao, et al. | cs.RO, cs.HC | Sim-to-Real | [abs](https://arxiv.org/abs/2609.28296) / [pdf](https://arxiv.org/pdf/2609.28296) |
+| 2026-09-23 | [Generalizable Robotic Insertion with World Models](https://arxiv.org/abs/2609.28258) | Nicklas Hansen, Iretiayo Akinola, Yijie Guo, et al. | cs.RO, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.28258) / [pdf](https://arxiv.org/pdf/2609.28258) |
+| 2026-09-23 | [Learning a Speed-adaptive Hip Exoskeleton Control Policy Via Sim-to-real Reinforcement Learning](https://arxiv.org/abs/2609.28027) | Bin Li, Zhimin Hou, Jiacheng Hou, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.28027) / [pdf](https://arxiv.org/pdf/2609.28027) |
+| 2026-09-23 | [InternW0: A Foundational Physical World Model for Efficient Real-World Interactions](https://arxiv.org/abs/2609.27656) | Jisong Cai, Yao Mu, Ganlin Yang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.27656) / [pdf](https://arxiv.org/pdf/2609.27656) |
+| 2026-09-23 | [Hybrid Gaussians for Robust Open-Vocabulary 3D Segmentation with Multi-View Object Association and Boundary Refinement](https://arxiv.org/abs/2609.27462) | Xueqi Qiu, Yueming Sun, Tianyu Zhang, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.27462) / [pdf](https://arxiv.org/pdf/2609.27462) |
+| 2026-09-23 | [X2Real: an eXtensive simulation benchmark for real-world generalist policies](https://arxiv.org/abs/2609.27449) | Lian Ruan, Jade Yang, Sherphylan Gao, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.27449) / [pdf](https://arxiv.org/pdf/2609.27449) |
+| 2026-09-23 | [SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine](https://arxiv.org/abs/2609.27442) | Han-Gyeol Kim, JaeWan Park, Junmin Park, et al. | cs.CV, eess.IV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.27442) / [pdf](https://arxiv.org/pdf/2609.27442) |
+| 2026-09-23 | [Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer](https://arxiv.org/abs/2609.27269) | Hao E. Zhang, Ruize Geng, Raihan Haque, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.27269) / [pdf](https://arxiv.org/pdf/2609.27269) |
+| 2026-09-22 | [Spiderbot: An Open-Source Energy-Efficient Hexapod with Passive Gravity Compensation](https://arxiv.org/abs/2609.26989) | Ritwik Sharma, Vimarsh Shah, Saransh Agrawal | cs.RO, eess.SY | Sim-to-Real | [abs](https://arxiv.org/abs/2609.26989) / [pdf](https://arxiv.org/pdf/2609.26989) |
 | 2026-09-22 | [DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving](https://arxiv.org/abs/2609.26792) | Ziyang Leng, Sicheng Mo, Seth Z. Zhao, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.26792) / [pdf](https://arxiv.org/pdf/2609.26792) |
 | 2026-09-22 | [ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299) | Sinuo Wang, Zichong Gu, Yuhan Huang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.26299) / [pdf](https://arxiv.org/pdf/2609.26299) |
 | 2026-09-22 | [Dual-Frontier: When Can an Agent Trust Its World Model?](https://arxiv.org/abs/2609.26293) | Huatai Zhu, Qiang Chen, Ziqian Kou, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.26293) / [pdf](https://arxiv.org/pdf/2609.26293) |
@@ -95,6 +107,7 @@
 | 2026-09-14 | [JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion](https://arxiv.org/abs/2609.15770) | Qihao Yuan, Yixuan Qiu, Ziyu Cao, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2609.15770) / [pdf](https://arxiv.org/pdf/2609.15770) |
 | 2026-09-14 | [From Prediction to Decision: World-Model-Guided Action Selection for Continuous Pile Excavation](https://arxiv.org/abs/2609.15382) | Ailing Zhang, Fan Gao, Song Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.15382) / [pdf](https://arxiv.org/pdf/2609.15382) |
 | 2026-09-14 | [Legislating World-Model-Based Planning with Legal Reasoning](https://arxiv.org/abs/2609.15113) | Dylan Waldner, Yiannis Kantaros, Guido Governatori, et al. | cs.RO, cs.AI, cs.LO | World Model | [abs](https://arxiv.org/abs/2609.15113) / [pdf](https://arxiv.org/pdf/2609.15113) |
+| 2026-09-13 | [World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap](https://arxiv.org/abs/2609.16071) | Ayoub Louaye Bouaziz, Matthieu Ostertag, Anton Demasles | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.16071) / [pdf](https://arxiv.org/pdf/2609.16071) |
 | 2026-09-13 | [One Model, Two Physical Stories: Auditing Misalignment in Multi-Modal World Modeling](https://arxiv.org/abs/2609.14833) | Geigh Zollicoffer, Minh Vu, Rajiv Ranasinghe, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.14833) / [pdf](https://arxiv.org/pdf/2609.14833) |
 | 2026-09-13 | [GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation](https://arxiv.org/abs/2609.14561) | I-Tak Ieong, Ruizhi Feng, Zhaoyang Lu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.14561) / [pdf](https://arxiv.org/pdf/2609.14561) |
 | 2026-09-13 | [AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video](https://arxiv.org/abs/2609.14462) | Jiaming Tan, Mingliang Zhai, Zhen Li, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.14462) / [pdf](https://arxiv.org/pdf/2609.14462) |

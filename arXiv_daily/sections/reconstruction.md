@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 2919 · **Unique arXiv IDs:** 2919
+**Coverage:** 2025-01-01 to 2026-09-24 · **Papers:** 2923 · **Unique arXiv IDs:** 2923
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-23 | [VGM-VS: Rethinking Visual Geometry Model for High-Precision Visual Servoing](https://arxiv.org/abs/2609.28312) | Yimin Pan, Sen Wang, You Zhou, et al. | cs.RO, cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.28312) / [pdf](https://arxiv.org/pdf/2609.28312) |
+| 2026-09-23 | [DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping](https://arxiv.org/abs/2609.27702) | Jaafar Mahmoud, Arthur Movsesyan, Mikhail Iumanov, et al. | cs.RO, cs.CV | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.27702) / [pdf](https://arxiv.org/pdf/2609.27702) |
+| 2026-09-23 | [Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM](https://arxiv.org/abs/2609.27509) | Preeti Chatterjee, Jin Lu, Jin Sun, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.27509) / [pdf](https://arxiv.org/pdf/2609.27509) |
+| 2026-09-23 | [SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine](https://arxiv.org/abs/2609.27442) | Han-Gyeol Kim, JaeWan Park, Junmin Park, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.27442) / [pdf](https://arxiv.org/pdf/2609.27442) |
 | 2026-09-22 | [HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis](https://arxiv.org/abs/2609.26793) | Shufan Sun, Chen Wang, Enxin Song, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.26793) / [pdf](https://arxiv.org/pdf/2609.26793) |
 | 2026-09-22 | [TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation](https://arxiv.org/abs/2609.26766) | Yanshuo Bai, Kanji Tanaka | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.26766) / [pdf](https://arxiv.org/pdf/2609.26766) |
 | 2026-09-22 | [ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards](https://arxiv.org/abs/2609.26315) | Alessandro Masini, Matteo Frosi, Mirko Usuelli, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.26315) / [pdf](https://arxiv.org/pdf/2609.26315) |
