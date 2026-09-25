@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 2271 · **Unique arXiv IDs:** 2271
+**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 2282 · **Unique arXiv IDs:** 2282
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,17 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-24 | [AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](https://arxiv.org/abs/2609.30264) | Jiabin Qiu, Zixuan Chen, Hongye Cao, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.30264) / [pdf](https://arxiv.org/pdf/2609.30264) |
+| 2026-09-24 | [Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think](https://arxiv.org/abs/2609.30036) | Xvyuan Liu, Jianjie Fang, Chen Gao, et al. | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.30036) / [pdf](https://arxiv.org/pdf/2609.30036) |
+| 2026-09-24 | [Representation World Model: Learning States, Transition and Executable Plans in Representation](https://arxiv.org/abs/2609.29171) | Yijun Yuan, Weicheng Zheng, Weibang Wang, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.29171) / [pdf](https://arxiv.org/pdf/2609.29171) |
+| 2026-09-24 | [OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping](https://arxiv.org/abs/2609.29157) | Zhirui Dai, Qihao Qian, Dinh Minh Nguyen, et al. | cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.29157) / [pdf](https://arxiv.org/pdf/2609.29157) |
+| 2026-09-24 | [Simple Torque-Observation Alignment for Zero-Shot Sim-to-Real Grasping with a Direct-Drive Gripper](https://arxiv.org/abs/2609.29031) | Doyoung Kim, Edgar Lee, Hyeonsun Park, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.29031) / [pdf](https://arxiv.org/pdf/2609.29031) |
+| 2026-09-24 | [CALM: Current Aligned Link Manipulation for Single Arm Oversized Object Lifting](https://arxiv.org/abs/2609.29017) | Jun Hu, Sihan Chen, Kosta Jovanovic, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.29017) / [pdf](https://arxiv.org/pdf/2609.29017) |
+| 2026-09-24 | [Sim-to-Real Aware End-to-End Learning Environment for Micromobility](https://arxiv.org/abs/2609.28969) | Shouma Amano, Takuya Azumi | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2609.28969) / [pdf](https://arxiv.org/pdf/2609.28969) |
+| 2026-09-24 | [HelloWorld: Towards Practical Applications of Generative Driving World Models](https://arxiv.org/abs/2609.28931) | Fan Lu, Hanshi Wang, Zijing Wang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.28931) / [pdf](https://arxiv.org/pdf/2609.28931) |
+| 2026-09-24 | [Online Sim-to-Real Adaptation via Closed-Loop System Modeling](https://arxiv.org/abs/2609.28878) | Yuhao Huang, Samuel A. Moore, Boyuan Chen | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.28878) / [pdf](https://arxiv.org/pdf/2609.28878) |
+| 2026-09-23 | [Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy](https://arxiv.org/abs/2609.28660) | Tara Sadjadpour, Siming He, C. K. Wolfe, et al. | cs.RO | Interaction / Affordance, Sim-to-Real | [abs](https://arxiv.org/abs/2609.28660) / [pdf](https://arxiv.org/pdf/2609.28660) |
+| 2026-09-23 | [Training Object Permanence in World Models](https://arxiv.org/abs/2609.28654) | Haotian Zhang, Fengyuan Yu, Dezhi Luo, et al. | cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.28654) / [pdf](https://arxiv.org/pdf/2609.28654) |
 | 2026-09-23 | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://arxiv.org/abs/2609.28416) | Shuang Sun, Guoxin Chen, Fanzhe Meng, et al. | cs.CL, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.28416) / [pdf](https://arxiv.org/pdf/2609.28416) |
 | 2026-09-23 | [Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model](https://arxiv.org/abs/2609.28414) | Xiwen Chen, Rigaudiere Z. Li, Zhiruo Zhou, et al. | cs.CV, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.28414) / [pdf](https://arxiv.org/pdf/2609.28414) |
 | 2026-09-23 | [PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation](https://arxiv.org/abs/2609.28393) | Hantao Ye, Ross Worobel, Zhuoli Xie, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.28393) / [pdf](https://arxiv.org/pdf/2609.28393) |

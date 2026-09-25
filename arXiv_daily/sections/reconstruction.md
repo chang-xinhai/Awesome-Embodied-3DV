@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 2923 · **Unique arXiv IDs:** 2923
+**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 2929 · **Unique arXiv IDs:** 2929
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-24 | [OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985) | Haoran Wang, Shaoyu Cai, Adrian Azzarelli, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29985) / [pdf](https://arxiv.org/pdf/2609.29985) |
+| 2026-09-24 | [Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI](https://arxiv.org/abs/2609.29825) | Xiaohan Yuan, Xuan Yang, Qingya Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29825) / [pdf](https://arxiv.org/pdf/2609.29825) |
+| 2026-09-24 | [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](https://arxiv.org/abs/2609.29644) | Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29644) / [pdf](https://arxiv.org/pdf/2609.29644) |
+| 2026-09-24 | [FMCW-LIO: A Doppler LiDAR-Inertial Odometry](https://arxiv.org/abs/2609.29374) | Mingle Zhao, Jiahao Wang, Tianxiao Gao, et al. | cs.RO, cs.CV, eess.SY | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.29374) / [pdf](https://arxiv.org/pdf/2609.29374) |
+| 2026-09-24 | [WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model](https://arxiv.org/abs/2609.29106) | Jerrin Bright, John Zelek | cs.CV, cs.AI, cs.CG | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29106) / [pdf](https://arxiv.org/pdf/2609.29106) |
+| 2026-09-23 | [PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting](https://arxiv.org/abs/2609.28645) | Sungjae Choi, Seunghee Koh, Junmo Kim | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.28645) / [pdf](https://arxiv.org/pdf/2609.28645) |
 | 2026-09-23 | [VGM-VS: Rethinking Visual Geometry Model for High-Precision Visual Servoing](https://arxiv.org/abs/2609.28312) | Yimin Pan, Sen Wang, You Zhou, et al. | cs.RO, cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.28312) / [pdf](https://arxiv.org/pdf/2609.28312) |
 | 2026-09-23 | [DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping](https://arxiv.org/abs/2609.27702) | Jaafar Mahmoud, Arthur Movsesyan, Mikhail Iumanov, et al. | cs.RO, cs.CV | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.27702) / [pdf](https://arxiv.org/pdf/2609.27702) |
 | 2026-09-23 | [Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM](https://arxiv.org/abs/2609.27509) | Preeti Chatterjee, Jin Lu, Jin Sun, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.27509) / [pdf](https://arxiv.org/pdf/2609.27509) |

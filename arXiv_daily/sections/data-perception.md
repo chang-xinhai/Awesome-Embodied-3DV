@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 1757 · **Unique arXiv IDs:** 1757
+**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 1759 · **Unique arXiv IDs:** 1759
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-24 | [SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting](https://arxiv.org/abs/2609.29836) | Nitya Nanvani, Andras Palffy, Holger Caesar | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.29836) / [pdf](https://arxiv.org/pdf/2609.29836) |
+| 2026-09-24 | [Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models](https://arxiv.org/abs/2609.29073) | Kai Glantz, Clemens Grange | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.29073) / [pdf](https://arxiv.org/pdf/2609.29073) |
 | 2026-09-23 | [VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation](https://arxiv.org/abs/2609.28184) | Enrico Saccon, Tommaso Faraci, Iñigo De La Ossa Zarzuelo, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.28184) / [pdf](https://arxiv.org/pdf/2609.28184) |
 | 2026-09-23 | [DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping](https://arxiv.org/abs/2609.27702) | Jaafar Mahmoud, Arthur Movsesyan, Mikhail Iumanov, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.27702) / [pdf](https://arxiv.org/pdf/2609.27702) |
 | 2026-09-23 | [RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement](https://arxiv.org/abs/2609.27612) | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.27612) / [pdf](https://arxiv.org/pdf/2609.27612) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 3004 · **Unique arXiv IDs:** 3004
+**Coverage:** 2025-01-01 to 2026-09-25 · **Papers:** 3014 · **Unique arXiv IDs:** 3014
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-24 | [Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245) | Pengpeng Yu, Yueru Chen, Fei Song, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.30245) / [pdf](https://arxiv.org/pdf/2609.30245) |
+| 2026-09-24 | [OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985) | Haoran Wang, Shaoyu Cai, Adrian Azzarelli, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.29985) / [pdf](https://arxiv.org/pdf/2609.29985) |
+| 2026-09-24 | [ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting](https://arxiv.org/abs/2609.29963) | De Jiang, Peiqiang Wang, Kehong Yuan, et al. | cs.CV, cs.AI | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.29963) / [pdf](https://arxiv.org/pdf/2609.29963) |
+| 2026-09-24 | [SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting](https://arxiv.org/abs/2609.29836) | Nitya Nanvani, Andras Palffy, Holger Caesar | cs.CV, cs.RO | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.29836) / [pdf](https://arxiv.org/pdf/2609.29836) |
+| 2026-09-24 | [Shadow Reduction in Ultrasound Imaging Using Differentiable Simulation and Radiance Field Decomposition](https://arxiv.org/abs/2609.29373) | Valentin Bacher, Pak Hei Yeung, Bernhard Kainz, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.29373) / [pdf](https://arxiv.org/pdf/2609.29373) |
+| 2026-09-24 | [OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping](https://arxiv.org/abs/2609.29157) | Zhirui Dai, Qihao Qian, Dinh Minh Nguyen, et al. | cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.29157) / [pdf](https://arxiv.org/pdf/2609.29157) |
+| 2026-09-24 | [Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting](https://arxiv.org/abs/2609.28997) | Krzysztof Pietroszek | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.28997) / [pdf](https://arxiv.org/pdf/2609.28997) |
+| 2026-09-24 | [PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification](https://arxiv.org/abs/2609.28930) | Jason Lai, Chamuditha Jayanga Galappaththige, Niko Suenderhauf, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.28930) / [pdf](https://arxiv.org/pdf/2609.28930) |
+| 2026-09-23 | [M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals](https://arxiv.org/abs/2609.28684) | Vinícius da Silva, Isabelle Melo, Matheus Bessa, et al. | cs.CV, cs.GR, cs.LG | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.28684) / [pdf](https://arxiv.org/pdf/2609.28684) |
+| 2026-09-23 | [PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting](https://arxiv.org/abs/2609.28645) | Sungjae Choi, Seunghee Koh, Junmo Kim | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.28645) / [pdf](https://arxiv.org/pdf/2609.28645) |
 | 2026-09-23 | [GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting](https://arxiv.org/abs/2609.27264) | Haoyuan Yue, Fengyuan Ye, Ziyin Li | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.27264) / [pdf](https://arxiv.org/pdf/2609.27264) |
 | 2026-09-22 | [φ-RIE: From Photorealistic Reconstruction to Interactive Environments](https://arxiv.org/abs/2609.26795) | Runyi Yang, Deheng Zhang, Xiaoye Wang, et al. | cs.RO, cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.26795) / [pdf](https://arxiv.org/pdf/2609.26795) |
 | 2026-09-22 | [ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards](https://arxiv.org/abs/2609.26315) | Alessandro Masini, Matteo Frosi, Mirko Usuelli, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.26315) / [pdf](https://arxiv.org/pdf/2609.26315) |
