@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 522 · **Unique arXiv IDs:** 522
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 523 · **Unique arXiv IDs:** 523
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103) | Jiangning Wei, Yuan Yao, Miaomiao Cui, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.31103) / [pdf](https://arxiv.org/pdf/2609.31103) |
 | 2026-09-24 | [M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis](https://arxiv.org/abs/2609.30056) | Yang Zhou, Jiuhong Xiao, Shizhao Ye, et al. | cs.RO, cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2609.30056) / [pdf](https://arxiv.org/pdf/2609.30056) |
 | 2026-09-24 | [OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985) | Haoran Wang, Shaoyu Cai, Adrian Azzarelli, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.29985) / [pdf](https://arxiv.org/pdf/2609.29985) |
 | 2026-09-23 | [Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB](https://arxiv.org/abs/2609.28360) | Xuying Huang, Swithinraj Moses Daniel, Sicong Pan, et al. | cs.CV, cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2609.28360) / [pdf](https://arxiv.org/pdf/2609.28360) |

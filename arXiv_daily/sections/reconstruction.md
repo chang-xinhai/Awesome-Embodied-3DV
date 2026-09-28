@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 2929 · **Unique arXiv IDs:** 2929
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 2934 · **Unique arXiv IDs:** 2934
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation](https://arxiv.org/abs/2609.31418) | Timofei Kozlov, Dmitrii Maliukov, Andrey Marchenko, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.31418) / [pdf](https://arxiv.org/pdf/2609.31418) |
+| 2026-09-25 | [Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms](https://arxiv.org/abs/2609.31396) | Alessandro Rubert, Stefano Ghidoni, Matteo Terreran | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.31396) / [pdf](https://arxiv.org/pdf/2609.31396) |
+| 2026-09-25 | [ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization](https://arxiv.org/abs/2609.31339) | Tobias Batik, Diana Marin, Peter Kán, et al. | cs.GR, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.31339) / [pdf](https://arxiv.org/pdf/2609.31339) |
+| 2026-09-25 | [Light Field Primitive for Novel View Synthesis](https://arxiv.org/abs/2609.31198) | Liang Chen, Jiahui Ning, Xun Jiang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.31198) / [pdf](https://arxiv.org/pdf/2609.31198) |
+| 2026-09-24 | [VkVIO: Cross-platform GPU Acceleration for Visual-Inertial Odometry with Vulkan](https://arxiv.org/abs/2609.30459) | Ole Hoffmann, Mateo de Mayo, Daniel Cremers | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.30459) / [pdf](https://arxiv.org/pdf/2609.30459) |
 | 2026-09-24 | [OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985) | Haoran Wang, Shaoyu Cai, Adrian Azzarelli, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29985) / [pdf](https://arxiv.org/pdf/2609.29985) |
 | 2026-09-24 | [Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI](https://arxiv.org/abs/2609.29825) | Xiaohan Yuan, Xuan Yang, Qingya Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29825) / [pdf](https://arxiv.org/pdf/2609.29825) |
 | 2026-09-24 | [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](https://arxiv.org/abs/2609.29644) | Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.29644) / [pdf](https://arxiv.org/pdf/2609.29644) |

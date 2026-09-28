@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 1759 · **Unique arXiv IDs:** 1759
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 1763 · **Unique arXiv IDs:** 1763
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [Light Field Primitive for Novel View Synthesis](https://arxiv.org/abs/2609.31198) | Liang Chen, Jiahui Ning, Xun Jiang, et al. | cs.CV | Transparent / Specular, Non-RGB Sensing, Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.31198) / [pdf](https://arxiv.org/pdf/2609.31198) |
+| 2026-09-25 | [DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103) | Jiangning Wei, Yuan Yao, Miaomiao Cui, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.31103) / [pdf](https://arxiv.org/pdf/2609.31103) |
+| 2026-09-25 | [Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors](https://arxiv.org/abs/2609.31008) | Giammarco Caroleo, Timothée Mahamoodally, Matteo Manzardo, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.31008) / [pdf](https://arxiv.org/pdf/2609.31008) |
+| 2026-09-25 | [Self-Supervised Perceptually Interpretable Monocular Depth Estimation](https://arxiv.org/abs/2609.30987) | Zain Ul Abidin, George Dimas, Dimitris K. Iakovidis | cs.CV | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2609.30987) / [pdf](https://arxiv.org/pdf/2609.30987) |
 | 2026-09-24 | [SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting](https://arxiv.org/abs/2609.29836) | Nitya Nanvani, Andras Palffy, Holger Caesar | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.29836) / [pdf](https://arxiv.org/pdf/2609.29836) |
 | 2026-09-24 | [Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models](https://arxiv.org/abs/2609.29073) | Kai Glantz, Clemens Grange | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.29073) / [pdf](https://arxiv.org/pdf/2609.29073) |
 | 2026-09-23 | [VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation](https://arxiv.org/abs/2609.28184) | Enrico Saccon, Tommaso Faraci, Iñigo De La Ossa Zarzuelo, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.28184) / [pdf](https://arxiv.org/pdf/2609.28184) |

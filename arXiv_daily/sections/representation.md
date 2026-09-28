@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 3014 · **Unique arXiv IDs:** 3014
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 3024 · **Unique arXiv IDs:** 3024
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [OC-GS: Gaussian Splatting for Irregular Turntable Capture](https://arxiv.org/abs/2609.31572) | Jae Joong Lee, Bedrich Benes | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.31572) / [pdf](https://arxiv.org/pdf/2609.31572) |
+| 2026-09-25 | [ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos](https://arxiv.org/abs/2609.31509) | Xuanzhi Liu, Xinyi Wu, Hang Pan, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.31509) / [pdf](https://arxiv.org/pdf/2609.31509) |
+| 2026-09-25 | [CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation](https://arxiv.org/abs/2609.31418) | Timofei Kozlov, Dmitrii Maliukov, Andrey Marchenko, et al. | cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.31418) / [pdf](https://arxiv.org/pdf/2609.31418) |
+| 2026-09-25 | [RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors](https://arxiv.org/abs/2609.31374) | Zijun Zhao, Liewen Liao, Kang Shen, et al. | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.31374) / [pdf](https://arxiv.org/pdf/2609.31374) |
+| 2026-09-25 | [ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization](https://arxiv.org/abs/2609.31339) | Tobias Batik, Diana Marin, Peter Kán, et al. | cs.GR, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.31339) / [pdf](https://arxiv.org/pdf/2609.31339) |
+| 2026-09-25 | [Gauss What You Need: Compact Gaussian Splatting Across Scene Scales](https://arxiv.org/abs/2609.31248) | Afif Boudaoud, Jiayi Liu, Alexandru Calotoiu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.31248) / [pdf](https://arxiv.org/pdf/2609.31248) |
+| 2026-09-25 | [Spackle: Completing Large View Single Image NVS with Adaptive Gaussians](https://arxiv.org/abs/2609.30941) | Xuanzhi Liu, Yuhe Zhou, Xinyi Wu, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.30941) / [pdf](https://arxiv.org/pdf/2609.30941) |
+| 2026-09-25 | [Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2609.30865) | Zijian Wu, Jinliang Wang, Zidian Lin, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.30865) / [pdf](https://arxiv.org/pdf/2609.30865) |
+| 2026-09-25 | [From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching](https://arxiv.org/abs/2609.30741) | Hongfei Zhu, Ling Zhou | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.30741) / [pdf](https://arxiv.org/pdf/2609.30741) |
+| 2026-09-24 | [LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting](https://arxiv.org/abs/2609.30393) | Vivek Pandey, Amirhossein Mollaei Khass, Nader Motee | cs.CV, cs.RO | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.30393) / [pdf](https://arxiv.org/pdf/2609.30393) |
 | 2026-09-24 | [Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245) | Pengpeng Yu, Yueru Chen, Fei Song, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.30245) / [pdf](https://arxiv.org/pdf/2609.30245) |
 | 2026-09-24 | [OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985) | Haoran Wang, Shaoyu Cai, Adrian Azzarelli, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.29985) / [pdf](https://arxiv.org/pdf/2609.29985) |
 | 2026-09-24 | [ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting](https://arxiv.org/abs/2609.29963) | De Jiang, Peiqiang Wang, Kehong Yuan, et al. | cs.CV, cs.AI | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.29963) / [pdf](https://arxiv.org/pdf/2609.29963) |

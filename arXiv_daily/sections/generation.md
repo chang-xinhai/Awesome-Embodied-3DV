@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 958 · **Unique arXiv IDs:** 958
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 959 · **Unique arXiv IDs:** 959
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors](https://arxiv.org/abs/2609.31374) | Zijun Zhao, Liewen Liao, Kang Shen, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.31374) / [pdf](https://arxiv.org/pdf/2609.31374) |
 | 2026-09-24 | [OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization](https://arxiv.org/abs/2609.29788) | Zhiyuan Ma, Wenbo Hu, Wang Zhao, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.29788) / [pdf](https://arxiv.org/pdf/2609.29788) |
 | 2026-09-22 | [SsgCaps: A controlled dataset for the evaluation of sound scene generation algorithms](https://arxiv.org/abs/2609.26854) | Modan Tailleur, Junwon Lee, Laurie M Heller, et al. | cs.GR, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2609.26854) / [pdf](https://arxiv.org/pdf/2609.26854) |
 | 2026-09-22 | [Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning](https://arxiv.org/abs/2609.25741) | Dingkang Yang, Yizhou Liu, Wendong Cheng, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2609.25741) / [pdf](https://arxiv.org/pdf/2609.25741) |

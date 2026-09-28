@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 2282 · **Unique arXiv IDs:** 2282
+**Coverage:** 2025-01-01 to 2026-09-28 · **Papers:** 2294 · **Unique arXiv IDs:** 2294
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-25 | [GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595) | Luka Milivojevic, Nikola Popovic, Sayan Deb Sarkar, et al. | cs.CV | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2609.31595) / [pdf](https://arxiv.org/pdf/2609.31595) |
+| 2026-09-25 | [Towards VLA-Dreamer: Refining VLA Behavior Using World Models](https://arxiv.org/abs/2609.31313) | Parsa Mastouri Kashani, Jan-Gerrit Habekost, Stefan Wermter | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.31313) / [pdf](https://arxiv.org/pdf/2609.31313) |
+| 2026-09-25 | [MA-WAM: Multi-Agent World-Action Model for Test-Time Planning](https://arxiv.org/abs/2609.31281) | Guowei Zou, Haitao Wang, Guoxin Wang, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2609.31281) / [pdf](https://arxiv.org/pdf/2609.31281) |
+| 2026-09-25 | [Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling](https://arxiv.org/abs/2609.31207) | Guanlin Li, Shifeng Bao, Yihan Zhao, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2609.31207) / [pdf](https://arxiv.org/pdf/2609.31207) |
+| 2026-09-25 | [AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution](https://arxiv.org/abs/2609.31133) | Tian Luo, Ruge Zhang, Haozhi Han, et al. | cs.AI, cond-mat.mtrl-sci | World Model | [abs](https://arxiv.org/abs/2609.31133) / [pdf](https://arxiv.org/pdf/2609.31133) |
+| 2026-09-25 | [TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking](https://arxiv.org/abs/2609.31005) | Peder Borge Hellesylt, Albert Gassol Puigjaner, Kostas Alexis, et al. | cs.CV, cs.RO | World Model, Dynamic Scene Graph, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2609.31005) / [pdf](https://arxiv.org/pdf/2609.31005) |
+| 2026-09-25 | [VLaRL: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL](https://arxiv.org/abs/2609.30868) | Namiko Saito, Kinam Kim, Heecheol Kim, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.30868) / [pdf](https://arxiv.org/pdf/2609.30868) |
+| 2026-09-25 | [NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation](https://arxiv.org/abs/2609.30770) | Xijie Huang, Yongyang Wan, Chengbin Dong, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.30770) / [pdf](https://arxiv.org/pdf/2609.30770) |
+| 2026-09-25 | [StarWM: Self-Supervised Trained Attention Routing for Robust World Models](https://arxiv.org/abs/2609.30667) | Zeqiang Zhang, Fabian Wurzberger, Maximilian Otte, et al. | cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.30667) / [pdf](https://arxiv.org/pdf/2609.30667) |
+| 2026-09-25 | [Causal Retention in Interactive Agents: Interface Factorization and Selective Adaptation](https://arxiv.org/abs/2609.30650) | Shengjun Zhang, Tingyi Liu, Dong Xie, et al. | cs.LG, cs.AI, stat.ML | World Model | [abs](https://arxiv.org/abs/2609.30650) / [pdf](https://arxiv.org/pdf/2609.30650) |
+| 2026-09-24 | [GraspTwin: Zero-Shot Task-Oriented Grasp Optimization via a Digital Twin](https://arxiv.org/abs/2609.30543) | Daniel J. Evans, Yinlong Dai, Simon Stepputtis, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.30543) / [pdf](https://arxiv.org/pdf/2609.30543) |
+| 2026-09-24 | [WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving](https://arxiv.org/abs/2609.30436) | Mingkai Jia, Jiaxin Guo, Zhijian Shu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.30436) / [pdf](https://arxiv.org/pdf/2609.30436) |
 | 2026-09-24 | [AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](https://arxiv.org/abs/2609.30264) | Jiabin Qiu, Zixuan Chen, Hongye Cao, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.30264) / [pdf](https://arxiv.org/pdf/2609.30264) |
 | 2026-09-24 | [Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think](https://arxiv.org/abs/2609.30036) | Xvyuan Liu, Jianjie Fang, Chen Gao, et al. | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.30036) / [pdf](https://arxiv.org/pdf/2609.30036) |
 | 2026-09-24 | [Representation World Model: Learning States, Transition and Executable Plans in Representation](https://arxiv.org/abs/2609.29171) | Yijun Yuan, Weicheng Zheng, Weibang Wang, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.29171) / [pdf](https://arxiv.org/pdf/2609.29171) |
