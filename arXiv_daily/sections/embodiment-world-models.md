@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-29 · **Papers:** 2346 · **Unique arXiv IDs:** 2346
+**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 2346 · **Unique arXiv IDs:** 2346
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -13,7 +13,7 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-09-28 | [X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets](https://arxiv.org/abs/2609.35715) | Prithwish Dan, Chenyang Ma, Wei Zhan | cs.LG, cs.AI, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.35715) / [pdf](https://arxiv.org/pdf/2609.35715) |
-| 2026-09-28 | [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](https://arxiv.org/abs/2609.35704) | Ma Ziqi, Chen Hongqiao, Gkioxari Georgia | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.35704) / [pdf](https://arxiv.org/pdf/2609.35704) |
+| 2026-09-28 | [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](https://arxiv.org/abs/2609.35704) | Ziqi Ma, Hongqiao Chen, Georgia Gkioxari | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.35704) / [pdf](https://arxiv.org/pdf/2609.35704) |
 | 2026-09-28 | [F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement](https://arxiv.org/abs/2609.35575) | Zhuoyuan Yu, Jiacheng Wang, Tianle Liu, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.35575) / [pdf](https://arxiv.org/pdf/2609.35575) |
 | 2026-09-28 | [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](https://arxiv.org/abs/2609.35560) | Haiyu Zhang, Wenqiang Sun, Tengfei Wang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.35560) / [pdf](https://arxiv.org/pdf/2609.35560) |
 | 2026-09-28 | [Graph World Models for Constrained Epidemic Policy Planning](https://arxiv.org/abs/2609.35545) | Yiqi Su, Rashed Shelim, Lingyi Wang, et al. | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.35545) / [pdf](https://arxiv.org/pdf/2609.35545) |
