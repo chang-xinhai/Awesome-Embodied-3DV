@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 1777 · **Unique arXiv IDs:** 1777
+**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 1786 · **Unique arXiv IDs:** 1786
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-29 | [MUGEN: Interactive Panoramic World Exploration via Camera Control](https://arxiv.org/abs/2609.38077) | Jiaming Tan, Zhen Li, Shuwei Shi, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.38077) / [pdf](https://arxiv.org/pdf/2609.38077) |
+| 2026-09-29 | [Procedural Core: A Compact Recurrent Initialization for Vision Transformers](https://arxiv.org/abs/2609.37631) | Zachary Shinnick, Christian Internò, Hemanth Saratchandran, et al. | cs.LG, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.37631) / [pdf](https://arxiv.org/pdf/2609.37631) |
+| 2026-09-29 | [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](https://arxiv.org/abs/2609.37115) | Pratik Singh Bisht, Andreas Kolb | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.37115) / [pdf](https://arxiv.org/pdf/2609.37115) |
+| 2026-09-29 | [Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization](https://arxiv.org/abs/2609.36969) | Gyeonggwan Lee, Seunghwan Hong, Junghun Suh | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36969) / [pdf](https://arxiv.org/pdf/2609.36969) |
+| 2026-09-29 | [SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation](https://arxiv.org/abs/2609.36929) | Thai Duy Nguyen, Addison Lin Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36929) / [pdf](https://arxiv.org/pdf/2609.36929) |
+| 2026-09-29 | [GlassFormer: Learning Real-time Glass Segmentation using Radar-Depth Fusion](https://arxiv.org/abs/2609.36844) | Suhani Grover, Astik Srivastava, Viswas Dinesh, et al. | cs.CV, cs.RO | Transparent / Specular, Active Imaging | [abs](https://arxiv.org/abs/2609.36844) / [pdf](https://arxiv.org/pdf/2609.36844) |
+| 2026-09-29 | [SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence](https://arxiv.org/abs/2609.36545) | Gyeonggwan Lee, Eunsoo Im, Seunghwan Hong, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.36545) / [pdf](https://arxiv.org/pdf/2609.36545) |
+| 2026-09-28 | [Stealth Is a Relation, Not a Property: How Event Representations Create Blind Spots for Timing Attacks in Event-Based Perception](https://arxiv.org/abs/2609.36386) | Shoaib Ahmed Dipu, Md. Shaown Miah, Kamrul Hasan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.36386) / [pdf](https://arxiv.org/pdf/2609.36386) |
+| 2026-09-28 | [Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry](https://arxiv.org/abs/2609.36168) | Mia Zhang, Jizong Peng | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36168) / [pdf](https://arxiv.org/pdf/2609.36168) |
 | 2026-09-28 | [Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras](https://arxiv.org/abs/2609.35658) | Qiaoge Li, Yifan Zhan, Haijun Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.35658) / [pdf](https://arxiv.org/pdf/2609.35658) |
 | 2026-09-28 | [AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection](https://arxiv.org/abs/2609.35490) | Mohammad Mahdi, Nedyalko Prisadnikov, Yuqian Fu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.35490) / [pdf](https://arxiv.org/pdf/2609.35490) |
 | 2026-09-28 | [Memory in the Sky: Low-Altitude Question Answering with Multi-Agent Memory Aggregation](https://arxiv.org/abs/2609.35431) | Chengyang Li, Yujie Wan, Shuai Wang, et al. | cs.RO, cs.IT | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.35431) / [pdf](https://arxiv.org/pdf/2609.35431) |

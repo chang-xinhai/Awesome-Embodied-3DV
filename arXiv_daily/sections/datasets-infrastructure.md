@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 525 · **Unique arXiv IDs:** 525
+**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 526 · **Unique arXiv IDs:** 526
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-28 | [OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute](https://arxiv.org/abs/2609.36374) | Brandon Leblanc, Charalambos Poullis | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.36374) / [pdf](https://arxiv.org/pdf/2609.36374) |
 | 2026-09-28 | [OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052) | Hao Wang, Tao Yu, Liuzhou Zhang, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2609.35052) / [pdf](https://arxiv.org/pdf/2609.35052) |
 | 2026-09-27 | [AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception](https://arxiv.org/abs/2609.33230) | Gautham Narayan Narasimhan, Heethesh Vhavle, Kumar Bhargav Viswanatha, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.33230) / [pdf](https://arxiv.org/pdf/2609.33230) |
 | 2026-09-25 | [DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103) | Jiangning Wei, Yuan Yao, Miaomiao Cui, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.31103) / [pdf](https://arxiv.org/pdf/2609.31103) |

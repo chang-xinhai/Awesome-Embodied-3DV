@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 968 · **Unique arXiv IDs:** 968
+**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 975 · **Unique arXiv IDs:** 975
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-29 | [Point2Part: Unified 3D Partitioning from Point Prompts](https://arxiv.org/abs/2609.38180) | Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.38180) / [pdf](https://arxiv.org/pdf/2609.38180) |
+| 2026-09-29 | [PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams](https://arxiv.org/abs/2609.38153) | Trong-Tung Nguyen, Anand Bhattad | cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.38153) / [pdf](https://arxiv.org/pdf/2609.38153) |
+| 2026-09-29 | [Multi-Agent Flow Matching with Decoupled Generative Guidance](https://arxiv.org/abs/2609.38133) | Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti | cs.LG, cs.MA, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2609.38133) / [pdf](https://arxiv.org/pdf/2609.38133) |
+| 2026-09-29 | [WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors](https://arxiv.org/abs/2609.37816) | Noé Lallouet, Michael Fischer, Elie Michel | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2609.37816) / [pdf](https://arxiv.org/pdf/2609.37816) |
+| 2026-09-29 | [Seg3DParts: Segmentation-Grounded Controllable Part-Level 3D Generation](https://arxiv.org/abs/2609.36918) | Jiantao Lin, Meixi Chen, Yingjie Xu, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.36918) / [pdf](https://arxiv.org/pdf/2609.36918) |
+| 2026-09-29 | [RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts](https://arxiv.org/abs/2609.36851) | Hongbin Lin, Chaoda Zheng, Yiming Yang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2609.36851) / [pdf](https://arxiv.org/pdf/2609.36851) |
+| 2026-09-28 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | Shuzhao Xie, Lelin Wang, Guying Lin, et al. | cs.CV, cs.GR, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.36024) / [pdf](https://arxiv.org/pdf/2609.36024) |
 | 2026-09-28 | [TaoTex: Boosting Texture Detail Fidelity for Native 3D Material Generation](https://arxiv.org/abs/2609.34934) | Xiuchao Wu, Shuichang Lai, Jiangjing Lyu, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.34934) / [pdf](https://arxiv.org/pdf/2609.34934) |
 | 2026-09-28 | [FILIGREE3D: Scaling Sparse Latent Flow Matching for Ultra-High-Resolution Image-to-3D Generation](https://arxiv.org/abs/2609.34900) | Hongjie Li, Xinran Yang, Xiuchao Wu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.34900) / [pdf](https://arxiv.org/pdf/2609.34900) |
 | 2026-09-28 | [Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?](https://arxiv.org/abs/2609.34621) | Jiangshan Wang, Zeqiang Lai, Jiayi Guo, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.34621) / [pdf](https://arxiv.org/pdf/2609.34621) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 3043 · **Unique arXiv IDs:** 3043
+**Coverage:** 2025-01-01 to 2026-09-30 · **Papers:** 3052 · **Unique arXiv IDs:** 3052
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-29 | [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177) | Jaewoo Jung, Hyeonseo Yu, Honggyu An, et al. | cs.CV, cs.CL | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38177) / [pdf](https://arxiv.org/pdf/2609.38177) |
+| 2026-09-29 | [EndoPrior-GS: Dynamic Endoscopic Reconstruction with a Joint Texture Prior](https://arxiv.org/abs/2609.37874) | Jiaqi Huang, Shidong Wang, Tong Xin, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.37874) / [pdf](https://arxiv.org/pdf/2609.37874) |
+| 2026-09-29 | [WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors](https://arxiv.org/abs/2609.37816) | Noé Lallouet, Michael Fischer, Elie Michel | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.37816) / [pdf](https://arxiv.org/pdf/2609.37816) |
+| 2026-09-29 | [RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing](https://arxiv.org/abs/2609.37560) | Haowei Wen, Shangtao Li, Vaibhav Sanjay, et al. | cs.RO | Neural Implicit / SDF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.37560) / [pdf](https://arxiv.org/pdf/2609.37560) |
+| 2026-09-29 | [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](https://arxiv.org/abs/2609.37115) | Pratik Singh Bisht, Andreas Kolb | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.37115) / [pdf](https://arxiv.org/pdf/2609.37115) |
+| 2026-09-29 | [Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization](https://arxiv.org/abs/2609.36969) | Gyeonggwan Lee, Seunghwan Hong, Junghun Suh | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.36969) / [pdf](https://arxiv.org/pdf/2609.36969) |
+| 2026-09-29 | [DispFlow-GS: Displacement Flow Supervision with Motion Disentangling for Monocular Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2609.36940) | Thai Duy Nguyen, Haitian Zhang, Addison Lin Wang | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.36940) / [pdf](https://arxiv.org/pdf/2609.36940) |
+| 2026-09-29 | [AESplat: Advancing Pose-Free Feed-Forward 3D Gaussian Splatting via Decoupled Appearance Modeling](https://arxiv.org/abs/2609.36693) | Shiwei Ren, Zhiang Liu, Yongchun Fang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.36693) / [pdf](https://arxiv.org/pdf/2609.36693) |
+| 2026-09-29 | [Distilling Privileged Control Barrier Functions into RGB-Only Safety Filters for Dynamic Visual Navigation](https://arxiv.org/abs/2609.36520) | Seungyeon Yoo, Gawon Lee, Seungwoo Jung, et al. | cs.RO, cs.CV, eess.SY | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.36520) / [pdf](https://arxiv.org/pdf/2609.36520) |
 | 2026-09-28 | [CollisionSplatting: Collision-Aware Motion Planning in 3DGS Scenes with Image-Conditioned Objectives and Adjustable Conservatism](https://arxiv.org/abs/2609.35619) | R. Khorrambakht, Joaquim Ortiz-Haro, Stephan Weiss, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.35619) / [pdf](https://arxiv.org/pdf/2609.35619) |
 | 2026-09-28 | [Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering](https://arxiv.org/abs/2609.35612) | Jiaming Kang, Zhengxia Zou, Zhenwei Shi | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.35612) / [pdf](https://arxiv.org/pdf/2609.35612) |
 | 2026-09-28 | [Less Is More: Genetic Frame Selection for Efficient Novel View Synthesis](https://arxiv.org/abs/2609.35573) | Diego E. Farchione, Ramzi Idoughi, Alberto Jaspe-Villanueva, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.35573) / [pdf](https://arxiv.org/pdf/2609.35573) |
