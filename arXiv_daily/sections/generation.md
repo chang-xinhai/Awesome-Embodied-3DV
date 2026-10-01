@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 975 · **Unique arXiv IDs:** 975
+**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 980 · **Unique arXiv IDs:** 980
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling](https://arxiv.org/abs/2609.40153) | Xiangyu Zhu, Jin Xu, Yue Guo, et al. | cs.RO | Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.40153) / [pdf](https://arxiv.org/pdf/2609.40153) |
+| 2026-09-30 | [BTC3D: Blended Tile Conditioning for Detail-Enhancing Image-to-3D Generation](https://arxiv.org/abs/2609.39709) | Junyu Li, Qiuyu Chen, Pengcheng Wang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.39709) / [pdf](https://arxiv.org/pdf/2609.39709) |
+| 2026-09-30 | [Text-to-3D Policy: Fine-Grained Language-Behavior Alignment for Unseen Specification Generalization](https://arxiv.org/abs/2609.39599) | Xinhao Yang, Wenhao Wu, Ning Lv, et al. | cs.RO, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.39599) / [pdf](https://arxiv.org/pdf/2609.39599) |
+| 2026-09-30 | [SPOON: Towards Coherent Compositional 3D Scene Generation from Uncalibrated Multi-view Images](https://arxiv.org/abs/2609.39590) | Guibiao Liao, Mochu Xiang, Heng Li, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2609.39590) / [pdf](https://arxiv.org/pdf/2609.39590) |
+| 2026-09-29 | [Draft: A Parametric Tool for Robot Design Exploration](https://arxiv.org/abs/2609.38405) | David Nguyen, Marcelo Coelho, Sangbae Kim | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.38405) / [pdf](https://arxiv.org/pdf/2609.38405) |
 | 2026-09-29 | [Point2Part: Unified 3D Partitioning from Point Prompts](https://arxiv.org/abs/2609.38180) | Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.38180) / [pdf](https://arxiv.org/pdf/2609.38180) |
 | 2026-09-29 | [PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams](https://arxiv.org/abs/2609.38153) | Trong-Tung Nguyen, Anand Bhattad | cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2609.38153) / [pdf](https://arxiv.org/pdf/2609.38153) |
 | 2026-09-29 | [Multi-Agent Flow Matching with Decoupled Generative Guidance](https://arxiv.org/abs/2609.38133) | Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti | cs.LG, cs.MA, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2609.38133) / [pdf](https://arxiv.org/pdf/2609.38133) |

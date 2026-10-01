@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 1786 · **Unique arXiv IDs:** 1786
+**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 1791 · **Unique arXiv IDs:** 1791
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM](https://arxiv.org/abs/2609.39596) | Asier Bikandi-Noya, Miguel Fernandez-Cortizas, Muhammad Shaheer, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.39596) / [pdf](https://arxiv.org/pdf/2609.39596) |
+| 2026-09-30 | [AdaOcc: Adaptive 3D Occupancy Prediction for Embodied Tasks](https://arxiv.org/abs/2609.38864) | Jinglong Wang, Yunjie Wang, Zhiyang Zhang, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2609.38864) / [pdf](https://arxiv.org/pdf/2609.38864) |
+| 2026-09-30 | [Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation](https://arxiv.org/abs/2609.38856) | Zhijie Shen, Chunyu Lin, Shuai Zheng, et al. | cs.CV | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.38856) / [pdf](https://arxiv.org/pdf/2609.38856) |
+| 2026-09-29 | [Gaussian Stippling: Efficient Sorting-Free 3D Gaussian Rendering through Hybrid Sampling and Spatiotemporal Reconstruction](https://arxiv.org/abs/2609.38488) | Zijian Huang, Suiliang Mai, Chuankun Zheng, et al. | cs.GR, cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2609.38488) / [pdf](https://arxiv.org/pdf/2609.38488) |
+| 2026-09-29 | [Audible World Models: Spatially Aware Sound Generation for 3D Worlds](https://arxiv.org/abs/2609.38444) | Duowen Chen, Jinjin He, Gouthaman KV, et al. | cs.CV, cs.SD | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.38444) / [pdf](https://arxiv.org/pdf/2609.38444) |
 | 2026-09-29 | [MUGEN: Interactive Panoramic World Exploration via Camera Control](https://arxiv.org/abs/2609.38077) | Jiaming Tan, Zhen Li, Shuwei Shi, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.38077) / [pdf](https://arxiv.org/pdf/2609.38077) |
 | 2026-09-29 | [Procedural Core: A Compact Recurrent Initialization for Vision Transformers](https://arxiv.org/abs/2609.37631) | Zachary Shinnick, Christian Internò, Hemanth Saratchandran, et al. | cs.LG, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.37631) / [pdf](https://arxiv.org/pdf/2609.37631) |
 | 2026-09-29 | [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](https://arxiv.org/abs/2609.37115) | Pratik Singh Bisht, Andreas Kolb | cs.CV, cs.GR | Transparent / Specular | [abs](https://arxiv.org/abs/2609.37115) / [pdf](https://arxiv.org/pdf/2609.37115) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 2969 · **Unique arXiv IDs:** 2969
+**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 2981 · **Unique arXiv IDs:** 2981
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners](https://arxiv.org/abs/2609.40208) | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.40208) / [pdf](https://arxiv.org/pdf/2609.40208) |
+| 2026-09-30 | [BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085) | Jan Steckel | cs.RO, cs.AI, cs.LG | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.40085) / [pdf](https://arxiv.org/pdf/2609.40085) |
+| 2026-09-30 | [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960) | Ziren Gong, Guo Chen, Yongjia Li, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.39960) / [pdf](https://arxiv.org/pdf/2609.39960) |
+| 2026-09-30 | [DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes](https://arxiv.org/abs/2609.39841) | Merav Keidar, Tomer Borreda, Rajalakshmi Nandakumar, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.39841) / [pdf](https://arxiv.org/pdf/2609.39841) |
+| 2026-09-30 | [MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM](https://arxiv.org/abs/2609.39596) | Asier Bikandi-Noya, Miguel Fernandez-Cortizas, Muhammad Shaheer, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.39596) / [pdf](https://arxiv.org/pdf/2609.39596) |
+| 2026-09-30 | [SPOON: Towards Coherent Compositional 3D Scene Generation from Uncalibrated Multi-view Images](https://arxiv.org/abs/2609.39590) | Guibiao Liao, Mochu Xiang, Heng Li, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.39590) / [pdf](https://arxiv.org/pdf/2609.39590) |
+| 2026-09-30 | [Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527) | Tarun Yenamandra, Jonathon Luiten, Daniel Cremers, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.39527) / [pdf](https://arxiv.org/pdf/2609.39527) |
+| 2026-09-30 | [Emergent Multi-View Geometry Through Self-Distillation](https://arxiv.org/abs/2609.39227) | David Nordström, Thibaut Loiseau, Vincent Lepetit, et al. | cs.CV, cs.AI | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2609.39227) / [pdf](https://arxiv.org/pdf/2609.39227) |
+| 2026-09-30 | [Matisse: Evidence-Space Reasoning for Active 3D Reconstruction](https://arxiv.org/abs/2609.38746) | Xihang Yu, Kaichen Zhou, Lorenzo Shaikewitz, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.38746) / [pdf](https://arxiv.org/pdf/2609.38746) |
+| 2026-09-29 | [HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding](https://arxiv.org/abs/2609.38620) | Hanwen Cao, Wenqiang Wu, Kuang-Ting Tu, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.38620) / [pdf](https://arxiv.org/pdf/2609.38620) |
+| 2026-09-29 | [StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images](https://arxiv.org/abs/2609.38592) | Boyuan Tian, Huangying Zhan, Zhan Li, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.38592) / [pdf](https://arxiv.org/pdf/2609.38592) |
+| 2026-09-29 | [TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos](https://arxiv.org/abs/2609.38347) | Patt Phurtivilai, Zhiyang Dou, Yifan Wu, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.38347) / [pdf](https://arxiv.org/pdf/2609.38347) |
 | 2026-09-29 | [Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors](https://arxiv.org/abs/2609.38054) | Christopher Kolios, Ishaan Mehta, Sasa Janjic, et al. | cs.RO, cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.38054) / [pdf](https://arxiv.org/pdf/2609.38054) |
 | 2026-09-29 | [ORMA: Optimization-based Monocular 4D Reconstruction of Articulated Animals](https://arxiv.org/abs/2609.37986) | Xuyi Hu, Francesco Palandra, Shangzhe Wu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.37986) / [pdf](https://arxiv.org/pdf/2609.37986) |
 | 2026-09-29 | [MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation](https://arxiv.org/abs/2609.37793) | Wenbo Chen, Tianfu Li, Haoxuan Xu, et al. | cs.RO | Multi-View Geometry | [abs](https://arxiv.org/abs/2609.37793) / [pdf](https://arxiv.org/pdf/2609.37793) |

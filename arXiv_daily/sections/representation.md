@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 3052 · **Unique arXiv IDs:** 3052
+**Coverage:** 2025-01-01 to 2026-10-01 · **Papers:** 3062 · **Unique arXiv IDs:** 3062
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners](https://arxiv.org/abs/2609.40208) | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.40208) / [pdf](https://arxiv.org/pdf/2609.40208) |
+| 2026-09-30 | [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960) | Ziren Gong, Guo Chen, Yongjia Li, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.39960) / [pdf](https://arxiv.org/pdf/2609.39960) |
+| 2026-09-30 | [EffGS: Efficient and High-Fidelity Gaussian Splatting](https://arxiv.org/abs/2609.39553) | Changbai Li, Shuo Yang, Yichen Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.39553) / [pdf](https://arxiv.org/pdf/2609.39553) |
+| 2026-09-30 | [Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527) | Tarun Yenamandra, Jonathon Luiten, Daniel Cremers, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.39527) / [pdf](https://arxiv.org/pdf/2609.39527) |
+| 2026-09-30 | [UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2609.39089) | Zhihao Guo, Peng Wang, Zidong Chen, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.39089) / [pdf](https://arxiv.org/pdf/2609.39089) |
+| 2026-09-29 | [TSGL: Teacher-Student Graph Learning for 3DGS Compression](https://arxiv.org/abs/2609.38635) | Matin Bani Saedi, Matthew Kyan, Gene Cheung | eess.IV, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38635) / [pdf](https://arxiv.org/pdf/2609.38635) |
+| 2026-09-29 | [HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding](https://arxiv.org/abs/2609.38620) | Hanwen Cao, Wenqiang Wu, Kuang-Ting Tu, et al. | cs.CV, cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.38620) / [pdf](https://arxiv.org/pdf/2609.38620) |
+| 2026-09-29 | [StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images](https://arxiv.org/abs/2609.38592) | Boyuan Tian, Huangying Zhan, Zhan Li, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38592) / [pdf](https://arxiv.org/pdf/2609.38592) |
+| 2026-09-29 | [Gaussian Stippling: Efficient Sorting-Free 3D Gaussian Rendering through Hybrid Sampling and Spatiotemporal Reconstruction](https://arxiv.org/abs/2609.38488) | Zijian Huang, Suiliang Mai, Chuankun Zheng, et al. | cs.GR, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38488) / [pdf](https://arxiv.org/pdf/2609.38488) |
+| 2026-09-29 | [PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation](https://arxiv.org/abs/2609.38418) | Shaohong Zhong, Marco Pontin, Joe Watson, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38418) / [pdf](https://arxiv.org/pdf/2609.38418) |
 | 2026-09-29 | [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177) | Jaewoo Jung, Hyeonseo Yu, Honggyu An, et al. | cs.CV, cs.CL | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.38177) / [pdf](https://arxiv.org/pdf/2609.38177) |
 | 2026-09-29 | [EndoPrior-GS: Dynamic Endoscopic Reconstruction with a Joint Texture Prior](https://arxiv.org/abs/2609.37874) | Jiaqi Huang, Shidong Wang, Tong Xin, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.37874) / [pdf](https://arxiv.org/pdf/2609.37874) |
 | 2026-09-29 | [WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors](https://arxiv.org/abs/2609.37816) | Noé Lallouet, Michael Fischer, Elie Michel | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.37816) / [pdf](https://arxiv.org/pdf/2609.37816) |
