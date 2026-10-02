@@ -4,14 +4,27 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 3062 · **Unique arXiv IDs:** 3062
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 3071 · **Unique arXiv IDs:** 3071
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation](https://arxiv.org/abs/2610.01876) | Tongyu Wu, Jacob Edwards, Ziteng Cui, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01876) / [pdf](https://arxiv.org/pdf/2610.01876) |
+| 2026-10-01 | [3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability](https://arxiv.org/abs/2610.01744) | Wonguen Cho, Junhoo Lee, Nojun Kwak | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01744) / [pdf](https://arxiv.org/pdf/2610.01744) |
+| 2026-10-01 | [MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation](https://arxiv.org/abs/2610.01707) | Liwei Liao, Yingkui Zhang, Qianqian Tong, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01707) / [pdf](https://arxiv.org/pdf/2610.01707) |
+| 2026-10-01 | [A Compact Explicit 4D Representation for Dynamic Scenes](https://arxiv.org/abs/2610.01229) | Di Yang, Zhihao Li, Yanhai Xiong, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2610.01229) / [pdf](https://arxiv.org/pdf/2610.01229) |
+| 2026-10-01 | [Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation](https://arxiv.org/abs/2610.01114) | Masaya Takabe, Hiroshi Watanabe, Sujun Hong, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01114) / [pdf](https://arxiv.org/pdf/2610.01114) |
 
 ## 2026-09
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [TRACE: Privacy-Preserving Next-Best-View Selection over Distributed 3D Gaussian-Splat Maps](https://arxiv.org/abs/2610.00822) | Amirhossein Mollaei Khass, Athanasios Cosse, Qiyu Sun, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.00822) / [pdf](https://arxiv.org/pdf/2610.00822) |
+| 2026-09-30 | [What Builds the Scene? Luminance Dominates Geometry Formation in 3D Gaussian Splatting](https://arxiv.org/abs/2610.00749) | Rezvan Joshaghani, Steven Cutchin | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.00749) / [pdf](https://arxiv.org/pdf/2610.00749) |
+| 2026-09-30 | [Dirichlet Splatting: Differentiable Rendering for Wave-Based Inverse Problems](https://arxiv.org/abs/2610.00618) | Xingyu Chen, Wuqiong Zhao, Xinyu Zhang, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.00618) / [pdf](https://arxiv.org/pdf/2610.00618) |
 | 2026-09-30 | [Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners](https://arxiv.org/abs/2609.40208) | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2609.40208) / [pdf](https://arxiv.org/pdf/2609.40208) |
 | 2026-09-30 | [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960) | Ziren Gong, Guo Chen, Yongjia Li, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF, Dynamic / 4D | [abs](https://arxiv.org/abs/2609.39960) / [pdf](https://arxiv.org/pdf/2609.39960) |
 | 2026-09-30 | [EffGS: Efficient and High-Fidelity Gaussian Splatting](https://arxiv.org/abs/2609.39553) | Changbai Li, Shuo Yang, Yichen Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.39553) / [pdf](https://arxiv.org/pdf/2609.39553) |
@@ -93,6 +106,7 @@
 | 2026-09-19 | [Compressing 3D Gaussian Splatting via Cross-Representation Priors](https://arxiv.org/abs/2609.23005) | Yezheng Zhang, Huanxiong Liang, Chuqin Zhou, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.23005) / [pdf](https://arxiv.org/pdf/2609.23005) |
 | 2026-09-19 | [D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction](https://arxiv.org/abs/2609.22941) | Yunqi Gao, Zhanfeng Liao, Hanzhang Tu, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.22941) / [pdf](https://arxiv.org/pdf/2609.22941) |
 | 2026-09-19 | [LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting](https://arxiv.org/abs/2609.22849) | Lifeng Xing, Dequan Jin, Kunpeng Bu, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.22849) / [pdf](https://arxiv.org/pdf/2609.22849) |
+| 2026-09-18 | [GS-PQM: A Parameter-Domain Quality Metric for Compressed Gaussian Splatting](https://arxiv.org/abs/2610.00195) | Pedro Martin, António Rodrigues, João Ascenso, et al. | cs.GR, cs.CV, cs.MM | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.00195) / [pdf](https://arxiv.org/pdf/2610.00195) |
 | 2026-09-18 | [2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality](https://arxiv.org/abs/2609.21516) | Yuhan Xie, Jia Pan | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2609.21516) / [pdf](https://arxiv.org/pdf/2609.21516) |
 | 2026-09-18 | [VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization](https://arxiv.org/abs/2609.21498) | Yibin Zhao, Yihan Pan, Yangwen Li, et al. | cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2609.21498) / [pdf](https://arxiv.org/pdf/2609.21498) |
 | 2026-09-18 | [WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field](https://arxiv.org/abs/2609.21391) | Hang Jiang, Jinghao Wang, Yiming Zhang, et al. | eess.IV, cs.AI, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2609.21391) / [pdf](https://arxiv.org/pdf/2609.21391) |

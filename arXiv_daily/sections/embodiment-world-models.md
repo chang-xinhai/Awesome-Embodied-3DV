@@ -4,14 +4,41 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 2396 · **Unique arXiv IDs:** 2396
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 2419 · **Unique arXiv IDs:** 2419
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://arxiv.org/abs/2610.02162) | Hyunwook Choi, Dahyun Chung, Hyunsung Kim, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.02162) / [pdf](https://arxiv.org/pdf/2610.02162) |
+| 2026-10-01 | [4Director: Controlling Video World Models with Rigid 3D Geometry](https://arxiv.org/abs/2610.02160) | Wei Cao, Hao Zhang, Vikram Voleti, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.02160) / [pdf](https://arxiv.org/pdf/2610.02160) |
+| 2026-10-01 | [Task-Adaptive Grounded 3D-Programmers Using 2D VLMs](https://arxiv.org/abs/2610.02021) | Arman Raayatsanati, Sombit Dey, Anna-Maria Halacheva, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.02021) / [pdf](https://arxiv.org/pdf/2610.02021) |
+| 2026-10-01 | [LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction](https://arxiv.org/abs/2610.01863) | Zhening Huang, Yueyan Li, Johnathan Chiu, et al. | cs.CV, cs.GR, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.01863) / [pdf](https://arxiv.org/pdf/2610.01863) |
+| 2026-10-01 | [Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models](https://arxiv.org/abs/2610.01614) | Xindi Yang, Baolu Li, Liam Lee, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.01614) / [pdf](https://arxiv.org/pdf/2610.01614) |
+| 2026-10-01 | [Completion Aware Guidance for World Action Models](https://arxiv.org/abs/2610.01559) | Seungyeon Kim, Junhoo Lee, Baekseung Kim, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.01559) / [pdf](https://arxiv.org/pdf/2610.01559) |
+| 2026-10-01 | [Continue, Abort, or Fall: Viability-Aware Policy Selection (VAPS) for Safe Humanoid Acrobatics](https://arxiv.org/abs/2610.01397) | Siwei Ju, Lu Liu, Jan Peters, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.01397) / [pdf](https://arxiv.org/pdf/2610.01397) |
+| 2026-10-01 | [ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot](https://arxiv.org/abs/2610.01258) | Jian Hu, Shujing He, Leixin Chang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.01258) / [pdf](https://arxiv.org/pdf/2610.01258) |
+| 2026-10-01 | [Supervise What Decides Success: Criterion-Aligned Auxiliary Losses for Latent World-Model Planning](https://arxiv.org/abs/2610.01224) | Takumi Hara, Kanata Suzuki | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.01224) / [pdf](https://arxiv.org/pdf/2610.01224) |
+| 2026-10-01 | [EIDA: Execution-Interface Dynamics Adaptation for Real-to-Sim-to-Real Robot Navigation](https://arxiv.org/abs/2610.01219) | Yiwei Qian, Shanze Wang, Qingyuan Hu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.01219) / [pdf](https://arxiv.org/pdf/2610.01219) |
+| 2026-10-01 | [iSEE: Object Permanence Through Self-Supervision](https://arxiv.org/abs/2610.01201) | Pramish Paudel, Ajad Chhatkuli, Luc Van Gool, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.01201) / [pdf](https://arxiv.org/pdf/2610.01201) |
+| 2026-10-01 | [Network World Models as Environments for Algorithm Design on Complex Systems](https://arxiv.org/abs/2610.01048) | Rishab Alagharu, Hongji Pu, Zeeshan Memon, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.01048) / [pdf](https://arxiv.org/pdf/2610.01048) |
+| 2026-10-01 | [FutureWorlds: Learning Robotic World Models from Alternative Futures](https://arxiv.org/abs/2610.01019) | Hao Wu, Shengju Qian, Weiyan Wang, et al. | cs.CV, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.01019) / [pdf](https://arxiv.org/pdf/2610.01019) |
+| 2026-10-01 | [Calibration-risk routing for controlled world-model adaptation](https://arxiv.org/abs/2610.01001) | Yifan Zhang, Liang Zheng | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.01001) / [pdf](https://arxiv.org/pdf/2610.01001) |
+| 2026-10-01 | [In CEM, a World Model Is Also a Proposal Mechanism](https://arxiv.org/abs/2610.00921) | Oliver Obst, Frieder Stolzenburg | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.00921) / [pdf](https://arxiv.org/pdf/2610.00921) |
+| 2026-10-01 | [Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers](https://arxiv.org/abs/2610.00855) | Cigdem Kokenoz, Amir Salarpour, Alkim Domeke, et al. | cs.CV, cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.00855) / [pdf](https://arxiv.org/pdf/2610.00855) |
 
 ## 2026-09
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Crossing the Cyber Divide: Sim-to-Sim and Sim-to-Real Transfer for RL Agents](https://arxiv.org/abs/2610.00759) | Sabrina Saika, Yinuo Du, Aritran Piplai | cs.CR, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.00759) / [pdf](https://arxiv.org/pdf/2610.00759) |
+| 2026-09-30 | [Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation](https://arxiv.org/abs/2610.00731) | Sanya Verma, Luca Cilio, Velissarios Christodoulou | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.00731) / [pdf](https://arxiv.org/pdf/2610.00731) |
+| 2026-09-30 | [CF-JEPA: Improving Robustness of JEPA World Models via Controllability Factorization](https://arxiv.org/abs/2610.00727) | Morgan Byrd, Robert Wright, Sehoon Ha | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.00727) / [pdf](https://arxiv.org/pdf/2610.00727) |
+| 2026-09-30 | [JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts](https://arxiv.org/abs/2610.00722) | Zheyuan Zhang, Suyu Ye, Nakul Agarwal, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2610.00722) / [pdf](https://arxiv.org/pdf/2610.00722) |
+| 2026-09-30 | [Token-World: World Modeling in Vision-Language Model Token Space for Robot Manipulation](https://arxiv.org/abs/2610.00575) | Chuyao Fu, Xiaowei Chi, Yuhan Rui, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.00575) / [pdf](https://arxiv.org/pdf/2610.00575) |
+| 2026-09-30 | [DeepJEPA: Scaling World Models from Within](https://arxiv.org/abs/2610.00368) | Zijian Jin, Yunbei Zhang, Yuanzhe Liu, et al. | cs.RO, cs.AI | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2610.00368) / [pdf](https://arxiv.org/pdf/2610.00368) |
 | 2026-09-30 | [Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model](https://arxiv.org/abs/2609.40358) | Liming Lu, Xianzheng Ma, Wenkun He, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.40358) / [pdf](https://arxiv.org/pdf/2609.40358) |
 | 2026-09-30 | [LOCI: Spatial Linear Memory for Streaming World Models](https://arxiv.org/abs/2609.40222) | Ji Xia, Tingting Liao, Xuezhi Liang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2609.40222) / [pdf](https://arxiv.org/pdf/2609.40222) |
 | 2026-09-30 | [Social-WM: Safety-Aware Latent World Models for Robot Social Navigation](https://arxiv.org/abs/2609.40177) | Zhihao Zheng, Mooi Choo Chuah | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.40177) / [pdf](https://arxiv.org/pdf/2609.40177) |
@@ -123,6 +150,7 @@
 | 2026-09-25 | [NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation](https://arxiv.org/abs/2609.30770) | Xijie Huang, Yongyang Wan, Chengbin Dong, et al. | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2609.30770) / [pdf](https://arxiv.org/pdf/2609.30770) |
 | 2026-09-25 | [StarWM: Self-Supervised Trained Attention Routing for Robust World Models](https://arxiv.org/abs/2609.30667) | Zeqiang Zhang, Fabian Wurzberger, Maximilian Otte, et al. | cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2609.30667) / [pdf](https://arxiv.org/pdf/2609.30667) |
 | 2026-09-25 | [Causal Retention in Interactive Agents: Interface Factorization and Selective Adaptation](https://arxiv.org/abs/2609.30650) | Shengjun Zhang, Tingyi Liu, Dong Xie, et al. | cs.LG, cs.AI, stat.ML | World Model | [abs](https://arxiv.org/abs/2609.30650) / [pdf](https://arxiv.org/pdf/2609.30650) |
+| 2026-09-24 | [Stable and Counterfactually Robust Physical World Models from Imposed Structure and Learned Physics](https://arxiv.org/abs/2610.00280) | Yufeng Wang, Parivesh Priye, Lu Wei, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2610.00280) / [pdf](https://arxiv.org/pdf/2610.00280) |
 | 2026-09-24 | [GraspTwin: Zero-Shot Task-Oriented Grasp Optimization via a Digital Twin](https://arxiv.org/abs/2609.30543) | Daniel J. Evans, Yinlong Dai, Simon Stepputtis, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.30543) / [pdf](https://arxiv.org/pdf/2609.30543) |
 | 2026-09-24 | [WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving](https://arxiv.org/abs/2609.30436) | Mingkai Jia, Jiaxin Guo, Zhijian Shu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2609.30436) / [pdf](https://arxiv.org/pdf/2609.30436) |
 | 2026-09-24 | [AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](https://arxiv.org/abs/2609.30264) | Jiabin Qiu, Zixuan Chen, Hongye Cao, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2609.30264) / [pdf](https://arxiv.org/pdf/2609.30264) |

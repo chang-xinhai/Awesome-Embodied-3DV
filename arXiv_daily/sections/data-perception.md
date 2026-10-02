@@ -4,9 +4,21 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 1791 · **Unique arXiv IDs:** 1791
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 1798 · **Unique arXiv IDs:** 1798
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://arxiv.org/abs/2610.02162) | Hyunwook Choi, Dahyun Chung, Hyunsung Kim, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.02162) / [pdf](https://arxiv.org/pdf/2610.02162) |
+| 2026-10-01 | [GlassGuard: Verified Glass Plane Mapping for Robot Navigation](https://arxiv.org/abs/2610.02110) | Hanwen Guo, Zhengzhi Lin, Yusen Xie, et al. | cs.RO | Transparent / Specular, Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.02110) / [pdf](https://arxiv.org/pdf/2610.02110) |
+| 2026-10-01 | [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943) | Yitao Zhang, Hong Ying, Haoran Guo, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.01943) / [pdf](https://arxiv.org/pdf/2610.01943) |
+| 2026-10-01 | [Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces](https://arxiv.org/abs/2610.01906) | Demetrious T. Kutzke, Junaed Sattar | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.01906) / [pdf](https://arxiv.org/pdf/2610.01906) |
+| 2026-10-01 | [Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models](https://arxiv.org/abs/2610.01286) | Xinhao Xiang, Weiyang Li, Zhijie Zheng, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.01286) / [pdf](https://arxiv.org/pdf/2610.01286) |
+| 2026-10-01 | [UniTrackPLA: Unified Panorama-Language-Action Model for Instruction-Guided Navigation and Dynamic Person Tracking](https://arxiv.org/abs/2610.00878) | Pengfei Qi, Haoran Lin, Sizhuang Chen, et al. | cs.RO, cs.CV, eess.IV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.00878) / [pdf](https://arxiv.org/pdf/2610.00878) |
+| 2026-10-01 | [Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers](https://arxiv.org/abs/2610.00855) | Cigdem Kokenoz, Amir Salarpour, Alkim Domeke, et al. | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.00855) / [pdf](https://arxiv.org/pdf/2610.00855) |
 
 ## 2026-09
 

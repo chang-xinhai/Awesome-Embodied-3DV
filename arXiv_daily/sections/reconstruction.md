@@ -4,14 +4,33 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 2981 · **Unique arXiv IDs:** 2981
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 2995 · **Unique arXiv IDs:** 2995
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [GlassGuard: Verified Glass Plane Mapping for Robot Navigation](https://arxiv.org/abs/2610.02110) | Hanwen Guo, Zhengzhi Lin, Yusen Xie, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.02110) / [pdf](https://arxiv.org/pdf/2610.02110) |
+| 2026-10-01 | [CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction](https://arxiv.org/abs/2610.01927) | Moyang Li, Zihan Zhu, Wei Zhang, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01927) / [pdf](https://arxiv.org/pdf/2610.01927) |
+| 2026-10-01 | [DecomVoxel: Harnessing 3D-Native Priors with Guided In-situ Denoising Optimization for Decompositional Scene Reconstruction](https://arxiv.org/abs/2610.01914) | Junfeng Ni, Zirui Zhou, Yixin Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01914) / [pdf](https://arxiv.org/pdf/2610.01914) |
+| 2026-10-01 | [Robot Learning on Discrete Surfaces: Theory and Applications](https://arxiv.org/abs/2610.01910) | Matteo Dalle Vedove, Fares J. Abu-Dakka, Luigi Palopoli, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01910) / [pdf](https://arxiv.org/pdf/2610.01910) |
+| 2026-10-01 | [EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation](https://arxiv.org/abs/2610.01876) | Tongyu Wu, Jacob Edwards, Ziteng Cui, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.01876) / [pdf](https://arxiv.org/pdf/2610.01876) |
+| 2026-10-01 | [LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction](https://arxiv.org/abs/2610.01863) | Zhening Huang, Yueyan Li, Johnathan Chiu, et al. | cs.CV, cs.GR, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01863) / [pdf](https://arxiv.org/pdf/2610.01863) |
+| 2026-10-01 | [ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild](https://arxiv.org/abs/2610.01314) | Ilya Fradlin, Christian Schmidt, Jens Piekenbrinck, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01314) / [pdf](https://arxiv.org/pdf/2610.01314) |
+| 2026-10-01 | [Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models](https://arxiv.org/abs/2610.01286) | Xinhao Xiang, Weiyang Li, Zhijie Zheng, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.01286) / [pdf](https://arxiv.org/pdf/2610.01286) |
+| 2026-10-01 | [Resolving Mixed Single-Photon LiDAR Returns for Foreground-View and Hidden Scene Reconstruction](https://arxiv.org/abs/2610.01206) | Ziting Wen, Runrong Deng, Zili Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01206) / [pdf](https://arxiv.org/pdf/2610.01206) |
+| 2026-10-01 | [MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images](https://arxiv.org/abs/2610.01098) | Hanyuan Xiao, Gonglin Chen, Haolin Xiong, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01098) / [pdf](https://arxiv.org/pdf/2610.01098) |
+| 2026-10-01 | [HierGF: Hierarchical Gaussian Fields via Geometry-perception Message Passing for Sparse-view 3D Reconstruction](https://arxiv.org/abs/2610.01056) | Bi'an Du, Zhimin Zhang, Daizong Liu, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01056) / [pdf](https://arxiv.org/pdf/2610.01056) |
+| 2026-10-01 | [VASC: Value-Aware Sparse Attention with Cross-Layer Memory for Efficient 3D Reconstruction](https://arxiv.org/abs/2610.01013) | Junyi Wu, Fanqing Kong, Leyang Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01013) / [pdf](https://arxiv.org/pdf/2610.01013) |
+| 2026-10-01 | [RelationVGGT: Visual Geometry Transformers for 3D Spatial Relation Segmentation](https://arxiv.org/abs/2610.00970) | Minsu Kim, Jaesung Choe, Jiwoo Lee, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.00970) / [pdf](https://arxiv.org/pdf/2610.00970) |
 
 ## 2026-09
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation](https://arxiv.org/abs/2610.00731) | Sanya Verma, Luca Cilio, Velissarios Christodoulou | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.00731) / [pdf](https://arxiv.org/pdf/2610.00731) |
 | 2026-09-30 | [Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners](https://arxiv.org/abs/2609.40208) | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.40208) / [pdf](https://arxiv.org/pdf/2609.40208) |
 | 2026-09-30 | [BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085) | Jan Steckel | cs.RO, cs.AI, cs.LG | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.40085) / [pdf](https://arxiv.org/pdf/2609.40085) |
 | 2026-09-30 | [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960) | Ziren Gong, Guo Chen, Yongjia Li, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.39960) / [pdf](https://arxiv.org/pdf/2609.39960) |

@@ -4,14 +4,23 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 527 · **Unique arXiv IDs:** 527
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 531 · **Unique arXiv IDs:** 531
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability](https://arxiv.org/abs/2610.01744) | Wonguen Cho, Junhoo Lee, Nojun Kwak | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.01744) / [pdf](https://arxiv.org/pdf/2610.01744) |
+| 2026-10-01 | [Resolving Mixed Single-Photon LiDAR Returns for Foreground-View and Hidden Scene Reconstruction](https://arxiv.org/abs/2610.01206) | Ziting Wen, Runrong Deng, Zili Zhang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.01206) / [pdf](https://arxiv.org/pdf/2610.01206) |
 
 ## 2026-09
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation](https://arxiv.org/abs/2610.00731) | Sanya Verma, Luca Cilio, Velissarios Christodoulou | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.00731) / [pdf](https://arxiv.org/pdf/2610.00731) |
+| 2026-09-30 | [Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation](https://arxiv.org/abs/2610.00447) | Anson Y. Lam, Shuqing Li, Michael R. Lyu | cs.AI, cs.CL, cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.00447) / [pdf](https://arxiv.org/pdf/2610.00447) |
 | 2026-09-30 | [Matisse: Evidence-Space Reasoning for Active 3D Reconstruction](https://arxiv.org/abs/2609.38746) | Xihang Yu, Kaichen Zhou, Lorenzo Shaikewitz, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.38746) / [pdf](https://arxiv.org/pdf/2609.38746) |
 | 2026-09-28 | [OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute](https://arxiv.org/abs/2609.36374) | Brandon Leblanc, Charalambos Poullis | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.36374) / [pdf](https://arxiv.org/pdf/2609.36374) |
 | 2026-09-28 | [OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052) | Hao Wang, Tao Yu, Liuzhou Zhang, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2609.35052) / [pdf](https://arxiv.org/pdf/2609.35052) |

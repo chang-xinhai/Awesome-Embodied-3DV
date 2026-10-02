@@ -4,14 +4,27 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 980 · **Unique arXiv IDs:** 980
+**Coverage:** 2025-01-01 to 2026-10-02 · **Papers:** 988 · **Unique arXiv IDs:** 988
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
+
+## 2026-10
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-01 | [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](https://arxiv.org/abs/2610.02201) | Tianjiao Yu, Xinzhuo Li, Yifan Shen, et al. | cs.CV, cs.AI, cs.LG | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.02201) / [pdf](https://arxiv.org/pdf/2610.02201) |
+| 2026-10-01 | [DiDE:Direct Injection with Color-Texture DEcoupling for 3D Stylization](https://arxiv.org/abs/2610.02044) | Tao Wu, Alexandra Gomez-Villa, Senmao Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.02044) / [pdf](https://arxiv.org/pdf/2610.02044) |
+| 2026-10-01 | [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943) | Yitao Zhang, Hong Ying, Haoran Guo, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.01943) / [pdf](https://arxiv.org/pdf/2610.01943) |
+| 2026-10-01 | [LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction](https://arxiv.org/abs/2610.01863) | Zhening Huang, Yueyan Li, Johnathan Chiu, et al. | cs.CV, cs.GR, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.01863) / [pdf](https://arxiv.org/pdf/2610.01863) |
+| 2026-10-01 | [STAGE: Subspace-Targeted Affine Generative Erasure for Text-to-3D Models](https://arxiv.org/abs/2610.01302) | Karol Dziekan, Przemysław Spurek, Dawid Malarz | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.01302) / [pdf](https://arxiv.org/pdf/2610.01302) |
+| 2026-10-01 | [Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization](https://arxiv.org/abs/2610.01233) | Zhen Zhou, Zhiwei Ning, Puhua Jiang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.01233) / [pdf](https://arxiv.org/pdf/2610.01233) |
 
 ## 2026-09
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-09-30 | [Personalized Image Generation with Reasoning and Reflection](https://arxiv.org/abs/2610.00737) | Bo Ni, Ngoc N. Tran, Qinwen Ge, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2610.00737) / [pdf](https://arxiv.org/pdf/2610.00737) |
+| 2026-09-30 | [Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation](https://arxiv.org/abs/2610.00447) | Anson Y. Lam, Shuqing Li, Michael R. Lyu | cs.AI, cs.CL, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.00447) / [pdf](https://arxiv.org/pdf/2610.00447) |
 | 2026-09-30 | [Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling](https://arxiv.org/abs/2609.40153) | Xiangyu Zhu, Jin Xu, Yue Guo, et al. | cs.RO | Part / Articulated Asset | [abs](https://arxiv.org/abs/2609.40153) / [pdf](https://arxiv.org/pdf/2609.40153) |
 | 2026-09-30 | [BTC3D: Blended Tile Conditioning for Detail-Enhancing Image-to-3D Generation](https://arxiv.org/abs/2609.39709) | Junyu Li, Qiuyu Chen, Pengcheng Wang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.39709) / [pdf](https://arxiv.org/pdf/2609.39709) |
 | 2026-09-30 | [Text-to-3D Policy: Fine-Grained Language-Behavior Alignment for Unseen Specification Generalization](https://arxiv.org/abs/2609.39599) | Xinhao Yang, Wenhao Wu, Ning Lv, et al. | cs.RO, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2609.39599) / [pdf](https://arxiv.org/pdf/2609.39599) |
