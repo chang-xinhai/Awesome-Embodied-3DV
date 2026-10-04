@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-03 · **Papers:** 1798 · **Unique arXiv IDs:** 1798
+**Coverage:** 2025-01-01 to 2026-10-04 · **Papers:** 1798 · **Unique arXiv IDs:** 1798
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
