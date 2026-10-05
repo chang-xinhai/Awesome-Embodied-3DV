@@ -530,6 +530,9 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-10-01 | RGB-D, Agentic Scene Reconstruction, Articulated Digital Twins | University of Cambridge | [LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction](https://arxiv.org/abs/2610.01863) | arXiv | [project](https://litereality.github.io/agent/) / [github](https://github.com/LiteReality/LiteReality-Agent) |
+| 2026-09-28 | Sim-Ready Scenes, Deformable Rod/Shell/Solid, Behavioral Verification | Tsinghua University | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | arXiv | [project](https://shuzhaoxie.github.io/CoDimRecon/) |
+| 2026-09-28 | MEOW, Mixed Perspective/Fisheye/Panorama, Metric Pointmaps | China Mobile Research Institute | [Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras](https://arxiv.org/abs/2609.35658) | arXiv | — |
 | 2026-09-08 | Feed-Forward, Compositional Scene, Complete Meshes, Simulation-Ready | University of Illinois Urbana-Champaign | [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848) | arXiv | [project](https://xiahongchi.github.io/Fire3D/) / [github](https://github.com/xiahongchi/Fire3D) |
 | 2026-09-04 | Bundle Adjustment, Multi-View Matching, Monocular Priors, Online+Offline | NAVER Labs Europe | [BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210) | ECCV 2026 | [paper](https://arxiv.org/abs/2609.05210) |
 | 2026-08-31 | Real-to-Sim, Parse-Generate-Place, Composable Object Assets | ByteDance Seed | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821) | arXiv | [project](https://lucida-r2s.github.io/) |
@@ -602,6 +605,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-10-01 | Streaming Reconstruction, Loop Closure, SE(3) Pose Graph | ETH Zurich | [CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction](https://arxiv.org/abs/2610.01927) | arXiv | [github](https://github.com/MoyangLi00/CLoSeR) |
+| 2026-09-30 | Active Reconstruction, Evidence-Based Uncertainty, Keyframe Selection | MIT | [Matisse: Evidence-Space Reasoning for Active 3D Reconstruction](https://arxiv.org/abs/2609.38746) | arXiv | [project](https://xihangyu630.github.io/matisse/) |
 | 2026-09-03 | Online 3R, Multi-Relative Pose Query, Pose-Graph Optimization | National Yang Ming Chiao Tung University | [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201) | ECCV 2026 | [project](https://linjohnss.github.io/scal3r/) |
 | 2026-09-01 | Online Feed-Forward 3R, Unordered UAV Images, Retrieval+Retry | Wuhan University | [On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios](https://arxiv.org/abs/2609.00923) | arXiv | [github](https://github.com/Sh1nZzz/On_the_Fly3R) |
 | 2026-08-03 | Active Reconstruction, Ergodic Coverage, Trajectory Optimization | Johns Hopkins University | [TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction](https://arxiv.org/abs/2608.02304) | arXiv | [github](https://github.com/spikelab-jhu/trace-active-reconstruction) |
@@ -624,7 +629,9 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | 2026-02-13 | Streaming, Autoregressive, Long Sequence | 3DAgentWorld | [LongStream: Long-Sequence Streaming Autoregressive Visual Geometry](https://arxiv.org/abs/2602.13172) | CVPR 2026 | [project](https://3dagentworld.github.io/longstream/) |
 | 2026-01-03 | StreamVGGT, KV Cache, Memory Compression | Sun Yat-sen University | [XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer](https://arxiv.org/abs/2601.01204) | arXiv | [github](https://github.com/ywh187/XStreamVGGT/) |
 | 2025-09-30 | TTT, Online, Long Context | Shanghai AI Lab | [TTT3R: 3D Reconstruction as Test-Time Training](https://arxiv.org/abs/2509.26645) | arXiv | [project](https://rover-xingyu.github.io/TTT3R/) |
+| 2025-09-05 | Streaming Reconstruction, Sliding Window, Camera Token Pool | USTC | [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](https://arxiv.org/abs/2509.05296) | ICLR 2026 | [github](https://github.com/LiZizun/WinT3R) |
 | 2025-08-14 | Streaming, Causal Transformer, Sequential | NTU / Shanghai AI Lab | [STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer](https://arxiv.org/abs/2508.10893) | arXiv | [project](https://nirvanalan.github.io/projects/stream3r) |
+| 2025-07-03 | Streaming 3D, Explicit Spatial Pointer Memory, Global Fusion | Tsinghua University | [Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/abs/2507.02863) | NeurIPS 2025 | [github](https://github.com/YkiWu/Point3R) |
 | 2025-01-21 | Online 3D, Recurrent Pointmap, Streaming | Meta AI | [CUT3R: Continuous 3D Perception Model with Persistent State](https://arxiv.org/abs/2501.12387) | CVPR 2025 Oral | [project](https://cut3r.github.io/) / [github](https://github.com/CUT3R/CUT3R) |
 | 2024-12-16 | MASt3R, Dense SLAM, Real-Time | Imperial College London | [MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://arxiv.org/abs/2412.12392) | CVPR 2025 | [github](https://github.com/rmurai0610/MASt3R-SLAM) |
 | 2023-09-05 | Global BA, Neural Implicit, Dense RGB-D SLAM | University of Bologna | [GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction](https://arxiv.org/abs/2309.02436) | ICCV 2023 | [project](https://youmi-zym.github.io/projects/GO-SLAM/) / [github](https://github.com/youmi-zym/GO-SLAM) |
@@ -640,6 +647,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-10-01 | Feed-Forward 4D, Arbitrary Image Sets, Multi-View Point Tracking | RWTH Aachen | [ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild](https://arxiv.org/abs/2610.01314) | arXiv | [project](https://www.vision.rwth-aachen.de/arrow) |
 | 2026-09-08 | Long-Range 4D Motion, 3D Queries, Occlusion-Robust Trajectory Chaining | Carnegie Mellon University | [Point4D: Long-range 4D Motion Reconstruction](https://arxiv.org/abs/2609.09145) | arXiv | [project](https://point-4d.github.io/) |
 | 2026-09-08 | Event Stream, Extreme-Low-Frame-Rate RGB, Dynamic 3DGS, Real-Time | Macau University of Science and Technology | [EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction](https://arxiv.org/abs/2609.08332) | Neurocomputing | [github+dataset](https://github.com/joseclipse/EdMCGS) |
 | 2026-09-05 | Sparse-View 4D, Spatio-Temporal Depth Alignment, Dynamic 3DGS | BIGAI | [UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment](https://arxiv.org/abs/2609.05888) | ECCV 2026 | [project](https://yongzhelyu.github.io/UniFusion) |
@@ -823,6 +831,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-16 | Monocular Human Video, Articulated Assets, MuJoCo Replay | Johns Hopkins University | [Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119) | arXiv | [project](https://track-articulate-act.github.io/) / [github](https://github.com/brains-bots-n-behavior/track-articulate-act) |
 | 2026-08-08 | Single Image, Physical CoT, URDF, Simulation-Ready | Aerospace Information Research Institute, CAS | [PhysX-CoT: Structured Physical Reasoning from a Single Image to Simulation-Ready 3D Assets](https://arxiv.org/abs/2608.08053) | arXiv | [paper](https://arxiv.org/abs/2608.08053) |
 | 2026-07-15 | Articulation + Physics, 40K Assets, Simulation-Ready | Zhejiang University | [UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets](https://arxiv.org/abs/2607.13586) | arXiv | [github](https://github.com/breezexian/UniPhysGen) |
 | 2026-05-20 | Rigid/Deformable/Articulated, Physical Attributes, Sim-Ready | Nanyang Technological University | [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | arXiv | [project](https://physx-omni.github.io/) / [dataset](https://huggingface.co/PhysX-Omni) |
@@ -842,6 +851,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-02-26 | Articulated Objects, 3DGS, Joint Estimation | Tsinghua | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://articulate-gs.github.io/) |
 | 2025-02-17 | Articulation-Ready, Skeleton, Skinning, Benchmark | Nanyang Technological University | [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135) | CVPR 2025 | [project](https://chaoyuesong.github.io/MagicArticulate) / [github](https://github.com/Seed3D/MagicArticulate) |
 | 2024-09-26 | Open-Vocabulary, URDF, Articulation | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
+| 2024-06-12 | Articulated Reconstruction, Part Geometry, Executable Simulation Code | Stanford | [Real2Code: Reconstruct Articulated Objects via Code Generation](https://arxiv.org/abs/2406.08474) | ICLR 2025 | [project](https://real2code.github.io/) / [github](https://github.com/MandiZhao/real2code) |
 
 #### 4.2.2 Part-Aware Assembly & Editing
 
@@ -1158,6 +1168,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-10-01 | Multimodal Digital Twins, Microgeometry, Tactile/Thermal Rendering | ShanghaiTech University | [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943) | arXiv | [project](https://anonymous-research1.github.io/) |
+| 2026-09-18 | Instrumented Human Interaction, Articulated Dynamics, Physics Identification | ETH Zurich | [ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction](https://arxiv.org/abs/2609.21751) | arXiv | [project](https://timengelbracht.github.io/forcetwin-website/) |
 | 2026-07-24 | Physical Property Reasoning, Material, Single Image | Authors | [SiPhy: Single-Image Physical Property Reasoning](https://arxiv.org/abs/2607.22355) | arXiv | [paper](https://arxiv.org/abs/2607.22355) |
 | 2025-11-23 | Physical Property, Bayesian 3DGS, Mass/Hardness/Friction | CMU | [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](https://arxiv.org/abs/2511.18570) | CVPR 2026 | [paper](https://arxiv.org/abs/2511.18570) |
 | 2025-08-19 | Physical Gaussian, Feed-Forward 4D, Single Image | BIT / Li Auto | [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](https://arxiv.org/abs/2508.13911) | CVPR 2026 Highlight | [paper](https://arxiv.org/abs/2508.13911) |
@@ -1175,6 +1187,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-28 | Streaming Egocentric Hands, MANO, Joint Camera/Hand Estimation | Shanghai AI Lab | [InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video](https://arxiv.org/abs/2609.35743) | arXiv | [project](https://infinihand.github.io/) |
 | 2026-08-20 | Casual Monocular Video, Animatable Human, Generative Multi-View, 4DGS | Zhejiang University | [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335) | arXiv | [project](https://4danyone.github.io/) |
 | 2026-07-27 | Multi-View, Multi-Person, Large-Scene Human Mesh | Authors | [Multiview Multi-Person Human Mesh Recovery Under Large Scenes with Occlusions](https://arxiv.org/abs/2607.24302) | arXiv | [paper](https://arxiv.org/abs/2607.24302) |
 | 2026-06-17 | Egocentric, 4D Hand, Feed-Forward 3DGS | Yonsei University | [Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos](https://arxiv.org/abs/2606.19156) | arXiv | [project](https://jeongminb.github.io/hand-4dgs/) |
@@ -1310,6 +1323,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-10-01 | Robot-Workspace 3DGS, Metric Calibration, Per-Scene Reliability | Seoul National University | [3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability](https://arxiv.org/abs/2610.01744) | arXiv | [dataset](https://huggingface.co/datasets/wonguen/3DROID) |
 | 2023-10-10 | Outdoor Scenes, NeRF, Real Captures | UC Berkeley | [Mip-NeRF 360 Dataset](https://jonbarron.info/mipnerf360/) | Dataset | [project](https://jonbarron.info/mipnerf360/) |
 | 2022-03-07 | Scalable Synthetic, 13 Tasks, Blender + PyBullet, CVPR | Google / DeepMind | [Kubric: A Scalable Synthetic Data Generation Framework](https://arxiv.org/abs/2203.03570) | CVPR 2022 | [github](https://github.com/google-research/kubric) |
 | 2020-11-18 | 3D-FRONT, 6813 Houses, 9992 Furniture, Generation | Authors | [3D-FRONT: 3D Furnished Rooms with Layouts and Semantics](https://tianchi.aliyun.com/specials/promotion/3dfront) | arXiv 2020 | [dataset](https://tianchi.aliyun.com/specials/promotion/3dfront) / [paper](https://arxiv.org/abs/2011.09127) |
@@ -1386,6 +1400,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-09-27 | Articulation Metric, Joint Motion, Kinematic Trees | UCLA | [ArticulateArena: A Metric for Articulated Kinematics](https://arxiv.org/abs/2609.33931) | arXiv | [project](https://heyumeng.com/ArticulateArena-web/) |
 | 2026-09-01 | Multi-View 3D Point Tracking, Camera Motion, Long Sequences | Google DeepMind | [TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views](https://arxiv.org/abs/2609.01899) | arXiv | [paper](https://arxiv.org/abs/2609.01899) |
 | 2026-08-28 | 3D-Grounded World-Model Evaluation, 50 Tasks, 145K Videos, 50 Metrics | The University of Texas at Austin | [RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction](https://arxiv.org/abs/2608.28718) | arXiv | [paper](https://arxiv.org/abs/2608.28718) |
 | 2026-08-27 | Interactive World Models, Revisit Memory, Relative Consistency, 300 Instances | DreamX Team, Alibaba Group | [R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models](https://arxiv.org/abs/2608.27328) | arXiv | [github](https://github.com/AMAP-ML/R2MBench) |
