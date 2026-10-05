@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 2995 · **Unique arXiv IDs:** 2995
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 2997 · **Unique arXiv IDs:** 2997
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](https://arxiv.org/abs/2610.03522) | Meng Wei, Cheng Zhang, Boying Li, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03522) / [pdf](https://arxiv.org/pdf/2610.03522) |
+| 2026-10-02 | [PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio](https://arxiv.org/abs/2610.03192) | Wenzhi Guo, Xianda Chen, Dongxuan Chen, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03192) / [pdf](https://arxiv.org/pdf/2610.03192) |
 | 2026-10-01 | [GlassGuard: Verified Glass Plane Mapping for Robot Navigation](https://arxiv.org/abs/2610.02110) | Hanwen Guo, Zhengzhi Lin, Yusen Xie, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.02110) / [pdf](https://arxiv.org/pdf/2610.02110) |
 | 2026-10-01 | [CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction](https://arxiv.org/abs/2610.01927) | Moyang Li, Zihan Zhu, Wei Zhang, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01927) / [pdf](https://arxiv.org/pdf/2610.01927) |
 | 2026-10-01 | [DecomVoxel: Harnessing 3D-Native Priors with Guided In-situ Denoising Optimization for Decompositional Scene Reconstruction](https://arxiv.org/abs/2610.01914) | Junfeng Ni, Zirui Zhou, Yixin Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.01914) / [pdf](https://arxiv.org/pdf/2610.01914) |

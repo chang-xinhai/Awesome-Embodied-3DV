@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 3071 · **Unique arXiv IDs:** 3071
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 3076 · **Unique arXiv IDs:** 3076
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars](https://arxiv.org/abs/2610.03599) | Antonio Canela, Jordi Sànchez-Riera | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.03599) / [pdf](https://arxiv.org/pdf/2610.03599) |
+| 2026-10-02 | [PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio](https://arxiv.org/abs/2610.03192) | Wenzhi Guo, Xianda Chen, Dongxuan Chen, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.03192) / [pdf](https://arxiv.org/pdf/2610.03192) |
+| 2026-10-02 | [Budgeted-GS: Real-Time Large-Scale Gaussian Splatting via Factoring LOD](https://arxiv.org/abs/2610.03162) | Haipeng Wang | cs.GR, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.03162) / [pdf](https://arxiv.org/pdf/2610.03162) |
+| 2026-10-01 | [FactorSplat: Appearance-Controllable Gaussian Proxies for Medical Volume Rendering](https://arxiv.org/abs/2610.02382) | Zhongpai Gao, Benjamin Planche, Meng Zheng, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.02382) / [pdf](https://arxiv.org/pdf/2610.02382) |
+| 2026-10-01 | [SCION: Scene Composition with Instanced Neural Primitives](https://arxiv.org/abs/2610.02322) | William Koch, Amogh Joshi, Cyrus Vachha, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.02322) / [pdf](https://arxiv.org/pdf/2610.02322) |
 | 2026-10-01 | [EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation](https://arxiv.org/abs/2610.01876) | Tongyu Wu, Jacob Edwards, Ziteng Cui, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01876) / [pdf](https://arxiv.org/pdf/2610.01876) |
 | 2026-10-01 | [3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability](https://arxiv.org/abs/2610.01744) | Wonguen Cho, Junhoo Lee, Nojun Kwak | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01744) / [pdf](https://arxiv.org/pdf/2610.01744) |
 | 2026-10-01 | [MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation](https://arxiv.org/abs/2610.01707) | Liwei Liao, Yingkui Zhang, Qianqian Tong, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.01707) / [pdf](https://arxiv.org/pdf/2610.01707) |

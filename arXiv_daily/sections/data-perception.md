@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 1798 · **Unique arXiv IDs:** 1798
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 1804 · **Unique arXiv IDs:** 1804
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717) | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, et al. | cs.CV, cs.AI, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.03717) / [pdf](https://arxiv.org/pdf/2610.03717) |
+| 2026-10-02 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](https://arxiv.org/abs/2610.03522) | Meng Wei, Cheng Zhang, Boying Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.03522) / [pdf](https://arxiv.org/pdf/2610.03522) |
+| 2026-10-02 | [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](https://arxiv.org/abs/2610.03439) | Daikun Liu, Teng Wang, Changyin Sun | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.03439) / [pdf](https://arxiv.org/pdf/2610.03439) |
+| 2026-10-02 | [EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation](https://arxiv.org/abs/2610.03248) | Pujun Guo, Yuanfan Zheng, Fei Teng, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.03248) / [pdf](https://arxiv.org/pdf/2610.03248) |
+| 2026-10-02 | [OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection](https://arxiv.org/abs/2610.03015) | Runtong Wu, Fei Teng, Di Wen, et al. | cs.CV, cs.AI, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.03015) / [pdf](https://arxiv.org/pdf/2610.03015) |
+| 2026-10-02 | [FUSEye: Training-Light Fisheye Detection with Overlapping Views and Zero-Initialized Adapters](https://arxiv.org/abs/2610.02799) | Wenya Su, Kai Luo, Di Wen, et al. | cs.CV, cs.RO, eess.IV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.02799) / [pdf](https://arxiv.org/pdf/2610.02799) |
 | 2026-10-01 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://arxiv.org/abs/2610.02162) | Hyunwook Choi, Dahyun Chung, Hyunsung Kim, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.02162) / [pdf](https://arxiv.org/pdf/2610.02162) |
 | 2026-10-01 | [GlassGuard: Verified Glass Plane Mapping for Robot Navigation](https://arxiv.org/abs/2610.02110) | Hanwen Guo, Zhengzhi Lin, Yusen Xie, et al. | cs.RO | Transparent / Specular, Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.02110) / [pdf](https://arxiv.org/pdf/2610.02110) |
 | 2026-10-01 | [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943) | Yitao Zhang, Hong Ying, Haoran Guo, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.01943) / [pdf](https://arxiv.org/pdf/2610.01943) |

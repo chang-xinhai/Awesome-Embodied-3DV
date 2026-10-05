@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 531 · **Unique arXiv IDs:** 531
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 532 · **Unique arXiv IDs:** 532
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [In-Distribution Forcing for Long Video Generation at Test Time](https://arxiv.org/abs/2610.03120) | Jeongwoo Shin, Youngyoon Choi, Sangwoo Jo, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.03120) / [pdf](https://arxiv.org/pdf/2610.03120) |
 | 2026-10-01 | [3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability](https://arxiv.org/abs/2610.01744) | Wonguen Cho, Junhoo Lee, Nojun Kwak | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.01744) / [pdf](https://arxiv.org/pdf/2610.01744) |
 | 2026-10-01 | [Resolving Mixed Single-Photon LiDAR Returns for Foreground-View and Hidden Scene Reconstruction](https://arxiv.org/abs/2610.01206) | Ziting Wen, Runrong Deng, Zili Zhang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.01206) / [pdf](https://arxiv.org/pdf/2610.01206) |
 

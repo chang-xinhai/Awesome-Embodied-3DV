@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 988 · **Unique arXiv IDs:** 988
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 994 · **Unique arXiv IDs:** 994
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation](https://arxiv.org/abs/2610.03473) | Daikun Liu, Xin Zhan, Teng Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.03473) / [pdf](https://arxiv.org/pdf/2610.03473) |
+| 2026-10-02 | [I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry](https://arxiv.org/abs/2610.03453) | Qian Wang, Liam Merz Hoffmeister, Brian Scassellati, et al. | cs.RO, cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.03453) / [pdf](https://arxiv.org/pdf/2610.03453) |
+| 2026-10-02 | [OuroReward: Sequential Reward Scheduling for Reinforcement Learning in Text-to-3D Generation](https://arxiv.org/abs/2610.03423) | Bingyang Cui, Yujie Zhang, Yiling Xu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.03423) / [pdf](https://arxiv.org/pdf/2610.03423) |
+| 2026-10-01 | [Octrees as an Explicit 3D Language](https://arxiv.org/abs/2610.02388) | Ran Dan, Si-Tong Wei, Pengfei Xiong, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.02388) / [pdf](https://arxiv.org/pdf/2610.02388) |
+| 2026-10-01 | [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298) | Ruihan Yu, Yu-Ju Tsai, Muyao Niu, et al. | cs.CV, cs.AI, cs.GR | Part / Articulated Asset, 3D Editing | [abs](https://arxiv.org/abs/2610.02298) / [pdf](https://arxiv.org/pdf/2610.02298) |
+| 2026-10-01 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | Awomo-PhysicalRSI Team, Danjiao Ma, Enhui Ma, et al. | cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2610.02274) / [pdf](https://arxiv.org/pdf/2610.02274) |
 | 2026-10-01 | [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](https://arxiv.org/abs/2610.02201) | Tianjiao Yu, Xinzhuo Li, Yifan Shen, et al. | cs.CV, cs.AI, cs.LG | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.02201) / [pdf](https://arxiv.org/pdf/2610.02201) |
 | 2026-10-01 | [DiDE:Direct Injection with Color-Texture DEcoupling for 3D Stylization](https://arxiv.org/abs/2610.02044) | Tao Wu, Alexandra Gomez-Villa, Senmao Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.02044) / [pdf](https://arxiv.org/pdf/2610.02044) |
 | 2026-10-01 | [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943) | Yitao Zhang, Hong Ying, Haoran Guo, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.01943) / [pdf](https://arxiv.org/pdf/2610.01943) |

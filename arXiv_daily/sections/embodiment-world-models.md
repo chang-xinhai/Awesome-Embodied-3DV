@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 2419 · **Unique arXiv IDs:** 2419
+**Coverage:** 2025-01-01 to 2026-10-05 · **Papers:** 2428 · **Unique arXiv IDs:** 2428
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-02 | [What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713) | Nishit Anand, Ramani Duraiswami, Dinesh Manocha | cs.LG, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.03713) / [pdf](https://arxiv.org/pdf/2610.03713) |
+| 2026-10-02 | [CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites](https://arxiv.org/abs/2610.03622) | Parastoo Ali Pour, Deepak Prakash Kumar, Tommy Zhou, et al. | cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.03622) / [pdf](https://arxiv.org/pdf/2610.03622) |
+| 2026-10-02 | [Autonomous Robotic Navigation for Endovascular Brain-Computer Interface Access](https://arxiv.org/abs/2610.03537) | Harry Robertshaw, Weijie Qi, Nikola Fischer, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.03537) / [pdf](https://arxiv.org/pdf/2610.03537) |
+| 2026-10-02 | [Keeping JEPA World Models Plannable When Little of the Frame Moves](https://arxiv.org/abs/2610.03137) | Florian Strohm, Patrick Wagner, Jannik Schwab, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.03137) / [pdf](https://arxiv.org/pdf/2610.03137) |
+| 2026-10-02 | [Counterfactual Action Evaluation, Observation Bottlenecks, and Representation Geometry in Joint-Embedding Predictive World Models](https://arxiv.org/abs/2610.02860) | Arjun Subramanian | cs.LG | World Model | [abs](https://arxiv.org/abs/2610.02860) / [pdf](https://arxiv.org/pdf/2610.02860) |
+| 2026-10-02 | [Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation](https://arxiv.org/abs/2610.02788) | Xincheng He, Siyu Ma, Chang Yu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.02788) / [pdf](https://arxiv.org/pdf/2610.02788) |
+| 2026-10-02 | [RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer](https://arxiv.org/abs/2610.02717) | Chenxi Li, Zhangrui Zhao, Rui Li, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.02717) / [pdf](https://arxiv.org/pdf/2610.02717) |
+| 2026-10-01 | [Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](https://arxiv.org/abs/2610.02580) | Yuxing Wang, Yizhou Wang, Anqi Li, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.02580) / [pdf](https://arxiv.org/pdf/2610.02580) |
+| 2026-10-01 | [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://arxiv.org/abs/2610.02542) | Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.02542) / [pdf](https://arxiv.org/pdf/2610.02542) |
 | 2026-10-01 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://arxiv.org/abs/2610.02162) | Hyunwook Choi, Dahyun Chung, Hyunsung Kim, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.02162) / [pdf](https://arxiv.org/pdf/2610.02162) |
 | 2026-10-01 | [4Director: Controlling Video World Models with Rigid 3D Geometry](https://arxiv.org/abs/2610.02160) | Wei Cao, Hao Zhang, Vikram Voleti, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.02160) / [pdf](https://arxiv.org/pdf/2610.02160) |
 | 2026-10-01 | [Task-Adaptive Grounded 3D-Programmers Using 2D VLMs](https://arxiv.org/abs/2610.02021) | Arman Raayatsanati, Sombit Dey, Anna-Maria Halacheva, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.02021) / [pdf](https://arxiv.org/pdf/2610.02021) |
@@ -44,7 +53,7 @@
 | 2026-09-30 | [Social-WM: Safety-Aware Latent World Models for Robot Social Navigation](https://arxiv.org/abs/2609.40177) | Zhihao Zheng, Mooi Choo Chuah | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.40177) / [pdf](https://arxiv.org/pdf/2609.40177) |
 | 2026-09-30 | [Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling](https://arxiv.org/abs/2609.40153) | Xiangyu Zhu, Jin Xu, Yue Guo, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2609.40153) / [pdf](https://arxiv.org/pdf/2609.40153) |
 | 2026-09-30 | [DashVMC: Real-Time Discrete World Model Control in Geometry Dash](https://arxiv.org/abs/2609.40003) | Florent Tariolle, Florian Yger | cs.LG | World Model | [abs](https://arxiv.org/abs/2609.40003) / [pdf](https://arxiv.org/pdf/2609.40003) |
-| 2026-09-30 | [AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC](https://arxiv.org/abs/2609.39964) | Yijie Bian, Kai Zhang, Wei Guo, et al. | cs.AI, cs.MA | Sim-to-Real | [abs](https://arxiv.org/abs/2609.39964) / [pdf](https://arxiv.org/pdf/2609.39964) |
+| 2026-09-30 | [AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC](https://arxiv.org/abs/2609.39964) | Yijie Bian, Kai Zhang, Wei Guo, et al. | cs.AI, cs.MA, eess.SP | Sim-to-Real | [abs](https://arxiv.org/abs/2609.39964) / [pdf](https://arxiv.org/pdf/2609.39964) |
 | 2026-09-30 | [Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models](https://arxiv.org/abs/2609.39751) | Kowndinya Boyalakuntla, Yuhan Liu, Abdeslam Boularias | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2609.39751) / [pdf](https://arxiv.org/pdf/2609.39751) |
 | 2026-09-30 | [OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation](https://arxiv.org/abs/2609.39727) | Oana Madalina Fron, Ojas Shirekar, Chirag Raman | cs.AI, cs.CL, cs.MA | World Model | [abs](https://arxiv.org/abs/2609.39727) / [pdf](https://arxiv.org/pdf/2609.39727) |
 | 2026-09-30 | [RoboCoach: World Models as Active Coaches for Compositional Robot Skills](https://arxiv.org/abs/2609.39685) | Jiajun Liu, Yifan Chen, Yichao Liu, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2609.39685) / [pdf](https://arxiv.org/pdf/2609.39685) |
