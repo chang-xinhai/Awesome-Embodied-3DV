@@ -142,6 +142,8 @@ When adding or updating entries, use sources in this order:
 2. arXiv, conference, journal, OpenReview, or proceedings page
 3. lab/author pages
 4. high-quality awesome lists named in the README acknowledgements
+   - [Awesome Embodied Data Pyramid](https://github.com/worldbench/awesome-embodied-data-pyramid): compare its 3D assets, simulation data, and 3D-grounded annotation coverage; keep generic robot-policy datasets and benchmarks outside this list.
+   - [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) and [Awesome-3D-Generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation): check missing reconstruction, part-perception, and articulated-asset families without importing the full graphics/CAD taxonomy.
 5. Google Scholar / Semantic Scholar citation graph around canonical entries
 
 For daily candidate discovery, routinely scan:

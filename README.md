@@ -72,6 +72,7 @@ Start here if you want the shortest path through the field.
   - [Data Perception](#-1-data-perception)
     - [Geometric Priors](#11-geometric-priors)
     - [3D Semantic Understanding](#12-3d-semantic-understanding)
+      - [Part-Level Segmentation & Correspondence](#124-part-level-segmentation--correspondence)
     - [Active Imaging & Sensors](#13-active-imaging--sensors)
     - [Dense Mapping Systems](#14-dense-mapping-systems)
   - [3D/4D Representation](#-2-3d4d-representation)
@@ -96,7 +97,9 @@ Start here if you want the shortest path through the field.
   - [Datasets, Benchmarks & Infrastructure](#-6-datasets-benchmarks--infrastructure)
     - [Surveys & Taxonomies](#61-surveys--taxonomies)
     - [Datasets for 3D Reconstruction](#62-datasets-for-3d-reconstruction)
+      - [3D Semantic & Language Annotations](#623-3d-semantic--language-annotations)
     - [Datasets for 3D Generation](#63-datasets-for-3d-generation)
+      - [Physical & Multisensory Object Assets](#634-physical--multisensory-object-assets)
     - [Specific Benchmarks & Metrics](#64-specific-benchmarks--metrics)
     - [Simulators & Toolchains](#65-simulators--toolchains)
   - [Acknowledgement](#acknowledgement)
@@ -292,6 +295,16 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 | 2023-08-08 | 3D Visual Grounding, Referring Expression, Point Cloud | Peking University | [3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment](https://arxiv.org/abs/2308.04352) | ICCV 2023 | [github](https://github.com/3d-vista/3D-VisTA) |
 | 2023-07-24 | 3D VQA, 3D Captioning, Scene Understanding | Shanghai AI Lab | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981) | NeurIPS 2023 | [project](https://vis-www.cs.umass.edu/3dllm/) / [github](https://github.com/UMass-Foundation-Model/3D-LLM) |
 | 2023-03 | 3D Language Pre-training, Captioning, QA | Authors | [3D-VLP: 3D Vision-Language Pre-training with Contextual Scene](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_3D-VLP_3D_Vision-Language_Pre-Training_CVPR_2023_paper.html) | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_3D-VLP_3D_Vision-Language_Pre-Training_CVPR_2023_paper.html) |
+
+#### 1.2.4 Part-Level Segmentation & Correspondence
+
+Object-part perception for editable and interactive assets. For completed part geometry and assembly, see [Part-Aware Assembly & Editing](#422-part-aware-assembly--editing).
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2025-09-26 | Promptable Parts, Native 3D, 5M+ Shape-Part Pairs | Nanjing University of Aeronautics and Astronautics | [PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://arxiv.org/abs/2509.21965) | ICLR 2026 | [project](https://czvvd.github.io/PartSAMPage/) |
+| 2025-04-15 | Hierarchical Parts, Feature Fields, Cross-Shape Correspondence | NVIDIA | [PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](https://arxiv.org/abs/2504.11451) | ICCV 2025 | [project](https://research.nvidia.com/labs/toronto-ai/partfield-release/) / [github](https://github.com/nv-tlabs/PartField) |
+| 2024-11-11 | Zero-Shot Parts, Multi-Granularity, PartObjaverse-Tiny | The University of Hong Kong | [SAMPart3D: Segment Any Part in 3D Objects](https://arxiv.org/abs/2411.07184) | arXiv | [project](https://yhyang-myron.github.io/SAMPart3D-website/) / [github](https://github.com/Pointcept/SAMPart3D) / [dataset](https://huggingface.co/datasets/yhyang-myron/PartObjaverse-Tiny) |
 
 <a id="13-active-imaging--sensors"></a>
 
@@ -841,7 +854,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2026-03-01 | Articulated Assets, 3D LLM, Kinematic Structure | Tsinghua | [ArtLLM: Generating Articulated Assets via 3D LLM](https://arxiv.org/abs/2603.01142) | CVPR 2026 | [paper](https://arxiv.org/abs/2603.01142) |
 | 2025-12-12 | Articulation, Kinematic Tree, Feed-Forward, URDF-Ready | University of Oxford | [Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/abs/2512.11798) | arXiv | [project](https://ruiningli.com/particulate) |
 | 2025-11-26 | Single Image, Open-Set Articulation, Unified Latent | ShanghaiTech | [UniArt: Unified 3D Representation for Generating 3D Articulated Objects with Open-Set Articulation](https://arxiv.org/abs/2511.21887) | arXiv | [paper](https://arxiv.org/abs/2511.21887) |
-| 2025-11-17 | Sim-Ready Assets, Physical Properties, Single Image | NTU | [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648) | CVPR 2026 | [paper](https://arxiv.org/abs/2511.13648) |
+| 2025-11-17 | Sim-Ready Assets, Physical Properties, Single Image | NTU | [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648) | CVPR 2026 | [project](https://physx-anything.github.io/) / [github](https://github.com/ziangcao0312/PhysX-Anything) |
 | 2025-11-02 | URDF, 3D MLLM, Articulated Objects | Tsinghua | [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](https://openreview.net/forum?id=g3EF5XsapH) | NeurIPS 2025 | [paper](https://arxiv.org/abs/2511.00940) |
 | 2025-08-20 | Articulated Geometry, Motion Modeling, Gaussian Representation | Tsinghua University | [GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects](https://arxiv.org/abs/2508.14891) | 3DV 2026 | [paper](https://openreview.net/forum?id=8DXDgSKlwk) |
 | 2025-07-16 | Physical Properties, Scale, Material, Affordance | Nanyang Technological University | [PhysX-3D: Physical-Grounded 3D Asset Generation](https://arxiv.org/abs/2507.12465) | NeurIPS 2025 Spotlight | [project](https://physx-3d.github.io/) / [github](https://github.com/ziangcao0312/PhysX-3D) |
@@ -850,8 +863,12 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-03-11 | Part-Level Digital Twin, Joint Estimation, Self-Supervised 3DGS | USTC | [ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting](https://arxiv.org/abs/2503.08135) | CVPR 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_ArticulatedGS_Self-supervised_Digital_Twin_Modeling_of_Articulated_Objects_using_3D_CVPR_2025_paper.html) |
 | 2025-02-26 | Articulated Objects, 3DGS, Joint Estimation | Tsinghua | [ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting](https://arxiv.org/abs/2502.19459) | ICLR 2025 | [project](https://articulate-gs.github.io/) |
 | 2025-02-17 | Articulation-Ready, Skeleton, Skinning, Benchmark | Nanyang Technological University | [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135) | CVPR 2025 | [project](https://chaoyuesong.github.io/MagicArticulate) / [github](https://github.com/Seed3D/MagicArticulate) |
+| 2024-12-10 | Text/Image Conditioning, Kinematic Token Trees, SDF Parts | Xiamen University Malaysia | [ArtFormer: Controllable Generation of Diverse 3D Articulated Objects](https://arxiv.org/abs/2412.07237) | CVPR 2025 | [github](https://github.com/ShuYuMo2003/ArtFormer) |
+| 2024-10-21 | Single Image, Part Connectivity, Shape/Motion Generation | Simon Fraser University | [SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects](https://arxiv.org/abs/2410.16499) | ICLR 2025 | [project](https://3dlg-hcvc.github.io/singapo/) / [github](https://github.com/3dlg-hcvc/singapo) |
 | 2024-09-26 | Open-Vocabulary, URDF, Articulation | Stanford | [Articulate Anything: Open-vocabulary 3D Articulated Object Generation](https://openreview.net/forum?id=6akuzEqP38) | ICLR 2025 | [project](https://articulate-anything.github.io/) |
 | 2024-06-12 | Articulated Reconstruction, Part Geometry, Executable Simulation Code | Stanford | [Real2Code: Reconstruct Articulated Objects via Code Generation](https://arxiv.org/abs/2406.08474) | ICLR 2025 | [project](https://real2code.github.io/) / [github](https://github.com/MandiZhao/real2code) |
+| 2023-12-15 | Controllable Articulation, Part Graphs, Shape/Motion Constraints | Simon Fraser University | [CAGE: Controllable Articulation GEneration](https://arxiv.org/abs/2312.09570) | CVPR 2024 | [project](https://3dlg-hcvc.github.io/cage/) / [github](https://github.com/3dlg-hcvc/cage) |
+| 2023-05-25 | Articulation Prior, Graph Diffusion, Joint Geometry/Motion | University of Pennsylvania | [NAP: Neural 3D Articulation Prior](https://arxiv.org/abs/2305.16315) | NeurIPS 2023 | [project](https://jiahuilei.com/projects/nap/) / [github](https://github.com/JiahuiLei/NAP) |
 
 #### 4.2.2 Part-Aware Assembly & Editing
 
@@ -866,6 +883,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 | 2025-09-10 | Part Decomposition, Editable, Production-Ready Assets | Tencent | [X-Part: High-Fidelity and Structure-Coherent Shape Decomposition](https://arxiv.org/abs/2509.08643) | Tech Report | [project](https://yanxinhao.github.io/X-Part/) |
 | 2025-08-14 | Rigging, Animation, Skeleton, Skinning | Nanyang Technological University | [Puppeteer: Rig and Animate Your 3D Models](https://arxiv.org/abs/2508.10898) | NeurIPS 2025 Spotlight | [project](https://chaoyuesong.github.io/Puppeteer) / [github](https://github.com/Seed3D/Puppeteer) |
 | 2025-06-05 | Part-Level Mesh, Compositional DiT, Single Image | University of Waterloo | [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/abs/2506.05573) | arXiv | [project](https://wgsxm.github.io/projects/partcrafter/) |
+| 2025-04-10 | Amodal Part Geometry, Occlusion Completion, Editable Meshes | The University of Hong Kong | [HoloPart: Generative 3D Part Amodal Segmentation](https://arxiv.org/abs/2504.07943) | arXiv | [project](https://vast-ai-research.github.io/HoloPart/) / [github](https://github.com/VAST-AI-Research/HoloPart) |
 | 2024-12-16 | Articulated Mesh, Part-by-Part, Hierarchical Transformer | Cornell | [MeshArt: Generating Articulated Meshes with Structure-Guided Transformers](https://arxiv.org/abs/2412.11596) | arXiv | [paper](https://arxiv.org/abs/2412.11596) |
 | 2023-12-13 | Shape Program, Structure, Editable Assets | MIT | [Shape2Program: Learning to Infer Shape Programs from 3D Shapes](https://arxiv.org/abs/2312.08307) | arXiv | [project](https://shape2prog.csail.mit.edu/) |
 | 2023-06-29 | Part-Aware, Shape Assembly, 3D Generation | Shanghai AI Lab | [Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://arxiv.org/abs/2306.17115) | NeurIPS 2023 | [github](https://github.com/NeuralCarver/Michelangelo) |
@@ -1353,10 +1371,24 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | 2023-06-15 | Object-Centric Casual Captures, GT Shape, GT Poses | University of Oxford | [NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations](https://arxiv.org/abs/2306.09109) | NeurIPS 2023 | [project](https://navidataset.github.io/) |
 | 2023-06-06 | Indoor RGB-D, Habitat, 3D Scenes | Meta AI | [Habitat-Matterport 3D Semantics Dataset](https://aihabitat.org/datasets/hm3d/) | Dataset | [dataset](https://aihabitat.org/datasets/hm3d/) |
 | 2023-03-10 | Real Object Videos, Masks, Camera Parameters, Point Clouds | CUHK-Shenzhen | [MVImgNet: A Large-scale Dataset of Multi-view Images](https://arxiv.org/abs/2303.06042) | CVPR 2023 | [github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) |
+| 2021-11-17 | Mobile RGB-D, Laser Depth, 3D Oriented Boxes | Apple | [ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data](https://arxiv.org/abs/2111.08897) | NeurIPS 2021 | [project](https://machinelearning.apple.com/research/arkitscenes) / [github](https://github.com/apple/ARKitScenes) |
+| 2021-09-16 | HM3D, 1K Building-Scale Reconstructions, Textured Meshes | Meta AI | [Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI](https://arxiv.org/abs/2109.08238) | NeurIPS 2021 | [dataset](https://aihabitat.org/datasets/hm3d/) / [github](https://github.com/facebookresearch/habitat-matterport3d-dataset) |
 | 2021-09-01 | Object-Centric Videos, Camera Poses, Point Clouds | Meta AI | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://arxiv.org/abs/2109.00512) | ICCV 2021 | [github](https://github.com/facebookresearch/co3d) |
 | 2020-12-18 | Object-Centric AR Videos, Camera Poses, 3D Boxes | Google Research | [Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations](https://arxiv.org/abs/2012.09988) | CVPR 2021 | [github](https://github.com/google-research-datasets/Objectron) |
+| 2019-06-13 | 18 Indoor Reconstructions, HDR Textures, Semantic Meshes | Meta Reality Labs | [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797) | arXiv | [github](https://github.com/facebookresearch/Replica-Dataset) |
 | 2017-02-14 | Indoor RGB-D, Semantic Labels, Reconstruction | Stanford | [ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes](http://www.scan-net.org/) | CVPR 2017 | [dataset](http://www.scan-net.org/) / [paper](https://arxiv.org/abs/1702.04405) |
 | 2012-06-18 | Indoor RGB-D, NYUv2, Semantics | NYU | [NYU Depth Dataset V2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) | ECCV 2012 | [dataset](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) |
+
+#### 6.2.3 3D Semantic & Language Annotations
+
+Reusable annotations over reconstructed scenes for object relations, grounded language, and situated reasoning. Model-centric entries remain in [3D Semantic Understanding](#12-3d-semantic-understanding).
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2024-06-13 | Grounded Language, Object/Region Annotations, 3D QA | Shanghai AI Laboratory | [MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations](https://arxiv.org/abs/2406.09401) | NeurIPS 2024 | [project](https://taiwang.me/mmscan/) / [github](https://github.com/OpenRobotLab/EmbodiedScan) |
+| 2022-10-14 | Situated 3D QA, 650 Scenes, 33.4K Questions | BIGAI | [SQA3D: Situated Question Answering in 3D Scenes](https://arxiv.org/abs/2210.07474) | ICLR 2023 | [project](https://sqa3d.github.io/) / [github](https://github.com/SilongYong/SQA3D) |
+| 2021-12-20 | Object-Grounded 3D QA, 800 Scenes, 41K QA Pairs | Kyoto University | [ScanQA: 3D Question Answering for Spatial Scene Understanding](https://arxiv.org/abs/2112.10482) | CVPR 2022 | [github](https://github.com/ATR-DBI/ScanQA) |
+| 2020-04-08 | 3DSSG, Semantic Scene Graphs, Object Relations | Technical University of Munich | [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://arxiv.org/abs/2004.03967) | CVPR 2020 | [project](https://3dssg.github.io/) / [dataset](https://github.com/ShunChengWu/3DSSG) |
 
 <a id="63-datasets-for-3d-generation"></a>
 
@@ -1370,8 +1402,8 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | 2023-01-18 | Real Scans, Multi-View Images, Videos, Meshes | Shanghai AI Lab | [OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation](https://arxiv.org/abs/2301.07525) | CVPR 2023 | [project](https://omniobject3d.github.io/) |
 | 2022-12-15 | 3D Objects, LVIS Annotations, Web-Scale | Allen Institute for AI | [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051) | CVPR 2023 | [dataset](https://objaverse.allenai.org/) |
 | 2022-06-24 | Object-Centric Multi-View, Mesh, Depth, Masks | Meta AI / Amazon | [HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction](https://arxiv.org/abs/2206.12356) | arXiv | [paper](https://arxiv.org/abs/2206.12356) |
+| 2022-04-25 | GSO, 1K+ Scanned Household Objects, Simulation Assets | Google Research | [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://arxiv.org/abs/2204.11918) | ICRA 2022 | [dataset](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) |
 | 2021-10-12 | Product Objects, 3D Models, Multi-View Images | Amazon / UC Berkeley | [ABO: Dataset and Benchmarks for Real-World 3D Object Understanding](https://arxiv.org/abs/2110.06199) | CVPR 2022 | [project](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) |
-| 2021-09-16 | Real Scanned Objects, Simulation Assets | Google Research | [Google Scanned Objects](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) | ICRA 2022 | [dataset](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) |
 | 2015-12-09 | CAD Models, Object Categories, ShapeNet | Stanford | [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org/) | arXiv | [dataset](https://shapenet.org/) / [paper](https://arxiv.org/abs/1512.03012) |
 
 #### 6.3.2 Human & Articulated Objects
@@ -1391,8 +1423,18 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 | 2025-11-10 | Real+Synthetic Urban Point Clouds, Cross-Domain 3D Understanding | Technical University of Munich | [TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding](https://arxiv.org/abs/2511.07007) | 3DV 2026 | [project](https://tum-gis.github.io/TrueCity/) |
 | 2024-10-17 | Procedural Indoor Scenes, Blender, Synthetic Data | Princeton | [Infinigen Indoors](https://infinigen.org/) | NeurIPS 2024 | [github](https://github.com/princeton-vl/infinigen) |
 | 2023-11-15 | Procedural Worlds, Natural Scenes, Synthetic Data | Princeton | [Infinigen](https://infinigen.org/) | CVPR 2023 | [github](https://github.com/princeton-vl/infinigen) |
+| 2023-06-20 | HSSD-200, 211 Indoor Scenes, 18,656 Object Models | Georgia Tech | [Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation](https://arxiv.org/abs/2306.11290) | CVPR 2024 | [project](https://3dlg-hcvc.github.io/hssd/) / [github](https://github.com/3dlg-hcvc/hssd) |
 | 2022-06-14 | Indoor Scenes, Procedural, Embodied AI | Allen Institute for AI | [ProcTHOR](https://procthor.allenai.org/) | NeurIPS 2022 | [project](https://procthor.allenai.org/) |
 | 2021-06-25 | Embodied AI, Realistic Indoor Scenes | Meta AI | [Habitat 2.0](https://aihabitat.org/) | NeurIPS 2021 | [github](https://github.com/facebookresearch/habitat-lab) |
+
+#### 6.3.4 Physical & Multisensory Object Assets
+
+Assets with physical, functional, or multisensory annotations for interaction and reconstruction. The PhysX-Mobility, PhysXVerse, and PhysXNet releases remain linked with their generating methods in [Kinematic Structure Generation](#421-kinematic-structure-generation).
+
+| Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
+| :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-03-17 | 100K Digital Objects, Physical/Functional Labels, Verified Grasps | The University of Hong Kong | [ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866) | arXiv | [project](https://manitwin.github.io/) / [dataset](https://huggingface.co/datasets/ManiTwin/ManiTwin-100K) |
+| 2022-04-05 | 1K Objects, Implicit Visual/Audio/Tactile Fields, Shape Reconstruction | Stanford University | [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389) | CVPR 2022 | [project](https://ai.stanford.edu/~rhgao/objectfolder2.0/) / [github](https://github.com/rhgao/ObjectFolder) |
 
 <a id="64-specific-benchmarks--metrics"></a>
 
@@ -1460,6 +1502,7 @@ This section is the toolbox and dictionary for quickly choosing datasets, benchm
 ## Acknowledgement
 
 This repository is inspired by and complementary to:
+- [Awesome Embodied Data Pyramid](https://github.com/worldbench/awesome-embodied-data-pyramid) — discovery reference for reusable 3D assets, simulation data, and grounded annotations
 - [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation)
 - [Awesome-3D-Generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation)
 - [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion)
