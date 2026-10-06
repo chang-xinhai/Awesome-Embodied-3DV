@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-06 · **Papers:** 2997 · **Unique arXiv IDs:** 2997
+**Coverage:** 2025-01-01 to 2026-10-06 · **Papers:** 3004 · **Unique arXiv IDs:** 3004
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-05 | [Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models](https://arxiv.org/abs/2610.06813) | Zhimin Shao, Xijun Liu, Zhaoliang Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.06813) / [pdf](https://arxiv.org/pdf/2610.06813) |
+| 2026-10-05 | [VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges](https://arxiv.org/abs/2610.06594) | Sungjae Choi, Hanna Bae, Sunghyun Baek, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.06594) / [pdf](https://arxiv.org/pdf/2610.06594) |
+| 2026-10-05 | [MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks](https://arxiv.org/abs/2610.06472) | Eunji Kim, Gahyeon Kim, Gianella Cravioto, et al. | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.06472) / [pdf](https://arxiv.org/pdf/2610.06472) |
+| 2026-10-05 | [Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM](https://arxiv.org/abs/2610.05757) | Junhyun Nam, Wonse Jo | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.05757) / [pdf](https://arxiv.org/pdf/2610.05757) |
+| 2026-10-04 | [F$^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM](https://arxiv.org/abs/2610.05207) | Zhisong Xu, Fan Zhu, Jiawei Qian, et al. | cs.CV | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2610.05207) / [pdf](https://arxiv.org/pdf/2610.05207) |
+| 2026-10-03 | [Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance](https://arxiv.org/abs/2610.04606) | Shengqi Wang, Zhengxian Yang, Kaiwen Tian, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.04606) / [pdf](https://arxiv.org/pdf/2610.04606) |
+| 2026-10-02 | [Return-to-Home Feasible Micro-Aerial Vehicle Exploration for 3D Gaussian Splatting Reconstruction](https://arxiv.org/abs/2610.04013) | Prajit Krisshnakumar, Fan Yang, Koichiro Niinuma | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.04013) / [pdf](https://arxiv.org/pdf/2610.04013) |
 | 2026-10-02 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](https://arxiv.org/abs/2610.03522) | Meng Wei, Cheng Zhang, Boying Li, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03522) / [pdf](https://arxiv.org/pdf/2610.03522) |
 | 2026-10-02 | [PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio](https://arxiv.org/abs/2610.03192) | Wenzhi Guo, Xianda Chen, Dongxuan Chen, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03192) / [pdf](https://arxiv.org/pdf/2610.03192) |
 | 2026-10-01 | [GlassGuard: Verified Glass Plane Mapping for Robot Navigation](https://arxiv.org/abs/2610.02110) | Hanwen Guo, Zhengzhi Lin, Yusen Xie, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.02110) / [pdf](https://arxiv.org/pdf/2610.02110) |
@@ -32,7 +39,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
-| 2026-09-30 | [Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation](https://arxiv.org/abs/2610.00731) | Sanya Verma, Luca Cilio, Velissarios Christodoulou | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.00731) / [pdf](https://arxiv.org/pdf/2610.00731) |
+| 2026-09-30 | [Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation](https://arxiv.org/abs/2610.00731) | Sanya Verma, Luca Cilio, Velissarios Christodoulou, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.00731) / [pdf](https://arxiv.org/pdf/2610.00731) |
 | 2026-09-30 | [Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners](https://arxiv.org/abs/2609.40208) | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.40208) / [pdf](https://arxiv.org/pdf/2609.40208) |
 | 2026-09-30 | [BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085) | Jan Steckel | cs.RO, cs.AI, cs.LG | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.40085) / [pdf](https://arxiv.org/pdf/2609.40085) |
 | 2026-09-30 | [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960) | Ziren Gong, Guo Chen, Yongjia Li, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2609.39960) / [pdf](https://arxiv.org/pdf/2609.39960) |
@@ -54,7 +61,7 @@
 | 2026-09-29 | [S4VY: Segment Anything in Feed-Forward 4D Visual Geometry](https://arxiv.org/abs/2609.36875) | Jingdong Zhang, Xin Li, Jan Kautz, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.36875) / [pdf](https://arxiv.org/pdf/2609.36875) |
 | 2026-09-29 | [Does the VGGT Family Need All Its Layers?](https://arxiv.org/abs/2609.36842) | Fengyi Zhang, Holger Caesar, Xiangyu Sun, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2609.36842) / [pdf](https://arxiv.org/pdf/2609.36842) |
 | 2026-09-29 | [Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM](https://arxiv.org/abs/2609.36753) | Minseo Kim, Yina Kim, Jinhwa Hwang, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.36753) / [pdf](https://arxiv.org/pdf/2609.36753) |
-| 2026-09-29 | [SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence](https://arxiv.org/abs/2609.36545) | Gyeonggwan Lee, Eunsoo Im, Seunghwan Hong, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2609.36545) / [pdf](https://arxiv.org/pdf/2609.36545) |
+| 2026-09-29 | [SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence](https://arxiv.org/abs/2609.36545) | Gyeonggwan Lee, Eunsoo Im, Seunghwan Hong, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2609.36545) / [pdf](https://arxiv.org/pdf/2609.36545) |
 | 2026-09-29 | [Distilling Privileged Control Barrier Functions into RGB-Only Safety Filters for Dynamic Visual Navigation](https://arxiv.org/abs/2609.36520) | Seungyeon Yoo, Gawon Lee, Seungwoo Jung, et al. | cs.RO, cs.CV, eess.SY | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.36520) / [pdf](https://arxiv.org/pdf/2609.36520) |
 | 2026-09-29 | [DynamicHOI: Coupled Dynamics for Physics-aware HOI Reconstruction](https://arxiv.org/abs/2609.36454) | Wenliang Guo, Zhanbo Huang, Yu Kong | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.36454) / [pdf](https://arxiv.org/pdf/2609.36454) |
 | 2026-09-28 | [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://arxiv.org/abs/2609.36380) | Xirui Li, Peng Shi, Mingwen Dong, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2609.36380) / [pdf](https://arxiv.org/pdf/2609.36380) |

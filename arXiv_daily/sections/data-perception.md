@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-06 · **Papers:** 1804 · **Unique arXiv IDs:** 1804
+**Coverage:** 2025-01-01 to 2026-10-06 · **Papers:** 1811 · **Unique arXiv IDs:** 1811
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-05 | [Vision Transformer Ensembles for Panoramic Street Segmentation](https://arxiv.org/abs/2610.06063) | Yunus Serhat Bıçakçı | cs.CV, cs.AI, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.06063) / [pdf](https://arxiv.org/pdf/2610.06063) |
+| 2026-10-05 | [Casual Flash Lighting for Gaussian Splat Inverse Rendering](https://arxiv.org/abs/2610.06035) | Jiamin Xu, Dongheng Wei, Jiarong Zhao, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.06035) / [pdf](https://arxiv.org/pdf/2610.06035) |
+| 2026-10-04 | [Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting](https://arxiv.org/abs/2610.05289) | Xiaobiao Du, Beixi Hao, Zhen Fang, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.05289) / [pdf](https://arxiv.org/pdf/2610.05289) |
+| 2026-10-04 | [SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation](https://arxiv.org/abs/2610.05029) | Hyun Song, Taewan Cho, Kangmin Kim, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.05029) / [pdf](https://arxiv.org/pdf/2610.05029) |
+| 2026-10-04 | [Reflection-Robust 6DoF Object Tracking with Light Fields](https://arxiv.org/abs/2610.04883) | Nikolai Goncharov, Donald G. Dansereau | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.04883) / [pdf](https://arxiv.org/pdf/2610.04883) |
+| 2026-10-03 | [EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder](https://arxiv.org/abs/2610.04554) | Bowen Chai, Tianbao Zhang, Shuyu Wu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.04554) / [pdf](https://arxiv.org/pdf/2610.04554) |
+| 2026-10-03 | [Trust the View That Sees the Target: Mining Cross-View Conflicts for Reliability-Gated Disaster Damage Assessment](https://arxiv.org/abs/2610.04327) | Yifan Yang | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.04327) / [pdf](https://arxiv.org/pdf/2610.04327) |
+| 2026-10-02 | [VolS-GS: Relightable Gaussian Splatting with Volumetric Subsurface Scattering](https://arxiv.org/abs/2610.04007) | Junyeong Ahn, Jaegul Choo | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.04007) / [pdf](https://arxiv.org/pdf/2610.04007) |
 | 2026-10-02 | [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717) | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, et al. | cs.CV, cs.AI, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.03717) / [pdf](https://arxiv.org/pdf/2610.03717) |
 | 2026-10-02 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](https://arxiv.org/abs/2610.03522) | Meng Wei, Cheng Zhang, Boying Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.03522) / [pdf](https://arxiv.org/pdf/2610.03522) |
 | 2026-10-02 | [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](https://arxiv.org/abs/2610.03439) | Daikun Liu, Teng Wang, Changyin Sun | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.03439) / [pdf](https://arxiv.org/pdf/2610.03439) |
@@ -41,7 +49,6 @@
 | 2026-09-29 | [Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization](https://arxiv.org/abs/2609.36969) | Gyeonggwan Lee, Seunghwan Hong, Junghun Suh | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36969) / [pdf](https://arxiv.org/pdf/2609.36969) |
 | 2026-09-29 | [SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation](https://arxiv.org/abs/2609.36929) | Thai Duy Nguyen, Addison Lin Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36929) / [pdf](https://arxiv.org/pdf/2609.36929) |
 | 2026-09-29 | [GlassFormer: Learning Real-time Glass Segmentation using Radar-Depth Fusion](https://arxiv.org/abs/2609.36844) | Suhani Grover, Astik Srivastava, Viswas Dinesh, et al. | cs.CV, cs.RO | Transparent / Specular, Active Imaging | [abs](https://arxiv.org/abs/2609.36844) / [pdf](https://arxiv.org/pdf/2609.36844) |
-| 2026-09-29 | [SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence](https://arxiv.org/abs/2609.36545) | Gyeonggwan Lee, Eunsoo Im, Seunghwan Hong, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.36545) / [pdf](https://arxiv.org/pdf/2609.36545) |
 | 2026-09-28 | [Stealth Is a Relation, Not a Property: How Event Representations Create Blind Spots for Timing Attacks in Event-Based Perception](https://arxiv.org/abs/2609.36386) | Shoaib Ahmed Dipu, Md. Shaown Miah, Kamrul Hasan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2609.36386) / [pdf](https://arxiv.org/pdf/2609.36386) |
 | 2026-09-28 | [Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry](https://arxiv.org/abs/2609.36168) | Mia Zhang, Jizong Peng | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.36168) / [pdf](https://arxiv.org/pdf/2609.36168) |
 | 2026-09-28 | [Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras](https://arxiv.org/abs/2609.35658) | Qiaoge Li, Yifan Zhan, Haijun Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.35658) / [pdf](https://arxiv.org/pdf/2609.35658) |
