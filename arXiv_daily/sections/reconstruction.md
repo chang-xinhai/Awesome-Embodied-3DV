@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 3004 · **Unique arXiv IDs:** 3004
+**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 3013 · **Unique arXiv IDs:** 3013
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-06 | [4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://arxiv.org/abs/2610.08782) | Shiqi Li, Sean Cho, Yijie Li, et al. | cs.CV, cs.AI, cs.GR | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.08782) / [pdf](https://arxiv.org/pdf/2610.08782) |
+| 2026-10-06 | [Digital Twin-Driven Real2Sim2Real: Simulator-Conditioned Generation via Paired Driving-Scene Reconstruction](https://arxiv.org/abs/2610.08339) | Hojun Lim, Hyeongseok Jeon, Donghyun Kim, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.08339) / [pdf](https://arxiv.org/pdf/2610.08339) |
+| 2026-10-06 | [DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given](https://arxiv.org/abs/2610.07958) | Minhyeok Lee, Jungho Lee, Minseok Kang, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.07958) / [pdf](https://arxiv.org/pdf/2610.07958) |
+| 2026-10-06 | [Revar3r: gauge-aware perturbation uncertainty for feed-forward 3d reconstruction](https://arxiv.org/abs/2610.07883) | Sammam Mahdi, Fariha Binta Salim, Rakin Bin Rabbani, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.07883) / [pdf](https://arxiv.org/pdf/2610.07883) |
+| 2026-10-06 | [Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective](https://arxiv.org/abs/2610.07788) | Chelim Lim, Tobias Fischer, Emilio Olivastri, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2610.07788) / [pdf](https://arxiv.org/pdf/2610.07788) |
+| 2026-10-06 | [OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception](https://arxiv.org/abs/2610.07569) | Binh Long Nguyen, Kien Nguyen, Clinton Fookes, et al. | cs.RO, cs.AI, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.07569) / [pdf](https://arxiv.org/pdf/2610.07569) |
+| 2026-10-05 | [SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation](https://arxiv.org/abs/2610.07472) | Mohammed Ibrahim M, Vallabh Deogaonkar, Trung Dong, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.07472) / [pdf](https://arxiv.org/pdf/2610.07472) |
+| 2026-10-05 | [RoboCap: A New Platform for Egocentric Robot Learning](https://arxiv.org/abs/2610.07217) | Grounded Superintelligence, BitRobot | cs.RO, cs.AI, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.07217) / [pdf](https://arxiv.org/pdf/2610.07217) |
+| 2026-10-05 | [MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs](https://arxiv.org/abs/2610.07110) | Yun Jiang, Bo Zheng, Yingying Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.07110) / [pdf](https://arxiv.org/pdf/2610.07110) |
 | 2026-10-05 | [Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models](https://arxiv.org/abs/2610.06813) | Zhimin Shao, Xijun Liu, Zhaoliang Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.06813) / [pdf](https://arxiv.org/pdf/2610.06813) |
 | 2026-10-05 | [VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges](https://arxiv.org/abs/2610.06594) | Sungjae Choi, Hanna Bae, Sunghyun Baek, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.06594) / [pdf](https://arxiv.org/pdf/2610.06594) |
 | 2026-10-05 | [MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks](https://arxiv.org/abs/2610.06472) | Eunji Kim, Gahyeon Kim, Gianella Cravioto, et al. | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.06472) / [pdf](https://arxiv.org/pdf/2610.06472) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 1001 · **Unique arXiv IDs:** 1001
+**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 1005 · **Unique arXiv IDs:** 1005
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,12 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-06 | [Building Rome from a Single Image](https://arxiv.org/abs/2610.08790) | Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.08790) / [pdf](https://arxiv.org/pdf/2610.08790) |
+| 2026-10-06 | [EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation](https://arxiv.org/abs/2610.07969) | Yikai Qin, Yifei Deng, Mingjian Liang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2610.07969) / [pdf](https://arxiv.org/pdf/2610.07969) |
+| 2026-10-06 | [SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining](https://arxiv.org/abs/2610.07652) | Jicong Ao, Shuhan Jiang, Yuling Zhong, et al. | cs.RO, cs.AI | Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.07652) / [pdf](https://arxiv.org/pdf/2610.07652) |
 | 2026-10-05 | [MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](https://arxiv.org/abs/2610.06801) | Jiarui Chen, Zeqiang Lai, Jiangshan Wang, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.06801) / [pdf](https://arxiv.org/pdf/2610.06801) |
 | 2026-10-05 | [ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections](https://arxiv.org/abs/2610.06687) | Xiaoyu Zhou, Dingwei Xian, Zhenyu Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.06687) / [pdf](https://arxiv.org/pdf/2610.06687) |
 | 2026-10-05 | [Controllable Road Marking Generation](https://arxiv.org/abs/2610.05771) | Zhiyu, Cai, Yufan Zhang, et al. | cs.CV, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.05771) / [pdf](https://arxiv.org/pdf/2610.05771) |
 | 2026-10-04 | [DynaMesh: Dynamic 3D Texture Generation](https://arxiv.org/abs/2610.05529) | Raj Hansini, Guan Chen, Rana Hanocka, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.05529) / [pdf](https://arxiv.org/pdf/2610.05529) |
 | 2026-10-04 | [ArticuTable: Generating Instance-Level Interactive Rigid-Articulated 3D Tabletop Scenes from a Single Image](https://arxiv.org/abs/2610.05249) | Kai Lv, Yibo Yin, Lijun Guo, et al. | cs.CV | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.05249) / [pdf](https://arxiv.org/pdf/2610.05249) |
 | 2026-10-04 | [CreativeFlow: A One-to-Many Analogical Relation Transfer Method for 3D Asset Generation](https://arxiv.org/abs/2610.05167) | Xuechen Li, Shuai Zhang, Nanxuan Zhao, et al. | cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.05167) / [pdf](https://arxiv.org/pdf/2610.05167) |
+| 2026-10-03 | [DistScene: Object-to-Scene Distillation for 3D Scene Generation](https://arxiv.org/abs/2610.06960) | Kunming Luo, Hongyu Yan, Ken Deng, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.06960) / [pdf](https://arxiv.org/pdf/2610.06960) |
 | 2026-10-02 | [UniBRep: Learning Unified Geometry and Topology for Image-conditioned B-Rep Generation](https://arxiv.org/abs/2610.04092) | Haiyang Ying, Allen Tu, Jiaye Wu, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.04092) / [pdf](https://arxiv.org/pdf/2610.04092) |
 | 2026-10-02 | [UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation](https://arxiv.org/abs/2610.03473) | Daikun Liu, Xin Zhan, Teng Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.03473) / [pdf](https://arxiv.org/pdf/2610.03473) |
 | 2026-10-02 | [I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry](https://arxiv.org/abs/2610.03453) | Qian Wang, Liam Merz Hoffmeister, Brian Scassellati, et al. | cs.RO, cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.03453) / [pdf](https://arxiv.org/pdf/2610.03453) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 534 · **Unique arXiv IDs:** 534
+**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 536 · **Unique arXiv IDs:** 536
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-06 | [DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780) | Jai Bardhan, Josef Sivic, Vladimir Petrik | cs.RO, cs.AI, cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.08780) / [pdf](https://arxiv.org/pdf/2610.08780) |
+| 2026-10-06 | [Navigation with RF Cues: Embodied Perception Action under Multipath Uncertainty](https://arxiv.org/abs/2610.08105) | Wenlihan Lu, Tianshun Li, Liuqing Yang, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.08105) / [pdf](https://arxiv.org/pdf/2610.08105) |
 | 2026-10-03 | [EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder](https://arxiv.org/abs/2610.04554) | Bowen Chai, Tianbao Zhang, Shuyu Wu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.04554) / [pdf](https://arxiv.org/pdf/2610.04554) |
 | 2026-10-03 | [EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI](https://arxiv.org/abs/2610.04301) | Kabir Swain, Sijie Han, Antonio Torralba | cs.AI | Dataset | [abs](https://arxiv.org/abs/2610.04301) / [pdf](https://arxiv.org/pdf/2610.04301) |
 | 2026-10-02 | [In-Distribution Forcing for Long Video Generation at Test Time](https://arxiv.org/abs/2610.03120) | Jeongwoo Shin, Youngyoon Choi, Sangwoo Jo, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.03120) / [pdf](https://arxiv.org/pdf/2610.03120) |

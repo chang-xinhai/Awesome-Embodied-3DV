@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 1811 · **Unique arXiv IDs:** 1811
+**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 1816 · **Unique arXiv IDs:** 1816
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-06 | [PolarScale: A Physics-Grounded Benchmark for Radiometrically Consistent RGB-to-Stokes Estimation](https://arxiv.org/abs/2610.08346) | Beibei Lin, Tingting Chen, Xin Zhang, et al. | cs.CV, physics.optics | Transparent / Specular, Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.08346) / [pdf](https://arxiv.org/pdf/2610.08346) |
+| 2026-10-06 | [PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation](https://arxiv.org/abs/2610.08068) | Guo Tang, Yongtao Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.08068) / [pdf](https://arxiv.org/pdf/2610.08068) |
+| 2026-10-06 | [M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding](https://arxiv.org/abs/2610.07982) | Jinsong Zhang, Kejun Wu, Ming Zhu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.07982) / [pdf](https://arxiv.org/pdf/2610.07982) |
+| 2026-10-05 | [RoboCap: A New Platform for Egocentric Robot Learning](https://arxiv.org/abs/2610.07217) | Grounded Superintelligence, BitRobot | cs.RO, cs.AI, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.07217) / [pdf](https://arxiv.org/pdf/2610.07217) |
+| 2026-10-05 | [Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot](https://arxiv.org/abs/2610.07192) | Chalindu Abeywansa, Sahan Gunasekara, Devindi De Silva, et al. | cs.AI, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.07192) / [pdf](https://arxiv.org/pdf/2610.07192) |
 | 2026-10-05 | [Vision Transformer Ensembles for Panoramic Street Segmentation](https://arxiv.org/abs/2610.06063) | Yunus Serhat Bıçakçı | cs.CV, cs.AI, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.06063) / [pdf](https://arxiv.org/pdf/2610.06063) |
 | 2026-10-05 | [Casual Flash Lighting for Gaussian Splat Inverse Rendering](https://arxiv.org/abs/2610.06035) | Jiamin Xu, Dongheng Wei, Jiarong Zhao, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.06035) / [pdf](https://arxiv.org/pdf/2610.06035) |
 | 2026-10-04 | [Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting](https://arxiv.org/abs/2610.05289) | Xiaobiao Du, Beixi Hao, Zhen Fang, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.05289) / [pdf](https://arxiv.org/pdf/2610.05289) |

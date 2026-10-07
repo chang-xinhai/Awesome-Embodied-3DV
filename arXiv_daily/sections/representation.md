@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 3090 · **Unique arXiv IDs:** 3090
+**Coverage:** 2025-01-01 to 2026-10-07 · **Papers:** 3099 · **Unique arXiv IDs:** 3099
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-06 | [Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error](https://arxiv.org/abs/2610.08756) | Iván Verdugo Guerra, Ezequiel López Rubio, Jorge García González | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.08756) / [pdf](https://arxiv.org/pdf/2610.08756) |
+| 2026-10-06 | [View Matters: Keyframe-Guided Text-Driven 3D Gaussian Editing](https://arxiv.org/abs/2610.08179) | Kaizhe Zhang, Yijie Zhou, Weizhan Zhang, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.08179) / [pdf](https://arxiv.org/pdf/2610.08179) |
+| 2026-10-06 | [DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given](https://arxiv.org/abs/2610.07958) | Minhyeok Lee, Jungho Lee, Minseok Kang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.07958) / [pdf](https://arxiv.org/pdf/2610.07958) |
+| 2026-10-06 | [UltraDiff: Differentiable Ray Tracing in Ultrasound for Shape Optimization](https://arxiv.org/abs/2610.07941) | Felix Duelmer, Magdalena Wysocki, Nassir Navab, et al. | cs.GR, cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.07941) / [pdf](https://arxiv.org/pdf/2610.07941) |
+| 2026-10-06 | [Efficient Gaussian Splatting Sequence Compression with Standard Video Codecs](https://arxiv.org/abs/2610.07795) | Qi Yang, Shuting Xia, Le Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.07795) / [pdf](https://arxiv.org/pdf/2610.07795) |
+| 2026-10-06 | [OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception](https://arxiv.org/abs/2610.07569) | Binh Long Nguyen, Kien Nguyen, Clinton Fookes, et al. | cs.RO, cs.AI, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.07569) / [pdf](https://arxiv.org/pdf/2610.07569) |
+| 2026-10-05 | [SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation](https://arxiv.org/abs/2610.07472) | Mohammed Ibrahim M, Vallabh Deogaonkar, Trung Dong, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.07472) / [pdf](https://arxiv.org/pdf/2610.07472) |
+| 2026-10-05 | [Learnable Spectral Activations](https://arxiv.org/abs/2610.07419) | Tamir Shor, Or Litany, Alex Bronstein | cs.LG, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.07419) / [pdf](https://arxiv.org/pdf/2610.07419) |
+| 2026-10-05 | [MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs](https://arxiv.org/abs/2610.07110) | Yun Jiang, Bo Zheng, Yingying Zhang, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.07110) / [pdf](https://arxiv.org/pdf/2610.07110) |
 | 2026-10-05 | [GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting](https://arxiv.org/abs/2610.06688) | Boaz Keren-Gil, James Gain, Patrick Marais | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.06688) / [pdf](https://arxiv.org/pdf/2610.06688) |
 | 2026-10-05 | [MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks](https://arxiv.org/abs/2610.06472) | Eunji Kim, Gahyeon Kim, Gianella Cravioto, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.06472) / [pdf](https://arxiv.org/pdf/2610.06472) |
 | 2026-10-05 | [Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation](https://arxiv.org/abs/2610.06171) | Siyuan Liu, Miao Li, Haibao Yu, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.06171) / [pdf](https://arxiv.org/pdf/2610.06171) |
