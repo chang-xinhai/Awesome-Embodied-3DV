@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 3013 · **Unique arXiv IDs:** 3013
+**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 3023 · **Unique arXiv IDs:** 3023
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-07 | [Tetris3D: 3D Scene Generation With Objects That Fit Together](https://arxiv.org/abs/2610.10539) | Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.10539) / [pdf](https://arxiv.org/pdf/2610.10539) |
+| 2026-10-07 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | Yihan Li, Yating Feng, Shengjiu Sun, et al. | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.10479) / [pdf](https://arxiv.org/pdf/2610.10479) |
+| 2026-10-07 | [NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building](https://arxiv.org/abs/2610.10387) | Nillan Nimal, Mahboubeh Asadi, Sajad Saeedi | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.10387) / [pdf](https://arxiv.org/pdf/2610.10387) |
+| 2026-10-07 | [Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection](https://arxiv.org/abs/2610.10181) | Ruihan Xu, Jiae Yoon, Kaichen Zhou, et al. | cs.CV | Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2610.10181) / [pdf](https://arxiv.org/pdf/2610.10181) |
+| 2026-10-07 | [Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching](https://arxiv.org/abs/2610.09857) | Junjie Zhang, Deteng Zhang, Zhisong Xu, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.09857) / [pdf](https://arxiv.org/pdf/2610.09857) |
+| 2026-10-07 | [DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video](https://arxiv.org/abs/2610.09720) | Dingwei Xian, Xiaoyu Zhou, Yajiao Xiong, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.09720) / [pdf](https://arxiv.org/pdf/2610.09720) |
+| 2026-10-07 | [OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning](https://arxiv.org/abs/2610.09513) | Zhenyang Liu, Chenjie Cao, Yisu Zhang, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.09513) / [pdf](https://arxiv.org/pdf/2610.09513) |
+| 2026-10-07 | [Hardware-aware Calibrated Clustered Attention for Efficient Visual Geometric Transformers](https://arxiv.org/abs/2610.09274) | Weitian Wang, Shubham Rai, Cecilia De La Parra, et al. | cs.CV, cs.LG | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.09274) / [pdf](https://arxiv.org/pdf/2610.09274) |
+| 2026-10-06 | [StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing](https://arxiv.org/abs/2610.09200) | Ehsan Garaaghaji, Nicolas Talabot, Pascal Fua, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.09200) / [pdf](https://arxiv.org/pdf/2610.09200) |
+| 2026-10-06 | [S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens](https://arxiv.org/abs/2610.08978) | Fang Li, Jiraphon Yenphraphai, Quentin Herau, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.08978) / [pdf](https://arxiv.org/pdf/2610.08978) |
 | 2026-10-06 | [4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://arxiv.org/abs/2610.08782) | Shiqi Li, Sean Cho, Yijie Li, et al. | cs.CV, cs.AI, cs.GR | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.08782) / [pdf](https://arxiv.org/pdf/2610.08782) |
 | 2026-10-06 | [Digital Twin-Driven Real2Sim2Real: Simulator-Conditioned Generation via Paired Driving-Scene Reconstruction](https://arxiv.org/abs/2610.08339) | Hojun Lim, Hyeongseok Jeon, Donghyun Kim, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.08339) / [pdf](https://arxiv.org/pdf/2610.08339) |
 | 2026-10-06 | [DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given](https://arxiv.org/abs/2610.07958) | Minhyeok Lee, Jungho Lee, Minseok Kang, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.07958) / [pdf](https://arxiv.org/pdf/2610.07958) |

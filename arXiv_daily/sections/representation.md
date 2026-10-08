@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 3099 · **Unique arXiv IDs:** 3099
+**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 3105 · **Unique arXiv IDs:** 3105
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-07 | [Gaussian Density Splatting Network](https://arxiv.org/abs/2610.10396) | Miao Shang, Yabin Wang, Xiaopeng Hong | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.10396) / [pdf](https://arxiv.org/pdf/2610.10396) |
+| 2026-10-07 | [NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building](https://arxiv.org/abs/2610.10387) | Nillan Nimal, Mahboubeh Asadi, Sajad Saeedi | cs.RO | Radiance Field / NeRF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2610.10387) / [pdf](https://arxiv.org/pdf/2610.10387) |
+| 2026-10-07 | [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](https://arxiv.org/abs/2610.10197) | Zhuo Chen, Yihua Cheng, Aleš Leonardis, et al. | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.10197) / [pdf](https://arxiv.org/pdf/2610.10197) |
+| 2026-10-07 | [DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.09853) | Chanung Park, Seunghyeon Song, Joo Chan Lee, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.09853) / [pdf](https://arxiv.org/pdf/2610.09853) |
+| 2026-10-07 | [TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting](https://arxiv.org/abs/2610.09343) | Jingxing Li, Yongjae Lee, Deliang Fan, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.09343) / [pdf](https://arxiv.org/pdf/2610.09343) |
+| 2026-10-06 | [SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code](https://arxiv.org/abs/2610.09116) | Seemandhar Jain, Keshav Gupta, Manmohan Chandraker | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.09116) / [pdf](https://arxiv.org/pdf/2610.09116) |
 | 2026-10-06 | [Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error](https://arxiv.org/abs/2610.08756) | Iván Verdugo Guerra, Ezequiel López Rubio, Jorge García González | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.08756) / [pdf](https://arxiv.org/pdf/2610.08756) |
 | 2026-10-06 | [View Matters: Keyframe-Guided Text-Driven 3D Gaussian Editing](https://arxiv.org/abs/2610.08179) | Kaizhe Zhang, Yijie Zhou, Weizhan Zhang, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.08179) / [pdf](https://arxiv.org/pdf/2610.08179) |
 | 2026-10-06 | [DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given](https://arxiv.org/abs/2610.07958) | Minhyeok Lee, Jungho Lee, Minseok Kang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.07958) / [pdf](https://arxiv.org/pdf/2610.07958) |

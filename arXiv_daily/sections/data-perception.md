@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 1816 · **Unique arXiv IDs:** 1816
+**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 1821 · **Unique arXiv IDs:** 1821
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-07 | [Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching](https://arxiv.org/abs/2610.09857) | Junjie Zhang, Deteng Zhang, Zhisong Xu, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.09857) / [pdf](https://arxiv.org/pdf/2610.09857) |
+| 2026-10-07 | [OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning](https://arxiv.org/abs/2610.09513) | Zhenyang Liu, Chenjie Cao, Yisu Zhang, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.09513) / [pdf](https://arxiv.org/pdf/2610.09513) |
+| 2026-10-07 | [Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning](https://arxiv.org/abs/2610.09450) | Hanqiu Li Cai, Chema Garabito | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.09450) / [pdf](https://arxiv.org/pdf/2610.09450) |
+| 2026-10-06 | [SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation](https://arxiv.org/abs/2610.08941) | Yunheng Liu, Ziqi Cai, Siqi Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.08941) / [pdf](https://arxiv.org/pdf/2610.08941) |
 | 2026-10-06 | [PolarScale: A Physics-Grounded Benchmark for Radiometrically Consistent RGB-to-Stokes Estimation](https://arxiv.org/abs/2610.08346) | Beibei Lin, Tingting Chen, Xin Zhang, et al. | cs.CV, physics.optics | Transparent / Specular, Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.08346) / [pdf](https://arxiv.org/pdf/2610.08346) |
 | 2026-10-06 | [PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation](https://arxiv.org/abs/2610.08068) | Guo Tang, Yongtao Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.08068) / [pdf](https://arxiv.org/pdf/2610.08068) |
 | 2026-10-06 | [M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding](https://arxiv.org/abs/2610.07982) | Jinsong Zhang, Kejun Wu, Ming Zhu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.07982) / [pdf](https://arxiv.org/pdf/2610.07982) |
@@ -67,6 +71,7 @@
 | 2026-09-26 | [SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data](https://arxiv.org/abs/2609.32863) | Yulu Wu, Chao Wei, Jujun Cheng, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.32863) / [pdf](https://arxiv.org/pdf/2609.32863) |
 | 2026-09-26 | [ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera](https://arxiv.org/abs/2609.32711) | Ugo Leone Cavalcanti, Fabio Tosi, Matteo Poggi, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.32711) / [pdf](https://arxiv.org/pdf/2609.32711) |
 | 2026-09-26 | [AquaBEV-Nav: Learned BEV Occupancy for Underwater Navigation and Exploration](https://arxiv.org/abs/2609.32156) | Trung Tien Dong, Zhenqi Wu, Sahasra Kondapalli, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.32156) / [pdf](https://arxiv.org/pdf/2609.32156) |
+| 2026-09-25 | [PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking](https://arxiv.org/abs/2610.08826) | Qinfeng Zhu, Weiguang Zhao, Yunxi Jiang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.08826) / [pdf](https://arxiv.org/pdf/2610.08826) |
 | 2026-09-25 | [Light Field Primitive for Novel View Synthesis](https://arxiv.org/abs/2609.31198) | Liang Chen, Jiahui Ning, Xun Jiang, et al. | cs.CV | Transparent / Specular, Non-RGB Sensing, Wide-FOV Perception | [abs](https://arxiv.org/abs/2609.31198) / [pdf](https://arxiv.org/pdf/2609.31198) |
 | 2026-09-25 | [DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103) | Jiangning Wei, Yuan Yao, Miaomiao Cui, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2609.31103) / [pdf](https://arxiv.org/pdf/2609.31103) |
 | 2026-09-25 | [Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors](https://arxiv.org/abs/2609.31008) | Giammarco Caroleo, Timothée Mahamoodally, Matteo Manzardo, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2609.31008) / [pdf](https://arxiv.org/pdf/2609.31008) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 1005 · **Unique arXiv IDs:** 1005
+**Coverage:** 2025-01-01 to 2026-10-08 · **Papers:** 1007 · **Unique arXiv IDs:** 1007
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-07 | [Tetris3D: 3D Scene Generation With Objects That Fit Together](https://arxiv.org/abs/2610.10539) | Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.10539) / [pdf](https://arxiv.org/pdf/2610.10539) |
+| 2026-10-07 | [Position Forcing: Self-Conditioning 3D Generation](https://arxiv.org/abs/2610.10342) | Ziheng Ouyang, Zeqiang Lai, Jiarui Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.10342) / [pdf](https://arxiv.org/pdf/2610.10342) |
 | 2026-10-06 | [Building Rome from a Single Image](https://arxiv.org/abs/2610.08790) | Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.08790) / [pdf](https://arxiv.org/pdf/2610.08790) |
 | 2026-10-06 | [EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation](https://arxiv.org/abs/2610.07969) | Yikai Qin, Yifei Deng, Mingjian Liang, et al. | cs.CV, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2610.07969) / [pdf](https://arxiv.org/pdf/2610.07969) |
 | 2026-10-06 | [SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining](https://arxiv.org/abs/2610.07652) | Jicong Ao, Shuhan Jiang, Yuling Zhong, et al. | cs.RO, cs.AI | Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.07652) / [pdf](https://arxiv.org/pdf/2610.07652) |
