@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 1007 · **Unique arXiv IDs:** 1007
+**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 1011 · **Unique arXiv IDs:** 1011
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-08 | [SpaceFlow: Locally Controllable 3D Generation](https://arxiv.org/abs/2610.12399) | Neil De La Fuente, Joan Lafuente, Mukhammadali Sayfiddinov, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.12399) / [pdf](https://arxiv.org/pdf/2610.12399) |
+| 2026-10-08 | [GenIA: Generative Reconstruction with Test-Time Input Alignment](https://arxiv.org/abs/2610.12388) | Stefano Esposito, Naama Pearl, Polina Karpikova, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.12388) / [pdf](https://arxiv.org/pdf/2610.12388) |
+| 2026-10-08 | [HI3D 3.0 (Twinkle3D): Object-specific 3D Asset Generation with High Resolution](https://arxiv.org/abs/2610.11685) | Ziying Li, Shengchu Zhao, Huiang He, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.11685) / [pdf](https://arxiv.org/pdf/2610.11685) |
+| 2026-10-08 | [USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation](https://arxiv.org/abs/2610.11322) | Chuanrui Zhang, Zaijia Yang, Duomin Wang, et al. | cs.RO | Part / Articulated Asset, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.11322) / [pdf](https://arxiv.org/pdf/2610.11322) |
 | 2026-10-07 | [Tetris3D: 3D Scene Generation With Objects That Fit Together](https://arxiv.org/abs/2610.10539) | Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.10539) / [pdf](https://arxiv.org/pdf/2610.10539) |
 | 2026-10-07 | [Position Forcing: Self-Conditioning 3D Generation](https://arxiv.org/abs/2610.10342) | Ziheng Ouyang, Zeqiang Lai, Jiarui Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.10342) / [pdf](https://arxiv.org/pdf/2610.10342) |
 | 2026-10-06 | [Building Rome from a Single Image](https://arxiv.org/abs/2610.08790) | Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.08790) / [pdf](https://arxiv.org/pdf/2610.08790) |

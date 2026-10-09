@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 537 · **Unique arXiv IDs:** 537
+**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 538 · **Unique arXiv IDs:** 538
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,7 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
-| 2026-10-07 | [SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation](https://arxiv.org/abs/2610.09488) | Nicky Zimmerman, Joel Loo, Zishuo Wang, et al. | cs.RO | Dataset | [abs](https://arxiv.org/abs/2610.09488) / [pdf](https://arxiv.org/pdf/2610.09488) |
+| 2026-10-08 | [What 30,000 Hours of Ego-centric Video Does Not Teach](https://arxiv.org/abs/2610.12464) | Jiahua Dong, Anurag Bagchi, Yash Jangir, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.12464) / [pdf](https://arxiv.org/pdf/2610.12464) |
 | 2026-10-06 | [DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780) | Jai Bardhan, Josef Sivic, Vladimir Petrik | cs.RO, cs.AI, cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.08780) / [pdf](https://arxiv.org/pdf/2610.08780) |
 | 2026-10-06 | [Navigation with RF Cues: Embodied Perception Action under Multipath Uncertainty](https://arxiv.org/abs/2610.08105) | Wenlihan Lu, Tianshun Li, Liuqing Yang, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.08105) / [pdf](https://arxiv.org/pdf/2610.08105) |
 | 2026-10-03 | [EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder](https://arxiv.org/abs/2610.04554) | Bowen Chai, Tianbao Zhang, Shuyu Wu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.04554) / [pdf](https://arxiv.org/pdf/2610.04554) |
@@ -30,6 +30,7 @@
 | 2026-09-30 | [Matisse: Evidence-Space Reasoning for Active 3D Reconstruction](https://arxiv.org/abs/2609.38746) | Xihang Yu, Kaichen Zhou, Lorenzo Shaikewitz, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.38746) / [pdf](https://arxiv.org/pdf/2609.38746) |
 | 2026-09-28 | [OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute](https://arxiv.org/abs/2609.36374) | Brandon Leblanc, Charalambos Poullis | cs.CV | Dataset | [abs](https://arxiv.org/abs/2609.36374) / [pdf](https://arxiv.org/pdf/2609.36374) |
 | 2026-09-28 | [OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052) | Hao Wang, Tao Yu, Liuzhou Zhang, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2609.35052) / [pdf](https://arxiv.org/pdf/2609.35052) |
+| 2026-09-27 | [GaussianBench: Physics-Fidelity Evaluation for Gaussian Scene Representations](https://arxiv.org/abs/2610.10554) | Chukwudalu Dumebi-Kachikwu | cs.GR, cs.LG | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.10554) / [pdf](https://arxiv.org/pdf/2610.10554) |
 | 2026-09-27 | [AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception](https://arxiv.org/abs/2609.33230) | Gautham Narayan Narasimhan, Heethesh Vhavle, Kumar Bhargav Viswanatha, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2609.33230) / [pdf](https://arxiv.org/pdf/2609.33230) |
 | 2026-09-25 | [DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103) | Jiangning Wei, Yuan Yao, Miaomiao Cui, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2609.31103) / [pdf](https://arxiv.org/pdf/2609.31103) |
 | 2026-09-24 | [M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis](https://arxiv.org/abs/2609.30056) | Yang Zhou, Jiuhong Xiao, Shizhao Ye, et al. | cs.RO, cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2609.30056) / [pdf](https://arxiv.org/pdf/2609.30056) |

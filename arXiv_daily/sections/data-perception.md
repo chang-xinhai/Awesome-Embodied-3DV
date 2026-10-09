@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 1821 · **Unique arXiv IDs:** 1821
+**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 1826 · **Unique arXiv IDs:** 1826
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-08 | [Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction](https://arxiv.org/abs/2610.12282) | Xiyuan Zhang, Yanming Yang, Kaiyuan Xu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.12282) / [pdf](https://arxiv.org/pdf/2610.12282) |
+| 2026-10-08 | [Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps](https://arxiv.org/abs/2610.11967) | Panagiotis Kiousis, Kuangyi Chen, Jun Zhang, et al. | cs.CV, cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.11967) / [pdf](https://arxiv.org/pdf/2610.11967) |
+| 2026-10-08 | [CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving](https://arxiv.org/abs/2610.11577) | Soham Pahari, Sudip Das, Arindam Das, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.11577) / [pdf](https://arxiv.org/pdf/2610.11577) |
+| 2026-10-08 | [TAP3D: Thermal-Assisted 3D Human Point Clouds](https://arxiv.org/abs/2610.11241) | Xie Zhang, Chengxiao Li, Xuan Liu, et al. | cs.CV, cs.HC | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.11241) / [pdf](https://arxiv.org/pdf/2610.11241) |
+| 2026-10-07 | [A Camera-Native Stereo VR180 Dataset](https://arxiv.org/abs/2610.10607) | Linxuan Lu | cs.CV, cs.MM | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.10607) / [pdf](https://arxiv.org/pdf/2610.10607) |
 | 2026-10-07 | [Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching](https://arxiv.org/abs/2610.09857) | Junjie Zhang, Deteng Zhang, Zhisong Xu, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.09857) / [pdf](https://arxiv.org/pdf/2610.09857) |
 | 2026-10-07 | [OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning](https://arxiv.org/abs/2610.09513) | Zhenyang Liu, Chenjie Cao, Yisu Zhang, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.09513) / [pdf](https://arxiv.org/pdf/2610.09513) |
 | 2026-10-07 | [Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning](https://arxiv.org/abs/2610.09450) | Hanqiu Li Cai, Chema Garabito | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.09450) / [pdf](https://arxiv.org/pdf/2610.09450) |

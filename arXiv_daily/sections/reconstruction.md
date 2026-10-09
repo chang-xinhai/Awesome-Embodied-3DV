@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 3023 · **Unique arXiv IDs:** 3023
+**Coverage:** 2025-01-01 to 2026-10-09 · **Papers:** 3033 · **Unique arXiv IDs:** 3033
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-08 | [GenIA: Generative Reconstruction with Test-Time Input Alignment](https://arxiv.org/abs/2610.12388) | Stefano Esposito, Naama Pearl, Polina Karpikova, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.12388) / [pdf](https://arxiv.org/pdf/2610.12388) |
+| 2026-10-08 | [Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction](https://arxiv.org/abs/2610.12282) | Xiyuan Zhang, Yanming Yang, Kaiyuan Xu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12282) / [pdf](https://arxiv.org/pdf/2610.12282) |
+| 2026-10-08 | [LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes](https://arxiv.org/abs/2610.12069) | Peijun Xu, Chuansen Nie, Yiyang He, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12069) / [pdf](https://arxiv.org/pdf/2610.12069) |
+| 2026-10-08 | [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](https://arxiv.org/abs/2610.11857) | Jingyi Pan, Dan Xu, Qiong Luo | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.11857) / [pdf](https://arxiv.org/pdf/2610.11857) |
+| 2026-10-08 | [PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors](https://arxiv.org/abs/2610.11612) | Haobo Jiang, Liang Yu, Jianmin Zheng | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.11612) / [pdf](https://arxiv.org/pdf/2610.11612) |
+| 2026-10-08 | [OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation](https://arxiv.org/abs/2610.11547) | Thomas Welsch, Min-Hsin Tu, David J. Chapman, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.11547) / [pdf](https://arxiv.org/pdf/2610.11547) |
+| 2026-10-08 | [RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM](https://arxiv.org/abs/2610.11531) | Hanjun Kim, Chiyun Noh, Sangwoo Jung, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.11531) / [pdf](https://arxiv.org/pdf/2610.11531) |
+| 2026-10-08 | [GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images](https://arxiv.org/abs/2610.11215) | Qirui Wu, Stan Birchfield, Hesam Rabeti, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.11215) / [pdf](https://arxiv.org/pdf/2610.11215) |
+| 2026-10-07 | [PCAsplat: Gaussian Splatting with Local PCA Regularization](https://arxiv.org/abs/2610.11011) | Vitor Matias, Filipe Nascimento, Kiyohiro Nakayama, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.11011) / [pdf](https://arxiv.org/pdf/2610.11011) |
 | 2026-10-07 | [Tetris3D: 3D Scene Generation With Objects That Fit Together](https://arxiv.org/abs/2610.10539) | Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.10539) / [pdf](https://arxiv.org/pdf/2610.10539) |
 | 2026-10-07 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | Yihan Li, Yating Feng, Shengjiu Sun, et al. | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.10479) / [pdf](https://arxiv.org/pdf/2610.10479) |
 | 2026-10-07 | [NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building](https://arxiv.org/abs/2610.10387) | Nillan Nimal, Mahboubeh Asadi, Sajad Saeedi | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.10387) / [pdf](https://arxiv.org/pdf/2610.10387) |
@@ -37,6 +46,7 @@
 | 2026-10-05 | [Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM](https://arxiv.org/abs/2610.05757) | Junhyun Nam, Wonse Jo | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.05757) / [pdf](https://arxiv.org/pdf/2610.05757) |
 | 2026-10-04 | [F$^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM](https://arxiv.org/abs/2610.05207) | Zhisong Xu, Fan Zhu, Jiawei Qian, et al. | cs.CV | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2610.05207) / [pdf](https://arxiv.org/pdf/2610.05207) |
 | 2026-10-03 | [Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance](https://arxiv.org/abs/2610.04606) | Shengqi Wang, Zhengxian Yang, Kaiwen Tian, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.04606) / [pdf](https://arxiv.org/pdf/2610.04606) |
+| 2026-10-02 | [Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes](https://arxiv.org/abs/2610.10564) | Zekui Xue | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.10564) / [pdf](https://arxiv.org/pdf/2610.10564) |
 | 2026-10-02 | [Return-to-Home Feasible Micro-Aerial Vehicle Exploration for 3D Gaussian Splatting Reconstruction](https://arxiv.org/abs/2610.04013) | Prajit Krisshnakumar, Fan Yang, Koichiro Niinuma | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.04013) / [pdf](https://arxiv.org/pdf/2610.04013) |
 | 2026-10-02 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](https://arxiv.org/abs/2610.03522) | Meng Wei, Cheng Zhang, Boying Li, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03522) / [pdf](https://arxiv.org/pdf/2610.03522) |
 | 2026-10-02 | [PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio](https://arxiv.org/abs/2610.03192) | Wenzhi Guo, Xianda Chen, Dongxuan Chen, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.03192) / [pdf](https://arxiv.org/pdf/2610.03192) |
