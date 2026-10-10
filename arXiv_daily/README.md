@@ -2,7 +2,7 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-10-09 · **Unique papers:** 9529
+**Coverage:** 2025-01-01 to 2026-10-10 · **Unique papers:** 9529
 
 ## Sections
 
