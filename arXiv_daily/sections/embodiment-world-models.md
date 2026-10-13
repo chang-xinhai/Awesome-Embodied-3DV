@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-12 · **Papers:** 2499 · **Unique arXiv IDs:** 2499
+**Coverage:** 2025-01-01 to 2026-10-13 · **Papers:** 2508 · **Unique arXiv IDs:** 2508
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-09 | [Splat2Act: From Captured Scenes to Personalized VLA Manipulation](https://arxiv.org/abs/2610.13945) | Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.13945) / [pdf](https://arxiv.org/pdf/2610.13945) |
+| 2026-10-09 | [Dream to Remember: Continual Steering of Generalist Robot Policies with World Models](https://arxiv.org/abs/2610.13816) | Bahey Tharwat, Iman Nematollahi, Marvin Alles, et al. | cs.RO, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.13816) / [pdf](https://arxiv.org/pdf/2610.13816) |
+| 2026-10-09 | [GLIMPSE: Global-Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models](https://arxiv.org/abs/2610.13706) | Zhufeng Xu, Henglei Lv, Bailin Deng, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.13706) / [pdf](https://arxiv.org/pdf/2610.13706) |
+| 2026-10-09 | [AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories](https://arxiv.org/abs/2610.13643) | Xuanye Wu, Yue Shi, Yongcan Yang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.13643) / [pdf](https://arxiv.org/pdf/2610.13643) |
+| 2026-10-09 | [Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics](https://arxiv.org/abs/2610.13522) | Peiyan Tu, Cong Wang, Hanxin Zhu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.13522) / [pdf](https://arxiv.org/pdf/2610.13522) |
+| 2026-10-09 | [ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving](https://arxiv.org/abs/2610.13409) | Yuhao Wei, Yong Chen, Chen Yang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.13409) / [pdf](https://arxiv.org/pdf/2610.13409) |
+| 2026-10-09 | [Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding](https://arxiv.org/abs/2610.13164) | Feng Jiang, Shu Chen, Yuanfei Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.13164) / [pdf](https://arxiv.org/pdf/2610.13164) |
+| 2026-10-09 | [Sampling-based Kinodynamic Planning with World Models](https://arxiv.org/abs/2610.12910) | Yitian Gao, Hanlan Yang, Zachary Kingston | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.12910) / [pdf](https://arxiv.org/pdf/2610.12910) |
+| 2026-10-09 | [TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation](https://arxiv.org/abs/2610.12877) | Lingjie Zhang, Jun Xue, Shanze Wang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.12877) / [pdf](https://arxiv.org/pdf/2610.12877) |
 | 2026-10-08 | [Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration](https://arxiv.org/abs/2610.12470) | Jusuk Lee, Sungha Kim, Yeonsoo Park, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.12470) / [pdf](https://arxiv.org/pdf/2610.12470) |
 | 2026-10-08 | [DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://arxiv.org/abs/2610.12468) | Junyan Li, Ruizhi Li, Yu Liu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.12468) / [pdf](https://arxiv.org/pdf/2610.12468) |
 | 2026-10-08 | [A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](https://arxiv.org/abs/2610.12465) | Octi Zhang, Mateo Guaman Castro, Patrick Yin, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.12465) / [pdf](https://arxiv.org/pdf/2610.12465) |

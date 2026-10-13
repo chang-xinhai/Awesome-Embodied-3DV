@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-12 · **Papers:** 3033 · **Unique arXiv IDs:** 3033
+**Coverage:** 2025-01-01 to 2026-10-13 · **Papers:** 3042 · **Unique arXiv IDs:** 3042
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-09 | [PhysForge: Material-Controllable 3D Reconstruction with Separable Components](https://arxiv.org/abs/2610.13681) | Yuchen Wang, Yanqi Bao, Zheng Gu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.13681) / [pdf](https://arxiv.org/pdf/2610.13681) |
+| 2026-10-09 | [CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction](https://arxiv.org/abs/2610.13177) | Bing He, Jingnan Gao, Yunuo Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.13177) / [pdf](https://arxiv.org/pdf/2610.13177) |
+| 2026-10-09 | [Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection](https://arxiv.org/abs/2610.13143) | Yi Zhang, Tian Tan, Ray Kai Leung Su | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.13143) / [pdf](https://arxiv.org/pdf/2610.13143) |
+| 2026-10-09 | [Volume Rendering with Metric--Phase Fields for Thin Structures and Sign-Ambiguous Geometry](https://arxiv.org/abs/2610.13088) | Junkai Deng, Jiayi Kong, Xuhui Chen, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.13088) / [pdf](https://arxiv.org/pdf/2610.13088) |
+| 2026-10-08 | [Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction](https://arxiv.org/abs/2610.12786) | Ehsan Agha Ebrahimi, Yong-Cheol Lee, Keith G. Mills | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12786) / [pdf](https://arxiv.org/pdf/2610.12786) |
+| 2026-10-08 | [Multimodal Image-based Robotic Assistance and Guidance Environment (MIRAGE): A Novel Unified Framework for Surgical Navigation and Visualization](https://arxiv.org/abs/2610.12780) | Ehsan Nasiri, Yi Zheng, Michael A. Kokko, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12780) / [pdf](https://arxiv.org/pdf/2610.12780) |
+| 2026-10-08 | [Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction](https://arxiv.org/abs/2610.12727) | Utkarsh Saxena, Ruijing Yang, Mehdi Rezagholizadeh, et al. | cs.CV, cs.LG | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12727) / [pdf](https://arxiv.org/pdf/2610.12727) |
+| 2026-10-08 | [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](https://arxiv.org/abs/2610.12624) | Jiuming Liu, Mengmeng Liu, Guangming Wang, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.12624) / [pdf](https://arxiv.org/pdf/2610.12624) |
+| 2026-10-08 | [MIRAGE: Metric Inference and Reliability-Aware Gaussian Estimation from Feed-Forward Vision](https://arxiv.org/abs/2610.12568) | Xinzhe Wang, Changjian Jiang, Kaiwen Song, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.12568) / [pdf](https://arxiv.org/pdf/2610.12568) |
 | 2026-10-08 | [GenIA: Generative Reconstruction with Test-Time Input Alignment](https://arxiv.org/abs/2610.12388) | Stefano Esposito, Naama Pearl, Polina Karpikova, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.12388) / [pdf](https://arxiv.org/pdf/2610.12388) |
 | 2026-10-08 | [Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction](https://arxiv.org/abs/2610.12282) | Xiyuan Zhang, Yanming Yang, Kaiyuan Xu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12282) / [pdf](https://arxiv.org/pdf/2610.12282) |
 | 2026-10-08 | [LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes](https://arxiv.org/abs/2610.12069) | Peijun Xu, Chuansen Nie, Yiyang He, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.12069) / [pdf](https://arxiv.org/pdf/2610.12069) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-12 · **Papers:** 1826 · **Unique arXiv IDs:** 1826
+**Coverage:** 2025-01-01 to 2026-10-13 · **Papers:** 1830 · **Unique arXiv IDs:** 1830
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-09 | [Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection](https://arxiv.org/abs/2610.13891) | Yiming Yang, Jeremy P. Bos | cs.CV, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.13891) / [pdf](https://arxiv.org/pdf/2610.13891) |
+| 2026-10-09 | [Gaussian Splatting with Reflections Guided by What is Seen](https://arxiv.org/abs/2610.13757) | Yiming Liang, Tianyu Xiao, Hiroshi Ishikawa | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.13757) / [pdf](https://arxiv.org/pdf/2610.13757) |
+| 2026-10-09 | [NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement](https://arxiv.org/abs/2610.13309) | Georgios Floros, Evangelos Sartinas, Orestis Vangelis, et al. | cs.CV, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.13309) / [pdf](https://arxiv.org/pdf/2610.13309) |
+| 2026-10-09 | [UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking](https://arxiv.org/abs/2610.13053) | Shiao Wang, Xiao Wang, Yuhe Ding, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.13053) / [pdf](https://arxiv.org/pdf/2610.13053) |
 | 2026-10-08 | [Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction](https://arxiv.org/abs/2610.12282) | Xiyuan Zhang, Yanming Yang, Kaiyuan Xu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.12282) / [pdf](https://arxiv.org/pdf/2610.12282) |
 | 2026-10-08 | [Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps](https://arxiv.org/abs/2610.11967) | Panagiotis Kiousis, Kuangyi Chen, Jun Zhang, et al. | cs.CV, cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.11967) / [pdf](https://arxiv.org/pdf/2610.11967) |
 | 2026-10-08 | [CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving](https://arxiv.org/abs/2610.11577) | Soham Pahari, Sudip Das, Arindam Das, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.11577) / [pdf](https://arxiv.org/pdf/2610.11577) |

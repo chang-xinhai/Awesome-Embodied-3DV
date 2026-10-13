@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-12 · **Papers:** 538 · **Unique arXiv IDs:** 538
+**Coverage:** 2025-01-01 to 2026-10-13 · **Papers:** 542 · **Unique arXiv IDs:** 542
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-09 | [Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection](https://arxiv.org/abs/2610.13891) | Yiming Yang, Jeremy P. Bos | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.13891) / [pdf](https://arxiv.org/pdf/2610.13891) |
+| 2026-10-09 | [3DRAG: 3D-Native Object Drag Editing with Generative Models](https://arxiv.org/abs/2610.13216) | Kuixiang Shao, Yuyang Jiao, Chenghao Zhang, et al. | cs.GR | Dataset | [abs](https://arxiv.org/abs/2610.13216) / [pdf](https://arxiv.org/pdf/2610.13216) |
+| 2026-10-08 | [Visual-Wi-Fi Navigation to Signal-Emitting Devices](https://arxiv.org/abs/2610.12733) | Lihao Wang, Tianjian Xu, Tianmin Shu, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.12733) / [pdf](https://arxiv.org/pdf/2610.12733) |
+| 2026-10-08 | [MIRAGE: Metric Inference and Reliability-Aware Gaussian Estimation from Feed-Forward Vision](https://arxiv.org/abs/2610.12568) | Xinzhe Wang, Changjian Jiang, Kaiwen Song, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.12568) / [pdf](https://arxiv.org/pdf/2610.12568) |
 | 2026-10-08 | [What 30,000 Hours of Ego-centric Video Does Not Teach](https://arxiv.org/abs/2610.12464) | Jiahua Dong, Anurag Bagchi, Yash Jangir, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.12464) / [pdf](https://arxiv.org/pdf/2610.12464) |
 | 2026-10-06 | [DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780) | Jai Bardhan, Josef Sivic, Vladimir Petrik | cs.RO, cs.AI, cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.08780) / [pdf](https://arxiv.org/pdf/2610.08780) |
 | 2026-10-06 | [Navigation with RF Cues: Embodied Perception Action under Multipath Uncertainty](https://arxiv.org/abs/2610.08105) | Wenlihan Lu, Tianshun Li, Liuqing Yang, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.08105) / [pdf](https://arxiv.org/pdf/2610.08105) |

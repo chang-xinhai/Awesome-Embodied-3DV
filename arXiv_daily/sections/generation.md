@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-12 · **Papers:** 1011 · **Unique arXiv IDs:** 1011
+**Coverage:** 2025-01-01 to 2026-10-13 · **Papers:** 1016 · **Unique arXiv IDs:** 1016
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-09 | [Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark](https://arxiv.org/abs/2610.13947) | Xudong Cai, Ruijie Zhu, Haoliang Shang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13947) / [pdf](https://arxiv.org/pdf/2610.13947) |
+| 2026-10-09 | [PhysForge: Material-Controllable 3D Reconstruction with Separable Components](https://arxiv.org/abs/2610.13681) | Yuchen Wang, Yanqi Bao, Zheng Gu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13681) / [pdf](https://arxiv.org/pdf/2610.13681) |
+| 2026-10-09 | [3DRAG: 3D-Native Object Drag Editing with Generative Models](https://arxiv.org/abs/2610.13216) | Kuixiang Shao, Yuyang Jiao, Chenghao Zhang, et al. | cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13216) / [pdf](https://arxiv.org/pdf/2610.13216) |
+| 2026-10-09 | [CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction](https://arxiv.org/abs/2610.13177) | Bing He, Jingnan Gao, Yunuo Chen, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.13177) / [pdf](https://arxiv.org/pdf/2610.13177) |
+| 2026-10-09 | [NOFACE3D: NOise-scheduled Focused Anchoring and Controlled Enhancement for 3D Generation](https://arxiv.org/abs/2610.13050) | James Rose, Jingwen Liang, Wenchao Ma, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13050) / [pdf](https://arxiv.org/pdf/2610.13050) |
 | 2026-10-08 | [SpaceFlow: Locally Controllable 3D Generation](https://arxiv.org/abs/2610.12399) | Neil De La Fuente, Joan Lafuente, Mukhammadali Sayfiddinov, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.12399) / [pdf](https://arxiv.org/pdf/2610.12399) |
 | 2026-10-08 | [GenIA: Generative Reconstruction with Test-Time Input Alignment](https://arxiv.org/abs/2610.12388) | Stefano Esposito, Naama Pearl, Polina Karpikova, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.12388) / [pdf](https://arxiv.org/pdf/2610.12388) |
 | 2026-10-08 | [HI3D 3.0 (Twinkle3D): Object-specific 3D Asset Generation with High Resolution](https://arxiv.org/abs/2610.11685) | Ziying Li, Shengchu Zhao, Huiang He, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.11685) / [pdf](https://arxiv.org/pdf/2610.11685) |
