@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-14 · **Papers:** 542 · **Unique arXiv IDs:** 542
+**Coverage:** 2025-01-01 to 2026-10-14 · **Papers:** 545 · **Unique arXiv IDs:** 545
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-13 | [Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory](https://arxiv.org/abs/2610.18238) | Qian Chen, Xianyin Zhang, Lifan Guo, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.18238) / [pdf](https://arxiv.org/pdf/2610.18238) |
+| 2026-10-13 | [Code2Worlds-2: Physically Plausible Agent Harness for Embodied World Simulation](https://arxiv.org/abs/2610.17651) | Haoyu Zhang, Siming Li, Zeyu Zhang, et al. | cs.RO, cs.CV | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.17651) / [pdf](https://arxiv.org/pdf/2610.17651) |
+| 2026-10-13 | [YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation](https://arxiv.org/abs/2610.17521) | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, et al. | cs.RO, cs.AI | Benchmark / Metric, Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.17521) / [pdf](https://arxiv.org/pdf/2610.17521) |
 | 2026-10-09 | [Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection](https://arxiv.org/abs/2610.13891) | Yiming Yang, Jeremy P. Bos | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.13891) / [pdf](https://arxiv.org/pdf/2610.13891) |
 | 2026-10-09 | [3DRAG: 3D-Native Object Drag Editing with Generative Models](https://arxiv.org/abs/2610.13216) | Kuixiang Shao, Yuyang Jiao, Chenghao Zhang, et al. | cs.GR | Dataset | [abs](https://arxiv.org/abs/2610.13216) / [pdf](https://arxiv.org/pdf/2610.13216) |
 | 2026-10-08 | [Visual-Wi-Fi Navigation to Signal-Emitting Devices](https://arxiv.org/abs/2610.12733) | Lihao Wang, Tianjian Xu, Tianmin Shu, et al. | cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.12733) / [pdf](https://arxiv.org/pdf/2610.12733) |

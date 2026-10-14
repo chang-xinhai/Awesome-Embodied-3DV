@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-14 · **Papers:** 1016 · **Unique arXiv IDs:** 1016
+**Coverage:** 2025-01-01 to 2026-10-14 · **Papers:** 1029 · **Unique arXiv IDs:** 1029
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,19 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-13 | [WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World](https://arxiv.org/abs/2610.18846) | Mengchen Zhang, Yang Li, Chunshi Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.18846) / [pdf](https://arxiv.org/pdf/2610.18846) |
+| 2026-10-13 | [Simplifying and Improving On-Policy Distillation for Few-Step Diffusion](https://arxiv.org/abs/2610.18472) | Jiawei Zhang, Ziyu Wan, Nanye Ma, et al. | cs.CV, cs.LG, eess.IV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.18472) / [pdf](https://arxiv.org/pdf/2610.18472) |
+| 2026-10-13 | [CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446) | Han Liang, Sibo Wu, Anpei Chen, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.18446) / [pdf](https://arxiv.org/pdf/2610.18446) |
+| 2026-10-13 | [CityCode: Building Agent-Operable 3D Cities from Sparse Aerial Observations](https://arxiv.org/abs/2610.18342) | Jiahui Sun, Ran Bi, Yifei Liu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.18342) / [pdf](https://arxiv.org/pdf/2610.18342) |
+| 2026-10-13 | [A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry](https://arxiv.org/abs/2610.17705) | U-Chae Jun, Yoonhyuk Choi, Jiwoo Kang | cs.CV, cs.LG | Scene / World Generation | [abs](https://arxiv.org/abs/2610.17705) / [pdf](https://arxiv.org/pdf/2610.17705) |
+| 2026-10-13 | [Physical-Field-Bridged Material Parameter Inference from Multi-View Deformation Videos](https://arxiv.org/abs/2610.17591) | Linrui Shou, Jie Li, Yu Liu, et al. | cs.CV, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.17591) / [pdf](https://arxiv.org/pdf/2610.17591) |
+| 2026-10-13 | [YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation](https://arxiv.org/abs/2610.17521) | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, et al. | cs.RO, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2610.17521) / [pdf](https://arxiv.org/pdf/2610.17521) |
+| 2026-10-13 | [Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs](https://arxiv.org/abs/2610.17513) | Ashim Dahal, Rabab Abdelfattah, Nick Rahimi | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.17513) / [pdf](https://arxiv.org/pdf/2610.17513) |
+| 2026-10-12 | [DiTSG: Context-Aware Air Traffic Scene Generation with Multi-Agent Diffusion Transformers](https://arxiv.org/abs/2610.16959) | Seokbin Yoon, Kyungmin Kim, Taejung Kwon, et al. | cs.MA, cs.LG, cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2610.16959) / [pdf](https://arxiv.org/pdf/2610.16959) |
+| 2026-10-11 | [ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning](https://arxiv.org/abs/2610.15734) | Ken Deng, Jiarui Liu, Guibiao Liao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.15734) / [pdf](https://arxiv.org/pdf/2610.15734) |
+| 2026-10-11 | [UMAS3D: Unified Mask-Free 3D Editing with Region-Adaptive Source Preservation](https://arxiv.org/abs/2610.15533) | Xianlin Zeng, Xiaolong Shen, Ruijie Quan, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.15533) / [pdf](https://arxiv.org/pdf/2610.15533) |
+| 2026-10-11 | [Channel Match: Calibrating Shape Latents for Few-Step 3D Generation](https://arxiv.org/abs/2610.15321) | Di Yang, Zhihao Li, Yanhai Xiong, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.15321) / [pdf](https://arxiv.org/pdf/2610.15321) |
+| 2026-10-09 | [TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback](https://arxiv.org/abs/2610.14153) | Jingyu Liu, Hao Jiang, Yikang Ding, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.14153) / [pdf](https://arxiv.org/pdf/2610.14153) |
 | 2026-10-09 | [Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark](https://arxiv.org/abs/2610.13947) | Xudong Cai, Ruijie Zhu, Haoliang Shang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13947) / [pdf](https://arxiv.org/pdf/2610.13947) |
 | 2026-10-09 | [PhysForge: Material-Controllable 3D Reconstruction with Separable Components](https://arxiv.org/abs/2610.13681) | Yuchen Wang, Yanqi Bao, Zheng Gu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13681) / [pdf](https://arxiv.org/pdf/2610.13681) |
 | 2026-10-09 | [3DRAG: 3D-Native Object Drag Editing with Generative Models](https://arxiv.org/abs/2610.13216) | Kuixiang Shao, Yuyang Jiao, Chenghao Zhang, et al. | cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13216) / [pdf](https://arxiv.org/pdf/2610.13216) |
