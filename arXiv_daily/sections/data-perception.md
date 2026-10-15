@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-15 · **Papers:** 1848 · **Unique arXiv IDs:** 1848
+**Coverage:** 2025-01-01 to 2026-10-15 · **Papers:** 1856 · **Unique arXiv IDs:** 1856
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-14 | [Event Cameras versus Frame Cameras for Synthetic-Aperture Imaging: A Simulation Study](https://arxiv.org/abs/2610.20309) | Jakob Hinterholzer, Mohamed Youssef, Oliver Bimber | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.20309) / [pdf](https://arxiv.org/pdf/2610.20309) |
+| 2026-10-14 | [PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents](https://arxiv.org/abs/2610.20240) | Siqi Yang, Yimu Wang, Ziqi Cai, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.20240) / [pdf](https://arxiv.org/pdf/2610.20240) |
+| 2026-10-14 | [HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration](https://arxiv.org/abs/2610.19742) | Annie Bhalla, Dennis Rotondi, Riccardo Giubilato, et al. | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.19742) / [pdf](https://arxiv.org/pdf/2610.19742) |
+| 2026-10-14 | [MicroSDF: Microfacet-Driven Hybrid Neural SDFs for Mixed-Reflectance Surface Reconstruction](https://arxiv.org/abs/2610.19681) | Lejia Ye, Yuhua Xu, Yulan Guo, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.19681) / [pdf](https://arxiv.org/pdf/2610.19681) |
+| 2026-10-14 | [Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry](https://arxiv.org/abs/2610.19674) | Soumick Sarker, Mengmi Zhang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.19674) / [pdf](https://arxiv.org/pdf/2610.19674) |
+| 2026-10-14 | [GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation](https://arxiv.org/abs/2610.19541) | Ashraf Siddique, Kyung Min Han, Young J. Kim | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.19541) / [pdf](https://arxiv.org/pdf/2610.19541) |
+| 2026-10-14 | [Holi-Spatial 360: Generative Reconstruction from Sparse Panoramas for Spatial Rendering and Intelligence](https://arxiv.org/abs/2610.19502) | Yuanyuan Gao, Zhirui Liu, Yuning Gong, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.19502) / [pdf](https://arxiv.org/pdf/2610.19502) |
+| 2026-10-13 | [Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments](https://arxiv.org/abs/2610.19097) | Klára Orbán, Ashwin Nedungadi, Ana-Ştefania Kogălniceanu, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.19097) / [pdf](https://arxiv.org/pdf/2610.19097) |
 | 2026-10-13 | [RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping](https://arxiv.org/abs/2610.18479) | Jan Steckel | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.18479) / [pdf](https://arxiv.org/pdf/2610.18479) |
 | 2026-10-13 | [Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling](https://arxiv.org/abs/2610.18422) | Anuska Sarkar, Partha Acharya, Vishnu Nandury, et al. | eess.IV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.18422) / [pdf](https://arxiv.org/pdf/2610.18422) |
 | 2026-10-13 | [CityCode: Building Agent-Operable 3D Cities from Sparse Aerial Observations](https://arxiv.org/abs/2610.18342) | Jiahui Sun, Ran Bi, Yifei Liu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.18342) / [pdf](https://arxiv.org/pdf/2610.18342) |

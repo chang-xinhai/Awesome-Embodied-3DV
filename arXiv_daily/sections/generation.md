@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-15 · **Papers:** 1029 · **Unique arXiv IDs:** 1029
+**Coverage:** 2025-01-01 to 2026-10-15 · **Papers:** 1033 · **Unique arXiv IDs:** 1033
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-14 | [OneLA: Learning Many Worlds from Latent Actions](https://arxiv.org/abs/2610.20160) | Ziyu Zhu, Zhaoxu Sun, Fan Jiang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.20160) / [pdf](https://arxiv.org/pdf/2610.20160) |
+| 2026-10-14 | [SceneAE: Scene Generation and Reconstruction in Queryable 3D-Anchored Latent Space](https://arxiv.org/abs/2610.19708) | Shuofeng Sun, Wenzhao Zheng, Yunpeng Zhang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2610.19708) / [pdf](https://arxiv.org/pdf/2610.19708) |
+| 2026-10-14 | [MagicGarment: Benchmarking Single-Image Standalone 3D Garment Reconstruction](https://arxiv.org/abs/2610.19623) | Jia Chen, Ruyang Zhao, Jun Bai, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.19623) / [pdf](https://arxiv.org/pdf/2610.19623) |
+| 2026-10-14 | [Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation](https://arxiv.org/abs/2610.19530) | Konan Sasaki, Junya Komori, Kazuhiro Hotta | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.19530) / [pdf](https://arxiv.org/pdf/2610.19530) |
 | 2026-10-13 | [WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World](https://arxiv.org/abs/2610.18846) | Mengchen Zhang, Yang Li, Chunshi Wang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.18846) / [pdf](https://arxiv.org/pdf/2610.18846) |
 | 2026-10-13 | [Simplifying and Improving On-Policy Distillation for Few-Step Diffusion](https://arxiv.org/abs/2610.18472) | Jiawei Zhang, Ziyu Wan, Nanye Ma, et al. | cs.CV, cs.LG, eess.IV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.18472) / [pdf](https://arxiv.org/pdf/2610.18472) |
 | 2026-10-13 | [CoTL: Compact Token Learning for 3D Scene Representation](https://arxiv.org/abs/2610.18446) | Han Liang, Sibo Wu, Anpei Chen, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.18446) / [pdf](https://arxiv.org/pdf/2610.18446) |
