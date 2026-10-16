@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 2575 · **Unique arXiv IDs:** 2575
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 2587 · **Unique arXiv IDs:** 2587
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,18 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](https://arxiv.org/abs/2610.22364) | Chenyuan Zhou, Yining Hong, Huang Huang, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.22364) / [pdf](https://arxiv.org/pdf/2610.22364) |
+| 2026-10-15 | [GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](https://arxiv.org/abs/2610.22343) | Hongchang Liu, Jian Liu, Yujuan Ding, et al. | cs.CV, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.22343) / [pdf](https://arxiv.org/pdf/2610.22343) |
+| 2026-10-15 | [Dexterity from Supervised Play](https://arxiv.org/abs/2610.22340) | Botao He, Yiming Dou, Yiannis Aloimonos, et al. | cs.RO, cs.AI | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2610.22340) / [pdf](https://arxiv.org/pdf/2610.22340) |
+| 2026-10-15 | [Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce](https://arxiv.org/abs/2610.22337) | Al Bashir, Partho Ghose, Yibin Wang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.22337) / [pdf](https://arxiv.org/pdf/2610.22337) |
+| 2026-10-15 | [Whole-Body Dexterity](https://arxiv.org/abs/2610.22184) | Conor Mc Gartoll, An Dang, Pranay Thangeda, et al. | cs.RO, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.22184) / [pdf](https://arxiv.org/pdf/2610.22184) |
+| 2026-10-15 | [VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models](https://arxiv.org/abs/2610.21985) | Xueli Sun, Yuxiang Lu, Yantong Liu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.21985) / [pdf](https://arxiv.org/pdf/2610.21985) |
+| 2026-10-15 | [CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness](https://arxiv.org/abs/2610.21910) | Dongjie Cheng, Ruifeng Yuan, Ran Wei, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.21910) / [pdf](https://arxiv.org/pdf/2610.21910) |
+| 2026-10-15 | [MAIA: Anticipating Interaction Anomalies in Contact-Rich Manipulation via Multimodal World Models](https://arxiv.org/abs/2610.21686) | Yi Qiao, Maolin Zheng, Haoran Sun, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.21686) / [pdf](https://arxiv.org/pdf/2610.21686) |
+| 2026-10-15 | [GRASE: Geometry-native Real-to-sim Agentic Scene Modeling from Video](https://arxiv.org/abs/2610.21498) | Zhaorui Lin, Haohan Liu, Zhen Chen, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.21498) / [pdf](https://arxiv.org/pdf/2610.21498) |
+| 2026-10-15 | [From Optical Flow to Safety: Visual Safety Certification via Scale-Free Relative Motion](https://arxiv.org/abs/2610.21374) | Bazeela Banday, Jishnu Keshavan | cs.RO, eess.SY | World Model | [abs](https://arxiv.org/abs/2610.21374) / [pdf](https://arxiv.org/pdf/2610.21374) |
+| 2026-10-14 | [SOMA: Stack-of-Objects Manipulation using a Quadruped Robot](https://arxiv.org/abs/2610.20968) | Stergios E. Bachoumas, Panagiotis Artemiadis | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2610.20968) / [pdf](https://arxiv.org/pdf/2610.20968) |
+| 2026-10-14 | [SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References](https://arxiv.org/abs/2610.20863) | Samuele Cornell, Matthew Maciejewski | eess.AS, cs.LG, cs.SD | Sim-to-Real | [abs](https://arxiv.org/abs/2610.20863) / [pdf](https://arxiv.org/pdf/2610.20863) |
 | 2026-10-14 | [SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving](https://arxiv.org/abs/2610.20609) | Shaoyuan Xie, Zihan Zhang, Jingxuan Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.20609) / [pdf](https://arxiv.org/pdf/2610.20609) |
 | 2026-10-14 | [AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning](https://arxiv.org/abs/2610.20336) | Jiawei Zhang, Chang Liu, Litao Deng, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.20336) / [pdf](https://arxiv.org/pdf/2610.20336) |
 | 2026-10-14 | [PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents](https://arxiv.org/abs/2610.20240) | Siqi Yang, Yimu Wang, Ziqi Cai, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.20240) / [pdf](https://arxiv.org/pdf/2610.20240) |

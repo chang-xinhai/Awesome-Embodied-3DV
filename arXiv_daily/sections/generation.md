@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 1033 · **Unique arXiv IDs:** 1033
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 1037 · **Unique arXiv IDs:** 1037
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [Grounding Generative Verification in 3D Content](https://arxiv.org/abs/2610.22360) | Shuanglin Li, Jiaying Lin, Shuquan Ye | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.22360) / [pdf](https://arxiv.org/pdf/2610.22360) |
+| 2026-10-15 | [SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://arxiv.org/abs/2610.22352) | Chen Yang, Jiemin Fang, Fanpeng Meng, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.22352) / [pdf](https://arxiv.org/pdf/2610.22352) |
+| 2026-10-15 | [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](https://arxiv.org/abs/2610.21850) | Yiqun Zhao, Binbin Huang, Haobin Duan, et al. | cs.CV, cs.GR | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.21850) / [pdf](https://arxiv.org/pdf/2610.21850) |
+| 2026-10-15 | [Edit4D: Editable 4D Scene Generation with Textual Control](https://arxiv.org/abs/2610.21668) | Chanwoo Kim, Tackgeun You, Hwasup Lim | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.21668) / [pdf](https://arxiv.org/pdf/2610.21668) |
 | 2026-10-14 | [OneLA: Learning Many Worlds from Latent Actions](https://arxiv.org/abs/2610.20160) | Ziyu Zhu, Zhaoxu Sun, Fan Jiang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.20160) / [pdf](https://arxiv.org/pdf/2610.20160) |
 | 2026-10-14 | [SceneAE: Scene Generation and Reconstruction in Queryable 3D-Anchored Latent Space](https://arxiv.org/abs/2610.19708) | Shuofeng Sun, Wenzhao Zheng, Yunpeng Zhang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2610.19708) / [pdf](https://arxiv.org/pdf/2610.19708) |
 | 2026-10-14 | [MagicGarment: Benchmarking Single-Image Standalone 3D Garment Reconstruction](https://arxiv.org/abs/2610.19623) | Jia Chen, Ruyang Zhao, Jun Bai, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.19623) / [pdf](https://arxiv.org/pdf/2610.19623) |

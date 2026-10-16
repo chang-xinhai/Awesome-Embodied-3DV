@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 1856 · **Unique arXiv IDs:** 1856
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 1859 · **Unique arXiv IDs:** 1859
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [Illumination-Aware Active Perception for Spacecraft Inspection](https://arxiv.org/abs/2610.22335) | Sagarika Rao Valluri, Benjamin Riviere | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.22335) / [pdf](https://arxiv.org/pdf/2610.22335) |
+| 2026-10-15 | [GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama](https://arxiv.org/abs/2610.21297) | Jing OU, Zidong Cao, Liaoyuan Fan, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.21297) / [pdf](https://arxiv.org/pdf/2610.21297) |
+| 2026-10-14 | [Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments](https://arxiv.org/abs/2610.20958) | Dara Molloy, Terry Wu, Wonju Lee, et al. | cs.RO, cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.20958) / [pdf](https://arxiv.org/pdf/2610.20958) |
 | 2026-10-14 | [Event Cameras versus Frame Cameras for Synthetic-Aperture Imaging: A Simulation Study](https://arxiv.org/abs/2610.20309) | Jakob Hinterholzer, Mohamed Youssef, Oliver Bimber | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.20309) / [pdf](https://arxiv.org/pdf/2610.20309) |
 | 2026-10-14 | [PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents](https://arxiv.org/abs/2610.20240) | Siqi Yang, Yimu Wang, Ziqi Cai, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.20240) / [pdf](https://arxiv.org/pdf/2610.20240) |
 | 2026-10-14 | [HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration](https://arxiv.org/abs/2610.19742) | Annie Bhalla, Dennis Rotondi, Riccardo Giubilato, et al. | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.19742) / [pdf](https://arxiv.org/pdf/2610.19742) |

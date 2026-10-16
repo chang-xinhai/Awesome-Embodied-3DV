@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 3076 · **Unique arXiv IDs:** 3076
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 3085 · **Unique arXiv IDs:** 3085
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2610.22356) | Han Su, Meng Tian, Tianyu Huang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.22356) / [pdf](https://arxiv.org/pdf/2610.22356) |
+| 2026-10-15 | [GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](https://arxiv.org/abs/2610.22343) | Hongchang Liu, Jian Liu, Yujuan Ding, et al. | cs.CV, cs.AI, cs.LG | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.22343) / [pdf](https://arxiv.org/pdf/2610.22343) |
+| 2026-10-15 | [Motion- and Gravity-Aware Feedforward 3D Reconstruction](https://arxiv.org/abs/2610.22177) | Shiyao Qian, Yuan Ren, Dongfeng Bai | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.22177) / [pdf](https://arxiv.org/pdf/2610.22177) |
+| 2026-10-15 | [Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation](https://arxiv.org/abs/2610.21634) | Sheng Ye, Jiangke Lin, Fudong Wang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.21634) / [pdf](https://arxiv.org/pdf/2610.21634) |
+| 2026-10-15 | [AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory](https://arxiv.org/abs/2610.21586) | Jing Xia, Changyan Li, Yuduo Wang, et al. | cs.RO, cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.21586) / [pdf](https://arxiv.org/pdf/2610.21586) |
+| 2026-10-15 | [CLAD: Keypoint Matching Using Global Line Correspondences](https://arxiv.org/abs/2610.21409) | Masaki Satoh | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.21409) / [pdf](https://arxiv.org/pdf/2610.21409) |
+| 2026-10-15 | [GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama](https://arxiv.org/abs/2610.21297) | Jing OU, Zidong Cao, Liaoyuan Fan, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.21297) / [pdf](https://arxiv.org/pdf/2610.21297) |
+| 2026-10-15 | [LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation](https://arxiv.org/abs/2610.21199) | Shiqi Che, Yijie Liu, Shuo Wang, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.21199) / [pdf](https://arxiv.org/pdf/2610.21199) |
+| 2026-10-14 | [Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments](https://arxiv.org/abs/2610.20958) | Dara Molloy, Terry Wu, Wonju Lee, et al. | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.20958) / [pdf](https://arxiv.org/pdf/2610.20958) |
 | 2026-10-14 | [Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590) | Seungmi Choi, Ji-Hyoun Choi, Suhyun Jo, et al. | cs.CV | Feed-Forward Geometry, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.20590) / [pdf](https://arxiv.org/pdf/2610.20590) |
 | 2026-10-14 | [Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It](https://arxiv.org/abs/2610.19993) | Ana-Ştefania Kogălniceanu, Klára Orbán, Ashwin Nedungadi, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.19993) / [pdf](https://arxiv.org/pdf/2610.19993) |
 | 2026-10-14 | [HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration](https://arxiv.org/abs/2610.19742) | Annie Bhalla, Dennis Rotondi, Riccardo Giubilato, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.19742) / [pdf](https://arxiv.org/pdf/2610.19742) |

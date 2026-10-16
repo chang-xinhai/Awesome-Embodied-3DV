@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 3153 · **Unique arXiv IDs:** 3153
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 3161 · **Unique arXiv IDs:** 3161
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [CF-Splat: Closed-Form Triangle Splatting with Mesh Priors](https://arxiv.org/abs/2610.22108) | Yixin Fang, Liang Zhao | cs.RO | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2610.22108) / [pdf](https://arxiv.org/pdf/2610.22108) |
+| 2026-10-15 | [Compression of Uniformly Distributed Unit Quaternions](https://arxiv.org/abs/2610.22052) | Carsten Faber, Bastian Kuth, Rinaldo Schuster, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.22052) / [pdf](https://arxiv.org/pdf/2610.22052) |
+| 2026-10-15 | [Edit4D: Editable 4D Scene Generation with Textual Control](https://arxiv.org/abs/2610.21668) | Chanwoo Kim, Tackgeun You, Hwasup Lim | cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.21668) / [pdf](https://arxiv.org/pdf/2610.21668) |
+| 2026-10-15 | [Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation](https://arxiv.org/abs/2610.21634) | Sheng Ye, Jiangke Lin, Fudong Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.21634) / [pdf](https://arxiv.org/pdf/2610.21634) |
+| 2026-10-15 | [Training-Free Target-Aware Refinement of 3D Gaussian Language Map](https://arxiv.org/abs/2610.21619) | Sibaek Lee, Kyeongsu Kang, Seongbo Ha, et al. | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.21619) / [pdf](https://arxiv.org/pdf/2610.21619) |
+| 2026-10-15 | [LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation](https://arxiv.org/abs/2610.21199) | Shiqi Che, Yijie Liu, Shuo Wang, et al. | cs.RO | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.21199) / [pdf](https://arxiv.org/pdf/2610.21199) |
+| 2026-10-15 | [ResStreamGS: Residual-Sensitive Dual-Stream Gaussian Splatting for Mobile Volumetric Video Streaming](https://arxiv.org/abs/2610.21121) | Haoran Liu, Di Wu, Wang Luo, et al. | cs.GR, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.21121) / [pdf](https://arxiv.org/pdf/2610.21121) |
+| 2026-10-14 | [Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation](https://arxiv.org/abs/2610.20818) | Qian Yu, Zongyang Qiu, Juncheng Yan, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2610.20818) / [pdf](https://arxiv.org/pdf/2610.20818) |
 | 2026-10-14 | [Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590) | Seungmi Choi, Ji-Hyoun Choi, Suhyun Jo, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.20590) / [pdf](https://arxiv.org/pdf/2610.20590) |
 | 2026-10-14 | [Where Should the Gaussians Go? Reusable Label-Aware Allocation for Budget-Constrained Gaussian Splatting of Cinematic CT](https://arxiv.org/abs/2610.20397) | Bowen Xiang, Dingjie Su, Jon S. Heiselman, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.20397) / [pdf](https://arxiv.org/pdf/2610.20397) |
 | 2026-10-14 | [VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting](https://arxiv.org/abs/2610.19847) | Sven Kluge, Oliver Staadt | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.19847) / [pdf](https://arxiv.org/pdf/2610.19847) |

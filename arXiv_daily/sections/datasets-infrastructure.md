@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 545 · **Unique arXiv IDs:** 545
+**Coverage:** 2025-01-01 to 2026-10-16 · **Papers:** 547 · **Unique arXiv IDs:** 547
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-15 | [RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching](https://arxiv.org/abs/2610.21086) | Liangjing Shao, Wanhao Liu, Zhiwei Fang, et al. | cs.CV, cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.21086) / [pdf](https://arxiv.org/pdf/2610.21086) |
+| 2026-10-14 | [Orbia: Do Generated Videos Form a Consistent 3D World?](https://arxiv.org/abs/2610.20693) | Dongyue Lu, Guian Fang, Hur Lim, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.20693) / [pdf](https://arxiv.org/pdf/2610.20693) |
 | 2026-10-13 | [Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory](https://arxiv.org/abs/2610.18238) | Qian Chen, Xianyin Zhang, Lifan Guo, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.18238) / [pdf](https://arxiv.org/pdf/2610.18238) |
 | 2026-10-13 | [Code2Worlds-2: Physically Plausible Agent Harness for Embodied World Simulation](https://arxiv.org/abs/2610.17651) | Haoyu Zhang, Siming Li, Zeyu Zhang, et al. | cs.RO, cs.CV | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.17651) / [pdf](https://arxiv.org/pdf/2610.17651) |
 | 2026-10-13 | [YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation](https://arxiv.org/abs/2610.17521) | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, et al. | cs.RO, cs.AI | Benchmark / Metric, Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.17521) / [pdf](https://arxiv.org/pdf/2610.17521) |
