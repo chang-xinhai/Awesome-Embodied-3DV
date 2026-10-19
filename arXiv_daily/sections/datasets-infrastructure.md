@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 547 · **Unique arXiv IDs:** 547
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 548 · **Unique arXiv IDs:** 548
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](https://arxiv.org/abs/2610.23600) | Mengtan Zhang, Yuchuan Cui, Yu Ma, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.23600) / [pdf](https://arxiv.org/pdf/2610.23600) |
 | 2026-10-15 | [RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching](https://arxiv.org/abs/2610.21086) | Liangjing Shao, Wanhao Liu, Zhiwei Fang, et al. | cs.CV, cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.21086) / [pdf](https://arxiv.org/pdf/2610.21086) |
 | 2026-10-14 | [Orbia: Do Generated Videos Form a Consistent 3D World?](https://arxiv.org/abs/2610.20693) | Dongyue Lu, Guian Fang, Hur Lim, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.20693) / [pdf](https://arxiv.org/pdf/2610.20693) |
 | 2026-10-13 | [Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory](https://arxiv.org/abs/2610.18238) | Qian Chen, Xianyin Zhang, Lifan Guo, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.18238) / [pdf](https://arxiv.org/pdf/2610.18238) |

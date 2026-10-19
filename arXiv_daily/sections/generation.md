@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 1037 · **Unique arXiv IDs:** 1037
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 1041 · **Unique arXiv IDs:** 1041
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity](https://arxiv.org/abs/2610.23659) | Yiqun Zhao, Jiachen Xu, Yihao Zhi, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.23659) / [pdf](https://arxiv.org/pdf/2610.23659) |
+| 2026-10-16 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://arxiv.org/abs/2610.23121) | Xuanyu Liu, Hongyan Feng, Miao Pan, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.23121) / [pdf](https://arxiv.org/pdf/2610.23121) |
+| 2026-10-16 | [TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050) | Yun Wang, Chiyu Wang, Fan Jiang, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2610.23050) / [pdf](https://arxiv.org/pdf/2610.23050) |
+| 2026-10-15 | [HilbertGen-3D:Hilbert--Multifractal Conditioning for Topology-Aware 3D Generation](https://arxiv.org/abs/2610.22720) | Ziyi Zhang, Shixuan Li, Yorie Nakahira, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.22720) / [pdf](https://arxiv.org/pdf/2610.22720) |
 | 2026-10-15 | [Grounding Generative Verification in 3D Content](https://arxiv.org/abs/2610.22360) | Shuanglin Li, Jiaying Lin, Shuquan Ye | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.22360) / [pdf](https://arxiv.org/pdf/2610.22360) |
 | 2026-10-15 | [SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://arxiv.org/abs/2610.22352) | Chen Yang, Jiemin Fang, Fanpeng Meng, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.22352) / [pdf](https://arxiv.org/pdf/2610.22352) |
 | 2026-10-15 | [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](https://arxiv.org/abs/2610.21850) | Yiqun Zhao, Binbin Huang, Haobin Duan, et al. | cs.CV, cs.GR | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.21850) / [pdf](https://arxiv.org/pdf/2610.21850) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 2587 · **Unique arXiv IDs:** 2587
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 2601 · **Unique arXiv IDs:** 2601
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,20 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts](https://arxiv.org/abs/2610.23849) | Antonia Bronars, Younghyo Park, Kushal Kedia, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.23849) / [pdf](https://arxiv.org/pdf/2610.23849) |
+| 2026-10-16 | [Persistent Planar Memory for Video World Models](https://arxiv.org/abs/2610.23795) | Yuze He, Bin Tan, Zelin Gao, et al. | cs.CV | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.23795) / [pdf](https://arxiv.org/pdf/2610.23795) |
+| 2026-10-16 | [Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation](https://arxiv.org/abs/2610.23622) | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, et al. | cs.RO | Dynamic Scene Graph, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.23622) / [pdf](https://arxiv.org/pdf/2610.23622) |
+| 2026-10-16 | [Execution Before Memory: Diagnosing Memory Failures in Video World Models](https://arxiv.org/abs/2610.23542) | Weiyang Jin, Jiwen Yu, Sihan Xu, et al. | cs.CV, cs.CL | World Model | [abs](https://arxiv.org/abs/2610.23542) / [pdf](https://arxiv.org/pdf/2610.23542) |
+| 2026-10-16 | [No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?](https://arxiv.org/abs/2610.23438) | Ayush Deshmukh, Nalin Agarwal, Elle Miller, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.23438) / [pdf](https://arxiv.org/pdf/2610.23438) |
+| 2026-10-16 | [LithoWorld: An Endpoint World Model for Lithography Process-Window Recovery](https://arxiv.org/abs/2610.23408) | Botong Zhao, Fang Yu, Xinyuan Chen, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.23408) / [pdf](https://arxiv.org/pdf/2610.23408) |
+| 2026-10-16 | [AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation](https://arxiv.org/abs/2610.23396) | Jiawei Geng, Zhenyang Liu, Yuzheng Wu, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.23396) / [pdf](https://arxiv.org/pdf/2610.23396) |
+| 2026-10-16 | [ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation](https://arxiv.org/abs/2610.23156) | Yueyang Weng, Xiaopeng Zhang, Yuxi Ou, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.23156) / [pdf](https://arxiv.org/pdf/2610.23156) |
+| 2026-10-16 | [BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL](https://arxiv.org/abs/2610.23127) | Liyun Yan, Haoyang Li, Yang Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.23127) / [pdf](https://arxiv.org/pdf/2610.23127) |
+| 2026-10-16 | [PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development](https://arxiv.org/abs/2610.23019) | Lang Zhu, Xin Zhang, Yulong Sun, et al. | cs.RO, eess.SP | Sim-to-Real | [abs](https://arxiv.org/abs/2610.23019) / [pdf](https://arxiv.org/pdf/2610.23019) |
+| 2026-10-16 | [HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies](https://arxiv.org/abs/2610.22895) | Youngrae Kim, Yejin Jang, Eunho Kim, et al. | cs.CV, cs.AI | Interaction / Affordance | [abs](https://arxiv.org/abs/2610.22895) / [pdf](https://arxiv.org/pdf/2610.22895) |
+| 2026-10-15 | [GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations](https://arxiv.org/abs/2610.22708) | Nicholas Saban, Charvi Bannur, Mariya Vasileva, et al. | cs.AI, cs.CL | World Model | [abs](https://arxiv.org/abs/2610.22708) / [pdf](https://arxiv.org/pdf/2610.22708) |
+| 2026-10-15 | [Is a Linear Probe Evidence of a Linear Representation?](https://arxiv.org/abs/2610.22655) | Nadir Kutluozen, Christian Internò, David Klindt | stat.ML, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.22655) / [pdf](https://arxiv.org/pdf/2610.22655) |
+| 2026-10-15 | [Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations](https://arxiv.org/abs/2610.22576) | Devin Han, Hershraj Niranjani | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.22576) / [pdf](https://arxiv.org/pdf/2610.22576) |
 | 2026-10-15 | [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](https://arxiv.org/abs/2610.22364) | Chenyuan Zhou, Yining Hong, Huang Huang, et al. | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.22364) / [pdf](https://arxiv.org/pdf/2610.22364) |
 | 2026-10-15 | [GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](https://arxiv.org/abs/2610.22343) | Hongchang Liu, Jian Liu, Yujuan Ding, et al. | cs.CV, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.22343) / [pdf](https://arxiv.org/pdf/2610.22343) |
 | 2026-10-15 | [Dexterity from Supervised Play](https://arxiv.org/abs/2610.22340) | Botao He, Yiming Dou, Yiannis Aloimonos, et al. | cs.RO, cs.AI | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2610.22340) / [pdf](https://arxiv.org/pdf/2610.22340) |

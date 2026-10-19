@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 1859 · **Unique arXiv IDs:** 1859
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 1862 · **Unique arXiv IDs:** 1862
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action](https://arxiv.org/abs/2610.23642) | Julia Hindel, Benjamin Ramtoula, Kyuhwan Yeon, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23642) / [pdf](https://arxiv.org/pdf/2610.23642) |
+| 2026-10-16 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](https://arxiv.org/abs/2610.23600) | Mengtan Zhang, Yuchuan Cui, Yu Ma, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23600) / [pdf](https://arxiv.org/pdf/2610.23600) |
+| 2026-10-16 | [ReVision: Reprogramming Image Generators for Dense Visual Perception](https://arxiv.org/abs/2610.23533) | Yitong Yang, Yinglin Wang, Xuexin Liu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23533) / [pdf](https://arxiv.org/pdf/2610.23533) |
 | 2026-10-15 | [Illumination-Aware Active Perception for Spacecraft Inspection](https://arxiv.org/abs/2610.22335) | Sagarika Rao Valluri, Benjamin Riviere | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.22335) / [pdf](https://arxiv.org/pdf/2610.22335) |
 | 2026-10-15 | [GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama](https://arxiv.org/abs/2610.21297) | Jing OU, Zidong Cao, Liaoyuan Fan, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.21297) / [pdf](https://arxiv.org/pdf/2610.21297) |
 | 2026-10-14 | [Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments](https://arxiv.org/abs/2610.20958) | Dara Molloy, Terry Wu, Wonju Lee, et al. | cs.RO, cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.20958) / [pdf](https://arxiv.org/pdf/2610.20958) |

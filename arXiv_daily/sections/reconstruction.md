@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 3085 · **Unique arXiv IDs:** 3085
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 3091 · **Unique arXiv IDs:** 3091
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization](https://arxiv.org/abs/2610.23496) | Haorui Du, Lipu Zhou | cs.RO | Object / Scene Reconstruction, Mapping / SLAM, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.23496) / [pdf](https://arxiv.org/pdf/2610.23496) |
+| 2026-10-16 | [LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction](https://arxiv.org/abs/2610.23250) | Zhoufeng Xie, Guanjun Wu, Shuai Zhang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.23250) / [pdf](https://arxiv.org/pdf/2610.23250) |
+| 2026-10-16 | [X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction](https://arxiv.org/abs/2610.23237) | Wangze Xu, Chu Zhou, Mae Yamaguchi, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.23237) / [pdf](https://arxiv.org/pdf/2610.23237) |
+| 2026-10-16 | [Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images](https://arxiv.org/abs/2610.23039) | Viruthshaan Vinasirajan, Ranga Rodrigo | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.23039) / [pdf](https://arxiv.org/pdf/2610.23039) |
+| 2026-10-15 | [RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar](https://arxiv.org/abs/2610.22552) | Jan Steckel, Vincent Katter, Wouter Jansen | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.22552) / [pdf](https://arxiv.org/pdf/2610.22552) |
+| 2026-10-15 | [KFS$^4$LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM](https://arxiv.org/abs/2610.22505) | Xinwei Ju, Zhehua Mao, Tianyi Song, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.22505) / [pdf](https://arxiv.org/pdf/2610.22505) |
 | 2026-10-15 | [DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2610.22356) | Han Su, Meng Tian, Tianyu Huang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.22356) / [pdf](https://arxiv.org/pdf/2610.22356) |
 | 2026-10-15 | [GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](https://arxiv.org/abs/2610.22343) | Hongchang Liu, Jian Liu, Yujuan Ding, et al. | cs.CV, cs.AI, cs.LG | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.22343) / [pdf](https://arxiv.org/pdf/2610.22343) |
 | 2026-10-15 | [Motion- and Gravity-Aware Feedforward 3D Reconstruction](https://arxiv.org/abs/2610.22177) | Shiyao Qian, Yuan Ren, Dongfeng Bai | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.22177) / [pdf](https://arxiv.org/pdf/2610.22177) |

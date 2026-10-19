@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 3161 · **Unique arXiv IDs:** 3161
+**Coverage:** 2025-01-01 to 2026-10-19 · **Papers:** 3167 · **Unique arXiv IDs:** 3167
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-16 | [X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction](https://arxiv.org/abs/2610.23237) | Wangze Xu, Chu Zhou, Mae Yamaguchi, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.23237) / [pdf](https://arxiv.org/pdf/2610.23237) |
+| 2026-10-16 | [TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050) | Yun Wang, Chiyu Wang, Fan Jiang, et al. | cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2610.23050) / [pdf](https://arxiv.org/pdf/2610.23050) |
+| 2026-10-16 | [Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images](https://arxiv.org/abs/2610.23039) | Viruthshaan Vinasirajan, Ranga Rodrigo | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.23039) / [pdf](https://arxiv.org/pdf/2610.23039) |
+| 2026-10-16 | [Direct Conditional Parameterization for N-Dimensional Splatting](https://arxiv.org/abs/2610.22778) | Zhongpai Gao, Benjamin Planche, Van Nguyen Nguyen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.22778) / [pdf](https://arxiv.org/pdf/2610.22778) |
+| 2026-10-15 | [KFS$^4$LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM](https://arxiv.org/abs/2610.22505) | Xinwei Ju, Zhehua Mao, Tianyi Song, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.22505) / [pdf](https://arxiv.org/pdf/2610.22505) |
+| 2026-10-15 | [DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving](https://arxiv.org/abs/2610.22450) | Wei Wang, Yiru Veronika Wang, Yihan Wang, et al. | cs.RO, cs.AI | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.22450) / [pdf](https://arxiv.org/pdf/2610.22450) |
 | 2026-10-15 | [CF-Splat: Closed-Form Triangle Splatting with Mesh Priors](https://arxiv.org/abs/2610.22108) | Yixin Fang, Liang Zhao | cs.RO | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2610.22108) / [pdf](https://arxiv.org/pdf/2610.22108) |
 | 2026-10-15 | [Compression of Uniformly Distributed Unit Quaternions](https://arxiv.org/abs/2610.22052) | Carsten Faber, Bastian Kuth, Rinaldo Schuster, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.22052) / [pdf](https://arxiv.org/pdf/2610.22052) |
 | 2026-10-15 | [Edit4D: Editable 4D Scene Generation with Textual Control](https://arxiv.org/abs/2610.21668) | Chanwoo Kim, Tackgeun You, Hwasup Lim | cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.21668) / [pdf](https://arxiv.org/pdf/2610.21668) |
