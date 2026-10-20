@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 1862 · **Unique arXiv IDs:** 1862
+**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 1869 · **Unique arXiv IDs:** 1869
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-19 | [Beyond Omni: A Unified MLLM for Embodied Sensory Understanding](https://arxiv.org/abs/2610.26751) | Shiyun Xiong, Dongming Wu, Peiwen Sun, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.26751) / [pdf](https://arxiv.org/pdf/2610.26751) |
+| 2026-10-19 | [EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation](https://arxiv.org/abs/2610.26641) | Haozhe Wang, Songyuan Wu, Jihai Xu, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.26641) / [pdf](https://arxiv.org/pdf/2610.26641) |
+| 2026-10-19 | [Where Do the Gaussians Go? Foreground Attraction for Camera-Based Weakly Supervised 3D Occupancy](https://arxiv.org/abs/2610.25631) | Jeagon Song, Jhonghyun An | cs.CV, cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.25631) / [pdf](https://arxiv.org/pdf/2610.25631) |
+| 2026-10-18 | [RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation](https://arxiv.org/abs/2610.25400) | R. D. Lin, Pengcheng Weng, Ge Wang, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.25400) / [pdf](https://arxiv.org/pdf/2610.25400) |
+| 2026-10-18 | [A 3D-Driven Framework for Moving-Camera Perspective-to-360° Video Generation](https://arxiv.org/abs/2610.25395) | Michael Wakeham, Mrinmoy Kumar Das, Wenqi Wang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.25395) / [pdf](https://arxiv.org/pdf/2610.25395) |
+| 2026-10-17 | [Noise-Invariant Spatial Encoding for 3D Manipulation Policies under Depth Corruption](https://arxiv.org/abs/2610.24674) | Zhiyuan Yang, Jiaju He, Ruiteng Zhao, et al. | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2610.24674) / [pdf](https://arxiv.org/pdf/2610.24674) |
+| 2026-10-17 | [SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2610.24506) | Bowen He, Li Zhang, Yujie Chen, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.24506) / [pdf](https://arxiv.org/pdf/2610.24506) |
 | 2026-10-16 | [Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action](https://arxiv.org/abs/2610.23642) | Julia Hindel, Benjamin Ramtoula, Kyuhwan Yeon, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23642) / [pdf](https://arxiv.org/pdf/2610.23642) |
 | 2026-10-16 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](https://arxiv.org/abs/2610.23600) | Mengtan Zhang, Yuchuan Cui, Yu Ma, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23600) / [pdf](https://arxiv.org/pdf/2610.23600) |
 | 2026-10-16 | [ReVision: Reprogramming Image Generators for Dense Visual Perception](https://arxiv.org/abs/2610.23533) | Yitong Yang, Yinglin Wang, Xuexin Liu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.23533) / [pdf](https://arxiv.org/pdf/2610.23533) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 1041 · **Unique arXiv IDs:** 1041
+**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 1046 · **Unique arXiv IDs:** 1046
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-19 | [InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation](https://arxiv.org/abs/2610.26853) | Yi-Chuan Huang, Hao-Jen Chien, Zheng-Hui Huang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.26853) / [pdf](https://arxiv.org/pdf/2610.26853) |
+| 2026-10-19 | [LEAP: Accelerating ODE-based Diffusion Sampling with Optimal Linear Leaps](https://arxiv.org/abs/2610.25918) | Haowei Zheng, Zhenyu Zhou, Jiawei Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.25918) / [pdf](https://arxiv.org/pdf/2610.25918) |
+| 2026-10-18 | [GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation](https://arxiv.org/abs/2610.25245) | Yuchen Xi, Yuhan Guo, Chenwei Hou, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.25245) / [pdf](https://arxiv.org/pdf/2610.25245) |
+| 2026-10-17 | [Solving a Giant Rubik's Cube with a Quadruped Robot](https://arxiv.org/abs/2610.24610) | Lukas Amiet, Gabriel Sánchez-Blanco Repgen, Mayank Mittal, et al. | cs.RO | Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.24610) / [pdf](https://arxiv.org/pdf/2610.24610) |
 | 2026-10-16 | [FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity](https://arxiv.org/abs/2610.23659) | Yiqun Zhao, Jiachen Xu, Yihao Zhi, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.23659) / [pdf](https://arxiv.org/pdf/2610.23659) |
 | 2026-10-16 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://arxiv.org/abs/2610.23121) | Xuanyu Liu, Hongyan Feng, Miao Pan, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.23121) / [pdf](https://arxiv.org/pdf/2610.23121) |
 | 2026-10-16 | [TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation](https://arxiv.org/abs/2610.23050) | Yun Wang, Chiyu Wang, Fan Jiang, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2610.23050) / [pdf](https://arxiv.org/pdf/2610.23050) |
@@ -36,6 +40,7 @@
 | 2026-10-11 | [ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning](https://arxiv.org/abs/2610.15734) | Ken Deng, Jiarui Liu, Guibiao Liao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.15734) / [pdf](https://arxiv.org/pdf/2610.15734) |
 | 2026-10-11 | [UMAS3D: Unified Mask-Free 3D Editing with Region-Adaptive Source Preservation](https://arxiv.org/abs/2610.15533) | Xianlin Zeng, Xiaolong Shen, Ruijie Quan, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.15533) / [pdf](https://arxiv.org/pdf/2610.15533) |
 | 2026-10-11 | [Channel Match: Calibrating Shape Latents for Few-Step 3D Generation](https://arxiv.org/abs/2610.15321) | Di Yang, Zhihao Li, Yanhai Xiong, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.15321) / [pdf](https://arxiv.org/pdf/2610.15321) |
+| 2026-10-09 | [Functionalizing AI-Generated 3D Shapes via Interior Geometry Construction](https://arxiv.org/abs/2610.23953) | Haoyu Tang, Fancheng Gao, Kan Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.23953) / [pdf](https://arxiv.org/pdf/2610.23953) |
 | 2026-10-09 | [TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback](https://arxiv.org/abs/2610.14153) | Jingyu Liu, Hao Jiang, Yikang Ding, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.14153) / [pdf](https://arxiv.org/pdf/2610.14153) |
 | 2026-10-09 | [Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark](https://arxiv.org/abs/2610.13947) | Xudong Cai, Ruijie Zhu, Haoliang Shang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13947) / [pdf](https://arxiv.org/pdf/2610.13947) |
 | 2026-10-09 | [PhysForge: Material-Controllable 3D Reconstruction with Separable Components](https://arxiv.org/abs/2610.13681) | Yuchen Wang, Yanqi Bao, Zheng Gu, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.13681) / [pdf](https://arxiv.org/pdf/2610.13681) |

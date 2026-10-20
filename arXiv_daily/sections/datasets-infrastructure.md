@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 548 · **Unique arXiv IDs:** 548
+**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 551 · **Unique arXiv IDs:** 551
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-19 | [RoAR-VAE: Improving Latent Diffusability through Robust Prediction](https://arxiv.org/abs/2610.26216) | Yang Yue, Fangyun Wei, Yitong Wang, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.26216) / [pdf](https://arxiv.org/pdf/2610.26216) |
+| 2026-10-19 | [EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models](https://arxiv.org/abs/2610.25959) | X. Feng, J. Tang, Z. Lin, et al. | cs.AI | Dataset | [abs](https://arxiv.org/abs/2610.25959) / [pdf](https://arxiv.org/pdf/2610.25959) |
+| 2026-10-17 | [SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2610.24506) | Bowen He, Li Zhang, Yujie Chen, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.24506) / [pdf](https://arxiv.org/pdf/2610.24506) |
 | 2026-10-16 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](https://arxiv.org/abs/2610.23600) | Mengtan Zhang, Yuchuan Cui, Yu Ma, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.23600) / [pdf](https://arxiv.org/pdf/2610.23600) |
 | 2026-10-15 | [RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching](https://arxiv.org/abs/2610.21086) | Liangjing Shao, Wanhao Liu, Zhiwei Fang, et al. | cs.CV, cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.21086) / [pdf](https://arxiv.org/pdf/2610.21086) |
 | 2026-10-14 | [Orbia: Do Generated Videos Form a Consistent 3D World?](https://arxiv.org/abs/2610.20693) | Dongyue Lu, Guian Fang, Hur Lim, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.20693) / [pdf](https://arxiv.org/pdf/2610.20693) |
