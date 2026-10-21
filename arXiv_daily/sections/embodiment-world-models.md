@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 2618 · **Unique arXiv IDs:** 2618
+**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 2632 · **Unique arXiv IDs:** 2632
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,20 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-20 | [Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning](https://arxiv.org/abs/2610.28613) | Zebin Xing, Yuhang Zheng, Yupeng Zheng, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.28613) / [pdf](https://arxiv.org/pdf/2610.28613) |
+| 2026-10-20 | [Learning the 4D World through Point Trajectory Forecasting](https://arxiv.org/abs/2610.28594) | Byungwoo Jeon, Sunghwan Hong, Dohyeon Kim, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.28594) / [pdf](https://arxiv.org/pdf/2610.28594) |
+| 2026-10-20 | [Exploring Temporal Context-Aware Physical Grounding in Latent World Models](https://arxiv.org/abs/2610.28483) | Yilei Man, Yang Chen, Jingcai Guo | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.28483) / [pdf](https://arxiv.org/pdf/2610.28483) |
+| 2026-10-20 | [SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model](https://arxiv.org/abs/2610.28480) | Qiayuan Liao, Yiyang Shao, Junfeng Long, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.28480) / [pdf](https://arxiv.org/pdf/2610.28480) |
+| 2026-10-20 | [Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning](https://arxiv.org/abs/2610.28470) | Daniel Marew, Sangjun Park, Nisal Perera, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.28470) / [pdf](https://arxiv.org/pdf/2610.28470) |
+| 2026-10-20 | [Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots](https://arxiv.org/abs/2610.28432) | Charbel Abi Hana, Rayan Zaitouni, Kameel Amareen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.28432) / [pdf](https://arxiv.org/pdf/2610.28432) |
+| 2026-10-20 | [Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models](https://arxiv.org/abs/2610.28074) | Peisong Wen, Qianqian Xu, Minye Lei, et al. | cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.28074) / [pdf](https://arxiv.org/pdf/2610.28074) |
+| 2026-10-20 | [Knowing When to Stop Thinking: A Dissection of Expected Free Energy as a Test-Time Compute Controller for Latent World-Model Planning](https://arxiv.org/abs/2610.28011) | Tong Zhang, Zhiyuan Shi, Yun Peng, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.28011) / [pdf](https://arxiv.org/pdf/2610.28011) |
+| 2026-10-20 | [LaLa-World: Scaling Latent World Models with Natural Language Actions](https://arxiv.org/abs/2610.27851) | Junha Song, Geonmo Gu, Jeongeun Park, et al. | cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.27851) / [pdf](https://arxiv.org/pdf/2610.27851) |
+| 2026-10-20 | [World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation](https://arxiv.org/abs/2610.27725) | Jiushu Li, Haoran Wang, Yumeng Liu, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.27725) / [pdf](https://arxiv.org/pdf/2610.27725) |
+| 2026-10-19 | [Training Controllable World Models via Action Influence Maximization](https://arxiv.org/abs/2610.27387) | Samuel M. Bateman, Tenny Yin, Chongyi Zheng, et al. | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.27387) / [pdf](https://arxiv.org/pdf/2610.27387) |
+| 2026-10-19 | [LVMem: Image-Augmented Memory for Long-Horizon Question Answering](https://arxiv.org/abs/2610.27104) | Victoria Khoruzhaya, Maksim Kalmykov, Tuong Do Minh, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.27104) / [pdf](https://arxiv.org/pdf/2610.27104) |
+| 2026-10-19 | [Physical AI: Concepts, Techniques, and Challenges](https://arxiv.org/abs/2610.27045) | Weinan Zhang, Chunhua Shen, Tianfan Xue, et al. | cs.AI, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.27045) / [pdf](https://arxiv.org/pdf/2610.27045) |
+| 2026-10-19 | [Latent Projection for Latent Planning](https://arxiv.org/abs/2610.26979) | Yoo Sung Jang, Michael Ryoo | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.26979) / [pdf](https://arxiv.org/pdf/2610.26979) |
 | 2026-10-19 | [AnyGoal: On World Model Generalization Beyond Expert Rollouts](https://arxiv.org/abs/2610.26844) | Heejeong Nam, Divyat Mahajan, Quentin Le Lidec, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.26844) / [pdf](https://arxiv.org/pdf/2610.26844) |
 | 2026-10-19 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://arxiv.org/abs/2610.26828) | Zhaoyang Wang, Qianhui Wu, Haorui Wang, et al. | cs.AI, cs.CL, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.26828) / [pdf](https://arxiv.org/pdf/2610.26828) |
 | 2026-10-19 | [HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation](https://arxiv.org/abs/2610.26765) | Tianwei Luo, Yiming He, Hongjin Wu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.26765) / [pdf](https://arxiv.org/pdf/2610.26765) |

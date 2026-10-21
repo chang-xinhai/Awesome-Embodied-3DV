@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 551 · **Unique arXiv IDs:** 551
+**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 553 · **Unique arXiv IDs:** 553
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |
+| 2026-10-20 | [PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting](https://arxiv.org/abs/2610.27696) | Jinghan Gao, Siyu Wang, Dongyu Feng, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2610.27696) / [pdf](https://arxiv.org/pdf/2610.27696) |
 | 2026-10-19 | [RoAR-VAE: Improving Latent Diffusability through Robust Prediction](https://arxiv.org/abs/2610.26216) | Yang Yue, Fangyun Wei, Yitong Wang, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.26216) / [pdf](https://arxiv.org/pdf/2610.26216) |
 | 2026-10-19 | [EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models](https://arxiv.org/abs/2610.25959) | X. Feng, J. Tang, Z. Lin, et al. | cs.AI | Dataset | [abs](https://arxiv.org/abs/2610.25959) / [pdf](https://arxiv.org/pdf/2610.25959) |
 | 2026-10-17 | [SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2610.24506) | Bowen He, Li Zhang, Yujie Chen, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.24506) / [pdf](https://arxiv.org/pdf/2610.24506) |

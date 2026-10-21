@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 3104 · **Unique arXiv IDs:** 3104
+**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 3113 · **Unique arXiv IDs:** 3113
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-20 | [AEON: Unifying Video and 3D World Models](https://arxiv.org/abs/2610.28631) | Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28631) / [pdf](https://arxiv.org/pdf/2610.28631) |
+| 2026-10-20 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | Rundong Luo, Yunong Liu, Di Cao, et al. | cs.RO, cs.AI, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28585) / [pdf](https://arxiv.org/pdf/2610.28585) |
+| 2026-10-20 | [MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration](https://arxiv.org/abs/2610.28566) | Kelvin Aladum, Nisar Ahmed | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.28566) / [pdf](https://arxiv.org/pdf/2610.28566) |
+| 2026-10-20 | [Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment](https://arxiv.org/abs/2610.28521) | Shuai Zhang, Zhanpeng Ouyang, Zhengqing Chen, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28521) / [pdf](https://arxiv.org/pdf/2610.28521) |
+| 2026-10-20 | [RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction](https://arxiv.org/abs/2610.28351) | Yuanxiang Ni, Xianliang Huang, Ruihan Hou, et al. | cs.CV, cs.AI | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.28351) / [pdf](https://arxiv.org/pdf/2610.28351) |
+| 2026-10-20 | [SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents](https://arxiv.org/abs/2610.28257) | Runmin Zhang, Binglin Ren, Zhu Yu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.28257) / [pdf](https://arxiv.org/pdf/2610.28257) |
+| 2026-10-20 | [A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera](https://arxiv.org/abs/2610.27622) | Yosub Shin, Yuan Liu, Igor Molybog | cs.RO, cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.27622) / [pdf](https://arxiv.org/pdf/2610.27622) |
+| 2026-10-20 | [HiQGS: Hierarchical Spatiotemporal Querying for Feed-Forward Gaussian Reconstruction](https://arxiv.org/abs/2610.27604) | Qiaowei Miao, Qifeng Cheng, Yijing Guo, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.27604) / [pdf](https://arxiv.org/pdf/2610.27604) |
+| 2026-10-20 | [Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction](https://arxiv.org/abs/2610.27594) | Qiaowei Miao, Yijing Guo, Lipei Zhang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.27594) / [pdf](https://arxiv.org/pdf/2610.27594) |
 | 2026-10-19 | [V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos](https://arxiv.org/abs/2610.26780) | Ruicheng Li, Qixiu Li, Yu Deng, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.26780) / [pdf](https://arxiv.org/pdf/2610.26780) |
 | 2026-10-19 | [CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments](https://arxiv.org/abs/2610.26633) | Gaia Borghi, João Carlos Virgolino Soares, Angelo Bratta, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.26633) / [pdf](https://arxiv.org/pdf/2610.26633) |
 | 2026-10-19 | [EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience](https://arxiv.org/abs/2610.26625) | Xinhao Ji, Hui En Pang, Hao Li, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.26625) / [pdf](https://arxiv.org/pdf/2610.26625) |

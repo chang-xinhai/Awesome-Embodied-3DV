@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 1046 · **Unique arXiv IDs:** 1046
+**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 1050 · **Unique arXiv IDs:** 1050
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-20 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | Rundong Luo, Yunong Liu, Di Cao, et al. | cs.RO, cs.AI, cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.28585) / [pdf](https://arxiv.org/pdf/2610.28585) |
+| 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |
+| 2026-10-20 | [NeoWorld-3: From Pixels to Code-Defined Physical Worlds](https://arxiv.org/abs/2610.27690) | Eachen Soong, Zijian Niu, Haoran Xu, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.27690) / [pdf](https://arxiv.org/pdf/2610.27690) |
+| 2026-10-19 | [VitronEdit: Universal Visual Editing across Images, Videos, and 3D Scenes](https://arxiv.org/abs/2610.27049) | Jing Wang, Yanlin Li, Mong-Li Lee, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2610.27049) / [pdf](https://arxiv.org/pdf/2610.27049) |
 | 2026-10-19 | [InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation](https://arxiv.org/abs/2610.26853) | Yi-Chuan Huang, Hao-Jen Chien, Zheng-Hui Huang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.26853) / [pdf](https://arxiv.org/pdf/2610.26853) |
 | 2026-10-19 | [LEAP: Accelerating ODE-based Diffusion Sampling with Optimal Linear Leaps](https://arxiv.org/abs/2610.25918) | Haowei Zheng, Zhenyu Zhou, Jiawei Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.25918) / [pdf](https://arxiv.org/pdf/2610.25918) |
 | 2026-10-18 | [GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation](https://arxiv.org/abs/2610.25245) | Yuchen Xi, Yuhan Guo, Chenwei Hou, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.25245) / [pdf](https://arxiv.org/pdf/2610.25245) |
