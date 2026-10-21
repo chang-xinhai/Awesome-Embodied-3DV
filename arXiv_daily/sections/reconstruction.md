@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-20 · **Papers:** 3104 · **Unique arXiv IDs:** 3104
+**Coverage:** 2025-01-01 to 2026-10-21 · **Papers:** 3104 · **Unique arXiv IDs:** 3104
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
