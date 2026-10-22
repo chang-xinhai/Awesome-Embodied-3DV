@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 1050 · **Unique arXiv IDs:** 1050
+**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 1051 · **Unique arXiv IDs:** 1051
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-21 | [Spatially Gated Demographic Steering for Debiasing Multi-Person Text-to-Image Generation](https://arxiv.org/abs/2610.29651) | Venkatesh Thirugnana Sambandham, Torsten Schon | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.29651) / [pdf](https://arxiv.org/pdf/2610.29651) |
 | 2026-10-20 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | Rundong Luo, Yunong Liu, Di Cao, et al. | cs.RO, cs.AI, cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.28585) / [pdf](https://arxiv.org/pdf/2610.28585) |
 | 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |
 | 2026-10-20 | [NeoWorld-3: From Pixels to Code-Defined Physical Worlds](https://arxiv.org/abs/2610.27690) | Eachen Soong, Zijian Niu, Haoran Xu, et al. | cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.27690) / [pdf](https://arxiv.org/pdf/2610.27690) |

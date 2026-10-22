@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 3113 · **Unique arXiv IDs:** 3113
+**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 3120 · **Unique arXiv IDs:** 3120
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-21 | [RealMe: Immersive Volumetric Video from Minimal Captures](https://arxiv.org/abs/2610.30023) | Chenxu Zhou, Zhiyuan Yu, Yudong Jin, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.30023) / [pdf](https://arxiv.org/pdf/2610.30023) |
+| 2026-10-21 | [DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos](https://arxiv.org/abs/2610.29936) | Naru Suzuki, Satoshi Ikehata, Takehiko Ohkawa, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.29936) / [pdf](https://arxiv.org/pdf/2610.29936) |
+| 2026-10-21 | [GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models](https://arxiv.org/abs/2610.29866) | Qinfan Zhang, Yifan Luo, Haoyuan Shi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.29866) / [pdf](https://arxiv.org/pdf/2610.29866) |
+| 2026-10-21 | [OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization](https://arxiv.org/abs/2610.29761) | Benedikt Kreis, Rohit Menon, Benno Wingender, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.29761) / [pdf](https://arxiv.org/pdf/2610.29761) |
+| 2026-10-21 | [BlazeVGGT: 13x Faster VGGT at 2,000 Frames via Camera Token without Training](https://arxiv.org/abs/2610.29454) | Shujun Yao, Junhui Lin, Congying Han, et al. | cs.CV | Feed-Forward Geometry, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.29454) / [pdf](https://arxiv.org/pdf/2610.29454) |
+| 2026-10-21 | [AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting](https://arxiv.org/abs/2610.29374) | Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.29374) / [pdf](https://arxiv.org/pdf/2610.29374) |
+| 2026-10-20 | [Pair-Free Coarse-to-Real Video Generation via Real-to-Coarse Image Supervision](https://arxiv.org/abs/2610.28954) | Gonzalo Gómez-Nogales, Daohan Lu, Peiye Zhuang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28954) / [pdf](https://arxiv.org/pdf/2610.28954) |
 | 2026-10-20 | [AEON: Unifying Video and 3D World Models](https://arxiv.org/abs/2610.28631) | Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28631) / [pdf](https://arxiv.org/pdf/2610.28631) |
 | 2026-10-20 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | Rundong Luo, Yunong Liu, Di Cao, et al. | cs.RO, cs.AI, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.28585) / [pdf](https://arxiv.org/pdf/2610.28585) |
 | 2026-10-20 | [MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration](https://arxiv.org/abs/2610.28566) | Kelvin Aladum, Nisar Ahmed | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.28566) / [pdf](https://arxiv.org/pdf/2610.28566) |

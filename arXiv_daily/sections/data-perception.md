@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 1877 · **Unique arXiv IDs:** 1877
+**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 1880 · **Unique arXiv IDs:** 1880
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-21 | [RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation](https://arxiv.org/abs/2610.29845) | Samuel Foo Enze, Manthan Patel, Fan Yang, et al. | cs.RO, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.29845) / [pdf](https://arxiv.org/pdf/2610.29845) |
+| 2026-10-20 | [Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880) | Matthew Strong, Ankush K. Dhawan, Julien Poffet, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.28880) / [pdf](https://arxiv.org/pdf/2610.28880) |
+| 2026-10-20 | [Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation](https://arxiv.org/abs/2610.28712) | Keigo Minamida, Koya Dendo, Yuto Nakamura, et al. | cs.RO, cs.HC | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.28712) / [pdf](https://arxiv.org/pdf/2610.28712) |
 | 2026-10-20 | [Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor](https://arxiv.org/abs/2610.28258) | Yohanssen Pratama | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2610.28258) / [pdf](https://arxiv.org/pdf/2610.28258) |
 | 2026-10-20 | [Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas](https://arxiv.org/abs/2610.28033) | Zhe Wu, Xiaoyan Fei, Xinyi Jiang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.28033) / [pdf](https://arxiv.org/pdf/2610.28033) |
 | 2026-10-20 | [Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations](https://arxiv.org/abs/2610.28004) | Chengyang Yan, Donald G. Dansereau | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.28004) / [pdf](https://arxiv.org/pdf/2610.28004) |

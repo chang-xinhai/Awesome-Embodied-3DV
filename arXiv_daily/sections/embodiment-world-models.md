@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 2632 · **Unique arXiv IDs:** 2632
+**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 2645 · **Unique arXiv IDs:** 2645
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,19 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-21 | [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | Zhuoyang Liu, Dantong Niu, Botong Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.30136) / [pdf](https://arxiv.org/pdf/2610.30136) |
+| 2026-10-21 | [Rethinking Video Autoencoders for Interactive World Models](https://arxiv.org/abs/2610.30129) | Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.30129) / [pdf](https://arxiv.org/pdf/2610.30129) |
+| 2026-10-21 | [Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance](https://arxiv.org/abs/2610.29452) | Taiga Ikeshima, Sheila Sutjipto, Lan Wu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.29452) / [pdf](https://arxiv.org/pdf/2610.29452) |
+| 2026-10-21 | [PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](https://arxiv.org/abs/2610.29432) | Xiujian Liang, Jiacheng Liu, Mingyang Sun, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.29432) / [pdf](https://arxiv.org/pdf/2610.29432) |
+| 2026-10-21 | [NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering](https://arxiv.org/abs/2610.29200) | Yipeng Lu, Youqi Liao, Zhenyu Wang, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.29200) / [pdf](https://arxiv.org/pdf/2610.29200) |
+| 2026-10-21 | [How Representational Priors Shape Generalization in World Action Models](https://arxiv.org/abs/2610.29168) | Junha Chun, Youngjoon Jeong, Taesup Kim | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.29168) / [pdf](https://arxiv.org/pdf/2610.29168) |
+| 2026-10-21 | [Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model](https://arxiv.org/abs/2610.29139) | Jiongxiao Wang, Han Ding, Youzhi Luo, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.29139) / [pdf](https://arxiv.org/pdf/2610.29139) |
+| 2026-10-21 | [Causal world models under physical parameter shifts](https://arxiv.org/abs/2610.29088) | Chu Lin, Yi Sun | cs.LG, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.29088) / [pdf](https://arxiv.org/pdf/2610.29088) |
+| 2026-10-20 | [COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation](https://arxiv.org/abs/2610.28948) | Jiahui Yang, Jason Jingzhou Liu, Ray Muxin Liu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.28948) / [pdf](https://arxiv.org/pdf/2610.28948) |
+| 2026-10-20 | [Self-Improving Agents with World Model Predictive Paths](https://arxiv.org/abs/2610.28945) | Haori Lu, Tianyu Gao, Yaoyao Liu, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.28945) / [pdf](https://arxiv.org/pdf/2610.28945) |
+| 2026-10-20 | [WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State](https://arxiv.org/abs/2610.28827) | Xiaoxiao Ma, Weiyang Jin, Yanwen Ma, et al. | cs.CV, cs.GR | World Model | [abs](https://arxiv.org/abs/2610.28827) / [pdf](https://arxiv.org/pdf/2610.28827) |
+| 2026-10-20 | [Second Thoughts: Exploring and Planning through Comparative Imagination in World Models](https://arxiv.org/abs/2610.28779) | Hieu Tran, Hong Yu | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.28779) / [pdf](https://arxiv.org/pdf/2610.28779) |
+| 2026-10-20 | [PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents](https://arxiv.org/abs/2610.28696) | Masoud Jamshidiyan Tehrani, Jinhan Kim, Paolo Tonella | cs.SE, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.28696) / [pdf](https://arxiv.org/pdf/2610.28696) |
 | 2026-10-20 | [Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning](https://arxiv.org/abs/2610.28613) | Zebin Xing, Yuhang Zheng, Yupeng Zheng, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.28613) / [pdf](https://arxiv.org/pdf/2610.28613) |
 | 2026-10-20 | [Learning the 4D World through Point Trajectory Forecasting](https://arxiv.org/abs/2610.28594) | Byungwoo Jeon, Sunghwan Hong, Dohyeon Kim, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.28594) / [pdf](https://arxiv.org/pdf/2610.28594) |
 | 2026-10-20 | [Exploring Temporal Context-Aware Physical Grounding in Latent World Models](https://arxiv.org/abs/2610.28483) | Yilei Man, Yang Chen, Jingcai Guo | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.28483) / [pdf](https://arxiv.org/pdf/2610.28483) |

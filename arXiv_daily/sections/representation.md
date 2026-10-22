@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 3198 · **Unique arXiv IDs:** 3198
+**Coverage:** 2025-01-01 to 2026-10-22 · **Papers:** 3206 · **Unique arXiv IDs:** 3206
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-21 | [RealMe: Immersive Volumetric Video from Minimal Captures](https://arxiv.org/abs/2610.30023) | Chenxu Zhou, Zhiyuan Yu, Yudong Jin, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2610.30023) / [pdf](https://arxiv.org/pdf/2610.30023) |
+| 2026-10-21 | [ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization](https://arxiv.org/abs/2610.30013) | Jian Xu, Yi Li, Ying Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.30013) / [pdf](https://arxiv.org/pdf/2610.30013) |
+| 2026-10-21 | [AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments](https://arxiv.org/abs/2610.29699) | Rangya Zhang, Yujing Shang, Zhuoyuan Yu, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.29699) / [pdf](https://arxiv.org/pdf/2610.29699) |
+| 2026-10-21 | [AutoPhyX: Automatic Text-Condition Physics Property Generation](https://arxiv.org/abs/2610.29517) | Bei Huang, Yixin Chen, Hongbin Zha, et al. | cs.CV, cs.GR | Gaussian Splatting, Radiance Field / NeRF, Explicit / Hybrid Geometry, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.29517) / [pdf](https://arxiv.org/pdf/2610.29517) |
+| 2026-10-21 | [Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening](https://arxiv.org/abs/2610.29396) | Yuta Horioka, Naoya Chiba, Yuki Uranishi | cs.LG, cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.29396) / [pdf](https://arxiv.org/pdf/2610.29396) |
+| 2026-10-21 | [AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting](https://arxiv.org/abs/2610.29374) | Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.29374) / [pdf](https://arxiv.org/pdf/2610.29374) |
+| 2026-10-21 | [DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields](https://arxiv.org/abs/2610.29106) | Juntang Wang, Yihan Wang, Sheng'en Li, et al. | cs.CV, cs.LG | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.29106) / [pdf](https://arxiv.org/pdf/2610.29106) |
+| 2026-10-20 | [inr2action: Encoding Robot Episodes as Neural Implicit Representations for Recall and Action](https://arxiv.org/abs/2610.28882) | Leann Alhashishi, Christos Margadji, Sebastian William Pattinson | cs.RO, cs.AI | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.28882) / [pdf](https://arxiv.org/pdf/2610.28882) |
 | 2026-10-20 | [AEON: Unifying Video and 3D World Models](https://arxiv.org/abs/2610.28631) | Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.28631) / [pdf](https://arxiv.org/pdf/2610.28631) |
 | 2026-10-20 | [KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting](https://arxiv.org/abs/2610.28615) | Radu Beche, Raoul de Charette | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.28615) / [pdf](https://arxiv.org/pdf/2610.28615) |
 | 2026-10-20 | [Neural Implicit Energy Optimization for LiDAR Mapping](https://arxiv.org/abs/2610.28598) | Hrishikesh Viswanath, Md Ashiqur Rahman, Chi Lin, et al. | cs.CV, cs.GR, cs.LG | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.28598) / [pdf](https://arxiv.org/pdf/2610.28598) |
