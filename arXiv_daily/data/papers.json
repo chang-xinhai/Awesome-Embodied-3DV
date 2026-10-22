@@ -295,6 +295,7 @@
       "url": "https://arxiv.org/abs/2610.28521",
       "pdf_url": "https://arxiv.org/pdf/2610.28521",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -502,6 +503,7 @@
       "url": "https://arxiv.org/abs/2610.28351",
       "pdf_url": "https://arxiv.org/pdf/2610.28351",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -559,6 +561,36 @@
         ],
         "datasets_infrastructure": [
           "Dataset"
+        ]
+      }
+    },
+    "2610.28258": {
+      "arxiv_id": "2610.28258",
+      "title": "Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor",
+      "abstract": "Low-cost multi-zone single-photon avalanche diode (SPAD) sensors provide compact time-of-flight measurements but are limited by sparse sampling and unreliable depth estimates near geometric discontinuities. This letter presents a reliability-aware reconstruction framework for V-shaped surfaces using two complementary TMF8821 acquisition configurations. Point-wise reliability is learned from sensor confidence, transient peak amplitude, and peak sharpness, and is incorporated into a graph-based depth optimization. The reconstructed geometry is evaluated by robust two-plane fitting and a perpendicular cross-section. Experiments on 60-degree, 90-degree, and 120-degree targets reduce the mean V-angle error from 11.21 degrees to 9.66 degrees (13.8%). For the representative 90-degree target, the combined point-to-plane RMSE decreases from 14.56 mm to 13.65 mm.",
+      "authors": [
+        "Yohanssen Pratama"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Submitted to IEEE Sensors Letters; 8 figures, 2 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2610.28258",
+      "pdf_url": "https://arxiv.org/pdf/2610.28258",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Active Imaging"
         ]
       }
     },
@@ -810,6 +842,7 @@
       "url": "https://arxiv.org/abs/2610.28033",
       "pdf_url": "https://arxiv.org/pdf/2610.28033",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -843,6 +876,7 @@
       "url": "https://arxiv.org/abs/2610.28011",
       "pdf_url": "https://arxiv.org/pdf/2610.28011",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -874,6 +908,7 @@
       "url": "https://arxiv.org/abs/2610.28004",
       "pdf_url": "https://arxiv.org/pdf/2610.28004",
       "query_sources": [
+        "depth-and-sensing",
         "representations"
       ],
       "topics": [
@@ -947,6 +982,7 @@
       "url": "https://arxiv.org/abs/2610.27776",
       "pdf_url": "https://arxiv.org/pdf/2610.27776",
       "query_sources": [
+        "depth-and-sensing",
         "representations"
       ],
       "topics": [
@@ -1059,6 +1095,7 @@
       "url": "https://arxiv.org/abs/2610.27696",
       "pdf_url": "https://arxiv.org/pdf/2610.27696",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models",
         "representations"
       ],
@@ -1212,6 +1249,7 @@
       "url": "https://arxiv.org/abs/2610.27594",
       "pdf_url": "https://arxiv.org/pdf/2610.27594",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping",
         "representations"
       ],
@@ -1227,6 +1265,85 @@
           "Feed-Forward Geometry",
           "Object / Scene Reconstruction",
           "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2610.27547": {
+      "arxiv_id": "2610.27547",
+      "title": "SynCalib: Breaking Dataset Shortcuts in LiDAR-Camera Calibration via Extrinsic-Controllable Synthesis",
+      "abstract": "Online LiDAR-camera calibration remains a fundamental yet challenging task in the field of robotics. Recently, deep learning-based data-driven approaches have emerged, offering high-precision, targetless calibration capabilities. However, existing methods often suffer from a critical dataset shortcut phenomenon due to the lack of extrinsic diversity in their training data. Networks tend to overfit to fixed nominal extrinsic configurations, leading to severe performance degradation and poor generalization in real-world deployments. To address this limitation, we propose a highly generalizable data generation framework tailored for training LiDAR-camera calibration networks. Our framework leverages existing omnidirectional image datasets annotated with depth ground truth to synthesize multi-modal calibration data under rigorous extrinsic constraints. Extensive experiments demonstrate that the data generated by our pipeline significantly enhances the generalization and robustness of typical learning-based calibration networks. Furthermore, we conduct comprehensive real-world evaluations across various camera-LiDAR configurations, validating the zero-shot transfer capability of models trained exclusively on our synthetic data. To facilitate future research and community use, the code for data generation, the pre-trained models, and online benchmark datasets will be made publicly available.",
+      "authors": [
+        "Huihua Zhu",
+        "Shuyang Zhang",
+        "Dongqing Chen",
+        "Zhuo Yu",
+        "Jianhao Jiao",
+        "Yilong Zhu",
+        "Siyu Teng",
+        "Xiaopin Zhong",
+        "Zongze Wu"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": "8 pages, 6 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2610.27547",
+      "pdf_url": "https://arxiv.org/pdf/2610.27547",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
+    "2610.27522": {
+      "arxiv_id": "2610.27522",
+      "title": "OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras",
+      "abstract": "Omnidirectional cameras provide surround-view information, significantly overcoming the field-of-view constraints for traditional visual localization systems. However, existing localization systems fail to fully exploit the characteristics of omnidirectional cameras, struggling to deliver accurate and robust localization performance amidst scene content variations and illumination-induced appearance changes. In this work, we propose OmniVLoc, a surround-view localization system based on a topo-metric framework. By integrating state-of-the-art global place recognition and monocular depth estimation methods, we introduce a multi-constrained visual localization paradigm. By solving a scale-aware pose graph and performing precise spherical bundle adjustment, we accurately recover the metric-level pose for each query frame.Furthermore, a hierarchical verification mechanism is designed to filter out erroneous outputs across different stages, effectively bolstering the overall system robustness. Extensive experiments on both public and our custom datasets validate the superior accuracy and reliability of OmniVLoc. To benefit the community, our source code and dataset will be made publicly available upon publication.",
+      "authors": [
+        "Zhuo Yu",
+        "Shuyang Zhang",
+        "Huihua Zhu",
+        "Wenjia Ouyang",
+        "Zuo Zuo",
+        "Jianhao Jiao",
+        "Yilong Zhu",
+        "Xiaopin Zhong",
+        "Zongze Wu"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": "8 pages, 7 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2610.27522",
+      "pdf_url": "https://arxiv.org/pdf/2610.27522",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior",
+          "Wide-FOV Perception"
         ]
       }
     },
@@ -1360,6 +1477,7 @@
       "url": "https://arxiv.org/abs/2610.27049",
       "pdf_url": "https://arxiv.org/pdf/2610.27049",
       "query_sources": [
+        "depth-and-sensing",
         "generation-and-assets"
       ],
       "topics": [
@@ -1442,6 +1560,7 @@
       "url": "https://arxiv.org/abs/2610.27045",
       "pdf_url": "https://arxiv.org/pdf/2610.27045",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -2764,6 +2883,37 @@
         ]
       }
     },
+    "2610.26933": {
+      "arxiv_id": "2610.26933",
+      "title": "Rate as a Feature, Not a Nuisance: Curriculum FiLM Training for Event-Based Graph Neural Networks",
+      "abstract": "An event camera emits events at a rate given by the scene motion, object texture, illumination, its own contrast thresholds, and other settings. Across the N-Caltech101 dataset, recorded by a single event camera, the event rate varies by roughly 26x. Standard event-based Graph Neural Network GNN pipelines do not make use of the variable event rate. They either normalize each event's timestamp into a fixed window or train the network to be invariant to the event rate. We argue that both choices lose information that could instead be used to improve the performance of a pipeline. Per-recording normalization is non-invertible, incurring about 6pp (percentage points) of natural-rate accuracy loss in our setting. And invariance training trades accuracy for robustness to shifts in the event rate. We instead take a different path and condition on the event rate directly. We add a per-recording log-rate scalar that modulates every stage of a PointNet++ backbone through Feature-wise Linear Modulation (FiLM), initialized to identity, so that training begins at the unmodified baseline. A two-stage curriculum (natural event rates first, then rate-augmented fine-tuning) reaches 67.2% on N-Caltech101 (+6.3pp) and 82.5% on DVS128 Gesture (+14.0pp) with an additional ~0.2M parameters. A matched-capacity control experiment shows that the gain is not from the increase in model capacity but from the rate conditioning. We will make the implementation publicly available upon acceptance of this work.",
+      "authors": [
+        "Kavyansh Tyagi",
+        "Andreas Ziegler"
+      ],
+      "published": "2026-10-17",
+      "updated": "2026-10-17",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": "ACCV 2026 Workshop on Advances in Event-based Computer Vision (AECV)",
+      "doi": null,
+      "url": "https://arxiv.org/abs/2610.26933",
+      "pdf_url": "https://arxiv.org/pdf/2610.26933",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
+        ]
+      }
+    },
     "2610.26920": {
       "arxiv_id": "2610.26920",
       "title": "Codec-Compatible Learned Compression for 3D Gaussian Splatting",
@@ -2859,6 +3009,7 @@
       "url": "https://arxiv.org/abs/2610.24812",
       "pdf_url": "https://arxiv.org/pdf/2610.24812",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping",
         "representations"
       ],
@@ -367996,7 +368147,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-10-21",
-  "paper_count": 9848,
-  "generated_at": "2026-10-21T12:36:33+00:00"
+  "coverage_end": "2026-10-22",
+  "paper_count": 9852,
+  "generated_at": "2026-10-22T00:32:07+00:00"
 }

@@ -2,13 +2,13 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-10-21 · **Unique papers:** 9848
+**Coverage:** 2025-01-01 to 2026-10-22 · **Unique papers:** 9852
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1873 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 1877 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 3198 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
 | [3D Reconstruction](sections/reconstruction.md) | 3113 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 1050 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
@@ -21,16 +21,16 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Data Perception
 
+- 2026-10-20 — [Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor](https://arxiv.org/abs/2610.28258)
 - 2026-10-20 — [Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas](https://arxiv.org/abs/2610.28033)
 - 2026-10-20 — [Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations](https://arxiv.org/abs/2610.28004)
 - 2026-10-20 — [PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting](https://arxiv.org/abs/2610.27696)
+- 2026-10-20 — [SynCalib: Breaking Dataset Shortcuts in LiDAR-Camera Calibration via Extrinsic-Controllable Synthesis](https://arxiv.org/abs/2610.27547)
+- 2026-10-20 — [OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras](https://arxiv.org/abs/2610.27522)
 - 2026-10-19 — [Beyond Omni: A Unified MLLM for Embodied Sensory Understanding](https://arxiv.org/abs/2610.26751)
 - 2026-10-19 — [EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation](https://arxiv.org/abs/2610.26641)
 - 2026-10-19 — [Where Do the Gaussians Go? Foreground Attraction for Camera-Based Weakly Supervised 3D Occupancy](https://arxiv.org/abs/2610.25631)
 - 2026-10-18 — [RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation](https://arxiv.org/abs/2610.25400)
-- 2026-10-18 — [A 3D-Driven Framework for Moving-Camera Perspective-to-360° Video Generation](https://arxiv.org/abs/2610.25395)
-- 2026-10-17 — [SwitchSplat: Learning Discrete Object States from Casually Captured Scenes](https://arxiv.org/abs/2610.24812)
-- 2026-10-17 — [Noise-Invariant Spatial Encoding for 3D Manipulation Policies under Depth Corruption](https://arxiv.org/abs/2610.24674)
 
 ### 3D/4D Representation
 
