@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 3206 · **Unique arXiv IDs:** 3206
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 3212 · **Unique arXiv IDs:** 3212
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model](https://arxiv.org/abs/2610.31321) | Xinyang Lu, Shengzhe Wei, Sheng Tang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.31321) / [pdf](https://arxiv.org/pdf/2610.31321) |
+| 2026-10-22 | [RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293) | Thanh-Khoi Nguyen, Thien-Phuc Tran, Minh-Triet Tran | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.31293) / [pdf](https://arxiv.org/pdf/2610.31293) |
+| 2026-10-22 | [H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910) | Zhang Zichuan, Bart Brouwers, Rembrandt Bakker, et al. | eess.IV, cs.CV, cs.GR | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.30910) / [pdf](https://arxiv.org/pdf/2610.30910) |
+| 2026-10-21 | [SplatLab: Autonomous Scientific Discovery for 3DGS Research](https://arxiv.org/abs/2610.30468) | Seemandhar Jain, Manmohan Chandraker | cs.CV, cs.AI | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.30468) / [pdf](https://arxiv.org/pdf/2610.30468) |
+| 2026-10-21 | [R4DGS: Referring Segmentation in 4D Gaussian Splatting](https://arxiv.org/abs/2610.30326) | Bangpu Chen, Yaxuan Li, Shirui Peng, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.30326) / [pdf](https://arxiv.org/pdf/2610.30326) |
+| 2026-10-21 | [TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319) | Zikang Xiong, Weixin Li, Zhouchonghao Wu, et al. | cs.RO, cs.AI, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.30319) / [pdf](https://arxiv.org/pdf/2610.30319) |
 | 2026-10-21 | [RealMe: Immersive Volumetric Video from Minimal Captures](https://arxiv.org/abs/2610.30023) | Chenxu Zhou, Zhiyuan Yu, Yudong Jin, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2610.30023) / [pdf](https://arxiv.org/pdf/2610.30023) |
 | 2026-10-21 | [ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization](https://arxiv.org/abs/2610.30013) | Jian Xu, Yi Li, Ying Huang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.30013) / [pdf](https://arxiv.org/pdf/2610.30013) |
 | 2026-10-21 | [AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments](https://arxiv.org/abs/2610.29699) | Rangya Zhang, Yujing Shang, Zhuoyuan Yu, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.29699) / [pdf](https://arxiv.org/pdf/2610.29699) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 3120 · **Unique arXiv IDs:** 3120
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 3130 · **Unique arXiv IDs:** 3130
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | Namitha Guruprasad, Abhay Yadav, Cheng Peng, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31645) / [pdf](https://arxiv.org/pdf/2610.31645) |
+| 2026-10-22 | [HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://arxiv.org/abs/2610.31635) | Zunnan Xu, Shangchen Zhou, Yihang Luo, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31635) / [pdf](https://arxiv.org/pdf/2610.31635) |
+| 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |
+| 2026-10-22 | [MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model](https://arxiv.org/abs/2610.31321) | Xinyang Lu, Shengzhe Wei, Sheng Tang, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.31321) / [pdf](https://arxiv.org/pdf/2610.31321) |
+| 2026-10-22 | [Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention](https://arxiv.org/abs/2610.31320) | Wei Zhang, Ying Feng, Mengtong Wu, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.31320) / [pdf](https://arxiv.org/pdf/2610.31320) |
+| 2026-10-22 | [Consistent Distributed Invariant EKF SLAM with Point and Object Features](https://arxiv.org/abs/2610.31221) | Mengya Xu, Xianjia Yu, Ha Sier, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.31221) / [pdf](https://arxiv.org/pdf/2610.31221) |
+| 2026-10-22 | [Moving Regions, Not Moving Objects: Segmenting What Actually Moves under Camera Motion](https://arxiv.org/abs/2610.31209) | Wenhua Jin, Tiancheng Chen, Sheng Tang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31209) / [pdf](https://arxiv.org/pdf/2610.31209) |
+| 2026-10-22 | [Evaluation of Front-End Feature Matching for Lunar Visual SLAM](https://arxiv.org/abs/2610.30774) | Guillem Casadesus Vila, Grace Gao | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.30774) / [pdf](https://arxiv.org/pdf/2610.30774) |
+| 2026-10-22 | [OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments](https://arxiv.org/abs/2610.30589) | Kaiyao Liao, Qingfeng Li, Chen Chen, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.30589) / [pdf](https://arxiv.org/pdf/2610.30589) |
+| 2026-10-21 | [Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles](https://arxiv.org/abs/2610.30340) | NVIDIA, :, Sérgio Agostinho, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.30340) / [pdf](https://arxiv.org/pdf/2610.30340) |
 | 2026-10-21 | [RealMe: Immersive Volumetric Video from Minimal Captures](https://arxiv.org/abs/2610.30023) | Chenxu Zhou, Zhiyuan Yu, Yudong Jin, et al. | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2610.30023) / [pdf](https://arxiv.org/pdf/2610.30023) |
 | 2026-10-21 | [DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos](https://arxiv.org/abs/2610.29936) | Naru Suzuki, Satoshi Ikehata, Takehiko Ohkawa, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.29936) / [pdf](https://arxiv.org/pdf/2610.29936) |
 | 2026-10-21 | [GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models](https://arxiv.org/abs/2610.29866) | Qinfan Zhang, Yifan Luo, Haoyuan Shi, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.29866) / [pdf](https://arxiv.org/pdf/2610.29866) |

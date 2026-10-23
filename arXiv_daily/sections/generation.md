@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 1051 · **Unique arXiv IDs:** 1051
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 1055 · **Unique arXiv IDs:** 1055
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [A Unified Framework for Image-to-3D Part Generation via Variable Granularity](https://arxiv.org/abs/2610.31671) | Qiwen Gu, Xin Zhou, Xiwu Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.31671) / [pdf](https://arxiv.org/pdf/2610.31671) |
+| 2026-10-22 | [Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation](https://arxiv.org/abs/2610.31649) | Xiaolin Li, Zihao Huang, Fanpeng Meng, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.31649) / [pdf](https://arxiv.org/pdf/2610.31649) |
+| 2026-10-22 | [WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models](https://arxiv.org/abs/2610.31640) | Chenxi Song, Yanming Yang, Tong Zhao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.31640) / [pdf](https://arxiv.org/pdf/2610.31640) |
+| 2026-10-21 | [MoRE: Motion-Regularized Encoding for Articulated 3D Generation](https://arxiv.org/abs/2610.30337) | Guantian Zheng, Shan Jin | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2610.30337) / [pdf](https://arxiv.org/pdf/2610.30337) |
 | 2026-10-21 | [Spatially Gated Demographic Steering for Debiasing Multi-Person Text-to-Image Generation](https://arxiv.org/abs/2610.29651) | Venkatesh Thirugnana Sambandham, Torsten Schon | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.29651) / [pdf](https://arxiv.org/pdf/2610.29651) |
 | 2026-10-20 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | Rundong Luo, Yunong Liu, Di Cao, et al. | cs.RO, cs.AI, cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.28585) / [pdf](https://arxiv.org/pdf/2610.28585) |
 | 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |

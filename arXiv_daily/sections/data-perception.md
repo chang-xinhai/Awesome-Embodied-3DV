@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 1880 · **Unique arXiv IDs:** 1880
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 1888 · **Unique arXiv IDs:** 1888
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | Namitha Guruprasad, Abhay Yadav, Cheng Peng, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31645) / [pdf](https://arxiv.org/pdf/2610.31645) |
+| 2026-10-22 | [Squaring-the-Sphere: Distortion-Free and Seamless Panorama Generation via CubeAtlas](https://arxiv.org/abs/2610.31565) | Xuhui Zuo, Chenjie Cao, Tengfei Wang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31565) / [pdf](https://arxiv.org/pdf/2610.31565) |
+| 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |
+| 2026-10-22 | [CoHelix: Event-Based Multi-Propeller Rotation-Rate Tracking with Shared Projective Geometry](https://arxiv.org/abs/2610.31384) | Radim Spetlik, Tobiáš Vinklárek, Jan Klivan, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.31384) / [pdf](https://arxiv.org/pdf/2610.31384) |
+| 2026-10-22 | [GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera](https://arxiv.org/abs/2610.31334) | Xiangdong Wang, I-Hsuan Huang, Xiaohao Xu, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.31334) / [pdf](https://arxiv.org/pdf/2610.31334) |
+| 2026-10-22 | [WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife](https://arxiv.org/abs/2610.31123) | Muhammad Aamir, Sangyun Shin, Naoya Muramatsu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.31123) / [pdf](https://arxiv.org/pdf/2610.31123) |
+| 2026-10-22 | [Vision Transformers for Estimating Irradiance Using Data Scarce Sky Images](https://arxiv.org/abs/2610.30940) | David Hamlyn, Sunny Chaudhary, Tasmiat Rahman | eess.IV, cs.AI, cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.30940) / [pdf](https://arxiv.org/pdf/2610.30940) |
+| 2026-10-22 | [OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments](https://arxiv.org/abs/2610.30589) | Kaiyao Liao, Qingfeng Li, Chen Chen, et al. | cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.30589) / [pdf](https://arxiv.org/pdf/2610.30589) |
 | 2026-10-21 | [RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation](https://arxiv.org/abs/2610.29845) | Samuel Foo Enze, Manthan Patel, Fan Yang, et al. | cs.RO, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.29845) / [pdf](https://arxiv.org/pdf/2610.29845) |
 | 2026-10-20 | [Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880) | Matthew Strong, Ankush K. Dhawan, Julien Poffet, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.28880) / [pdf](https://arxiv.org/pdf/2610.28880) |
 | 2026-10-20 | [Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation](https://arxiv.org/abs/2610.28712) | Keigo Minamida, Koya Dendo, Yuto Nakamura, et al. | cs.RO, cs.HC | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.28712) / [pdf](https://arxiv.org/pdf/2610.28712) |

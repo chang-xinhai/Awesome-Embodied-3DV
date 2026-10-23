@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 2645 · **Unique arXiv IDs:** 2645
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 2654 · **Unique arXiv IDs:** 2654
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control](https://arxiv.org/abs/2610.31617) | Fanxing Li, Yuxiang Huang, Shengyang Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.31617) / [pdf](https://arxiv.org/pdf/2610.31617) |
+| 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |
+| 2026-10-22 | [Skeleton-Grounded Latent Action Model for Robot World Models](https://arxiv.org/abs/2610.31474) | Qi Lv, Jiayi Lin, Yuxin Jiang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.31474) / [pdf](https://arxiv.org/pdf/2610.31474) |
+| 2026-10-22 | [Dual Exam: Controlled Evaluation of Multimodal Agents and World Models](https://arxiv.org/abs/2610.31066) | Zhefan Rao, Meng Chu, Xuan Zhang, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.31066) / [pdf](https://arxiv.org/pdf/2610.31066) |
+| 2026-10-22 | [In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations](https://arxiv.org/abs/2610.30988) | Hengyi Sim, Quentin Rouxel, Dennis Hong, et al. | cs.RO | World Model, Sim-to-Real | [abs](https://arxiv.org/abs/2610.30988) / [pdf](https://arxiv.org/pdf/2610.30988) |
+| 2026-10-22 | [Query-Time Calibration of CLIP Features for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2610.30908) | Dominik Engel, Yousef Rajeh, Leon Sick, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.30908) / [pdf](https://arxiv.org/pdf/2610.30908) |
+| 2026-10-22 | [DRILL: Training World Models to Improve Policies, Not Predict Pixels](https://arxiv.org/abs/2610.30814) | Zhaolu Kang, Tailong Luo, Lei Wei, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.30814) / [pdf](https://arxiv.org/pdf/2610.30814) |
+| 2026-10-22 | [DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models](https://arxiv.org/abs/2610.30781) | Adam Lee, Mutian Xu, Yukang Cao, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.30781) / [pdf](https://arxiv.org/pdf/2610.30781) |
+| 2026-10-22 | [Anticipating Social Consequences with Distributional World Models](https://arxiv.org/abs/2610.30657) | Viet-Thanh Pham, Thuy-Trang Vu, Zhuang Li, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2610.30657) / [pdf](https://arxiv.org/pdf/2610.30657) |
 | 2026-10-21 | [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | Zhuoyang Liu, Dantong Niu, Botong Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.30136) / [pdf](https://arxiv.org/pdf/2610.30136) |
 | 2026-10-21 | [Rethinking Video Autoencoders for Interactive World Models](https://arxiv.org/abs/2610.30129) | Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.30129) / [pdf](https://arxiv.org/pdf/2610.30129) |
 | 2026-10-21 | [Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance](https://arxiv.org/abs/2610.29452) | Taiga Ikeshima, Sheila Sutjipto, Lan Wu, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.29452) / [pdf](https://arxiv.org/pdf/2610.29452) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 555 · **Unique arXiv IDs:** 555
+**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 557 · **Unique arXiv IDs:** 557
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife](https://arxiv.org/abs/2610.31123) | Muhammad Aamir, Sangyun Shin, Naoya Muramatsu, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.31123) / [pdf](https://arxiv.org/pdf/2610.31123) |
+| 2026-10-21 | [TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319) | Zikang Xiong, Weixin Li, Zhouchonghao Wu, et al. | cs.RO, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.30319) / [pdf](https://arxiv.org/pdf/2610.30319) |
 | 2026-10-21 | [DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos](https://arxiv.org/abs/2610.29936) | Naru Suzuki, Satoshi Ikehata, Takehiko Ohkawa, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.29936) / [pdf](https://arxiv.org/pdf/2610.29936) |
 | 2026-10-20 | [Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880) | Matthew Strong, Ankush K. Dhawan, Julien Poffet, et al. | cs.RO, cs.CV | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.28880) / [pdf](https://arxiv.org/pdf/2610.28880) |
 | 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |
