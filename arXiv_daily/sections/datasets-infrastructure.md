@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-23 · **Papers:** 557 · **Unique arXiv IDs:** 557
+**Coverage:** 2025-01-01 to 2026-10-24 · **Papers:** 557 · **Unique arXiv IDs:** 557
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
