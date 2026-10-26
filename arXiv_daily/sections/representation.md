@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 3212 · **Unique arXiv IDs:** 3212
+**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 3213 · **Unique arXiv IDs:** 3213
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-22 | [SyncVid: World-Equivariant Diffusion for Synchronized Video Generation](https://arxiv.org/abs/2610.31765) | Farhad G. Zanjani, Animesh Karnewar, Fatih Porikli, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2610.31765) / [pdf](https://arxiv.org/pdf/2610.31765) |
 | 2026-10-22 | [MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model](https://arxiv.org/abs/2610.31321) | Xinyang Lu, Shengzhe Wei, Sheng Tang, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.31321) / [pdf](https://arxiv.org/pdf/2610.31321) |
 | 2026-10-22 | [RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293) | Thanh-Khoi Nguyen, Thien-Phuc Tran, Minh-Triet Tran | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.31293) / [pdf](https://arxiv.org/pdf/2610.31293) |
 | 2026-10-22 | [H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910) | Zhang Zichuan, Bart Brouwers, Rembrandt Bakker, et al. | eess.IV, cs.CV, cs.GR | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2610.30910) / [pdf](https://arxiv.org/pdf/2610.30910) |
@@ -47,7 +48,7 @@
 | 2026-10-19 | [RxGS: Relightable Gaussian Stylization via BRDF Decomposition](https://arxiv.org/abs/2610.25681) | Wanrong Hong, Liu Jiang, Mukesh Prasad, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2610.25681) / [pdf](https://arxiv.org/pdf/2610.25681) |
 | 2026-10-18 | [MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2610.25345) | Yifei Wang, Wei Tian, Wenhua Bao, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.25345) / [pdf](https://arxiv.org/pdf/2610.25345) |
 | 2026-10-18 | [GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation](https://arxiv.org/abs/2610.25261) | Boxin Bu, Simon Boche, Haoming Zhang, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.25261) / [pdf](https://arxiv.org/pdf/2610.25261) |
-| 2026-10-18 | [Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots](https://arxiv.org/abs/2610.25068) | Que Haohua, Mingkai Liu, Handong Yao | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.25068) / [pdf](https://arxiv.org/pdf/2610.25068) |
+| 2026-10-18 | [Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots](https://arxiv.org/abs/2610.25068) | Haohua Que, Mingkai Liu, Tianle Zhu, et al. | cs.RO, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.25068) / [pdf](https://arxiv.org/pdf/2610.25068) |
 | 2026-10-18 | [FineSplat: Fine Patches, Local Groups, Detailed Splats](https://arxiv.org/abs/2610.25011) | Hyebin Kim, Hwasik Jeong, Joonhyuk Park, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.25011) / [pdf](https://arxiv.org/pdf/2610.25011) |
 | 2026-10-17 | [Codec-Compatible Learned Compression for 3D Gaussian Splatting](https://arxiv.org/abs/2610.26920) | Feiyang Yu, Qi Yang, Wenjie Huang, et al. | eess.IV, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.26920) / [pdf](https://arxiv.org/pdf/2610.26920) |
 | 2026-10-17 | [GTSM: Gaussian Splatting with Thermal State-Space Dynamics for Spatio-Temporal Thermal Field Reconstruction and Prediction](https://arxiv.org/abs/2610.26918) | Yunpeng Zhao, Haoxiang Zhang, Chao Liu | cs.CV, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2610.26918) / [pdf](https://arxiv.org/pdf/2610.26918) |

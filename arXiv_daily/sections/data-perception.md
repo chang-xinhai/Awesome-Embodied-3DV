@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 1888 · **Unique arXiv IDs:** 1888
+**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 1889 · **Unique arXiv IDs:** 1889
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-23 | [Real-Time Localisation of Dorsal Anatomical Regions on Dairy Cows in Commercial Rotary Parlours from RGB-D](https://arxiv.org/abs/2610.32174) | Vineet Prasad, Shiron Melvin, Sheikh Azid, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.32174) / [pdf](https://arxiv.org/pdf/2610.32174) |
 | 2026-10-22 | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | Namitha Guruprasad, Abhay Yadav, Cheng Peng, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31645) / [pdf](https://arxiv.org/pdf/2610.31645) |
 | 2026-10-22 | [Squaring-the-Sphere: Distortion-Free and Seamless Panorama Generation via CubeAtlas](https://arxiv.org/abs/2610.31565) | Xuhui Zuo, Chenjie Cao, Tengfei Wang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31565) / [pdf](https://arxiv.org/pdf/2610.31565) |
 | 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |

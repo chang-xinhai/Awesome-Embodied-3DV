@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 3130 · **Unique arXiv IDs:** 3130
+**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 3132 · **Unique arXiv IDs:** 3132
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-23 | [CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction](https://arxiv.org/abs/2610.32800) | Dong-hwi Kim, Chaewon Moon, Hojun Song, et al. | cs.CV | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.32800) / [pdf](https://arxiv.org/pdf/2610.32800) |
+| 2026-10-22 | [PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.31908) | Ranran Huang, Wenjing Bian, Weixun Luo, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31908) / [pdf](https://arxiv.org/pdf/2610.31908) |
 | 2026-10-22 | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | Namitha Guruprasad, Abhay Yadav, Cheng Peng, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31645) / [pdf](https://arxiv.org/pdf/2610.31645) |
 | 2026-10-22 | [HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://arxiv.org/abs/2610.31635) | Zunnan Xu, Shangchen Zhou, Yihang Luo, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.31635) / [pdf](https://arxiv.org/pdf/2610.31635) |
 | 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |

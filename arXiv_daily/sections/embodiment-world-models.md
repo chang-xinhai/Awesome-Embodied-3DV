@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 2654 · **Unique arXiv IDs:** 2654
+**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 2663 · **Unique arXiv IDs:** 2663
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-23 | [UniAction: Unified Action Conditioning for World Models](https://arxiv.org/abs/2610.32977) | Bowen Xue, Zizhang Li, Hong-Xing Yu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.32977) / [pdf](https://arxiv.org/pdf/2610.32977) |
+| 2026-10-23 | [Regularised RL improves sim-to-real transfer](https://arxiv.org/abs/2610.32855) | Danilo Vucetic, Mohamad H. Danesh, Florence Clerc, et al. | cs.LG, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2610.32855) / [pdf](https://arxiv.org/pdf/2610.32855) |
+| 2026-10-23 | [Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection](https://arxiv.org/abs/2610.32742) | Luke Beddow, George Mavroghenis, Rodrigo Chacon Quesada, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.32742) / [pdf](https://arxiv.org/pdf/2610.32742) |
+| 2026-10-23 | [HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching](https://arxiv.org/abs/2610.32554) | I-tak Ieong, Hao Tang | cs.RO, cs.MA | World Model | [abs](https://arxiv.org/abs/2610.32554) / [pdf](https://arxiv.org/pdf/2610.32554) |
+| 2026-10-23 | [UniWorld: A Unified World Model for Real-Time Visual World Simulation](https://arxiv.org/abs/2610.32381) | Xin Zhang, Yabo Chen, Shuaiwei Wang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.32381) / [pdf](https://arxiv.org/pdf/2610.32381) |
+| 2026-10-23 | [$Ψ$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model](https://arxiv.org/abs/2610.32177) | Khai Loong Aw, Klemen Kotar, Baihan Zhang, et al. | cs.AI, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.32177) / [pdf](https://arxiv.org/pdf/2610.32177) |
+| 2026-10-22 | [Real-to-Sim Calibration of Bosch Etching Simulators with Few-Shot XSEM Data and Hybrid Search](https://arxiv.org/abs/2610.31904) | Xinyu Jia, Jainil Shah, Rahul Tripathi, et al. | cs.CE, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.31904) / [pdf](https://arxiv.org/pdf/2610.31904) |
+| 2026-10-22 | [WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations](https://arxiv.org/abs/2610.31834) | Tianling Xu, Weijie Wan, Honghao Su, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.31834) / [pdf](https://arxiv.org/pdf/2610.31834) |
+| 2026-10-22 | [See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762) | Jiawei Chen, Yinxi Wang, Zihan Yang, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.31762) / [pdf](https://arxiv.org/pdf/2610.31762) |
 | 2026-10-22 | [DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control](https://arxiv.org/abs/2610.31617) | Fanxing Li, Yuxiang Huang, Shengyang Wang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.31617) / [pdf](https://arxiv.org/pdf/2610.31617) |
 | 2026-10-22 | [Point-Level Refinable Semantic Mapping for Spatial Understanding](https://arxiv.org/abs/2610.31476) | Taimeng Fu, Yi Du, Zitong Zhan, et al. | cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.31476) / [pdf](https://arxiv.org/pdf/2610.31476) |
 | 2026-10-22 | [Skeleton-Grounded Latent Action Model for Robot World Models](https://arxiv.org/abs/2610.31474) | Qi Lv, Jiayi Lin, Yuxin Jiang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.31474) / [pdf](https://arxiv.org/pdf/2610.31474) |

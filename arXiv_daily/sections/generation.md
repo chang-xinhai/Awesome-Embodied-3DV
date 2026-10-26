@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 1055 · **Unique arXiv IDs:** 1055
+**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 1057 · **Unique arXiv IDs:** 1057
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-23 | [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](https://arxiv.org/abs/2610.32978) | Yuhan Liu, Lianhui Qin, Shenji Wan | cs.CV, cs.AI, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.32978) / [pdf](https://arxiv.org/pdf/2610.32978) |
+| 2026-10-22 | [WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations](https://arxiv.org/abs/2610.31834) | Tianling Xu, Weijie Wan, Honghao Su, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.31834) / [pdf](https://arxiv.org/pdf/2610.31834) |
 | 2026-10-22 | [A Unified Framework for Image-to-3D Part Generation via Variable Granularity](https://arxiv.org/abs/2610.31671) | Qiwen Gu, Xin Zhou, Xiwu Chen, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.31671) / [pdf](https://arxiv.org/pdf/2610.31671) |
 | 2026-10-22 | [Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation](https://arxiv.org/abs/2610.31649) | Xiaolin Li, Zihao Huang, Fanpeng Meng, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.31649) / [pdf](https://arxiv.org/pdf/2610.31649) |
 | 2026-10-22 | [WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models](https://arxiv.org/abs/2610.31640) | Chenxi Song, Yanming Yang, Tong Zhao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.31640) / [pdf](https://arxiv.org/pdf/2610.31640) |
