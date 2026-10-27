@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-26 · **Papers:** 1057 · **Unique arXiv IDs:** 1057
+**Coverage:** 2025-01-01 to 2026-10-27 · **Papers:** 1057 · **Unique arXiv IDs:** 1057
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
