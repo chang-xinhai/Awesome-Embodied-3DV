@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-27 · **Papers:** 1889 · **Unique arXiv IDs:** 1889
+**Coverage:** 2025-01-01 to 2026-10-27 · **Papers:** 1891 · **Unique arXiv IDs:** 1891
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-26 | [Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU](https://arxiv.org/abs/2610.35554) | Davide Cuttini, Diego Di Tommaso, Alessio Antoniacomi, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.35554) / [pdf](https://arxiv.org/pdf/2610.35554) |
+| 2026-10-26 | [Fed-MAPTrack: Federated Modality-aware Prompt Tuning for RGB-X Tracking](https://arxiv.org/abs/2610.34939) | Xiangyu Liu, Yijie Shen, Yue Yin, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.34939) / [pdf](https://arxiv.org/pdf/2610.34939) |
 | 2026-10-23 | [Real-Time Localisation of Dorsal Anatomical Regions on Dairy Cows in Commercial Rotary Parlours from RGB-D](https://arxiv.org/abs/2610.32174) | Vineet Prasad, Shiron Melvin, Sheikh Azid, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.32174) / [pdf](https://arxiv.org/pdf/2610.32174) |
 | 2026-10-22 | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | Namitha Guruprasad, Abhay Yadav, Cheng Peng, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31645) / [pdf](https://arxiv.org/pdf/2610.31645) |
 | 2026-10-22 | [Squaring-the-Sphere: Distortion-Free and Seamless Panorama Generation via CubeAtlas](https://arxiv.org/abs/2610.31565) | Xuhui Zuo, Chenjie Cao, Tengfei Wang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.31565) / [pdf](https://arxiv.org/pdf/2610.31565) |
