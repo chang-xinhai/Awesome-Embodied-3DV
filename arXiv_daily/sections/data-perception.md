@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 1891 · **Unique arXiv IDs:** 1891
+**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 1897 · **Unique arXiv IDs:** 1897
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-27 | [Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation](https://arxiv.org/abs/2610.37543) | Dequan Ou, Austin Lopez, Quentin Missinne, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.37543) / [pdf](https://arxiv.org/pdf/2610.37543) |
+| 2026-10-27 | [Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning](https://arxiv.org/abs/2610.37437) | Zengqi Zhao, Zun Wang, Shoubin Yu, et al. | cs.CV, cs.AI, cs.CL | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.37437) / [pdf](https://arxiv.org/pdf/2610.37437) |
+| 2026-10-27 | [FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS](https://arxiv.org/abs/2610.37153) | Tom Sanitz, Emre Gülsoylu, Simone Frintrop, et al. | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.37153) / [pdf](https://arxiv.org/pdf/2610.37153) |
+| 2026-10-27 | [Omni-IGN: Onboard Image-Goal Navigation for Drones with Omnidirectional Vision](https://arxiv.org/abs/2610.36968) | Zichen Yan, Rui Huang, Shenao Wang, et al. | cs.RO | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.36968) / [pdf](https://arxiv.org/pdf/2610.36968) |
+| 2026-10-27 | [HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency](https://arxiv.org/abs/2610.36876) | Zhuoxiao Li, Xinyi Liu, Hongye Hou, et al. | cs.CV | Wide-FOV Perception, Dense 3D Semantics | [abs](https://arxiv.org/abs/2610.36876) / [pdf](https://arxiv.org/pdf/2610.36876) |
+| 2026-10-27 | [LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM](https://arxiv.org/abs/2610.36853) | Da Li, Yihan Zang, Ivan Viola, et al. | cs.CV, cs.GR | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.36853) / [pdf](https://arxiv.org/pdf/2610.36853) |
 | 2026-10-26 | [Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU](https://arxiv.org/abs/2610.35554) | Davide Cuttini, Diego Di Tommaso, Alessio Antoniacomi, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.35554) / [pdf](https://arxiv.org/pdf/2610.35554) |
 | 2026-10-26 | [Fed-MAPTrack: Federated Modality-aware Prompt Tuning for RGB-X Tracking](https://arxiv.org/abs/2610.34939) | Xiangyu Liu, Yijie Shen, Yue Yin, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.34939) / [pdf](https://arxiv.org/pdf/2610.34939) |
 | 2026-10-23 | [Real-Time Localisation of Dorsal Anatomical Regions on Dairy Cows in Commercial Rotary Parlours from RGB-D](https://arxiv.org/abs/2610.32174) | Vineet Prasad, Shiron Melvin, Sheikh Azid, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.32174) / [pdf](https://arxiv.org/pdf/2610.32174) |

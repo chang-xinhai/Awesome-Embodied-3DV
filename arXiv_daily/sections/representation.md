@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 3231 · **Unique arXiv IDs:** 3231
+**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 3239 · **Unique arXiv IDs:** 3239
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-27 | [CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats](https://arxiv.org/abs/2610.37406) | Haruki Fukuda, Constantin Lux, Wolf Schweitzer, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.37406) / [pdf](https://arxiv.org/pdf/2610.37406) |
+| 2026-10-27 | [DomeGS: Perceptually Consistent Background Completion for Unbounded 3D Gaussian Splatting in Virtual Reality](https://arxiv.org/abs/2610.37172) | Anastasiya Pechko, Agata Szymańska, Piotr Borycki, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.37172) / [pdf](https://arxiv.org/pdf/2610.37172) |
+| 2026-10-27 | [GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing](https://arxiv.org/abs/2610.37036) | Jinxin Ai, Matthias Niessner | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.37036) / [pdf](https://arxiv.org/pdf/2610.37036) |
+| 2026-10-27 | [LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM](https://arxiv.org/abs/2610.36853) | Da Li, Yihan Zang, Ivan Viola, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.36853) / [pdf](https://arxiv.org/pdf/2610.36853) |
+| 2026-10-27 | [GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting](https://arxiv.org/abs/2610.36760) | Jiale Wang, Chen Zhao, Haoyang Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.36760) / [pdf](https://arxiv.org/pdf/2610.36760) |
+| 2026-10-27 | [ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting](https://arxiv.org/abs/2610.36462) | Jaesung Lee, Hyeontaek Hwang, Gabriel Manalu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.36462) / [pdf](https://arxiv.org/pdf/2610.36462) |
+| 2026-10-26 | [SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation](https://arxiv.org/abs/2610.36312) | Ziang Guo, Didar Seyidov, Yixiao Zhou, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.36312) / [pdf](https://arxiv.org/pdf/2610.36312) |
+| 2026-10-26 | [PrinGS: Privacy Preservation in Gaussian Splatting](https://arxiv.org/abs/2610.36168) | Gaurav Behera, Abhinav Raundhal, Archisha Panda, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.36168) / [pdf](https://arxiv.org/pdf/2610.36168) |
 | 2026-10-26 | [VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion](https://arxiv.org/abs/2610.35756) | Yanming Yang, Chenxi Song, Tong Zhao, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.35756) / [pdf](https://arxiv.org/pdf/2610.35756) |
 | 2026-10-26 | [Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies](https://arxiv.org/abs/2610.35626) | Zuoxu Wang, Xiao Liang | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.35626) / [pdf](https://arxiv.org/pdf/2610.35626) |
 | 2026-10-26 | [SG-Splat: Stable Geometry Learning under Pose Uncertainty for Pose-Free 3D Gaussian Splatting](https://arxiv.org/abs/2610.35361) | Xiaohan Lu, Jiaqi Zhang, Weijia Jiang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2610.35361) / [pdf](https://arxiv.org/pdf/2610.35361) |

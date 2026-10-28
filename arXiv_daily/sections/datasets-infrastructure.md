@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 563 · **Unique arXiv IDs:** 563
+**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 566 · **Unique arXiv IDs:** 566
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-27 | [HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency](https://arxiv.org/abs/2610.36876) | Zhuoxiao Li, Xinyi Liu, Hongye Hou, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.36876) / [pdf](https://arxiv.org/pdf/2610.36876) |
+| 2026-10-27 | [MVRCap: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards](https://arxiv.org/abs/2610.36838) | Weihuang Lin, Xianing Chen, Zhibin Wang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.36838) / [pdf](https://arxiv.org/pdf/2610.36838) |
 | 2026-10-26 | [Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction](https://arxiv.org/abs/2610.35621) | Íñigo Cirauqui-Viloria | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.35621) / [pdf](https://arxiv.org/pdf/2610.35621) |
 | 2026-10-26 | [Zero-Shot Monocular Depth Estimation for Visual Perception in Lower-Limb Prostheses](https://arxiv.org/abs/2610.35018) | Ishi Vijayvergiya, Marc Hölle, Youssef Dawoud, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.35018) / [pdf](https://arxiv.org/pdf/2610.35018) |
 | 2026-10-25 | [RIDE-Splat: Reflection Removal for In-the-Wild Driving Environments](https://arxiv.org/abs/2610.34632) | Kevin David Hayes, Alex Hanson, Allen Tu, et al. | cs.CV, cs.AI | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2610.34632) / [pdf](https://arxiv.org/pdf/2610.34632) |
@@ -21,6 +23,7 @@
 | 2026-10-21 | [TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319) | Zikang Xiong, Weixin Li, Zhouchonghao Wu, et al. | cs.RO, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.30319) / [pdf](https://arxiv.org/pdf/2610.30319) |
 | 2026-10-21 | [DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos](https://arxiv.org/abs/2610.29936) | Naru Suzuki, Satoshi Ikehata, Takehiko Ohkawa, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.29936) / [pdf](https://arxiv.org/pdf/2610.29936) |
 | 2026-10-20 | [Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880) | Matthew Strong, Ankush K. Dhawan, Julien Poffet, et al. | cs.RO, cs.CV | Simulator / Toolchain | [abs](https://arxiv.org/abs/2610.28880) / [pdf](https://arxiv.org/pdf/2610.28880) |
+| 2026-10-20 | [MARE: An Open-Source Lunar Rover Simulator with Shadow Ground Truth for Perception and Autonomy](https://arxiv.org/abs/2610.28465) | Raúl Castilla-Arquillo, Miguel Olivares-Mendez | cs.RO | Dataset | [abs](https://arxiv.org/abs/2610.28465) / [pdf](https://arxiv.org/pdf/2610.28465) |
 | 2026-10-20 | [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://arxiv.org/abs/2610.28402) | StreamEval Team | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.28402) / [pdf](https://arxiv.org/pdf/2610.28402) |
 | 2026-10-20 | [GALA: Geometry-Aware Language Model for Controllable Object Arrangement](https://arxiv.org/abs/2610.28280) | Chucheng Xiang, Runze Wang, Zhi Deng, et al. | cs.GR, cs.AI, cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.28280) / [pdf](https://arxiv.org/pdf/2610.28280) |
 | 2026-10-20 | [PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting](https://arxiv.org/abs/2610.27696) | Jinghan Gao, Siyu Wang, Dongyu Feng, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2610.27696) / [pdf](https://arxiv.org/pdf/2610.27696) |

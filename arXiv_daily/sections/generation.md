@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 1062 · **Unique arXiv IDs:** 1062
+**Coverage:** 2025-01-01 to 2026-10-28 · **Papers:** 1063 · **Unique arXiv IDs:** 1063
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-27 | [ScIntBench: Physical Interaction Plausibility in 3D Scene Generation](https://arxiv.org/abs/2610.37326) | Wendi Ying, Daochang Liu, Leonid Sigal, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.37326) / [pdf](https://arxiv.org/pdf/2610.37326) |
 | 2026-10-26 | [VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion](https://arxiv.org/abs/2610.35756) | Yanming Yang, Chenxi Song, Tong Zhao, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2610.35756) / [pdf](https://arxiv.org/pdf/2610.35756) |
 | 2026-10-26 | [Generative Structure from Motion with Native 3D Diffusion](https://arxiv.org/abs/2610.35522) | Haobin Duan, Binbin Huang, Mochu Xiang, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.35522) / [pdf](https://arxiv.org/pdf/2610.35522) |
 | 2026-10-26 | [MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes](https://arxiv.org/abs/2610.34893) | Rui Cao, Jia-Hui Pan, Yichuan Li, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.34893) / [pdf](https://arxiv.org/pdf/2610.34893) |
