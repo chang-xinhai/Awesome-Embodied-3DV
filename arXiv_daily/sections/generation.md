@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 1063 · **Unique arXiv IDs:** 1063
+**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 1068 · **Unique arXiv IDs:** 1068
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-29 | [SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization](https://arxiv.org/abs/2610.40640) | Derong Jin, Xiyi Chen, Ming C. Lin, et al. | cs.CV, cs.SD | Scene / World Generation | [abs](https://arxiv.org/abs/2610.40640) / [pdf](https://arxiv.org/pdf/2610.40640) |
+| 2026-10-29 | [HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://arxiv.org/abs/2610.40599) | Yuze He, Yixiang Wei, Wang Zhao, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.40599) / [pdf](https://arxiv.org/pdf/2610.40599) |
+| 2026-10-29 | [LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](https://arxiv.org/abs/2610.40495) | Oliver Hahn, Rodrigo Marcuzzi, Sangeetha Grama Srinivasan, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.40495) / [pdf](https://arxiv.org/pdf/2610.40495) |
+| 2026-10-28 | [LightGenBench: A Benchmark for 3D Emission Generation](https://arxiv.org/abs/2610.39038) | Dongchen Yang, Xingguang Yan, Manolis Savva | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.39038) / [pdf](https://arxiv.org/pdf/2610.39038) |
+| 2026-10-27 | [GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818) | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, et al. | cs.CV, cs.GR, cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2610.37818) / [pdf](https://arxiv.org/pdf/2610.37818) |
 | 2026-10-27 | [ScIntBench: Physical Interaction Plausibility in 3D Scene Generation](https://arxiv.org/abs/2610.37326) | Wendi Ying, Daochang Liu, Leonid Sigal, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.37326) / [pdf](https://arxiv.org/pdf/2610.37326) |
 | 2026-10-26 | [VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion](https://arxiv.org/abs/2610.35756) | Yanming Yang, Chenxi Song, Tong Zhao, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2610.35756) / [pdf](https://arxiv.org/pdf/2610.35756) |
 | 2026-10-26 | [Generative Structure from Motion with Native 3D Diffusion](https://arxiv.org/abs/2610.35522) | Haobin Duan, Binbin Huang, Mochu Xiang, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.35522) / [pdf](https://arxiv.org/pdf/2610.35522) |

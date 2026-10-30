@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 3168 · **Unique arXiv IDs:** 3168
+**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 3177 · **Unique arXiv IDs:** 3177
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-29 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://arxiv.org/abs/2610.40614) | Jinhyeok Choi, JoungBin Lee, Jongmin Lee, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.40614) / [pdf](https://arxiv.org/pdf/2610.40614) |
+| 2026-10-29 | [LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](https://arxiv.org/abs/2610.40495) | Oliver Hahn, Rodrigo Marcuzzi, Sangeetha Grama Srinivasan, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.40495) / [pdf](https://arxiv.org/pdf/2610.40495) |
+| 2026-10-29 | [MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments](https://arxiv.org/abs/2610.39936) | Zhiliang Wu, Xinye Zheng, Kun Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.39936) / [pdf](https://arxiv.org/pdf/2610.39936) |
+| 2026-10-29 | [Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition](https://arxiv.org/abs/2610.39691) | Wenhui Feng, Muhan Weng, Jianyu Liu, et al. | cs.LG, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.39691) / [pdf](https://arxiv.org/pdf/2610.39691) |
+| 2026-10-29 | [TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video](https://arxiv.org/abs/2610.39585) | Ziheng Xi, Weibo Li, Jiayi Yu, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.39585) / [pdf](https://arxiv.org/pdf/2610.39585) |
+| 2026-10-29 | [UMI-Live for In-The-Wild Bimanual Robotics Data Collection](https://arxiv.org/abs/2610.39385) | Govind Velamoor, Adrian Lin, Sam Jung, et al. | cs.RO, cs.AI | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.39385) / [pdf](https://arxiv.org/pdf/2610.39385) |
+| 2026-10-28 | [Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts](https://arxiv.org/abs/2610.38358) | Noâm Boussouf, Adrien Maglo, Mohamed Chaouch, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.38358) / [pdf](https://arxiv.org/pdf/2610.38358) |
+| 2026-10-28 | [Aligning Misaligned Benchmarks for Single-View Novel View Synthesis](https://arxiv.org/abs/2610.38349) | Yang-Che Tseng, Erqun Dong, Jeong-gi Kwak, et al. | cs.CV, cs.AI | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.38349) / [pdf](https://arxiv.org/pdf/2610.38349) |
+| 2026-10-28 | [SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites](https://arxiv.org/abs/2610.38141) | Hogyun Kim, Juwon Kim, Dongjin Cho, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.38141) / [pdf](https://arxiv.org/pdf/2610.38141) |
 | 2026-10-27 | [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668) | Prakhar Kaushik, Soumava Paul, Alan Yuille | cs.CV, cs.AI, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.37668) / [pdf](https://arxiv.org/pdf/2610.37668) |
 | 2026-10-27 | [GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis](https://arxiv.org/abs/2610.37545) | Akshay Krishnan, Matias Turkulainen, Jamie Wynn, et al. | cs.CV, cs.AI, cs.LG | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2610.37545) / [pdf](https://arxiv.org/pdf/2610.37545) |
 | 2026-10-27 | [RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty](https://arxiv.org/abs/2610.37111) | Xinyi Chen, Yichen Zhang, Chenxing Jiang, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.37111) / [pdf](https://arxiv.org/pdf/2610.37111) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 1897 · **Unique arXiv IDs:** 1897
+**Coverage:** 2025-01-01 to 2026-10-30 · **Papers:** 1904 · **Unique arXiv IDs:** 1904
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-29 | [Comprehensive empirical evaluation of feature extractors in computer vision](https://arxiv.org/abs/2610.39551) | Murat Isik | cs.CV, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.39551) / [pdf](https://arxiv.org/pdf/2610.39551) |
+| 2026-10-28 | [Learning Event-based Obstacle Avoidance via Differentiable Simulation](https://arxiv.org/abs/2610.38967) | Chenlu Shou, Yunfan Ren, Jiaxu Xing, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.38967) / [pdf](https://arxiv.org/pdf/2610.38967) |
+| 2026-10-28 | [Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy](https://arxiv.org/abs/2610.38830) | Huayu Wang, Gyungmin Ko, Jung Heon Kim, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.38830) / [pdf](https://arxiv.org/pdf/2610.38830) |
+| 2026-10-28 | [RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model](https://arxiv.org/abs/2610.38587) | Xuanang Gao, Zhiwei Ning, Gengming Zhang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.38587) / [pdf](https://arxiv.org/pdf/2610.38587) |
+| 2026-10-27 | [Efficacy of Monocular Depth Estimation in Lunar Environments](https://arxiv.org/abs/2610.38080) | Michael W. Lanighan, Kenji Brameld, Seth Gee | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.38080) / [pdf](https://arxiv.org/pdf/2610.38080) |
+| 2026-10-27 | [3D Occupancy-Language Fields from mmWave Radar](https://arxiv.org/abs/2610.37929) | Haowen Lai, Zhiwei Zheng, Mingmin Zhao | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.37929) / [pdf](https://arxiv.org/pdf/2610.37929) |
+| 2026-10-27 | [GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818) | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, et al. | cs.CV, cs.GR, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.37818) / [pdf](https://arxiv.org/pdf/2610.37818) |
 | 2026-10-27 | [Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation](https://arxiv.org/abs/2610.37543) | Dequan Ou, Austin Lopez, Quentin Missinne, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2610.37543) / [pdf](https://arxiv.org/pdf/2610.37543) |
 | 2026-10-27 | [Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning](https://arxiv.org/abs/2610.37437) | Zengqi Zhao, Zun Wang, Shoubin Yu, et al. | cs.CV, cs.AI, cs.CL | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.37437) / [pdf](https://arxiv.org/pdf/2610.37437) |
 | 2026-10-27 | [FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS](https://arxiv.org/abs/2610.37153) | Tom Sanitz, Emre Gülsoylu, Simone Frintrop, et al. | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.37153) / [pdf](https://arxiv.org/pdf/2610.37153) |
