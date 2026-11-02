@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 1068 · **Unique arXiv IDs:** 1068
+**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 1072 · **Unique arXiv IDs:** 1072
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
+| 2026-10-30 | [VoxLution: Evolving Voxels for High-Fidelity 3D Scene Generation](https://arxiv.org/abs/2610.41501) | Daoyi Gao, Xinyi Zhang, Alexey Bokhovkin, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.41501) / [pdf](https://arxiv.org/pdf/2610.41501) |
+| 2026-10-30 | [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231) | Gaige Wang, Bowen Pan, Hao Ren, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.41231) / [pdf](https://arxiv.org/pdf/2610.41231) |
+| 2026-10-29 | [DyCraft: An Agentic System for Long-Horizon 4D Scene Generation](https://arxiv.org/abs/2610.40754) | Jeff Tan, Hang Dai, Zeqian Long, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.40754) / [pdf](https://arxiv.org/pdf/2610.40754) |
 | 2026-10-29 | [SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization](https://arxiv.org/abs/2610.40640) | Derong Jin, Xiyi Chen, Ming C. Lin, et al. | cs.CV, cs.SD | Scene / World Generation | [abs](https://arxiv.org/abs/2610.40640) / [pdf](https://arxiv.org/pdf/2610.40640) |
 | 2026-10-29 | [HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://arxiv.org/abs/2610.40599) | Yuze He, Yixiang Wei, Wang Zhao, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.40599) / [pdf](https://arxiv.org/pdf/2610.40599) |
 | 2026-10-29 | [LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](https://arxiv.org/abs/2610.40495) | Oliver Hahn, Rodrigo Marcuzzi, Sangeetha Grama Srinivasan, et al. | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2610.40495) / [pdf](https://arxiv.org/pdf/2610.40495) |

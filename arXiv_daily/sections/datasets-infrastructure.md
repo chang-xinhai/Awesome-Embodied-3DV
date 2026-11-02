@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 566 · **Unique arXiv IDs:** 566
+**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 567 · **Unique arXiv IDs:** 567
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
 | 2026-10-27 | [HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency](https://arxiv.org/abs/2610.36876) | Zhuoxiao Li, Xinyi Liu, Hongye Hou, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.36876) / [pdf](https://arxiv.org/pdf/2610.36876) |
 | 2026-10-27 | [MVRCap: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards](https://arxiv.org/abs/2610.36838) | Weihuang Lin, Xianing Chen, Zhibin Wang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.36838) / [pdf](https://arxiv.org/pdf/2610.36838) |
 | 2026-10-26 | [Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction](https://arxiv.org/abs/2610.35621) | Íñigo Cirauqui-Viloria | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.35621) / [pdf](https://arxiv.org/pdf/2610.35621) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 1904 · **Unique arXiv IDs:** 1904
+**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 1909 · **Unique arXiv IDs:** 1909
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning](https://arxiv.org/abs/2610.42082) | Lidong Lu, Lidong Zou, Xinyi Mao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.42082) / [pdf](https://arxiv.org/pdf/2610.42082) |
+| 2026-10-30 | [Integrating Low-Thrust Transfer Dynamics into POMDP Planning for On-Orbit Servicing](https://arxiv.org/abs/2610.41839) | Susmitha Patnala, Vincent Mousseau, Adam Abdin | cs.RO, math.OC | Active Imaging | [abs](https://arxiv.org/abs/2610.41839) / [pdf](https://arxiv.org/pdf/2610.41839) |
+| 2026-10-30 | [OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System](https://arxiv.org/abs/2610.41671) | Seungwon Choi | cs.RO, cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.41671) / [pdf](https://arxiv.org/pdf/2610.41671) |
+| 2026-10-30 | [When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity](https://arxiv.org/abs/2610.41651) | Hao Yin, Tianchen Guo, Heming Du, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.41651) / [pdf](https://arxiv.org/pdf/2610.41651) |
+| 2026-10-30 | [FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation](https://arxiv.org/abs/2610.41190) | Liangjing Shao, Wanhao Liu, Jinsong Lin, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.41190) / [pdf](https://arxiv.org/pdf/2610.41190) |
 | 2026-10-29 | [Comprehensive empirical evaluation of feature extractors in computer vision](https://arxiv.org/abs/2610.39551) | Murat Isik | cs.CV, cs.LG | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.39551) / [pdf](https://arxiv.org/pdf/2610.39551) |
 | 2026-10-28 | [Learning Event-based Obstacle Avoidance via Differentiable Simulation](https://arxiv.org/abs/2610.38967) | Chenlu Shou, Yunfan Ren, Jiaxu Xing, et al. | cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2610.38967) / [pdf](https://arxiv.org/pdf/2610.38967) |
 | 2026-10-28 | [Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy](https://arxiv.org/abs/2610.38830) | Huayu Wang, Gyungmin Ko, Jung Heon Kim, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2610.38830) / [pdf](https://arxiv.org/pdf/2610.38830) |

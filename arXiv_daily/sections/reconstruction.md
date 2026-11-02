@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 3177 · **Unique arXiv IDs:** 3177
+**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 3182 · **Unique arXiv IDs:** 3182
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot](https://arxiv.org/abs/2610.41768) | Zhanghao Zhu, Yutaka Kaizu, Kenichi Furuhashi, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.41768) / [pdf](https://arxiv.org/pdf/2610.41768) |
+| 2026-10-30 | [DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction](https://arxiv.org/abs/2610.41602) | Fan Zhu, Zhisong Xu, Ziyu Chen, et al. | cs.CV, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.41602) / [pdf](https://arxiv.org/pdf/2610.41602) |
+| 2026-10-30 | [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231) | Gaige Wang, Bowen Pan, Hao Ren, et al. | cs.CV, cs.AI | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.41231) / [pdf](https://arxiv.org/pdf/2610.41231) |
+| 2026-10-29 | [Prior-Guided Single-Exposure HDR Novel View Synthesis via Base-Gain Representation](https://arxiv.org/abs/2610.41011) | Armin Shafiee Sarvestani, Sheyang Tang, Jialu Xu, et al. | cs.CV, cs.MM | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.41011) / [pdf](https://arxiv.org/pdf/2610.41011) |
+| 2026-10-29 | [EgoHSI3R: Online 4D Hand-Scene Interaction Reconstruction from Egocentric Video](https://arxiv.org/abs/2610.40832) | Mingzhi Pei, Zhangchen Ye, Ruoqu Chen, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.40832) / [pdf](https://arxiv.org/pdf/2610.40832) |
 | 2026-10-29 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://arxiv.org/abs/2610.40614) | Jinhyeok Choi, JoungBin Lee, Jongmin Lee, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2610.40614) / [pdf](https://arxiv.org/pdf/2610.40614) |
 | 2026-10-29 | [LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](https://arxiv.org/abs/2610.40495) | Oliver Hahn, Rodrigo Marcuzzi, Sangeetha Grama Srinivasan, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.40495) / [pdf](https://arxiv.org/pdf/2610.40495) |
 | 2026-10-29 | [MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments](https://arxiv.org/abs/2610.39936) | Zhiliang Wu, Xinye Zheng, Kun Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.39936) / [pdf](https://arxiv.org/pdf/2610.39936) |

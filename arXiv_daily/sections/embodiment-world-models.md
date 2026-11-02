@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 2702 · **Unique arXiv IDs:** 2702
+**Coverage:** 2025-01-01 to 2026-11-02 · **Papers:** 2709 · **Unique arXiv IDs:** 2709
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [Hierarchical World Models with Implicit Dynamics](https://arxiv.org/abs/2610.42146) | Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.42146) / [pdf](https://arxiv.org/pdf/2610.42146) |
+| 2026-10-30 | [Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics](https://arxiv.org/abs/2610.41330) | Zhidong Wang, Zirui Li, Haoran Xu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.41330) / [pdf](https://arxiv.org/pdf/2610.41330) |
+| 2026-10-30 | [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231) | Gaige Wang, Bowen Pan, Hao Ren, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.41231) / [pdf](https://arxiv.org/pdf/2610.41231) |
+| 2026-10-30 | [FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation](https://arxiv.org/abs/2610.41190) | Liangjing Shao, Wanhao Liu, Jinsong Lin, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.41190) / [pdf](https://arxiv.org/pdf/2610.41190) |
+| 2026-10-29 | [Dreams Are Cheaper Than Flights: Curated World-Model Data Improves Aerial Detection](https://arxiv.org/abs/2610.41030) | Rugved Katole, Vedant Patil, Jenna Kline, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.41030) / [pdf](https://arxiv.org/pdf/2610.41030) |
+| 2026-10-29 | [Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models](https://arxiv.org/abs/2610.40935) | Zeping Zhang, Zhuoya Zhao, Robert Laganière | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.40935) / [pdf](https://arxiv.org/pdf/2610.40935) |
+| 2026-10-29 | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](https://arxiv.org/abs/2610.40857) | Haaris Mian, Miles Cranmer, Alessandro Favero, et al. | cs.LG, physics.flu-dyn | Sim-to-Real | [abs](https://arxiv.org/abs/2610.40857) / [pdf](https://arxiv.org/pdf/2610.40857) |
 | 2026-10-29 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://arxiv.org/abs/2610.40614) | Jinhyeok Choi, JoungBin Lee, Jongmin Lee, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.40614) / [pdf](https://arxiv.org/pdf/2610.40614) |
 | 2026-10-29 | [Fight World Model: Customizable Combat through Visual Interaction Proxies](https://arxiv.org/abs/2610.40607) | Jiahua Li, Zixu John, Tom Zhong, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.40607) / [pdf](https://arxiv.org/pdf/2610.40607) |
 | 2026-10-29 | [Wizard: Manipulate Any World in Real Time via Agentic Control](https://arxiv.org/abs/2610.40339) | Yuzhe Wu, Zijun Lin, Yeying Jin | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.40339) / [pdf](https://arxiv.org/pdf/2610.40339) |
