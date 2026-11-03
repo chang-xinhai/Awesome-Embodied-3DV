@@ -4,14 +4,30 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 1909 · **Unique arXiv IDs:** 1909
+**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 1920 · **Unique arXiv IDs:** 1920
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
+
+## 2026-11
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-02 | [Exploring Proximity and Tactile Sensing for Robotic Manipulation](https://arxiv.org/abs/2611.03489) | Eric T. Chang, Bianca Aumann, Zhanpeng He, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2611.03489) / [pdf](https://arxiv.org/pdf/2611.03489) |
+| 2026-11-02 | [Image Guided Depth Upsampling using Anisotropic Total Generalized Variation](https://arxiv.org/abs/2611.03399) | David Ferstl, Christian Reinbacher, Rene Ranftl, et al. | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.03399) / [pdf](https://arxiv.org/pdf/2611.03399) |
+| 2026-11-02 | [Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models](https://arxiv.org/abs/2611.03098) | Jaemin Cho, Oleksii Nasypanyi, Francois Rameau | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.03098) / [pdf](https://arxiv.org/pdf/2611.03098) |
+| 2026-11-02 | [PhotoGuider: Composition-Aware Cropping and 360$^{\circ}$ View Framing with Explainable Photographic Assessments](https://arxiv.org/abs/2611.02897) | Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.02897) / [pdf](https://arxiv.org/pdf/2611.02897) |
+| 2026-11-02 | [Touching Projected Agents through the DAT Screen -System Design and Questions of Interaction Boundaries-](https://arxiv.org/abs/2611.02525) | Takaya Tamamoto, Tomoko Yonezawa | cs.HC, cs.AR, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.02525) / [pdf](https://arxiv.org/pdf/2611.02525) |
+| 2026-11-01 | [Depth Anyviewpoint? Evaluating Monocular Depth Over Viewpoint Sequences](https://arxiv.org/abs/2611.02203) | Theo Rode, Rui Zhang, Ryan Aubrey, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.02203) / [pdf](https://arxiv.org/pdf/2611.02203) |
+| 2026-11-01 | [UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation](https://arxiv.org/abs/2611.01645) | Rui Cao, Jia-Hui Pan, Yin Zhang, et al. | cs.CV, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.01645) / [pdf](https://arxiv.org/pdf/2611.01645) |
+| 2026-11-01 | [Detecting Generated-Depth Injection Attacks on RGB-D Place Authentication](https://arxiv.org/abs/2611.01550) | Seigo Kawachi, Satoshi Matsuura | cs.CR, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.01550) / [pdf](https://arxiv.org/pdf/2611.01550) |
 
 ## 2026-10
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-30 | [TAP-Out: Tracking Any Point in 360° via Outpainting](https://arxiv.org/abs/2611.00406) | Finlay G. C. Hudson, James A. D. Gardner, William A. P. Smith | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.00406) / [pdf](https://arxiv.org/pdf/2611.00406) |
+| 2026-10-30 | [Emergent Control of Ant Learning Walks in a Mobile Robot](https://arxiv.org/abs/2611.00392) | Thomas Misiek, Andrew Philippides, Paul Graham, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.00392) / [pdf](https://arxiv.org/pdf/2611.00392) |
+| 2026-10-30 | [Seeing Less in a Sparse World: Cross-View Geolocalization from Limited Field-of-View Observations](https://arxiv.org/abs/2611.00288) | Fahimul Aleem, Shruti Vyas | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.00288) / [pdf](https://arxiv.org/pdf/2611.00288) |
 | 2026-10-30 | [Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning](https://arxiv.org/abs/2610.42082) | Lidong Lu, Lidong Zou, Xinyi Mao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.42082) / [pdf](https://arxiv.org/pdf/2610.42082) |
 | 2026-10-30 | [Integrating Low-Thrust Transfer Dynamics into POMDP Planning for On-Orbit Servicing](https://arxiv.org/abs/2610.41839) | Susmitha Patnala, Vincent Mousseau, Adam Abdin | cs.RO, math.OC | Active Imaging | [abs](https://arxiv.org/abs/2610.41839) / [pdf](https://arxiv.org/pdf/2610.41839) |
 | 2026-10-30 | [OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System](https://arxiv.org/abs/2610.41671) | Seungwon Choi | cs.RO, cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2610.41671) / [pdf](https://arxiv.org/pdf/2610.41671) |

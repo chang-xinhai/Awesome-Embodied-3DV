@@ -4,14 +4,42 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 2709 · **Unique arXiv IDs:** 2709
+**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 2732 · **Unique arXiv IDs:** 2732
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
+
+## 2026-11
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-02 | [Toward Uncertainty-Aware, Physics-Grounded Human World Models](https://arxiv.org/abs/2611.03428) | Yufei Zhang, Zijun Cui | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.03428) / [pdf](https://arxiv.org/pdf/2611.03428) |
+| 2026-11-02 | [KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL](https://arxiv.org/abs/2611.03138) | Aswin Ramachandran, Jona Schulz, Maurus Derungs, et al. | cs.RO, cs.AR, cs.MA | Sim-to-Real | [abs](https://arxiv.org/abs/2611.03138) / [pdf](https://arxiv.org/pdf/2611.03138) |
+| 2026-11-02 | [KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge](https://arxiv.org/abs/2611.03091) | Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.03091) / [pdf](https://arxiv.org/pdf/2611.03091) |
+| 2026-11-02 | [Training-Time Domain Transfer for Generator-Free Diagnostics on Novel Modalities in Computational Pathology](https://arxiv.org/abs/2611.02931) | Julia A. Mielcarz, Andrea Camilloni, Nita Mulliqi, et al. | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2611.02931) / [pdf](https://arxiv.org/pdf/2611.02931) |
+| 2026-11-02 | [An intelligent satellite must do nothing well](https://arxiv.org/abs/2611.02922) | Fabrizio Pilone, Giordana Bucchioni | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.02922) / [pdf](https://arxiv.org/pdf/2611.02922) |
+| 2026-11-02 | [Creating Hybrid Interactive Narrative Systems with LLM: From Formal Description to Evaluation](https://arxiv.org/abs/2611.02807) | Jules Clerc, Domitile Lourdeaux, Mohamed Sallak, et al. | cs.AI, cs.CL, cs.HC | World Model | [abs](https://arxiv.org/abs/2611.02807) / [pdf](https://arxiv.org/pdf/2611.02807) |
+| 2026-11-02 | [Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up](https://arxiv.org/abs/2611.02699) | Joyjeet Singh | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.02699) / [pdf](https://arxiv.org/pdf/2611.02699) |
+| 2026-11-02 | [Human-Oriented World Model](https://arxiv.org/abs/2611.02690) | Saihui Hou, Zengyun Mou, Chunshui Cao, et al. | cs.AI, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.02690) / [pdf](https://arxiv.org/pdf/2611.02690) |
+| 2026-11-02 | [Energy-Based Policy Orchestration](https://arxiv.org/abs/2611.02546) | Weirui Ye, Yen-Jen Wang, Elvis Hsieh, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2611.02546) / [pdf](https://arxiv.org/pdf/2611.02546) |
+| 2026-11-02 | [INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving](https://arxiv.org/abs/2611.02526) | Zhan Chen, Songyan Zhang, Wenhui Huang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.02526) / [pdf](https://arxiv.org/pdf/2611.02526) |
+| 2026-11-02 | [AgiWorld: An Agentic Video World Model for Building Persistent Worlds](https://arxiv.org/abs/2611.02341) | Shaoheng Fang, Yiqun Mei, Hanwen Jiang, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.02341) / [pdf](https://arxiv.org/pdf/2611.02341) |
+| 2026-11-01 | [GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation](https://arxiv.org/abs/2611.02171) | Arjun Bhardwaj, Mayank Mittal, Maximum Wilder-Smith, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.02171) / [pdf](https://arxiv.org/pdf/2611.02171) |
+| 2026-11-01 | [VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](https://arxiv.org/abs/2611.01939) | Yuntae Jeon, Younho Jeon, Sujin Jin, et al. | cs.CV, cs.AI | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2611.01939) / [pdf](https://arxiv.org/pdf/2611.01939) |
+| 2026-11-01 | [The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model](https://arxiv.org/abs/2611.01866) | Junichiro Niimi | cs.LG, q-bio.NC | World Model | [abs](https://arxiv.org/abs/2611.01866) / [pdf](https://arxiv.org/pdf/2611.01866) |
+| 2026-11-01 | [OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining](https://arxiv.org/abs/2611.01844) | Dujun Nie, Ruiqi Song, Zixuan Wang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.01844) / [pdf](https://arxiv.org/pdf/2611.01844) |
+| 2026-11-01 | [Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence](https://arxiv.org/abs/2611.01677) | Zhenxin Zhu, Zhijian Huang, Cheng Chi, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.01677) / [pdf](https://arxiv.org/pdf/2611.01677) |
+| 2026-11-01 | [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](https://arxiv.org/abs/2611.01600) | Amir Hossain Raj, Xuesu Xiao | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.01600) / [pdf](https://arxiv.org/pdf/2611.01600) |
 
 ## 2026-10
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-31 | [QVR3D: Query-Guided Visual Reasoning for Training-Free 3D Grounding](https://arxiv.org/abs/2611.01084) | Jung-Hao Kao, Jing-En Huang, Jia-Wei Liao, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.01084) / [pdf](https://arxiv.org/pdf/2611.01084) |
+| 2026-10-31 | [GURU: A Hierarchical Neuro-Symbolic Multi-Agent System for Verification-Aware Automation of Mission-Critical Digital Engineering and Operations](https://arxiv.org/abs/2611.01001) | Allan Grosvenor, Anton Zemlyansky, Abdul Wahab, et al. | cs.AI, cs.CE, cs.MA | World Model | [abs](https://arxiv.org/abs/2611.01001) / [pdf](https://arxiv.org/pdf/2611.01001) |
+| 2026-10-31 | [Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking](https://arxiv.org/abs/2611.00951) | Haizhou Ge, Mengshuo Wang, Yufei Jia, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.00951) / [pdf](https://arxiv.org/pdf/2611.00951) |
+| 2026-10-31 | [Roz: A Taste Test for World Model Latents](https://arxiv.org/abs/2611.00612) | Kenneth Ge, Dhruv Sheth, Kunvar Thaman | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.00612) / [pdf](https://arxiv.org/pdf/2611.00612) |
+| 2026-10-31 | [WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation](https://arxiv.org/abs/2611.00513) | Jiaming Wang | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.00513) / [pdf](https://arxiv.org/pdf/2611.00513) |
+| 2026-10-30 | [TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation](https://arxiv.org/abs/2611.00455) | Jiaxin Shi, Zibin Wu, Yichi Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.00455) / [pdf](https://arxiv.org/pdf/2611.00455) |
 | 2026-10-30 | [Hierarchical World Models with Implicit Dynamics](https://arxiv.org/abs/2610.42146) | Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2610.42146) / [pdf](https://arxiv.org/pdf/2610.42146) |
 | 2026-10-30 | [Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics](https://arxiv.org/abs/2610.41330) | Zhidong Wang, Zirui Li, Haoran Xu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2610.41330) / [pdf](https://arxiv.org/pdf/2610.41330) |
 | 2026-10-30 | [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231) | Gaige Wang, Bowen Pan, Hao Ren, et al. | cs.CV, cs.AI | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2610.41231) / [pdf](https://arxiv.org/pdf/2610.41231) |

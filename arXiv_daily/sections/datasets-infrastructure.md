@@ -4,14 +4,21 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 567 · **Unique arXiv IDs:** 567
+**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 569 · **Unique arXiv IDs:** 569
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
+
+## 2026-11
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-01 | [Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models](https://arxiv.org/abs/2611.02026) | Junfei Wu, Qiuyue Wang, Xuhong Huang, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.02026) / [pdf](https://arxiv.org/pdf/2611.02026) |
 
 ## 2026-10
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-31 | [A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins](https://arxiv.org/abs/2611.00870) | Antar Mazumder, Ryan Hartzell, Luke Boyd, et al. | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.00870) / [pdf](https://arxiv.org/pdf/2611.00870) |
 | 2026-10-30 | [GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
 | 2026-10-27 | [HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency](https://arxiv.org/abs/2610.36876) | Zhuoxiao Li, Xinyi Liu, Hongye Hou, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.36876) / [pdf](https://arxiv.org/pdf/2610.36876) |
 | 2026-10-27 | [MVRCap: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards](https://arxiv.org/abs/2610.36838) | Weihuang Lin, Xianing Chen, Zhibin Wang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.36838) / [pdf](https://arxiv.org/pdf/2610.36838) |

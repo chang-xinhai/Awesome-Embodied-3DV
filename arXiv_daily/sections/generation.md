@@ -4,9 +4,16 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 1072 · **Unique arXiv IDs:** 1072
+**Coverage:** 2025-01-01 to 2026-11-03 · **Papers:** 1074 · **Unique arXiv IDs:** 1074
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
+
+## 2026-11
+
+| Date | Paper | Authors | Categories | Matched signals | Links |
+| :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-02 | [UniCross3D: Unified Cross-View and Cross-Domain Diffusion for Consistent Single-Image 3D Generation](https://arxiv.org/abs/2611.02631) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.02631) / [pdf](https://arxiv.org/pdf/2611.02631) |
+| 2026-11-02 | [SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling](https://arxiv.org/abs/2611.02568) | Xiaokun Sun, Jian Yang, Zhenyu Zhang | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.02568) / [pdf](https://arxiv.org/pdf/2611.02568) |
 
 ## 2026-10
 
