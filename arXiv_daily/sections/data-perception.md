@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 1920 · **Unique arXiv IDs:** 1920
+**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 1925 · **Unique arXiv IDs:** 1925
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
+| 2026-11-03 | [PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching](https://arxiv.org/abs/2611.05172) | Marian Bookhahn, Frank Neumann | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.05172) / [pdf](https://arxiv.org/pdf/2611.05172) |
+| 2026-11-03 | [Radial distortion homography estimation from affine-covariant or orientation-covariant features](https://arxiv.org/abs/2611.04822) | Marcus Valtonen Örnhag, Stefan Adalbjörnsson | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.04822) / [pdf](https://arxiv.org/pdf/2611.04822) |
+| 2026-11-03 | [Predicting Void Points in Self-Occluding Forest Volumes](https://arxiv.org/abs/2611.04548) | Benjamin Bachmayr, Mohamed Youssef, Oliver Bimber | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.04548) / [pdf](https://arxiv.org/pdf/2611.04548) |
+| 2026-11-03 | [SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation](https://arxiv.org/abs/2611.04491) | Jaemin Choi, Jincheol Yang, Nahyun Lim, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.04491) / [pdf](https://arxiv.org/pdf/2611.04491) |
 | 2026-11-02 | [Exploring Proximity and Tactile Sensing for Robotic Manipulation](https://arxiv.org/abs/2611.03489) | Eric T. Chang, Bianca Aumann, Zhanpeng He, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2611.03489) / [pdf](https://arxiv.org/pdf/2611.03489) |
 | 2026-11-02 | [Image Guided Depth Upsampling using Anisotropic Total Generalized Variation](https://arxiv.org/abs/2611.03399) | David Ferstl, Christian Reinbacher, Rene Ranftl, et al. | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.03399) / [pdf](https://arxiv.org/pdf/2611.03399) |
 | 2026-11-02 | [Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models](https://arxiv.org/abs/2611.03098) | Jaemin Cho, Oleksii Nasypanyi, Francois Rameau | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.03098) / [pdf](https://arxiv.org/pdf/2611.03098) |

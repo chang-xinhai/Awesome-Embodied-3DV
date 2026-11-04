@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 2732 · **Unique arXiv IDs:** 2732
+**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 2739 · **Unique arXiv IDs:** 2739
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-03 | [Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving](https://arxiv.org/abs/2611.05072) | Junzhe Wang, Jinqing Zhang, Qingjie Liu | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.05072) / [pdf](https://arxiv.org/pdf/2611.05072) |
+| 2026-11-03 | [PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations](https://arxiv.org/abs/2611.04870) | Travis Davies, Wentao Ma, Lihao Guo, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.04870) / [pdf](https://arxiv.org/pdf/2611.04870) |
+| 2026-11-02 | [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://arxiv.org/abs/2611.04073) | Anh Nguyen, Tianyi Xu, Phat Tran, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.04073) / [pdf](https://arxiv.org/pdf/2611.04073) |
+| 2026-11-02 | [Compression Forcing: Hierarchical History Tokenization Enables Flexible World Models](https://arxiv.org/abs/2611.04028) | Siqiao Huang, Partha Kaushik, Michael Chen, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.04028) / [pdf](https://arxiv.org/pdf/2611.04028) |
+| 2026-11-02 | [A Practical Causal Framework for Autonomous Mobile Robots: From Simulation to Real-World Human Environments](https://arxiv.org/abs/2611.04027) | Luca Castri, Gloria Beraldo, Nicola Bellotto | cs.RO, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2611.04027) / [pdf](https://arxiv.org/pdf/2611.04027) |
+| 2026-11-02 | [Physical Experience Builds Continual Spatial World Models](https://arxiv.org/abs/2611.04016) | Yuhang Sun | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.04016) / [pdf](https://arxiv.org/pdf/2611.04016) |
+| 2026-11-02 | [FlowBench: Counterfactual Imagination Training for Spatial Intelligence](https://arxiv.org/abs/2611.03937) | Yifan Liu, Baihan Zhang, Khai Loong Aw, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2611.03937) / [pdf](https://arxiv.org/pdf/2611.03937) |
 | 2026-11-02 | [Toward Uncertainty-Aware, Physics-Grounded Human World Models](https://arxiv.org/abs/2611.03428) | Yufei Zhang, Zijun Cui | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.03428) / [pdf](https://arxiv.org/pdf/2611.03428) |
 | 2026-11-02 | [KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL](https://arxiv.org/abs/2611.03138) | Aswin Ramachandran, Jona Schulz, Maurus Derungs, et al. | cs.RO, cs.AR, cs.MA | Sim-to-Real | [abs](https://arxiv.org/abs/2611.03138) / [pdf](https://arxiv.org/pdf/2611.03138) |
 | 2026-11-02 | [KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge](https://arxiv.org/abs/2611.03091) | Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.03091) / [pdf](https://arxiv.org/pdf/2611.03091) |

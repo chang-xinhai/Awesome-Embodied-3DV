@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 569 · **Unique arXiv IDs:** 569
+**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 571 · **Unique arXiv IDs:** 571
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
+| 2026-11-03 | [BhopalMLS: A LiDAR Dataset for Semantic Scene Understanding in Heterogeneous Urban Environments](https://arxiv.org/abs/2611.04654) | Pyare Lal Chauhan, Vaibhav Kumar, Bharat Lohani | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.04654) / [pdf](https://arxiv.org/pdf/2611.04654) |
 | 2026-11-01 | [Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models](https://arxiv.org/abs/2611.02026) | Junfei Wu, Qiuyue Wang, Xuhong Huang, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.02026) / [pdf](https://arxiv.org/pdf/2611.02026) |
 
 ## 2026-10

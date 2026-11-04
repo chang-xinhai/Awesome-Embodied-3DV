@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 3259 · **Unique arXiv IDs:** 3259
+**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 3267 · **Unique arXiv IDs:** 3267
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-03 | [GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359) | Qi Yang, Yingzhan Xu, Kai Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.05359) / [pdf](https://arxiv.org/pdf/2611.05359) |
+| 2026-11-03 | [Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture](https://arxiv.org/abs/2611.04972) | Abhijeet M. Kulkarni, Saimouli Katragadda, Yuze Du, et al. | cs.RO, eess.SY | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.04972) / [pdf](https://arxiv.org/pdf/2611.04972) |
+| 2026-11-03 | [Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666) | Hosung Jeon, Jun Young Jeong, Sangwoon Kwak, et al. | cs.CV, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.04666) / [pdf](https://arxiv.org/pdf/2611.04666) |
+| 2026-11-03 | [3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498) | Yuke Xing, William Gordon, Jiarui Wang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.04498) / [pdf](https://arxiv.org/pdf/2611.04498) |
+| 2026-11-03 | [Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation](https://arxiv.org/abs/2611.04493) | Can Wang, Qiyuan Qiao, Lei Liu, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.04493) / [pdf](https://arxiv.org/pdf/2611.04493) |
+| 2026-11-03 | [IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting](https://arxiv.org/abs/2611.04374) | Zhongquan Wang, Long Cao, Peijia Xie, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.04374) / [pdf](https://arxiv.org/pdf/2611.04374) |
+| 2026-11-03 | [EndoS3:Endoscopic Semantic Splatting SLAM](https://arxiv.org/abs/2611.04358) | Mona Sheikh Zeinoddin, Benjamin Wright, Zafer Tandogdu, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.04358) / [pdf](https://arxiv.org/pdf/2611.04358) |
+| 2026-11-03 | [ReconDreamer#: Self-Evolving Closed-Loop Synergy of Reconstruction and Generation for Dynamic Driving Scenes](https://arxiv.org/abs/2611.04173) | Songling Liu, Guosheng Zhao, Xiaofeng Wang, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2611.04173) / [pdf](https://arxiv.org/pdf/2611.04173) |
 | 2026-11-02 | [3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114) | Yixiao Yang, Yu-Shen Liu, Zhizhong Han | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.03114) / [pdf](https://arxiv.org/pdf/2611.03114) |
 | 2026-11-02 | [GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767) | Shaocheng Shen, Zihan Zheng, Kejin Li, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.02767) / [pdf](https://arxiv.org/pdf/2611.02767) |
 | 2026-11-02 | [OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658) | Yibin Zhao, Yihan Pan, Wenli Yang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.02658) / [pdf](https://arxiv.org/pdf/2611.02658) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 3198 · **Unique arXiv IDs:** 3198
+**Coverage:** 2025-01-01 to 2026-11-04 · **Papers:** 3208 · **Unique arXiv IDs:** 3208
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
+| 2026-11-03 | [Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666) | Hosung Jeon, Jun Young Jeong, Sangwoon Kwak, et al. | cs.CV, cs.GR | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.04666) / [pdf](https://arxiv.org/pdf/2611.04666) |
+| 2026-11-03 | [Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use](https://arxiv.org/abs/2611.04397) | Bo Ma, Weiqi Yan | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.04397) / [pdf](https://arxiv.org/pdf/2611.04397) |
+| 2026-11-03 | [IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting](https://arxiv.org/abs/2611.04374) | Zhongquan Wang, Long Cao, Peijia Xie, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.04374) / [pdf](https://arxiv.org/pdf/2611.04374) |
+| 2026-11-03 | [EndoS3:Endoscopic Semantic Splatting SLAM](https://arxiv.org/abs/2611.04358) | Mona Sheikh Zeinoddin, Benjamin Wright, Zafer Tandogdu, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.04358) / [pdf](https://arxiv.org/pdf/2611.04358) |
+| 2026-11-03 | [Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2611.04221) | Zhenxiang Xiong, Tianchen Deng, Nailin Wang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.04221) / [pdf](https://arxiv.org/pdf/2611.04221) |
+| 2026-11-03 | [ReconDreamer#: Self-Evolving Closed-Loop Synergy of Reconstruction and Generation for Dynamic Driving Scenes](https://arxiv.org/abs/2611.04173) | Songling Liu, Guosheng Zhao, Xiaofeng Wang, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.04173) / [pdf](https://arxiv.org/pdf/2611.04173) |
+| 2026-11-02 | [CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching](https://arxiv.org/abs/2611.03932) | Robert J. Wang, Charles Ling, Boyu Wang | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.03932) / [pdf](https://arxiv.org/pdf/2611.03932) |
+| 2026-11-02 | [FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching](https://arxiv.org/abs/2611.03775) | Fengzhi Guo, Nate Morrill, Shiqi Li, et al. | cs.CV, cs.GR | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.03775) / [pdf](https://arxiv.org/pdf/2611.03775) |
 | 2026-11-02 | [AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds](https://arxiv.org/abs/2611.03228) | Weirong Chen, Ismail El-Yamany, Ganlin Zhang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.03228) / [pdf](https://arxiv.org/pdf/2611.03228) |
 | 2026-11-02 | [A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots](https://arxiv.org/abs/2611.03106) | Chuan Huang, Tongxing Peng | cs.RO, eess.SP | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.03106) / [pdf](https://arxiv.org/pdf/2611.03106) |
 | 2026-11-02 | [AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras](https://arxiv.org/abs/2611.02884) | Guebin Hwang, Taeyeop Lee, Yeonseo Lee, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.02884) / [pdf](https://arxiv.org/pdf/2611.02884) |
@@ -29,6 +38,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-10-31 | [Physics-Informed Functional Tucker Method with RKHS Factors for Sparse Spatiotemporal Reconstruction](https://arxiv.org/abs/2611.03717) | Zhengyang Liu, Jianguo Huang, Junxi Hu, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.03717) / [pdf](https://arxiv.org/pdf/2611.03717) |
 | 2026-10-31 | [A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins](https://arxiv.org/abs/2611.00870) | Antar Mazumder, Ryan Hartzell, Luke Boyd, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.00870) / [pdf](https://arxiv.org/pdf/2611.00870) |
 | 2026-10-31 | [SceneBound: How Much Should a Streaming 3D Reconstruction Model Remember?](https://arxiv.org/abs/2611.00756) | Ziming Wang, Chuyue Gong, Chutian Wang, et al. | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.00756) / [pdf](https://arxiv.org/pdf/2611.00756) |
 | 2026-10-31 | [A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482) | Xinyi Shi | cs.CV, cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction, Mapping / SLAM | [abs](https://arxiv.org/abs/2611.00482) / [pdf](https://arxiv.org/pdf/2611.00482) |
