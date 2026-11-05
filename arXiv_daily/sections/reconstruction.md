@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 3208 · **Unique arXiv IDs:** 3208
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 3212 · **Unique arXiv IDs:** 3212
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849) | Hanyu Chen, Noah Snavely | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.06849) / [pdf](https://arxiv.org/pdf/2611.06849) |
+| 2026-11-04 | [Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM](https://arxiv.org/abs/2611.06308) | Ziyi Jin, Kangjin Yu, Beichen Wang, et al. | cs.RO | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2611.06308) / [pdf](https://arxiv.org/pdf/2611.06308) |
+| 2026-11-04 | [Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273) | Dung Do Tien, Kien Nguyen Do Trung, Kiet Dang Vu, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.06273) / [pdf](https://arxiv.org/pdf/2611.06273) |
+| 2026-11-04 | [Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874) | Jiahao Ma, Qiang Zhang, Miaomiao Liu, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.05874) / [pdf](https://arxiv.org/pdf/2611.05874) |
 | 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
 | 2026-11-03 | [Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666) | Hosung Jeon, Jun Young Jeong, Sangwoon Kwak, et al. | cs.CV, cs.GR | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.04666) / [pdf](https://arxiv.org/pdf/2611.04666) |
 | 2026-11-03 | [Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use](https://arxiv.org/abs/2611.04397) | Bo Ma, Weiqi Yan | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.04397) / [pdf](https://arxiv.org/pdf/2611.04397) |

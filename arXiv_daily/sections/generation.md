@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 1074 · **Unique arXiv IDs:** 1074
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 1075 · **Unique arXiv IDs:** 1075
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141) | Jiale Zhang, Yang Liu, Chengyang Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.06141) / [pdf](https://arxiv.org/pdf/2611.06141) |
 | 2026-11-02 | [UniCross3D: Unified Cross-View and Cross-Domain Diffusion for Consistent Single-Image 3D Generation](https://arxiv.org/abs/2611.02631) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.02631) / [pdf](https://arxiv.org/pdf/2611.02631) |
 | 2026-11-02 | [SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling](https://arxiv.org/abs/2611.02568) | Xiaokun Sun, Jian Yang, Zhenyu Zhang | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.02568) / [pdf](https://arxiv.org/pdf/2611.02568) |
 
@@ -19,7 +20,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
-| 2026-10-30 | [GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
+| 2026-10-30 | [GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
 | 2026-10-30 | [VoxLution: Evolving Voxels for High-Fidelity 3D Scene Generation](https://arxiv.org/abs/2610.41501) | Daoyi Gao, Xinyi Zhang, Alexey Bokhovkin, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.41501) / [pdf](https://arxiv.org/pdf/2610.41501) |
 | 2026-10-30 | [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231) | Gaige Wang, Bowen Pan, Hao Ren, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2610.41231) / [pdf](https://arxiv.org/pdf/2610.41231) |
 | 2026-10-29 | [DyCraft: An Agentic System for Long-Horizon 4D Scene Generation](https://arxiv.org/abs/2610.40754) | Jeff Tan, Hang Dai, Zeqian Long, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2610.40754) / [pdf](https://arxiv.org/pdf/2610.40754) |

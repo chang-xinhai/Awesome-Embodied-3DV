@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 571 · **Unique arXiv IDs:** 571
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 572 · **Unique arXiv IDs:** 572
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180) | Lukas Rauch, Thomas Braml | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.06180) / [pdf](https://arxiv.org/pdf/2611.06180) |
 | 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
 | 2026-11-03 | [BhopalMLS: A LiDAR Dataset for Semantic Scene Understanding in Heterogeneous Urban Environments](https://arxiv.org/abs/2611.04654) | Pyare Lal Chauhan, Vaibhav Kumar, Bharat Lohani | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.04654) / [pdf](https://arxiv.org/pdf/2611.04654) |
 | 2026-11-01 | [Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models](https://arxiv.org/abs/2611.02026) | Junfei Wu, Qiuyue Wang, Xuhong Huang, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.02026) / [pdf](https://arxiv.org/pdf/2611.02026) |
@@ -21,7 +22,7 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-10-31 | [A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins](https://arxiv.org/abs/2611.00870) | Antar Mazumder, Ryan Hartzell, Luke Boyd, et al. | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.00870) / [pdf](https://arxiv.org/pdf/2611.00870) |
-| 2026-10-30 | [GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
+| 2026-10-30 | [GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation](https://arxiv.org/abs/2610.42002) | Yuqi Li, Junming Liu, Bowen Hu, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.42002) / [pdf](https://arxiv.org/pdf/2610.42002) |
 | 2026-10-27 | [HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency](https://arxiv.org/abs/2610.36876) | Zhuoxiao Li, Xinyi Liu, Hongye Hou, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2610.36876) / [pdf](https://arxiv.org/pdf/2610.36876) |
 | 2026-10-27 | [MVRCap: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards](https://arxiv.org/abs/2610.36838) | Weihuang Lin, Xianing Chen, Zhibin Wang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.36838) / [pdf](https://arxiv.org/pdf/2610.36838) |
 | 2026-10-26 | [Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction](https://arxiv.org/abs/2610.35621) | Íñigo Cirauqui-Viloria | cs.CV | Dataset | [abs](https://arxiv.org/abs/2610.35621) / [pdf](https://arxiv.org/pdf/2610.35621) |

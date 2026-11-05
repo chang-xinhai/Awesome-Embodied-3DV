@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 3267 · **Unique arXiv IDs:** 3267
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 3274 · **Unique arXiv IDs:** 3274
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593) | Yuxi Hu, Jun Zhang, Wei Mao, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06593) / [pdf](https://arxiv.org/pdf/2611.06593) |
+| 2026-11-04 | [TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics](https://arxiv.org/abs/2611.06442) | Shu'ang Sun, Yibo Qiu, Haoliang Ye, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06442) / [pdf](https://arxiv.org/pdf/2611.06442) |
+| 2026-11-04 | [Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273) | Dung Do Tien, Kien Nguyen Do Trung, Kiet Dang Vu, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06273) / [pdf](https://arxiv.org/pdf/2611.06273) |
+| 2026-11-04 | [CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2611.06258) | Yuxi Hu, Wenhao Dong, Jun Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06258) / [pdf](https://arxiv.org/pdf/2611.06258) |
+| 2026-11-04 | [METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020) | Sooyeun Yang, Jongseong Brad Choi | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06020) / [pdf](https://arxiv.org/pdf/2611.06020) |
+| 2026-11-04 | [Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874) | Jiahao Ma, Qiang Zhang, Miaomiao Liu, et al. | cs.CV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.05874) / [pdf](https://arxiv.org/pdf/2611.05874) |
+| 2026-11-03 | [Anchored Slice Propagation with Boundary Transport for 3D CT Segmentation from Three Orthogonal Annotated Slices](https://arxiv.org/abs/2611.05693) | Tushar Kataria, Md Rakibul Haque, Shireen Y. Elhabian | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.05693) / [pdf](https://arxiv.org/pdf/2611.05693) |
 | 2026-11-03 | [GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359) | Qi Yang, Yingzhan Xu, Kai Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.05359) / [pdf](https://arxiv.org/pdf/2611.05359) |
 | 2026-11-03 | [Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture](https://arxiv.org/abs/2611.04972) | Abhijeet M. Kulkarni, Saimouli Katragadda, Yuze Du, et al. | cs.RO, eess.SY | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.04972) / [pdf](https://arxiv.org/pdf/2611.04972) |
 | 2026-11-03 | [Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666) | Hosung Jeon, Jun Young Jeong, Sangwoon Kwak, et al. | cs.CV, cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.04666) / [pdf](https://arxiv.org/pdf/2611.04666) |

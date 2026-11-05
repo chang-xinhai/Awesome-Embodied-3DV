@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 2739 · **Unique arXiv IDs:** 2739
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 2745 · **Unique arXiv IDs:** 2745
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://arxiv.org/abs/2611.06544) | Zhihao Nan, Sifan Zhou, Yiming Cheng, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.06544) / [pdf](https://arxiv.org/pdf/2611.06544) |
+| 2026-11-04 | [ReactWorld: Structuring Interaction Responses for Embodied Video Generation](https://arxiv.org/abs/2611.06120) | Hanwei Liu, Huijia Zhang, Hanzhang Wang, et al. | cs.CV, cs.RO | Interaction / Affordance | [abs](https://arxiv.org/abs/2611.06120) / [pdf](https://arxiv.org/pdf/2611.06120) |
+| 2026-11-04 | [TouchéWorld tech report : Towards Online Unified Camera--Hand Exploration in Generative Worlds](https://arxiv.org/abs/2611.06061) | Jiaao Yu, Yanjian Zhang, Haoyang Jiang, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.06061) / [pdf](https://arxiv.org/pdf/2611.06061) |
+| 2026-11-04 | [Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874) | Jiahao Ma, Qiang Zhang, Miaomiao Liu, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.05874) / [pdf](https://arxiv.org/pdf/2611.05874) |
+| 2026-11-03 | [Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model](https://arxiv.org/abs/2611.05448) | Yansong Qu, Jiancong Chen, Samuel Labi | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.05448) / [pdf](https://arxiv.org/pdf/2611.05448) |
+| 2026-11-03 | [SurgTransfer: Multi-Step Latent Action Modeling for Action Transfer in Surgical World Model](https://arxiv.org/abs/2611.05443) | Saurabh Koju, Love Panta, Deepak Thapa, et al. | cs.CV, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.05443) / [pdf](https://arxiv.org/pdf/2611.05443) |
 | 2026-11-03 | [Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving](https://arxiv.org/abs/2611.05072) | Junzhe Wang, Jinqing Zhang, Qingjie Liu | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.05072) / [pdf](https://arxiv.org/pdf/2611.05072) |
 | 2026-11-03 | [PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations](https://arxiv.org/abs/2611.04870) | Travis Davies, Wentao Ma, Lihao Guo, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.04870) / [pdf](https://arxiv.org/pdf/2611.04870) |
 | 2026-11-02 | [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://arxiv.org/abs/2611.04073) | Anh Nguyen, Tianyi Xu, Phat Tran, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.04073) / [pdf](https://arxiv.org/pdf/2611.04073) |

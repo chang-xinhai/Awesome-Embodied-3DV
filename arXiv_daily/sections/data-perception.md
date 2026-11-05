@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 1925 · **Unique arXiv IDs:** 1925
+**Coverage:** 2025-01-01 to 2026-11-05 · **Papers:** 1928 · **Unique arXiv IDs:** 1928
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-04 | [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180) | Lukas Rauch, Thomas Braml | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.06180) / [pdf](https://arxiv.org/pdf/2611.06180) |
+| 2026-11-04 | [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](https://arxiv.org/abs/2611.05938) | Uihyun Hwang, Sungjae Shin, Dongjae Kim, et al. | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.05938) / [pdf](https://arxiv.org/pdf/2611.05938) |
+| 2026-11-04 | [WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark](https://arxiv.org/abs/2611.05801) | Rohit Mohan, Maximilian Luz, Swarnava Chowdhury, et al. | cs.CV, cs.LG, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.05801) / [pdf](https://arxiv.org/pdf/2611.05801) |
 | 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
 | 2026-11-03 | [PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching](https://arxiv.org/abs/2611.05172) | Marian Bookhahn, Frank Neumann | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.05172) / [pdf](https://arxiv.org/pdf/2611.05172) |
 | 2026-11-03 | [Radial distortion homography estimation from affine-covariant or orientation-covariant features](https://arxiv.org/abs/2611.04822) | Marcus Valtonen Örnhag, Stefan Adalbjörnsson | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.04822) / [pdf](https://arxiv.org/pdf/2611.04822) |
@@ -20,7 +23,7 @@
 | 2026-11-02 | [Exploring Proximity and Tactile Sensing for Robotic Manipulation](https://arxiv.org/abs/2611.03489) | Eric T. Chang, Bianca Aumann, Zhanpeng He, et al. | cs.RO | Active Imaging | [abs](https://arxiv.org/abs/2611.03489) / [pdf](https://arxiv.org/pdf/2611.03489) |
 | 2026-11-02 | [Image Guided Depth Upsampling using Anisotropic Total Generalized Variation](https://arxiv.org/abs/2611.03399) | David Ferstl, Christian Reinbacher, Rene Ranftl, et al. | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.03399) / [pdf](https://arxiv.org/pdf/2611.03399) |
 | 2026-11-02 | [Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models](https://arxiv.org/abs/2611.03098) | Jaemin Cho, Oleksii Nasypanyi, Francois Rameau | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.03098) / [pdf](https://arxiv.org/pdf/2611.03098) |
-| 2026-11-02 | [PhotoGuider: Composition-Aware Cropping and 360$^{\circ}$ View Framing with Explainable Photographic Assessments](https://arxiv.org/abs/2611.02897) | Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.02897) / [pdf](https://arxiv.org/pdf/2611.02897) |
+| 2026-11-02 | [PhotoGuider: Composition-Aware Cropping and 360° View Framing with Explainable Photographic Assessments](https://arxiv.org/abs/2611.02897) | Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.02897) / [pdf](https://arxiv.org/pdf/2611.02897) |
 | 2026-11-02 | [Touching Projected Agents through the DAT Screen -System Design and Questions of Interaction Boundaries-](https://arxiv.org/abs/2611.02525) | Takaya Tamamoto, Tomoko Yonezawa | cs.HC, cs.AR, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.02525) / [pdf](https://arxiv.org/pdf/2611.02525) |
 | 2026-11-01 | [Depth Anyviewpoint? Evaluating Monocular Depth Over Viewpoint Sequences](https://arxiv.org/abs/2611.02203) | Theo Rode, Rui Zhang, Ryan Aubrey, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.02203) / [pdf](https://arxiv.org/pdf/2611.02203) |
 | 2026-11-01 | [UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation](https://arxiv.org/abs/2611.01645) | Rui Cao, Jia-Hui Pan, Yin Zhang, et al. | cs.CV, cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.01645) / [pdf](https://arxiv.org/pdf/2611.01645) |
