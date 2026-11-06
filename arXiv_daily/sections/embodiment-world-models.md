@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 2745 · **Unique arXiv IDs:** 2745
+**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 2754 · **Unique arXiv IDs:** 2754
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-05 | [GPWM: Modeling the World as 3D Particle Motion](https://arxiv.org/abs/2611.08338) | Robert Ren, Matthew Bronars, He Zhu, et al. | cs.RO | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2611.08338) / [pdf](https://arxiv.org/pdf/2611.08338) |
+| 2026-11-05 | [FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching](https://arxiv.org/abs/2611.08128) | Zeping Zhang, Zhuoya Zhao, Samy Metari, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.08128) / [pdf](https://arxiv.org/pdf/2611.08128) |
+| 2026-11-05 | [WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation](https://arxiv.org/abs/2611.07939) | Jiahao Cui, Jiaye Li, Wenhao Zhang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.07939) / [pdf](https://arxiv.org/pdf/2611.07939) |
+| 2026-11-05 | [GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving](https://arxiv.org/abs/2611.07912) | Xiyan Su, Finn Rasmus Schäfer, Hojun Lim, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2611.07912) / [pdf](https://arxiv.org/pdf/2611.07912) |
+| 2026-11-05 | [TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation](https://arxiv.org/abs/2611.07881) | Yijiong Lin, Wenhao He, Toby Jack, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.07881) / [pdf](https://arxiv.org/pdf/2611.07881) |
+| 2026-11-05 | [PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D State](https://arxiv.org/abs/2611.07867) | Jihai Zhang, Yuhan Zhou, Junyou Li, et al. | cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.07867) / [pdf](https://arxiv.org/pdf/2611.07867) |
+| 2026-11-05 | [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](https://arxiv.org/abs/2611.07730) | Seong-Eun Hong, JuYeong Hwang, Jinhyun Kim, et al. | cs.GR, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.07730) / [pdf](https://arxiv.org/pdf/2611.07730) |
+| 2026-11-05 | [An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects](https://arxiv.org/abs/2611.07261) | Vinay Rodrigues, Sara Zeynalpour, Gokhan Solak, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.07261) / [pdf](https://arxiv.org/pdf/2611.07261) |
+| 2026-11-04 | [MAC-v2: Long-horizon model-based value expansion from pixels](https://arxiv.org/abs/2611.07245) | Kwanyoung Park, Sergey Levine | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.07245) / [pdf](https://arxiv.org/pdf/2611.07245) |
 | 2026-11-04 | [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://arxiv.org/abs/2611.06544) | Zhihao Nan, Sifan Zhou, Yiming Cheng, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.06544) / [pdf](https://arxiv.org/pdf/2611.06544) |
 | 2026-11-04 | [ReactWorld: Structuring Interaction Responses for Embodied Video Generation](https://arxiv.org/abs/2611.06120) | Hanwei Liu, Huijia Zhang, Hanzhang Wang, et al. | cs.CV, cs.RO | Interaction / Affordance | [abs](https://arxiv.org/abs/2611.06120) / [pdf](https://arxiv.org/pdf/2611.06120) |
 | 2026-11-04 | [TouchéWorld tech report : Towards Online Unified Camera--Hand Exploration in Generative Worlds](https://arxiv.org/abs/2611.06061) | Jiaao Yu, Yanjian Zhang, Haoyang Jiang, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.06061) / [pdf](https://arxiv.org/pdf/2611.06061) |

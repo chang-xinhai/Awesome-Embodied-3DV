@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 3212 · **Unique arXiv IDs:** 3212
+**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 3219 · **Unique arXiv IDs:** 3219
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-05 | [SM4RT: Cascaded Feed-forward Model for 4D Reconstruction](https://arxiv.org/abs/2611.08436) | Pang-Chi Lo, Jhao-Syun Lai, Tsung-Wei Ke | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.08436) / [pdf](https://arxiv.org/pdf/2611.08436) |
+| 2026-11-05 | [InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](https://arxiv.org/abs/2611.08330) | Chanho Kim, Muhammad Salman Ali, Kyeonghwan Gwak, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2611.08330) / [pdf](https://arxiv.org/pdf/2611.08330) |
+| 2026-11-05 | [An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers](https://arxiv.org/abs/2611.08100) | Iaroslav Kolomiets, Iaroslav Sheipak, Mikhail Reppo, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.08100) / [pdf](https://arxiv.org/pdf/2611.08100) |
+| 2026-11-05 | [Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers](https://arxiv.org/abs/2611.07955) | Huanfei He, Bohao Zhang, Jiaxin Zhang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.07955) / [pdf](https://arxiv.org/pdf/2611.07955) |
+| 2026-11-05 | [XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902) | Haoyu Han, Jack Benarroch Jedlicki, Jiahui Lei, et al. | cs.CV, cs.RO, math.OC | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.07902) / [pdf](https://arxiv.org/pdf/2611.07902) |
+| 2026-11-05 | [Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images](https://arxiv.org/abs/2611.07575) | David G. Shatwell, Mubarak Shah | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.07575) / [pdf](https://arxiv.org/pdf/2611.07575) |
+| 2026-11-05 | [MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction](https://arxiv.org/abs/2611.07555) | Jingnan Gao, Jiahui Huang, Sven Elflein, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.07555) / [pdf](https://arxiv.org/pdf/2611.07555) |
 | 2026-11-04 | [Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849) | Hanyu Chen, Noah Snavely | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.06849) / [pdf](https://arxiv.org/pdf/2611.06849) |
 | 2026-11-04 | [Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM](https://arxiv.org/abs/2611.06308) | Ziyi Jin, Kangjin Yu, Beichen Wang, et al. | cs.RO | Feed-Forward Geometry, Mapping / SLAM | [abs](https://arxiv.org/abs/2611.06308) / [pdf](https://arxiv.org/pdf/2611.06308) |
 | 2026-11-04 | [Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273) | Dung Do Tien, Kien Nguyen Do Trung, Kiet Dang Vu, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.06273) / [pdf](https://arxiv.org/pdf/2611.06273) |

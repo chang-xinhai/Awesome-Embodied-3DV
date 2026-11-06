@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 1928 · **Unique arXiv IDs:** 1928
+**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 1932 · **Unique arXiv IDs:** 1932
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-05 | [StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing](https://arxiv.org/abs/2611.07922) | Qin Guo, Dan Xu | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.07922) / [pdf](https://arxiv.org/pdf/2611.07922) |
+| 2026-11-05 | [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](https://arxiv.org/abs/2611.07873) | Chuanxin Song, Peixi Peng | cs.CV | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.07873) / [pdf](https://arxiv.org/pdf/2611.07873) |
+| 2026-11-05 | [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](https://arxiv.org/abs/2611.07613) | Kotaro Oishi, Kazuma Ikeda, Ryosei Hara, et al. | cs.CV | Transparent / Specular, Active Imaging | [abs](https://arxiv.org/abs/2611.07613) / [pdf](https://arxiv.org/pdf/2611.07613) |
+| 2026-11-04 | [Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation](https://arxiv.org/abs/2611.07229) | Weiduo Yuan, Ze Yuan, Sihan Liu, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.07229) / [pdf](https://arxiv.org/pdf/2611.07229) |
 | 2026-11-04 | [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180) | Lukas Rauch, Thomas Braml | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.06180) / [pdf](https://arxiv.org/pdf/2611.06180) |
 | 2026-11-04 | [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](https://arxiv.org/abs/2611.05938) | Uihyun Hwang, Sungjae Shin, Dongjae Kim, et al. | cs.RO | Transparent / Specular | [abs](https://arxiv.org/abs/2611.05938) / [pdf](https://arxiv.org/pdf/2611.05938) |
 | 2026-11-04 | [WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark](https://arxiv.org/abs/2611.05801) | Rohit Mohan, Maximilian Luz, Swarnava Chowdhury, et al. | cs.CV, cs.LG, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.05801) / [pdf](https://arxiv.org/pdf/2611.05801) |

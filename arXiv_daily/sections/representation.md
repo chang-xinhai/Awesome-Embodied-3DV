@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 3274 · **Unique arXiv IDs:** 3274
+**Coverage:** 2025-01-01 to 2026-11-06 · **Papers:** 3283 · **Unique arXiv IDs:** 3283
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-05 | [MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation](https://arxiv.org/abs/2611.08372) | Sateesh Kumar, Arnav Balaji, Arpit Bahety, et al. | cs.RO, cs.AI, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.08372) / [pdf](https://arxiv.org/pdf/2611.08372) |
+| 2026-11-05 | [InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](https://arxiv.org/abs/2611.08330) | Chanho Kim, Muhammad Salman Ali, Kyeonghwan Gwak, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.08330) / [pdf](https://arxiv.org/pdf/2611.08330) |
+| 2026-11-05 | [Hierarchical Incremental Beta Splatting for Online Reconstruction](https://arxiv.org/abs/2611.08288) | Linus Franke | cs.CV, cs.GR | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.08288) / [pdf](https://arxiv.org/pdf/2611.08288) |
+| 2026-11-05 | [Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting](https://arxiv.org/abs/2611.07979) | Yuting Wang, Yang Zhao, Shanding Diao, et al. | cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.07979) / [pdf](https://arxiv.org/pdf/2611.07979) |
+| 2026-11-05 | [EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure](https://arxiv.org/abs/2611.07909) | Kwan Yun, Minhyeok Bang, Colette Suhjung Koo, et al. | cs.GR, cs.CV, cs.LG | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.07909) / [pdf](https://arxiv.org/pdf/2611.07909) |
+| 2026-11-05 | [XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902) | Haoyu Han, Jack Benarroch Jedlicki, Jiahui Lei, et al. | cs.CV, cs.RO, math.OC | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.07902) / [pdf](https://arxiv.org/pdf/2611.07902) |
+| 2026-11-05 | [AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](https://arxiv.org/abs/2611.07709) | Tze Ho Elden Tse, Jizong Peng, Richard Chen, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.07709) / [pdf](https://arxiv.org/pdf/2611.07709) |
+| 2026-11-04 | [Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving](https://arxiv.org/abs/2611.07081) | Kaixuan Zhang, Zhipeng Xiong, Minxian Li, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.07081) / [pdf](https://arxiv.org/pdf/2611.07081) |
+| 2026-11-04 | [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](https://arxiv.org/abs/2611.06974) | Zhihao Tang, Youjia Zhang, Mingbo Zhao, et al. | cs.CV, cs.GR | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.06974) / [pdf](https://arxiv.org/pdf/2611.06974) |
 | 2026-11-04 | [BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593) | Yuxi Hu, Jun Zhang, Wei Mao, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06593) / [pdf](https://arxiv.org/pdf/2611.06593) |
 | 2026-11-04 | [TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics](https://arxiv.org/abs/2611.06442) | Shu'ang Sun, Yibo Qiu, Haoliang Ye, et al. | cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06442) / [pdf](https://arxiv.org/pdf/2611.06442) |
 | 2026-11-04 | [Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273) | Dung Do Tien, Kien Nguyen Do Trung, Kiet Dang Vu, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.06273) / [pdf](https://arxiv.org/pdf/2611.06273) |
