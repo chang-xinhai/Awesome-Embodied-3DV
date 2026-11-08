@@ -187,6 +187,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-04 | 3DGS, Metric Scale, Semantic Size Priors, Abstention | Stony Brook University | [METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020) | arXiv | — |
 | 2026-10-21 | PRISM, Physical Depth Noise, Invalidation, Measurement Error, Sim-to-Real | Fudan University | [PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](https://arxiv.org/abs/2610.29432) | arXiv | [project](https://shawnleung-sii.github.io/prism-icml2026/) |
 | 2026-10-21 | DepState-JEPA, RGB-D State, Metric Grounding, Action-Conditioned Prediction | Fudan University | [DepState-JEPA: Learning Depth-Grounded State Representation for Visual Perception and Manipulation](https://arxiv.org/abs/2610.29246) | arXiv | [project](https://shawnleung-sii.github.io/depstate-jepa/) |
 | 2026-09-06 | Surface Normals, Transparent Objects, Rectified Flow, Edge Refinement | Zhejiang University | [TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation](https://arxiv.org/abs/2609.06665) | arXiv | [project](https://longxiang-ai.github.io/TransNormal-2/) / [github](https://github.com/longxiang-ai/TransNormal-2) |
@@ -534,6 +535,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-04 | In-the-Wild Object Photos, Multi-View, Dataset, Reconstruction | Cornell University | [Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849) | arXiv | [project](https://hanyuc.com/trainspotting) / [github (inference noncommercial)](https://github.com/hanyucc/trainspotting) / [dataset](https://huggingface.co/datasets/hanyucc/Trainspotting) |
 | 2026-10-26 | Uncalibrated Multi-View, Native 3D Diffusion, Shape+Pose | University of Hong Kong | [Generative Structure from Motion with Native 3D Diffusion](https://arxiv.org/abs/2610.35522) | arXiv | [project](https://dotb1ue.github.io/GenSfm/) |
 | 2026-10-19 | RGB-D, Pose+Scale, Observation-Verified Object Geometry | Beijing University of Posts and Telecommunications | [OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects](https://arxiv.org/abs/2610.25840) | arXiv | — |
 | 2026-10-11 | Unposed Multi-View, Shared Coordinates, Complete Mesh Assets | Peking University | [UniForge3D: Joint 3D Reconstruction and Generation in a Shared Anchor-Guided Space](https://arxiv.org/abs/2610.15357) | arXiv | [project](https://xishuxishu.github.io/uniforge3d-project/) |
@@ -661,6 +663,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-05 | Online Reconstruction, Beta Splatting, Confidence, LoD | University of Würzburg | [Hierarchical Incremental Beta Splatting for Online Reconstruction](https://arxiv.org/abs/2611.08288) | WACV 2027 | [project](https://linus-franke.com/hibs/) / [github (research only)](https://github.com/lfranke/hibs) |
+| 2026-11-05 | Monocular Streaming, Metric Depth, Local Optimization | NVIDIA | [MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction](https://arxiv.org/abs/2611.07555) | arXiv | [project](https://research.nvidia.com/labs/sil/projects/metrictrail/) / [github](https://github.com/nv-tlabs/vipe) |
 | 2026-11-03 | Streaming 3D Reconstruction, Fixed-Capacity Memory, State-Space Adapter | Shanghai Jiao Tong University | [Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2611.04221) | arXiv | — |
 | 2026-10-31 | Streaming Reconstruction, Keyframe Memory, Drift Control | HKUST | [SceneBound: How Much Should a Streaming 3D Reconstruction Model Remember?](https://arxiv.org/abs/2611.00756) | arXiv | — |
 | 2026-10-27 | Monocular Gaussian SLAM, Streaming Geometry, Camera Tracking | KAUST | [LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM](https://arxiv.org/abs/2610.36853) | arXiv | — |
@@ -717,6 +721,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-05 | RGB Video, Feed-Forward 4D, Camera-Frame Object Flow | Carnegie Mellon University | [SM4RT: Cascaded Feed-forward Model for 4D Reconstruction](https://arxiv.org/abs/2611.08436) | arXiv | [project](https://sm4rt-eailab.github.io/) |
+| 2026-11-05 | 4D Reconstruction, Certifiable Optimization, Deformation Graph | Harvard University | [XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902) | arXiv | — |
 | 2026-10-27 | Event+RGB, Dynamic Pointmaps, MonST3R, 4D Reconstruction | Singapore-MIT Alliance for Research and Technology | [4D Reconstruction with Events & RGB](https://arxiv.org/abs/2610.36610) | arXiv | — |
 | 2026-10-22 | Stream4D, Causal KV Cache, Dynamic Masks, Streaming Geometry | Northwestern Polytechnical University | [Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention](https://arxiv.org/abs/2610.31320) | ACM MM 2026 | — |
 | 2026-10-22 | Live Thread Reconstruction, Stereo, Contact-Point Tracking, Surgical Manipulation | UC San Diego | [Live Thread Reconstruction for Autonomous Manipulation](https://arxiv.org/abs/2610.30694) | arXiv | — |
@@ -1053,6 +1059,7 @@ This section tracks methods that create new 3D assets, parts, articulated object
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-05 | Single Image, Voxel Scene Anchor, Object Layout | HKUST (Guangzhou) | [Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor](https://arxiv.org/abs/2611.07961) | arXiv | — |
 | 2026-10-23 | CityLift, Single Image, Compositional Building Meshes, Urban Scenes | Xi'an Jiaotong University | [CityLift: Compositional 3D Urban Generation from a Single Image](https://arxiv.org/abs/2610.32728) | arXiv | [project](https://ranhaogong.github.io/CityLift/) |
 | 2026-10-14 | Interactive 3D Composition, Contact Dynamics, Rigid/Articulated/Deformable | Tsinghua University | [PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition](https://arxiv.org/abs/2610.20560) | arXiv | [project](https://agenticei.github.io/PhySGA-page/) / [github](https://github.com/AgenticEI/PhySGA) |
 | 2026-07-18 | Multi-View Generation, Scene Assets, Training-Free | The University of Queensland | [Scene-SAM3D: Multi-View Scene Asset Generation Without Fine-Tuning](https://arxiv.org/abs/2607.16805) | arXiv | [github](https://github.com/xibi777/Scene-SAM3D) |
@@ -1195,6 +1202,8 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-05 | 3D Particles, Contact Dynamics, Deformable, Robot Planning | Carnegie Mellon University | [GPWM: Modeling the World as 3D Particle Motion](https://arxiv.org/abs/2611.08338) | arXiv | [project](https://robertren1122.github.io/gpwm/) |
+| 2026-11-05 | Interactive World, Explicit 3D State, Occupancy, Action Conditioning | The Chinese University of Hong Kong | [PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D State](https://arxiv.org/abs/2611.07867) | arXiv | [github](https://github.com/MajorDavidZhang/PlayGen-2) |
 | 2026-11-02 | Agentic World Generation, Spatial Memory, Persistent Video | University of Texas at Austin | [AgiWorld: An Agentic Video World Model for Building Persistent Worlds](https://arxiv.org/abs/2611.02341) | arXiv | [project](https://bshfang.github.io/agiworld/) |
 | 2026-10-29 | Video World Model, Dense Depth+Flow Prediction, 4D Perception | RoboScience | [Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling](https://arxiv.org/abs/2610.39232) | arXiv | [project](https://gensight-rbs.github.io/) |
 | 2026-10-23 | DynaSlots, Point-Cloud Slots, Local 3D Dynamics, Action-Free Pretraining | Beihang University | [DynaSlots: Slot-Centric 3D Dynamics Pretraining for Robot Manipulation](https://arxiv.org/abs/2610.32330) | arXiv | [project](https://zhucezhanghao12345-source.github.io/DynaSlots-Anonymous/) / [github (license unspecified)](https://github.com/zhucezhanghao12345-source/DynaSlots-Anonymous) |
@@ -1383,6 +1392,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-05 | Mobile Manipulation, Dynamic 3DGS, Novel-View Demonstrations | University of Texas at Austin | [MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation](https://arxiv.org/abs/2611.08372) | arXiv | [project](https://robin-lab.cs.utexas.edu/momasplat) |
 | 2026-10-26 | Agentic Real-to-Sim, 3D/4D Capture, Physical Assets | Harvard University | [SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments](https://arxiv.org/abs/2610.34745) | arXiv | [project](https://computationalrobotics.seas.harvard.edu/SceneAgent/) |
 | 2026-10-22 | Agentic Real-to-Sim, Robot Demonstrations, Interactive Worlds | Xspark AI | [WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations](https://arxiv.org/abs/2610.31834) | arXiv | [project](https://worldmirror-page.github.io/) |
 | 2026-10-20 | Real2Sem2Real, Human RGB Video, Semantic Digital Cousins, SE(3) Tracking | Stanford University | [Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880) | arXiv | [project](https://real2sem2real.github.io/) |
