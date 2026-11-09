@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 1932 · **Unique arXiv IDs:** 1932
+**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 1936 · **Unique arXiv IDs:** 1936
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-06 | [Left-Right-Consistent Iterative Stereo Matching via Cross-Injection](https://arxiv.org/abs/2611.09458) | Manuel Knott, Diogo Luvizon, Daniel Scharstein, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2611.09458) / [pdf](https://arxiv.org/pdf/2611.09458) |
+| 2026-11-06 | [Polarization calibration of fisheye cameras using skylight in the wild](https://arxiv.org/abs/2611.08911) | Shuo Wang, Shiqi Che, Dianze Dong, et al. | cs.RO | Non-RGB Sensing, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.08911) / [pdf](https://arxiv.org/pdf/2611.08911) |
+| 2026-11-05 | [Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage](https://arxiv.org/abs/2611.08782) | Maximilian Jansen, Gasser Elazab, Praveen Kulkarni | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.08782) / [pdf](https://arxiv.org/pdf/2611.08782) |
+| 2026-11-05 | [eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation](https://arxiv.org/abs/2611.08731) | Qiushi Dai, Aniket Dashpute, Yuhao Liu, et al. | cs.CV, eess.IV | Depth / Geometry Prior, Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.08731) / [pdf](https://arxiv.org/pdf/2611.08731) |
 | 2026-11-05 | [StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing](https://arxiv.org/abs/2611.07922) | Qin Guo, Dan Xu | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.07922) / [pdf](https://arxiv.org/pdf/2611.07922) |
 | 2026-11-05 | [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](https://arxiv.org/abs/2611.07873) | Chuanxin Song, Peixi Peng | cs.CV | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.07873) / [pdf](https://arxiv.org/pdf/2611.07873) |
 | 2026-11-05 | [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](https://arxiv.org/abs/2611.07613) | Kotaro Oishi, Kazuma Ikeda, Ryosei Hara, et al. | cs.CV | Transparent / Specular, Active Imaging | [abs](https://arxiv.org/abs/2611.07613) / [pdf](https://arxiv.org/pdf/2611.07613) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 1076 · **Unique arXiv IDs:** 1076
+**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 1077 · **Unique arXiv IDs:** 1077
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-06 | [Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance](https://arxiv.org/abs/2611.08861) | Chenliang Zhou, Yifan Wang, Andrzej Banburski-Fahey | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.08861) / [pdf](https://arxiv.org/pdf/2611.08861) |
 | 2026-11-05 | [Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor](https://arxiv.org/abs/2611.07961) | Hongye Hou, Shuai Zhang, Hongjie Li, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.07961) / [pdf](https://arxiv.org/pdf/2611.07961) |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141) | Jiale Zhang, Yang Liu, Chengyang Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.06141) / [pdf](https://arxiv.org/pdf/2611.06141) |
 | 2026-11-02 | [UniCross3D: Unified Cross-View and Cross-Domain Diffusion for Consistent Single-Image 3D Generation](https://arxiv.org/abs/2611.02631) | U-Chae Jun, Jaeeun Ko, Jiwoo Kang | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.02631) / [pdf](https://arxiv.org/pdf/2611.02631) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 2754 · **Unique arXiv IDs:** 2754
+**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 2761 · **Unique arXiv IDs:** 2761
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-06 | [Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning](https://arxiv.org/abs/2611.09679) | Chang Rajani, Luke Sebastien Marsden, Stephan Kunz, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2611.09679) / [pdf](https://arxiv.org/pdf/2611.09679) |
+| 2026-11-06 | [Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning](https://arxiv.org/abs/2611.09625) | Maxime Burchi, Fayaz Ali Dharejo, Radu Timofte | cs.LG, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.09625) / [pdf](https://arxiv.org/pdf/2611.09625) |
+| 2026-11-06 | [Probably Safe Sim-to-Real Transfer with Lifetime Validity](https://arxiv.org/abs/2611.09344) | Rohan Tangri, Jan-Peter Calliess | cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2611.09344) / [pdf](https://arxiv.org/pdf/2611.09344) |
+| 2026-11-06 | [SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References](https://arxiv.org/abs/2611.09266) | Tianshu Wu, Tianxiang Gui, Yue Chen, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.09266) / [pdf](https://arxiv.org/pdf/2611.09266) |
+| 2026-11-06 | [Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | Chao Liang, Ke Chen, Fengxiaoxiao Li, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.09124) / [pdf](https://arxiv.org/pdf/2611.09124) |
+| 2026-11-06 | [RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation](https://arxiv.org/abs/2611.08939) | Ke Zhang, Lixin Xu, Ziyi Wang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.08939) / [pdf](https://arxiv.org/pdf/2611.08939) |
+| 2026-11-06 | [STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards](https://arxiv.org/abs/2611.08857) | Nico Bohlinger, Jan Peters | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2611.08857) / [pdf](https://arxiv.org/pdf/2611.08857) |
 | 2026-11-05 | [GPWM: Modeling the World as 3D Particle Motion](https://arxiv.org/abs/2611.08338) | Robert Ren, Matthew Bronars, He Zhu, et al. | cs.RO | World Model, Interaction / Affordance | [abs](https://arxiv.org/abs/2611.08338) / [pdf](https://arxiv.org/pdf/2611.08338) |
 | 2026-11-05 | [FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching](https://arxiv.org/abs/2611.08128) | Zeping Zhang, Zhuoya Zhao, Samy Metari, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.08128) / [pdf](https://arxiv.org/pdf/2611.08128) |
 | 2026-11-05 | [WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation](https://arxiv.org/abs/2611.07939) | Jiahao Cui, Jiaye Li, Wenhao Zhang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.07939) / [pdf](https://arxiv.org/pdf/2611.07939) |

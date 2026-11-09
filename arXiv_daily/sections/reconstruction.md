@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 3219 · **Unique arXiv IDs:** 3219
+**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 3222 · **Unique arXiv IDs:** 3222
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-06 | [ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use](https://arxiv.org/abs/2611.09036) | Mohamed Elmoghany, Kehan Li, Ruoqu Chen, et al. | cs.RO, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.09036) / [pdf](https://arxiv.org/pdf/2611.09036) |
+| 2026-11-06 | [Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents](https://arxiv.org/abs/2611.08946) | Jingdong Zhang, Jionghao Wang, Zhengming Yu, et al. | cs.AI, cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.08946) / [pdf](https://arxiv.org/pdf/2611.08946) |
+| 2026-11-05 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](https://arxiv.org/abs/2611.08665) | Eftychios Sifakis, Francis Williams, Christopher Horvath, et al. | cs.GR, cs.CV, cs.DC | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.08665) / [pdf](https://arxiv.org/pdf/2611.08665) |
 | 2026-11-05 | [SM4RT: Cascaded Feed-forward Model for 4D Reconstruction](https://arxiv.org/abs/2611.08436) | Pang-Chi Lo, Jhao-Syun Lai, Tsung-Wei Ke | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.08436) / [pdf](https://arxiv.org/pdf/2611.08436) |
 | 2026-11-05 | [InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](https://arxiv.org/abs/2611.08330) | Chanho Kim, Muhammad Salman Ali, Kyeonghwan Gwak, et al. | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2611.08330) / [pdf](https://arxiv.org/pdf/2611.08330) |
 | 2026-11-05 | [An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers](https://arxiv.org/abs/2611.08100) | Iaroslav Kolomiets, Iaroslav Sheipak, Mikhail Reppo, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.08100) / [pdf](https://arxiv.org/pdf/2611.08100) |
