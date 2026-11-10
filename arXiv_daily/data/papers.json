@@ -8486,21 +8486,7 @@
       "title": "LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation",
       "abstract": "Autonomous scientific agents must not only reason about experiments but also interact with the physical environments in which they are executed. Existing laboratory simulators typically rely on manually constructed assets and predefined procedures, while laboratory videos capture real equipment, layouts, and interactions but leave this information implicit in pixels. We introduce LabWorld, an agent-driven Real2Sim framework for reconstructing interactive 4D laboratory worlds from monocular RGB video. LabWorld recovers reusable 3D assets, a metric scene, time-varying object states, and procedure events. Multi-frame observations provide complementary evidence for asset and scene reconstruction, while motion reconstruction combines visual and geometric observations with event constraints encoding the spatial and temporal requirements of laboratory interactions. We evaluate LabWorld on real pipetting and vortexing videos collected in our laboratory against general-purpose agentic and dedicated reconstruction baselines. For pipetting, LabWorld achieves a mean Mask IoU of 0.501, exceeding the strongest baseline by 0.033. For vortexing, it achieves a mean Tube-Length-Normalized PCK-AUC of 0.638, exceeding the strongest baseline by 0.035. On five pipetting videos, event-conditioned reconstruction increases the fraction of modeled physical constraints satisfied from 14.3% (5/35) to 100% (35/35). The resulting worlds expose geometry, motion, articulation, and events as explicit, editable state for replay, inspection, and future embodied scientific systems.",
       "authors": [
-        "Suozhi Huang",
-        "Kelsey Fu",
-        "Binxu Li",
-        "Luna Lyu",
-        "Kaize Wu",
-        "Wenbo Lu",
-        "David Smerkous",
-        "Jiahan Li",
-        "Siqi Zhu",
-        "Zhizhou Sha",
-        "Jiacheng Guo",
-        "Zhixuan Liang",
-        "Shilong Liu",
-        "Le Cong",
-        "Mengdi Wang"
+        "Suozhi Huang"
       ],
       "published": "2026-10-27",
       "updated": "2026-10-27",
@@ -8508,7 +8494,7 @@
       "categories": [
         "cs.CV"
       ],
-      "comment": "20 pages, 4 figures. Suozhi Huang and Kelsey Fu contributed equally",
+      "comment": "arXiv admin comment: This version has been removed by arXiv administrators due to data privacy concerns",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2610.36592",
@@ -381662,7 +381648,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-11-09",
+  "coverage_end": "2026-11-10",
   "paper_count": 10215,
-  "generated_at": "2026-11-09T12:16:15+00:00"
+  "generated_at": "2026-11-10T00:25:39+00:00"
 }

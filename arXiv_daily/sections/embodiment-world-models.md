@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 2761 · **Unique arXiv IDs:** 2761
+**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 2761 · **Unique arXiv IDs:** 2761
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -101,7 +101,7 @@
 | 2026-10-27 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://arxiv.org/abs/2610.36729) | Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2610.36729) / [pdf](https://arxiv.org/pdf/2610.36729) |
 | 2026-10-27 | [From Biological Curves to Soft Modular Robots: Learning-Based Inverse Design with Uncertainty-Guided Refinement](https://arxiv.org/abs/2610.36681) | Dixiang Wang, Minghao Zha, Arifur Rahman, et al. | cs.RO, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.36681) / [pdf](https://arxiv.org/pdf/2610.36681) |
 | 2026-10-27 | [SWIM: Learning What Matters from Behaviors for JEPA World Models](https://arxiv.org/abs/2610.36662) | Jiaming Hu, Shi Bo, Yan Zheng, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2610.36662) / [pdf](https://arxiv.org/pdf/2610.36662) |
-| 2026-10-27 | [LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation](https://arxiv.org/abs/2610.36592) | Suozhi Huang, Kelsey Fu, Binxu Li, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.36592) / [pdf](https://arxiv.org/pdf/2610.36592) |
+| 2026-10-27 | [LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation](https://arxiv.org/abs/2610.36592) | Suozhi Huang | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2610.36592) / [pdf](https://arxiv.org/pdf/2610.36592) |
 | 2026-10-26 | [Rollback: Experience Backtracking in World Models for Policy Improvement](https://arxiv.org/abs/2610.36068) | Jiayi Luo, Yang Zhang, Liliang Chen, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2610.36068) / [pdf](https://arxiv.org/pdf/2610.36068) |
 | 2026-10-26 | [Provably Efficient Q-learning for Robust Reinforcement Learning](https://arxiv.org/abs/2610.35656) | Yuchen Jiao, Gen Li | stat.ML, cs.AI, cs.LG | Sim-to-Real | [abs](https://arxiv.org/abs/2610.35656) / [pdf](https://arxiv.org/pdf/2610.35656) |
 | 2026-10-26 | [Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation](https://arxiv.org/abs/2610.35636) | Akshay Mete, Dileep Kalathil, P. R. Kumar | cs.LG, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2610.35636) / [pdf](https://arxiv.org/pdf/2610.35636) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-09 · **Papers:** 3222 · **Unique arXiv IDs:** 3222
+**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 3222 · **Unique arXiv IDs:** 3222
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -81,7 +81,7 @@
 | 2026-10-27 | [GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting](https://arxiv.org/abs/2610.36760) | Jiale Wang, Chen Zhao, Haoyang Zhang, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.36760) / [pdf](https://arxiv.org/pdf/2610.36760) |
 | 2026-10-27 | [SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration](https://arxiv.org/abs/2610.36658) | Tomoyasu Shimada, Kazuhiko Murasaki, Shoichiro Takeda, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.36658) / [pdf](https://arxiv.org/pdf/2610.36658) |
 | 2026-10-27 | [4D Reconstruction with Events & RGB](https://arxiv.org/abs/2610.36610) | Dulanga Weerakoon, Darshana Rathnayake, Van Minh Do, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2610.36610) / [pdf](https://arxiv.org/pdf/2610.36610) |
-| 2026-10-27 | [LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation](https://arxiv.org/abs/2610.36592) | Suozhi Huang, Kelsey Fu, Binxu Li, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.36592) / [pdf](https://arxiv.org/pdf/2610.36592) |
+| 2026-10-27 | [LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation](https://arxiv.org/abs/2610.36592) | Suozhi Huang | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.36592) / [pdf](https://arxiv.org/pdf/2610.36592) |
 | 2026-10-27 | [SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL](https://arxiv.org/abs/2610.36454) | Chinmay Burgul, Xiaoming Zhao, Yewei Huang, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.36454) / [pdf](https://arxiv.org/pdf/2610.36454) |
 | 2026-10-27 | [Ground Sample Distance Constrained k-Coverage Viewpoint Planning via Set Multi-Cover Formulation](https://arxiv.org/abs/2610.36450) | Waleed Bin Khalid, Chul Min Yeum | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2610.36450) / [pdf](https://arxiv.org/pdf/2610.36450) |
 | 2026-10-26 | [SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation](https://arxiv.org/abs/2610.36312) | Ziang Guo, Didar Seyidov, Yixiao Zhou, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2610.36312) / [pdf](https://arxiv.org/pdf/2610.36312) |
