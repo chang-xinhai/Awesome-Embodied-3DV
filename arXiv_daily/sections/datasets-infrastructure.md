@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 572 · **Unique arXiv IDs:** 572
+**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 574 · **Unique arXiv IDs:** 574
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-08 | [SurgTAP-3D: A Large-Scale Cross-Surgery Video Dataset with Contact-Aware 3D Motion Tracking](https://arxiv.org/abs/2611.11697) | Jiaxin Guo, Wenzhen Dong, Taoyu Wu, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.11697) / [pdf](https://arxiv.org/pdf/2611.11697) |
+| 2026-11-08 | [Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting](https://arxiv.org/abs/2611.11602) | Robin Bruneau, Baptiste Brument, Frederic Giraud, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.11602) / [pdf](https://arxiv.org/pdf/2611.11602) |
 | 2026-11-04 | [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180) | Lukas Rauch, Thomas Braml | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.06180) / [pdf](https://arxiv.org/pdf/2611.06180) |
 | 2026-11-03 | [Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361) | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | cs.CV, cs.RO | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.05361) / [pdf](https://arxiv.org/pdf/2611.05361) |
 | 2026-11-03 | [BhopalMLS: A LiDAR Dataset for Semantic Scene Understanding in Heterogeneous Urban Environments](https://arxiv.org/abs/2611.04654) | Pyare Lal Chauhan, Vaibhav Kumar, Bharat Lohani | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.04654) / [pdf](https://arxiv.org/pdf/2611.04654) |

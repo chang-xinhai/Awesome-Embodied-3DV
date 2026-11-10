@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 1077 · **Unique arXiv IDs:** 1077
+**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 1082 · **Unique arXiv IDs:** 1082
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-09 | [HolidayFactory 1.0: Simulating, Generating, and Evaluating Industrial Robot Tasks](https://arxiv.org/abs/2611.11789) | Holiday Robotics, :, Jeongmin Lee, et al. | cs.RO, cs.AI | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.11789) / [pdf](https://arxiv.org/pdf/2611.11789) |
+| 2026-11-08 | [SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation](https://arxiv.org/abs/2611.11678) | Anay Loya, Rishi Gupta, Arnav Samal, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.11678) / [pdf](https://arxiv.org/pdf/2611.11678) |
+| 2026-11-08 | [TransArt3D: From Two States to Articulated 3D Reconstruction with Video Transition Priors](https://arxiv.org/abs/2611.11304) | Chenhao Guan, Liying Yang, Xinxing Yu, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.11304) / [pdf](https://arxiv.org/pdf/2611.11304) |
+| 2026-11-08 | [SoftPAT3D: Physics-Augmented Text-to-3D Scene Generation with Deformables](https://arxiv.org/abs/2611.11087) | Lei Shu, Alberta Longhini, Leonidas Guibas, et al. | cs.CV, cs.GR, cs.RO | Image / Text-to-3D, Simulation-Ready / Physical, Scene / World Generation, 3D Editing | [abs](https://arxiv.org/abs/2611.11087) / [pdf](https://arxiv.org/pdf/2611.11087) |
+| 2026-11-06 | [OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception](https://arxiv.org/abs/2611.10241) | Quanyun Wu, Kyle Gao, Daisy Li, et al. | cs.RO, cs.CV | Image / Text-to-3D, Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.10241) / [pdf](https://arxiv.org/pdf/2611.10241) |
 | 2026-11-06 | [Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance](https://arxiv.org/abs/2611.08861) | Chenliang Zhou, Yifan Wang, Andrzej Banburski-Fahey | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.08861) / [pdf](https://arxiv.org/pdf/2611.08861) |
 | 2026-11-05 | [Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor](https://arxiv.org/abs/2611.07961) | Hongye Hou, Shuai Zhang, Hongjie Li, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.07961) / [pdf](https://arxiv.org/pdf/2611.07961) |
 | 2026-11-04 | [RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation](https://arxiv.org/abs/2611.06141) | Jiale Zhang, Yang Liu, Chengyang Li, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.06141) / [pdf](https://arxiv.org/pdf/2611.06141) |

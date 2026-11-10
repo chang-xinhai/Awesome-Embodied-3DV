@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 1936 · **Unique arXiv IDs:** 1936
+**Coverage:** 2025-01-01 to 2026-11-10 · **Papers:** 1943 · **Unique arXiv IDs:** 1943
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-09 | [DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing](https://arxiv.org/abs/2611.12038) | Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.12038) / [pdf](https://arxiv.org/pdf/2611.12038) |
+| 2026-11-09 | [HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction](https://arxiv.org/abs/2611.12011) | Kenneth Yang, Yu-Chiang Frank Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.12011) / [pdf](https://arxiv.org/pdf/2611.12011) |
+| 2026-11-09 | [Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning](https://arxiv.org/abs/2611.11934) | Wanhui Luo, Hongbo Zhao, Yi Zhou, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.11934) / [pdf](https://arxiv.org/pdf/2611.11934) |
+| 2026-11-09 | [LangDepth: Vision-Language Scene Priors for Semantic Binning and Cross-Domain Monocular Depth Estimation](https://arxiv.org/abs/2611.11763) | Reyhaneh Ahani Manghotay, Jie Liang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.11763) / [pdf](https://arxiv.org/pdf/2611.11763) |
+| 2026-11-07 | [LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion](https://arxiv.org/abs/2611.10729) | Xiang Li, Xiaojin Gong | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.10729) / [pdf](https://arxiv.org/pdf/2611.10729) |
+| 2026-11-07 | [Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification](https://arxiv.org/abs/2611.10518) | Yizhao Peng, Rui Gong, Zaiwang Gu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.10518) / [pdf](https://arxiv.org/pdf/2611.10518) |
+| 2026-11-07 | [ClearForm: Shared-Surface Gaussian Splatting for Transparent and Opaque Scenes](https://arxiv.org/abs/2611.10370) | Hajeong Lee, Jong-Il Park | cs.CV | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2611.10370) / [pdf](https://arxiv.org/pdf/2611.10370) |
 | 2026-11-06 | [Left-Right-Consistent Iterative Stereo Matching via Cross-Injection](https://arxiv.org/abs/2611.09458) | Manuel Knott, Diogo Luvizon, Daniel Scharstein, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2611.09458) / [pdf](https://arxiv.org/pdf/2611.09458) |
 | 2026-11-06 | [Polarization calibration of fisheye cameras using skylight in the wild](https://arxiv.org/abs/2611.08911) | Shuo Wang, Shiqi Che, Dianze Dong, et al. | cs.RO | Non-RGB Sensing, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.08911) / [pdf](https://arxiv.org/pdf/2611.08911) |
 | 2026-11-05 | [Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage](https://arxiv.org/abs/2611.08782) | Maximilian Jansen, Gasser Elazab, Praveen Kulkarni | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.08782) / [pdf](https://arxiv.org/pdf/2611.08782) |
