@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 1943 · **Unique arXiv IDs:** 1943
+**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 1944 · **Unique arXiv IDs:** 1944
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-10 | [UGG: Unified Generative Geometry Model](https://arxiv.org/abs/2611.14440) | Amani Kiruga, Zhiyi Li, Ruojin Cai, et al. | cs.CV, cs.LG, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.14440) / [pdf](https://arxiv.org/pdf/2611.14440) |
 | 2026-11-09 | [DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing](https://arxiv.org/abs/2611.12038) | Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.12038) / [pdf](https://arxiv.org/pdf/2611.12038) |
 | 2026-11-09 | [HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction](https://arxiv.org/abs/2611.12011) | Kenneth Yang, Yu-Chiang Frank Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.12011) / [pdf](https://arxiv.org/pdf/2611.12011) |
 | 2026-11-09 | [Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning](https://arxiv.org/abs/2611.11934) | Wanhui Luo, Hongbo Zhao, Yi Zhou, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.11934) / [pdf](https://arxiv.org/pdf/2611.11934) |

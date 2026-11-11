@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 574 · **Unique arXiv IDs:** 574
+**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 575 · **Unique arXiv IDs:** 575
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,7 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-10 | [Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States](https://arxiv.org/abs/2611.13581) | Bowen Deng, Gwang-Jin Jeong, Seulgi Noh, et al. | cs.CV, q-bio.NC | Dataset | [abs](https://arxiv.org/abs/2611.13581) / [pdf](https://arxiv.org/pdf/2611.13581) |
 | 2026-11-08 | [SurgTAP-3D: A Large-Scale Cross-Surgery Video Dataset with Contact-Aware 3D Motion Tracking](https://arxiv.org/abs/2611.11697) | Jiaxin Guo, Wenzhen Dong, Taoyu Wu, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.11697) / [pdf](https://arxiv.org/pdf/2611.11697) |
 | 2026-11-08 | [Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting](https://arxiv.org/abs/2611.11602) | Robin Bruneau, Baptiste Brument, Frederic Giraud, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.11602) / [pdf](https://arxiv.org/pdf/2611.11602) |
 | 2026-11-04 | [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180) | Lukas Rauch, Thomas Braml | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.06180) / [pdf](https://arxiv.org/pdf/2611.06180) |

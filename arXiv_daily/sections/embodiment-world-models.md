@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 2789 · **Unique arXiv IDs:** 2789
+**Coverage:** 2025-01-01 to 2026-11-11 · **Papers:** 2793 · **Unique arXiv IDs:** 2793
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-10 | [Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs](https://arxiv.org/abs/2611.13903) | Kim Alexander Christensen, Dina Zimmermann, Martin Steinert, et al. | cs.CV, cs.RO | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.13903) / [pdf](https://arxiv.org/pdf/2611.13903) |
+| 2026-11-10 | [Few-Shot Residual Adaptation of Pretrained Latent World Models](https://arxiv.org/abs/2611.13592) | Jakub Suliga, Pankhuri Vanjani, Nisarga Nilavadi, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.13592) / [pdf](https://arxiv.org/pdf/2611.13592) |
+| 2026-11-10 | [GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM](https://arxiv.org/abs/2611.13528) | Yuchen Yang, Ming Ding, Xinyu Wu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.13528) / [pdf](https://arxiv.org/pdf/2611.13528) |
+| 2026-11-10 | [DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments](https://arxiv.org/abs/2611.13499) | Hanyu Jin, Kenji Shimada | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.13499) / [pdf](https://arxiv.org/pdf/2611.13499) |
+| 2026-11-09 | [ProTEUS: A mutation-resolved world model for closed-loop protein evolution](https://arxiv.org/abs/2611.13348) | Yikun Zhang, Minghao Guo, Guangxue Xu, et al. | q-bio.BM, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.13348) / [pdf](https://arxiv.org/pdf/2611.13348) |
 | 2026-11-09 | [$Σ$-LeWM: Learning World Models via S-Information for Robot Control](https://arxiv.org/abs/2611.12732) | Xinrui Zu, Michael Przystupa, Zhao Yang, et al. | cs.LG, cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2611.12732) / [pdf](https://arxiv.org/pdf/2611.12732) |
 | 2026-11-09 | [Library of Hands: Fix the Hands, Not the World Model](https://arxiv.org/abs/2611.12678) | Hasaan Ahmad, Qizhen Ying, Yuxuan Sun, et al. | cs.RO, cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.12678) / [pdf](https://arxiv.org/pdf/2611.12678) |
 | 2026-11-09 | [WanderBench: Can World Models Explore Dynamic Worlds from Video?](https://arxiv.org/abs/2611.12557) | Yuhang Chen, Jiheng Li, Jiale Wang, et al. | cs.CV, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2611.12557) / [pdf](https://arxiv.org/pdf/2611.12557) |
@@ -84,7 +89,6 @@
 | 2026-11-01 | [The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model](https://arxiv.org/abs/2611.01866) | Junichiro Niimi | cs.LG, q-bio.NC | World Model | [abs](https://arxiv.org/abs/2611.01866) / [pdf](https://arxiv.org/pdf/2611.01866) |
 | 2026-11-01 | [OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining](https://arxiv.org/abs/2611.01844) | Dujun Nie, Ruiqi Song, Zixuan Wang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.01844) / [pdf](https://arxiv.org/pdf/2611.01844) |
 | 2026-11-01 | [Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence](https://arxiv.org/abs/2611.01677) | Zhenxin Zhu, Zhijian Huang, Cheng Chi, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.01677) / [pdf](https://arxiv.org/pdf/2611.01677) |
-| 2026-11-01 | [Stand-In Effects and Pooling Amplification: Lessons from Biological World Models for Testing Action Effects](https://arxiv.org/abs/2611.01666) | Bowen Xu, Boyu Chen, Jiaying Li | cs.LG, q-bio.QM, stat.ME | World Model | [abs](https://arxiv.org/abs/2611.01666) / [pdf](https://arxiv.org/pdf/2611.01666) |
 | 2026-11-01 | [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](https://arxiv.org/abs/2611.01600) | Amir Hossain Raj, Xuesu Xiao | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.01600) / [pdf](https://arxiv.org/pdf/2611.01600) |
 
 ## 2026-10
