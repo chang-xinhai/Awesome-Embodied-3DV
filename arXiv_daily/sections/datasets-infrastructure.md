@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 575 · **Unique arXiv IDs:** 575
+**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 577 · **Unique arXiv IDs:** 577
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-11 | [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) | Yuzhe Chen, Muxi Diao, Lele Yang, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.15789) / [pdf](https://arxiv.org/pdf/2611.15789) |
+| 2026-11-11 | [ChartGalaxy++: A Richly Annotated Dataset for Chart Understanding and Generation](https://arxiv.org/abs/2611.15418) | Duan Li, Zheng Wang, Jiangning Zhu, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.15418) / [pdf](https://arxiv.org/pdf/2611.15418) |
 | 2026-11-10 | [Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States](https://arxiv.org/abs/2611.13581) | Bowen Deng, Gwang-Jin Jeong, Seulgi Noh, et al. | cs.CV, q-bio.NC | Dataset | [abs](https://arxiv.org/abs/2611.13581) / [pdf](https://arxiv.org/pdf/2611.13581) |
 | 2026-11-08 | [SurgTAP-3D: A Large-Scale Cross-Surgery Video Dataset with Contact-Aware 3D Motion Tracking](https://arxiv.org/abs/2611.11697) | Jiaxin Guo, Wenzhen Dong, Taoyu Wu, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.11697) / [pdf](https://arxiv.org/pdf/2611.11697) |
 | 2026-11-08 | [Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting](https://arxiv.org/abs/2611.11602) | Robin Bruneau, Baptiste Brument, Frederic Giraud, et al. | cs.CV | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.11602) / [pdf](https://arxiv.org/pdf/2611.11602) |

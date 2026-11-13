@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 2793 · **Unique arXiv IDs:** 2793
+**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 2811 · **Unique arXiv IDs:** 2811
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,23 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-12 | [Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects](https://arxiv.org/abs/2611.16742) | Kazuma Ikeda, Kotaro Oishi, Ryosei Hara, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2611.16742) / [pdf](https://arxiv.org/pdf/2611.16742) |
+| 2026-11-12 | [Rethinking Actions: Continuity-Aware Priors for World-Model Planning](https://arxiv.org/abs/2611.16645) | Shaobo Yang, Zichen Ai, Ziyang Ma, et al. | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.16645) / [pdf](https://arxiv.org/pdf/2611.16645) |
+| 2026-11-12 | [BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU](https://arxiv.org/abs/2611.16422) | Fuyi Chen | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.16422) / [pdf](https://arxiv.org/pdf/2611.16422) |
+| 2026-11-11 | [Latent Imagination for Parameterized Action Spaces](https://arxiv.org/abs/2611.15744) | Atahan Cilan, İhsan Mert Muhacıroğlu, Ümit Can Bekar | cs.LG, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.15744) / [pdf](https://arxiv.org/pdf/2611.15744) |
+| 2026-11-11 | [What World Model Does Active Object Search Need? A Study under Imperfect Detection](https://arxiv.org/abs/2611.15689) | Kyeongryeol Go | cs.RO, eess.SY | World Model | [abs](https://arxiv.org/abs/2611.15689) / [pdf](https://arxiv.org/pdf/2611.15689) |
+| 2026-11-11 | [SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol](https://arxiv.org/abs/2611.15680) | Ameen Izhac, Nobuko Yoshida, Ronald Clark | cs.LG | Dynamic Scene Graph | [abs](https://arxiv.org/abs/2611.15680) / [pdf](https://arxiv.org/pdf/2611.15680) |
+| 2026-11-11 | [Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement](https://arxiv.org/abs/2611.15658) | Dezhi Sun, Duy Khang Banh, Kenan Niu | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.15658) / [pdf](https://arxiv.org/pdf/2611.15658) |
+| 2026-11-11 | [Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game](https://arxiv.org/abs/2611.15524) | Connor Gäde, Matthias Kerzel, Hauke Bünning, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2611.15524) / [pdf](https://arxiv.org/pdf/2611.15524) |
+| 2026-11-11 | [AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention](https://arxiv.org/abs/2611.15215) | Haoyi Zhang, Qi Zhang, Yunfan Ren, et al. | cs.AI, cs.RO | World Model | [abs](https://arxiv.org/abs/2611.15215) / [pdf](https://arxiv.org/pdf/2611.15215) |
+| 2026-11-11 | [Duo: A Reciprocal World Model for Full-Duplex Interaction](https://arxiv.org/abs/2611.15131) | Hengyuan Cao, Biao Gong, Guoshan Lu, et al. | cs.CV, cs.SD | World Model | [abs](https://arxiv.org/abs/2611.15131) / [pdf](https://arxiv.org/pdf/2611.15131) |
+| 2026-11-11 | [CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction](https://arxiv.org/abs/2611.15101) | Pengyang Shi, Jinlu Zhang, Chunze Lin, et al. | cs.SD, cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2611.15101) / [pdf](https://arxiv.org/pdf/2611.15101) |
+| 2026-11-11 | [MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments](https://arxiv.org/abs/2611.15066) | Hyunjun Kim, Youngjin Seo, Sungwon Seo, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.15066) / [pdf](https://arxiv.org/pdf/2611.15066) |
+| 2026-11-11 | [Does Your World Model Know Actions Have Consequences?](https://arxiv.org/abs/2611.15048) | Ayush Gaggar, Jared Berry, Todd D. Murphey | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.15048) / [pdf](https://arxiv.org/pdf/2611.15048) |
+| 2026-11-11 | [Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation](https://arxiv.org/abs/2611.15020) | Di Yang, Da Huang, Yang Lv, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.15020) / [pdf](https://arxiv.org/pdf/2611.15020) |
+| 2026-11-11 | [Fast Inference-Time Policy Refinement via Action-Affine World Models](https://arxiv.org/abs/2611.15011) | Run Wang, Yilin Mo, Liang Wu | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.15011) / [pdf](https://arxiv.org/pdf/2611.15011) |
+| 2026-11-11 | [FOE-Dreamer: Deployment-Efficient Learning of Cyber Defense Policies in Operational Networks](https://arxiv.org/abs/2611.14880) | Yinuo Du, Christopher Kiekintveld | cs.LG, cs.CR | World Model | [abs](https://arxiv.org/abs/2611.14880) / [pdf](https://arxiv.org/pdf/2611.14880) |
+| 2026-11-10 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815) | Junyoung Seo, Jaewoo Seo, Seungryong Kim, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.14815) / [pdf](https://arxiv.org/pdf/2611.14815) |
 | 2026-11-10 | [Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs](https://arxiv.org/abs/2611.13903) | Kim Alexander Christensen, Dina Zimmermann, Martin Steinert, et al. | cs.CV, cs.RO | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.13903) / [pdf](https://arxiv.org/pdf/2611.13903) |
 | 2026-11-10 | [Few-Shot Residual Adaptation of Pretrained Latent World Models](https://arxiv.org/abs/2611.13592) | Jakub Suliga, Pankhuri Vanjani, Nisarga Nilavadi, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.13592) / [pdf](https://arxiv.org/pdf/2611.13592) |
 | 2026-11-10 | [GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM](https://arxiv.org/abs/2611.13528) | Yuchen Yang, Ming Ding, Xinyu Wu, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.13528) / [pdf](https://arxiv.org/pdf/2611.13528) |
@@ -89,6 +106,7 @@
 | 2026-11-01 | [The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model](https://arxiv.org/abs/2611.01866) | Junichiro Niimi | cs.LG, q-bio.NC | World Model | [abs](https://arxiv.org/abs/2611.01866) / [pdf](https://arxiv.org/pdf/2611.01866) |
 | 2026-11-01 | [OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining](https://arxiv.org/abs/2611.01844) | Dujun Nie, Ruiqi Song, Zixuan Wang, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.01844) / [pdf](https://arxiv.org/pdf/2611.01844) |
 | 2026-11-01 | [Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence](https://arxiv.org/abs/2611.01677) | Zhenxin Zhu, Zhijian Huang, Cheng Chi, et al. | cs.AI, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.01677) / [pdf](https://arxiv.org/pdf/2611.01677) |
+| 2026-11-01 | [Stand-In Effects and Pooling Amplification: Lessons from Biological World Models for Testing Action Effects](https://arxiv.org/abs/2611.01666) | Bowen Xu, Boyu Chen, Jiaying Li | cs.LG, q-bio.QM, stat.ME | World Model | [abs](https://arxiv.org/abs/2611.01666) / [pdf](https://arxiv.org/pdf/2611.01666) |
 | 2026-11-01 | [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](https://arxiv.org/abs/2611.01600) | Amir Hossain Raj, Xuesu Xiao | cs.RO, cs.AI, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.01600) / [pdf](https://arxiv.org/pdf/2611.01600) |
 
 ## 2026-10

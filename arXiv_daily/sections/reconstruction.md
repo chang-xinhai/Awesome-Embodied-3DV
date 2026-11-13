@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 3246 · **Unique arXiv IDs:** 3246
+**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 3257 · **Unique arXiv IDs:** 3257
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,17 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-12 | [BrickFlow: Connectivity-Guided Brick Reconstruction](https://arxiv.org/abs/2611.17321) | Peter Kulits, Cordelia Schmid | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.17321) / [pdf](https://arxiv.org/pdf/2611.17321) |
+| 2026-11-12 | [Kosmo-GFM: A Production-Ready Geometry Foundation Model](https://arxiv.org/abs/2611.16840) | Sheng Tang, Shengzhe Wei, Tiancheng Chen, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.16840) / [pdf](https://arxiv.org/pdf/2611.16840) |
+| 2026-11-12 | [RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5](https://arxiv.org/abs/2611.16472) | Himanshu Patil, Jaideep Joshi, Rohit Saluja, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.16472) / [pdf](https://arxiv.org/pdf/2611.16472) |
+| 2026-11-11 | [MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes](https://arxiv.org/abs/2611.15937) | Richard Shi, Mohammad Mahdavian, Mehrdad Momeni Zadeh, et al. | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.15937) / [pdf](https://arxiv.org/pdf/2611.15937) |
+| 2026-11-11 | [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) | Yuzhe Chen, Muxi Diao, Lele Yang, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.15789) / [pdf](https://arxiv.org/pdf/2611.15789) |
+| 2026-11-11 | [SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol](https://arxiv.org/abs/2611.15680) | Ameen Izhac, Nobuko Yoshida, Ronald Clark | cs.LG | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.15680) / [pdf](https://arxiv.org/pdf/2611.15680) |
+| 2026-11-11 | [ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction](https://arxiv.org/abs/2611.15435) | Prasanna S, Gopi Raju Matta, Divya Madhuri Vemunuri, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.15435) / [pdf](https://arxiv.org/pdf/2611.15435) |
+| 2026-11-11 | [IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision](https://arxiv.org/abs/2611.15429) | Mrunmai Phatak, Daniel Kienzle, Roman Küble, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.15429) / [pdf](https://arxiv.org/pdf/2611.15429) |
+| 2026-11-11 | [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](https://arxiv.org/abs/2611.15287) | Yushi Lan, Zeren Jiang, Kelvin Li, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.15287) / [pdf](https://arxiv.org/pdf/2611.15287) |
+| 2026-11-11 | [MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](https://arxiv.org/abs/2611.15153) | Yangming Zhang, Siyi Wu, Jian Wang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.15153) / [pdf](https://arxiv.org/pdf/2611.15153) |
+| 2026-11-11 | [Multi-View 3D Reconstruction Using V-JEPA Features](https://arxiv.org/abs/2611.15143) | Anwar Shamim, Jeffrin Sam | cs.CV, cs.AI | Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.15143) / [pdf](https://arxiv.org/pdf/2611.15143) |
 | 2026-11-10 | [Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States](https://arxiv.org/abs/2611.13581) | Bowen Deng, Gwang-Jin Jeong, Seulgi Noh, et al. | cs.CV, q-bio.NC | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.13581) / [pdf](https://arxiv.org/pdf/2611.13581) |
 | 2026-11-10 | [GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM](https://arxiv.org/abs/2611.13528) | Yuchen Yang, Ming Ding, Xinyu Wu, et al. | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.13528) / [pdf](https://arxiv.org/pdf/2611.13528) |
 | 2026-11-10 | [Camera3R: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models](https://arxiv.org/abs/2611.13453) | Ruxiao Duan, Yunwen Zhou, Erin Hong, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.13453) / [pdf](https://arxiv.org/pdf/2611.13453) |

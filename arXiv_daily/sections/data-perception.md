@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 1944 · **Unique arXiv IDs:** 1944
+**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 1949 · **Unique arXiv IDs:** 1949
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-12 | [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | Ethan Lin, Yang Song | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.17318) / [pdf](https://arxiv.org/pdf/2611.17318) |
+| 2026-11-12 | [ElasticDino: Dense Semantic Features Using Elastic Deformations](https://arxiv.org/abs/2611.16984) | Ulysse Mizrahi, Sean Zaretzky, Dov Danon, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.16984) / [pdf](https://arxiv.org/pdf/2611.16984) |
+| 2026-11-12 | [EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion](https://arxiv.org/abs/2611.16793) | Laiyan Ding, Chongxi Meng, Rui Huang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.16793) / [pdf](https://arxiv.org/pdf/2611.16793) |
+| 2026-11-12 | [FlowIR: Depth-driven Rectified Flow for Resolving Thermal Ambiguity in Infrared Super-Resolution](https://arxiv.org/abs/2611.16269) | Xingyue Zhu, Qinyun Mei, Zhexi Min, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.16269) / [pdf](https://arxiv.org/pdf/2611.16269) |
+| 2026-11-11 | [Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion](https://arxiv.org/abs/2611.14958) | Dimitrios Chatziparaschis, Georgios Georgakis, Adnan I. Ansar, et al. | cs.RO, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.14958) / [pdf](https://arxiv.org/pdf/2611.14958) |
 | 2026-11-10 | [UGG: Unified Generative Geometry Model](https://arxiv.org/abs/2611.14440) | Amani Kiruga, Zhiyi Li, Ruojin Cai, et al. | cs.CV, cs.LG, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.14440) / [pdf](https://arxiv.org/pdf/2611.14440) |
 | 2026-11-09 | [DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing](https://arxiv.org/abs/2611.12038) | Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, et al. | cs.RO, cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.12038) / [pdf](https://arxiv.org/pdf/2611.12038) |
 | 2026-11-09 | [HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction](https://arxiv.org/abs/2611.12011) | Kenneth Yang, Yu-Chiang Frank Wang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.12011) / [pdf](https://arxiv.org/pdf/2611.12011) |

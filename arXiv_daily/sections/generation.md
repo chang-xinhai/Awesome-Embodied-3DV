@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 1082 · **Unique arXiv IDs:** 1082
+**Coverage:** 2025-01-01 to 2026-11-13 · **Papers:** 1086 · **Unique arXiv IDs:** 1086
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-12 | [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | Ethan Lin, Yang Song | cs.CV | Image / Text-to-3D, 3D Editing | [abs](https://arxiv.org/abs/2611.17318) / [pdf](https://arxiv.org/pdf/2611.17318) |
+| 2026-11-12 | [Sprint3D: Accelerating End-to-End 3D Asset Generation through Pipeline Optimization](https://arxiv.org/abs/2611.16701) | Sho Kuno, Ruihan Yu, Yonghao Yu, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.16701) / [pdf](https://arxiv.org/pdf/2611.16701) |
+| 2026-11-12 | [Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot](https://arxiv.org/abs/2611.16632) | Pengfei Ye, Zhiyang Dou, Yuxiang Ma, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.16632) / [pdf](https://arxiv.org/pdf/2611.16632) |
+| 2026-11-11 | [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) | Yuzhe Chen, Muxi Diao, Lele Yang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2611.15789) / [pdf](https://arxiv.org/pdf/2611.15789) |
 | 2026-11-09 | [HolidayFactory 1.0: Simulating, Generating, and Evaluating Industrial Robot Tasks](https://arxiv.org/abs/2611.11789) | Holiday Robotics, :, Jeongmin Lee, et al. | cs.RO, cs.AI | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.11789) / [pdf](https://arxiv.org/pdf/2611.11789) |
 | 2026-11-08 | [SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation](https://arxiv.org/abs/2611.11678) | Anay Loya, Rishi Gupta, Arnav Samal, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.11678) / [pdf](https://arxiv.org/pdf/2611.11678) |
 | 2026-11-08 | [TransArt3D: From Two States to Articulated 3D Reconstruction with Video Transition Priors](https://arxiv.org/abs/2611.11304) | Chenhao Guan, Liying Yang, Xinxing Yu, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.11304) / [pdf](https://arxiv.org/pdf/2611.11304) |
