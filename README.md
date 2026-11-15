@@ -117,6 +117,7 @@ Data perception covers the sensor-facing and semantic layers: extracting geometr
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-11 | Monocular Depth, Ego-Motion, Test-Time Adaptation | University of California, Riverside | [Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion](https://arxiv.org/abs/2611.14958) | arXiv | [project](https://emvit-mde.github.io/) |
 | 2026-11-09 | Monocular Depth, Language Priors, Metric Scale | Simon Fraser University | [LangDepth: Vision-Language Scene Priors for Semantic Binning and Cross-Domain Monocular Depth Estimation](https://arxiv.org/abs/2611.11763) | arXiv | — |
 | 2026-11-07 | Depth Completion, Sparse Metric Depth, Foundation Model | Zhejiang University | [LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion](https://arxiv.org/abs/2611.10729) | arXiv | — |
 | 2026-10-16 | MaSS, Self-Supervised Depth, Scene Structure, Multi-Dataset Scaling | Tongji University | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](https://arxiv.org/abs/2610.23600) | arXiv | — |
@@ -349,6 +350,7 @@ Object-part perception for editable and interactive assets. For completed part g
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-12 | Panorama Depth, Distillation, Spherical Fusion | The Chinese University of Hong Kong, Shenzhen | [EG360: Efficient and Generalizable 360° Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion](https://arxiv.org/abs/2611.16793) | arXiv | — |
 | 2026-11-09 | Fisheye, Monocular VO, Spherical Bundle Adjustment | Tongji University | [Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning](https://arxiv.org/abs/2611.11934) | arXiv | — |
 | 2026-10-22 | OmniRay, Camera-Agnostic, Composite Ray Fields, Monocular Point Clouds | Johns Hopkins University | [OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645) | arXiv | [project](https://nam1410.github.io/omniray/) |
 | 2026-10-15 | Single Panorama, Perspective Decomposition, Geometry-Accurate Reconstruction | University of Hong Kong | [GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama](https://arxiv.org/abs/2610.21297) | arXiv | — |
@@ -570,6 +572,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-12 | Kosmo-GFM, Geometry Foundation, Pose Optimization | Kosmo Research | [Kosmo-GFM: A Production-Ready Geometry Foundation Model](https://arxiv.org/abs/2611.16840) | arXiv | — |
 | 2026-11-10 | Multi-View, Heterogeneous Cameras, Low-Rank Adaptation | Yale University | [Camera3R: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models](https://arxiv.org/abs/2611.13453) | arXiv | — |
 | 2026-11-09 | Stereo, Correspondence Prompts, Interactive Reconstruction | University of Virginia | [Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks](https://arxiv.org/abs/2611.12875) | arXiv | [project](https://uva-computer-vision-lab.github.io/click3r/) / [github (MIT)](https://github.com/UVA-Computer-Vision-Lab/click3r) / [weights (non-commercial)](https://huggingface.co/uva-cv-lab/Click3R) / [benchmark](https://huggingface.co/datasets/uva-cv-lab/Hard3DBench) |
 | 2026-11-09 | Feed-Forward 3D, Domain Adaptation, Correspondence | Peking University | [3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model](https://arxiv.org/abs/2611.11964) | arXiv | [github (adapter weights forthcoming)](https://github.com/PKU-OV3-LAB/3R-Adapter) |
@@ -736,6 +739,8 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-11 | Topo-4DGS, Ego Video, Topological Change | Bocconi University | [Topology-Aware 4D Gaussian Splatting for Egocentric Videos](https://arxiv.org/abs/2611.16012) | arXiv | — |
+| 2026-11-11 | Track4D, Dense 3D Tracking, Video Diffusion | University of Oxford | [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](https://arxiv.org/abs/2611.15287) | arXiv | [project](https://nirvanalan.github.io/projects/track4d) |
 | 2026-11-05 | RGB Video, Feed-Forward 4D, Camera-Frame Object Flow | Carnegie Mellon University | [SM4RT: Cascaded Feed-forward Model for 4D Reconstruction](https://arxiv.org/abs/2611.08436) | arXiv | [project](https://sm4rt-eailab.github.io/) |
 | 2026-11-05 | 4D Reconstruction, Certifiable Optimization, Deformation Graph | Harvard University | [XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902) | arXiv | [project](https://computationalrobotics.seas.harvard.edu/XM4D/) |
 | 2026-10-27 | Event+RGB, Dynamic Pointmaps, MonST3R, 4D Reconstruction | Singapore-MIT Alliance for Research and Technology | [4D Reconstruction with Events & RGB](https://arxiv.org/abs/2610.36610) | arXiv | — |
@@ -1193,6 +1198,7 @@ This section focuses on how 3D perception, reconstruction, and generation transl
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-11 | Incremental 3D Scene Graph, Posed RGB, Privileged Depth | University of Augsburg | [IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision](https://arxiv.org/abs/2611.15429) | arXiv | [project](https://mrunmaivp.github.io/IncR-3DSGG/) |
 | 2026-10-16 | FOUND-IT, Monocular Scene Graph, Change Detection, Mobile Manipulation | MIT | [Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation](https://arxiv.org/abs/2610.23622) | arXiv | — |
 | 2026-09-01 | Hierarchical Temporal 3D Memory, Dynamic Environments, Context Retrieval | Institute of Software, Chinese Academy of Sciences | [HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments](https://arxiv.org/abs/2609.00950) | ECCV 2026 | [paper](https://arxiv.org/abs/2609.00950) |
 | 2026-09-01 | Dynamic 3D Scene Graph, Changing Indoor Scenes, Embodied Agents | Harbin Institute of Technology | [DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments](https://arxiv.org/abs/2609.00619) | arXiv | [paper](https://arxiv.org/abs/2609.00619) |
@@ -1614,6 +1620,7 @@ Reusable annotations over reconstructed scenes for object relations, grounded la
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-12 | Synthetic Residential Scenes, RGB-D, Meshes, Spatial Data | Ranolabs | [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | arXiv | [project](https://ranolabs.github.io/spatial-foundry/) |
 | 2026-10-15 | Executable 3D Code, Articulated Assets, Verification Harness, 2M Reported Programs | University of Southern California | [3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341) | arXiv | [project](https://3dcodeverse.com) / [github](https://github.com/gaoypeng/3dcodeverse) / [dataset](https://huggingface.co/datasets/ilabai/3dcodeverse) |
 | 2026-07-23 | Tabletop Real2Sim, 100K Scenes, ~1M Objects, Manipulation | ByteDance | [TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation](https://arxiv.org/abs/2607.21017) | arXiv | [paper](https://arxiv.org/abs/2607.21017) |
 | 2025-11-10 | Real+Synthetic Urban Point Clouds, Cross-Domain 3D Understanding | Technical University of Munich | [TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding](https://arxiv.org/abs/2511.07007) | 3DV 2026 | [project](https://tum-gis.github.io/TrueCity/) / [github](https://github.com/tum-gis/TrueCity) |
@@ -1639,6 +1646,7 @@ Assets with physical, functional, or multisensory annotations for interaction an
 
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
+| 2026-11-11 | Genie Sim, Sim-to-Real Fidelity, Manipulation | — | [Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation](https://arxiv.org/abs/2611.15020) | arXiv | — |
 | 2026-11-08 | Benchmark, Multi-View Surface, Viewpoint, Lighting | University of Zurich | [Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting](https://arxiv.org/abs/2611.11602) | arXiv | [project](https://martine-benchmark.github.io/) / [dataset and tools](https://github.com/martine-benchmark/martine-dataset) / [evaluation](https://github.com/martine-benchmark/eval-3d) |
 | 2026-10-27 | 3D Scene Generation, Physical Interaction, Simulation Evaluation | University of Western Australia | [ScIntBench: Physical Interaction Plausibility in 3D Scene Generation](https://arxiv.org/abs/2610.37326) | arXiv | [project](https://scintbench.github.io/) |
 | 2026-10-22 | RGraph-Eval, Temporal Scene Graphs, 3D Motion, Robot-Video Evaluation | MIRAI | [RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation](https://arxiv.org/abs/2610.31121) | arXiv | [github (forthcoming)](https://github.com/SashaDance/rgraph-eval) |
