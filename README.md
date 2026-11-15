@@ -740,7 +740,7 @@ Reconstruction systems recover objects or scenes from images, video, RGB-D, or m
 | Date | Keywords | Institute (first) | Paper / Resource | Publication | Others |
 | :--: | :------: | :---------------: | :--------------- | :---------: | :----: |
 | 2026-11-11 | Topo-4DGS, Ego Video, Topological Change | Bocconi University | [Topology-Aware 4D Gaussian Splatting for Egocentric Videos](https://arxiv.org/abs/2611.16012) | arXiv | — |
-| 2026-11-11 | Track4D, Dense 3D Tracking, Video Diffusion | University of Oxford | [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](https://arxiv.org/abs/2611.15287) | arXiv | [project](https://nirvanalan.github.io/projects/track4d) |
+| 2026-11-11 | Track4D, Dense 3D Tracking, Video Diffusion | University of Oxford | [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](https://arxiv.org/abs/2611.15287) | NeurIPS 2026 | [project](https://nirvanalan.github.io/projects/track4d) · [models](https://huggingface.co/yslan/Track4D-2026) |
 | 2026-11-05 | RGB Video, Feed-Forward 4D, Camera-Frame Object Flow | Carnegie Mellon University | [SM4RT: Cascaded Feed-forward Model for 4D Reconstruction](https://arxiv.org/abs/2611.08436) | arXiv | [project](https://sm4rt-eailab.github.io/) |
 | 2026-11-05 | 4D Reconstruction, Certifiable Optimization, Deformation Graph | Harvard University | [XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902) | arXiv | [project](https://computationalrobotics.seas.harvard.edu/XM4D/) |
 | 2026-10-27 | Event+RGB, Dynamic Pointmaps, MonST3R, 4D Reconstruction | Singapore-MIT Alliance for Research and Technology | [4D Reconstruction with Events & RGB](https://arxiv.org/abs/2610.36610) | arXiv | — |
