@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 3314 · **Unique arXiv IDs:** 3314
+**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 3317 · **Unique arXiv IDs:** 3317
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-13 | [TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267) | Daniele Della Pietra, Antonella Rech, Nicola Conci, et al. | cs.GR, cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.18267) / [pdf](https://arxiv.org/pdf/2611.18267) |
+| 2026-11-13 | [MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio](https://arxiv.org/abs/2611.17957) | Zeqiang Wei, Angulia Yang, Min Xu | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.17957) / [pdf](https://arxiv.org/pdf/2611.17957) |
+| 2026-11-13 | [Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2611.17752) | Yan Xing, Zhi Chen, Fanglue Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.17752) / [pdf](https://arxiv.org/pdf/2611.17752) |
 | 2026-11-12 | [Kosmo-GFM: A Production-Ready Geometry Foundation Model](https://arxiv.org/abs/2611.16840) | Sheng Tang, Shengzhe Wei, Tiancheng Chen, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.16840) / [pdf](https://arxiv.org/pdf/2611.16840) |
 | 2026-11-12 | [Reconstruct What You Can: Distractor-free 4D Gaussian Splatting](https://arxiv.org/abs/2611.16259) | Joel Julin, Liuyue Xie, Ananya Bal, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.16259) / [pdf](https://arxiv.org/pdf/2611.16259) |
 | 2026-11-11 | [Topology-Aware 4D Gaussian Splatting for Egocentric Videos](https://arxiv.org/abs/2611.16012) | Leonardo Vanni, Stefano Gasperini, Federico Tombari, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.16012) / [pdf](https://arxiv.org/pdf/2611.16012) |

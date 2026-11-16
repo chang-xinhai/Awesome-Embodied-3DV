@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 3257 · **Unique arXiv IDs:** 3257
+**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 3262 · **Unique arXiv IDs:** 3262
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-13 | [TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267) | Daniele Della Pietra, Antonella Rech, Nicola Conci, et al. | cs.GR, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.18267) / [pdf](https://arxiv.org/pdf/2611.18267) |
+| 2026-11-13 | [Deep Bundle Adjustment](https://arxiv.org/abs/2611.18256) | Pak Hong Chui, Hector Andrade-Loarca, Daniel Cremers | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.18256) / [pdf](https://arxiv.org/pdf/2611.18256) |
+| 2026-11-13 | [EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos](https://arxiv.org/abs/2611.18099) | Hongsen Cao, Shanxin Yuan, Mona Jaber, et al. | cs.CV, cs.AI | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.18099) / [pdf](https://arxiv.org/pdf/2611.18099) |
+| 2026-11-13 | [TelePhysica: Agentic Reconstruction of Physically Interactive Scenes](https://arxiv.org/abs/2611.18078) | Ruiqi Shu, Xufeng Zhan, Yuanzhi Liang, et al. | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.18078) / [pdf](https://arxiv.org/pdf/2611.18078) |
+| 2026-11-13 | [MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio](https://arxiv.org/abs/2611.17957) | Zeqiang Wei, Angulia Yang, Min Xu | cs.CV | Multi-View Geometry | [abs](https://arxiv.org/abs/2611.17957) / [pdf](https://arxiv.org/pdf/2611.17957) |
 | 2026-11-12 | [BrickFlow: Connectivity-Guided Brick Reconstruction](https://arxiv.org/abs/2611.17321) | Peter Kulits, Cordelia Schmid | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.17321) / [pdf](https://arxiv.org/pdf/2611.17321) |
 | 2026-11-12 | [Kosmo-GFM: A Production-Ready Geometry Foundation Model](https://arxiv.org/abs/2611.16840) | Sheng Tang, Shengzhe Wei, Tiancheng Chen, et al. | cs.CV | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.16840) / [pdf](https://arxiv.org/pdf/2611.16840) |
 | 2026-11-12 | [RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5](https://arxiv.org/abs/2611.16472) | Himanshu Patil, Jaideep Joshi, Rohit Saluja, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.16472) / [pdf](https://arxiv.org/pdf/2611.16472) |

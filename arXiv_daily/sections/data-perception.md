@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 1949 · **Unique arXiv IDs:** 1949
+**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 1952 · **Unique arXiv IDs:** 1952
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-13 | [DIRT: Depth-completed Image-based Rendering using Two-band Blending for Live Novel-view Synthesis](https://arxiv.org/abs/2611.18340) | Mathias Harrer, Laura Fink, Noah Lewis, et al. | cs.CV, cs.GR | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.18340) / [pdf](https://arxiv.org/pdf/2611.18340) |
+| 2026-11-13 | [D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms](https://arxiv.org/abs/2611.18243) | Pallabjyoti Deka, Lewis Wilson, Stephen McLaughlin, et al. | eess.IV, cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.18243) / [pdf](https://arxiv.org/pdf/2611.18243) |
+| 2026-11-13 | [Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2611.17828) | Zhijie Wang, Li Zhang, Yujie Chen, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.17828) / [pdf](https://arxiv.org/pdf/2611.17828) |
 | 2026-11-12 | [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | Ethan Lin, Yang Song | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.17318) / [pdf](https://arxiv.org/pdf/2611.17318) |
 | 2026-11-12 | [ElasticDino: Dense Semantic Features Using Elastic Deformations](https://arxiv.org/abs/2611.16984) | Ulysse Mizrahi, Sean Zaretzky, Dov Danon, et al. | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.16984) / [pdf](https://arxiv.org/pdf/2611.16984) |
 | 2026-11-12 | [EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion](https://arxiv.org/abs/2611.16793) | Laiyan Ding, Chongxi Meng, Rui Huang | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.16793) / [pdf](https://arxiv.org/pdf/2611.16793) |

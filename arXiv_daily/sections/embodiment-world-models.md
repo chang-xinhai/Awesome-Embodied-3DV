@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 2811 · **Unique arXiv IDs:** 2811
+**Coverage:** 2025-01-01 to 2026-11-16 · **Papers:** 2816 · **Unique arXiv IDs:** 2816
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-13 | [Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders](https://arxiv.org/abs/2611.18365) | Pierre-Jean Lorentz, Pascal Egli, Edo Jelavic, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.18365) / [pdf](https://arxiv.org/pdf/2611.18365) |
+| 2026-11-13 | [Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation](https://arxiv.org/abs/2611.18298) | Zihao Lu, Trong Gia Hung Nguyen, Fuquan Wang, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.18298) / [pdf](https://arxiv.org/pdf/2611.18298) |
+| 2026-11-13 | [Joint World Action Models through Differentiable Trajectory Optimization](https://arxiv.org/abs/2611.17626) | Mintae Kim, Koushil Sreenath | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.17626) / [pdf](https://arxiv.org/pdf/2611.17626) |
+| 2026-11-13 | [TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real](https://arxiv.org/abs/2611.17619) | Huiwen Han, Nuo Chen, Ziyao Zeng, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.17619) / [pdf](https://arxiv.org/pdf/2611.17619) |
+| 2026-11-12 | [Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum](https://arxiv.org/abs/2611.17529) | Konstantinos Mylonas, Thrasyvoulos Spyropoulos | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.17529) / [pdf](https://arxiv.org/pdf/2611.17529) |
 | 2026-11-12 | [Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects](https://arxiv.org/abs/2611.16742) | Kazuma Ikeda, Kotaro Oishi, Ryosei Hara, et al. | cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2611.16742) / [pdf](https://arxiv.org/pdf/2611.16742) |
 | 2026-11-12 | [Rethinking Actions: Continuity-Aware Priors for World-Model Planning](https://arxiv.org/abs/2611.16645) | Shaobo Yang, Zichen Ai, Ziyang Ma, et al. | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.16645) / [pdf](https://arxiv.org/pdf/2611.16645) |
 | 2026-11-12 | [BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU](https://arxiv.org/abs/2611.16422) | Fuyi Chen | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.16422) / [pdf](https://arxiv.org/pdf/2611.16422) |

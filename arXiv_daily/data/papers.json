@@ -1,6 +1,625 @@
 {
   "schema_version": 1,
   "papers": {
+    "2611.18365": {
+      "arxiv_id": "2611.18365",
+      "title": "Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders",
+      "abstract": "Automation of heavy machinery offers the opportunity to improve productivity in mechanized industries such as construction, mining, and material handling. Yet, automation of such machines is challenged by their complex dynamics, in part because of hydraulic actuation that involves fluids, flexible elements, and nonlinear delays. A concomitant challenge is the size and weight of these machines, which can make experiments on the physical systems exceedingly dangerous. Here, we show that \\ac{RL} in simulation, followed by transfer of the learned policies from simulation to reality, can successfully automate acrobatic maneuvers that push a heavy construction machine to the limits of its actuation and have only previously been accomplished by a small number of elite human operators in official world-record performances. We trained policies that perform autonomous acrobatic maneuvers on a John Deere 332G, an operational 5-tonne skid-steer loader. The policies can autonomously swing the machine up onto two wheels and, while balancing on two wheels, drive over rough terrain, trace out specified trajectories, spin around, and swing the bucket back and forth before landing it safely back onto four wheels. This work demonstrates that \\ac{RL} and sim-to-real transfer enable dynamic autonomous control of heavy machinery, directly contributing to greater automation in heavy equipment sectors. Videos: https://sites.google.com/leggedrobotics.com/heavy-metal-acrobatics This is the author's version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in Science Robotics on 11 November 2026, DOI: https://doi.org/10.1126/scirobotics.aef0894",
+      "authors": [
+        "Pierre-Jean Lorentz",
+        "Pascal Egli",
+        "Edo Jelavic",
+        "Cliff Li",
+        "Ramitha Sundar",
+        "Harikrishnan Suresh",
+        "Paul Montgomery",
+        "Lee Redden",
+        "Matthias Müller",
+        "Ozan Sener",
+        "Vladlen Koltun",
+        "Marco Hutter"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": "P.-J. Lorentz, P. Egli, E. Jelavic, C. Li, R. Sundar, H. Suresh, P. Montgomery, L. Redden, M. Müller, O. Sener, V. Koltun, M. Hutter, Heavy metal acrobatics: Learning dynamic control for skid-steer loaders. Sci. Robot. 11, eaef0894 (2026)",
+      "doi": "10.1126/scirobotics.aef0894",
+      "url": "https://arxiv.org/abs/2611.18365",
+      "pdf_url": "https://arxiv.org/pdf/2611.18365",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.18340": {
+      "arxiv_id": "2611.18340",
+      "title": "DIRT: Depth-completed Image-based Rendering using Two-band Blending for Live Novel-view Synthesis",
+      "abstract": "State-of-the-art novel-view synthesis (NVS) methods commonly require per-scene optimization before rendering, limiting their applicability in live settings. Live or ad-hoc NVS, however, demands low-latency rendering during capture and strong generalization to new scenes. Some previous work tried to address this task by adapting training- and optimization-based methods, trading quality for low latency. We introduce a live NVS approach following traditional image-based rendering that operates on a posed set of depth sensor observations and images. Our method leverages explicit, sparse point-based geometry obtained from active sensors, resulting in a sparsely filled depth buffer that is completed in the (novel) target view's screen-space. Using this proxy, a posed set of images is projected into the target frame before fusing the resulting observations through a frequency-aware two-band blending strategy. The pipeline is entirely non-neural and optimization-free, requiring no training data or scene-specific optimization. As a result, our approach reduces the delay between capture and novel-view rendering and does not rely on favorable network generalization. We validate the method's applicability to heterogeneous sensor setups - including handheld RGB-D cameras, automotive LiDAR, and thermal cameras - as well as challenging scenarios, such as low light captures. Our experiments demonstrate that the approach outperforms prior methods in live reconstruction scenarios, while maintaining competitive performance in conventional NVS benchmarks.",
+      "authors": [
+        "Mathias Harrer",
+        "Laura Fink",
+        "Noah Lewis",
+        "Paul Himmler",
+        "Tim Weyrich"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": "8 pages main paper + 2 pages of references + 9 pages supplementary material",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18340",
+      "pdf_url": "https://arxiv.org/pdf/2611.18340",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
+        ]
+      }
+    },
+    "2611.18298": {
+      "arxiv_id": "2611.18298",
+      "title": "Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation",
+      "abstract": "Vision-language models (VLMs) have shown strong semantic and spatial reasoning capabilities in 3D environments. Recently, connecting VLMs with model-predictive controllers (MPC) has emerged as a paradigm for combining strong semantic reasoning with physics-based planning. However, connecting these two for contact-rich robotic manipulation requires a task representation that bridges the two and captures how physical interactions can be reasoned by VLMs. In this work, we introduce Objectives as Policies (OaP), a framework that connects a pretrained VLM to a shared sampling-based MPC through an editable objective program. Each program specifies a sequence of stages for completing a task, combining running and terminal costs from a cost library with stage completion conditions. Given a natural-language task instruction and scene observation, we build a simulation-based digital twin through real-to-sim, and the VLM generates an objective program that is executed by the MPC in the simulation. The program is iteratively updated by the VLM based on MPC rollouts, before being deployed in the real world. We evaluate our framework in both simulation and the real world on four tabletop manipulation tasks, and show that it outperforms strong baselines. Additional videos and examples are available on the project website: https://zihaolu001.github.io/oap-project/",
+      "authors": [
+        "Zihao Lu",
+        "Trong Gia Hung Nguyen",
+        "Fuquan Wang",
+        "Yifan Zhu"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "8 pages, 3 figures. Project website: https://zihaolu001.github.io/oap-project/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18298",
+      "pdf_url": "https://arxiv.org/pdf/2611.18298",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.18267": {
+      "arxiv_id": "2611.18267",
+      "title": "TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields",
+      "abstract": "Implicit and explicit representations of geometry are central in computer graphics applications and come with their pros and cons. With surface sampling being faster on explicit representations and spatial queries being faster on implicit representations, finding efficient conversions between them is a highly desirable property. We present TetraCoder, a single resolution hash-free adaptive tetrahedral encoding that links an explicit tetrahedral spatial encoder with an underlying implicit signed distance field (SDF). The resulting hybrid implicit-explicit space is continuous piecewise affine (CPWA) by design, allowing to obtain an exact correspondence between the implicit SDF and the explicit analytic mesh. TetraCoder's design comes with additional perks, in particular: (a) it scales better than multi-resolution encoding methods due to its single resolution optimizable grid, (b) unlike hash-based methods, it is not affected by collisions, (c) it enables fast tetrahedral ray-tracing, geometry and appearance editing, directly through its adaptive tetrahedral scaffold. We demonstrate the versatility of TetraCoder by showing an improvement over state-of-the-art methods on multiple tasks: 2D/3D fitting from images and point clouds, 3D novel view synthesis, 3D reconstruction, and geometry/appearance editing.",
+      "authors": [
+        "Daniele Della Pietra",
+        "Antonella Rech",
+        "Nicola Conci",
+        "Nicola Garau"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.GR",
+      "categories": [
+        "cs.GR",
+        "cs.CV"
+      ],
+      "comment": "8 pages, 4 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18267",
+      "pdf_url": "https://arxiv.org/pdf/2611.18267",
+      "query_sources": [
+        "reconstruction-and-mapping",
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Neural Implicit / SDF"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.18256": {
+      "arxiv_id": "2611.18256",
+      "title": "Deep Bundle Adjustment",
+      "abstract": "We present \\textbf{DeepBA} (\\textbf{Deep} \\textbf{B}undle \\textbf{A}djustment), a graph neural network (GNN) that recovers camera poses, intrinsics, and scene structure from 2D matches across an arbitrary number of views. Rather than solving a non-linear least-squares problem per scene, DeepBA amortizes bundle adjustment into a learned graph network that iteratively refines its estimate from geometric residuals. Where classical SfM computes its updates analytically and needs careful initialization, DeepBA learns them and converges from a cold start. It is trained with scale-invariant supervision (ground-truth rotation, translation direction, and intrinsics, plus reprojection self-consistency), so datasets with arbitrary metric units can be mixed without per-scene normalization. DeepBA is decoupled from the matcher. At 2.04M parameters, it outperforms prior learned SfM from matches on scene reconstruction and on most pose metrics, is competitive with classical SfM at moderate accuracy thresholds and overtakes it in wall time as the view count grows, and approaches monolithic image-to-geometry transformers such as VGGT ($\\sim$1.2B parameters) with greater modularity. Project~page: https://cphjsn.github.io/deep-ba/",
+      "authors": [
+        "Pak Hong Chui",
+        "Hector Andrade-Loarca",
+        "Daniel Cremers"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "15 pages, 13 figures, 6 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18256",
+      "pdf_url": "https://arxiv.org/pdf/2611.18256",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.18243": {
+      "arxiv_id": "2611.18243",
+      "title": "D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms",
+      "abstract": "Single-photon LiDAR (SPL) sensors offer exceptional temporal resolution and single-photon sensitivity for depth imaging. However, cost-effective SPL arrays typically suffer from extremely low spatial resolutions (e.g. $8\\times 8$ pixels), limiting their real-world utility. In this paper, we propose a novel, one-step super-resolution framework, D2ToF, Distilled Diffusion for Time-of-Flight, that bridges the gap between high-fidelity generative modeling and real-time execution. Our approach uses an amortized variational distillation strategy that allows for a measurement-based data consistency term to be incorporated directly into the one-step training objective. This encourages that the synthesized high-resolution depth maps are consistent with the captured low-resolution Time-of-Flight (ToF) histograms. To overcome the severe ill-posedness of upsampling extremely degraded inputs, we introduce a multimodal guidance strategy. By leveraging a foundational monocular depth model to extract structural priors from a high-resolution reflectivity image, our network is guided by a rich triad of the ToF histogram, reflectivity map, and relative depth estimate. Experimental results outperform evaluated baselines, achieving $16\\times$ spatial super-resolution (from $8\\times 8 \\times 100$ histograms to $128\\times 128$ depth maps) at an accelerated inference speed of approximately $83$ milliseconds.",
+      "authors": [
+        "Pallabjyoti Deka",
+        "Lewis Wilson",
+        "Stephen McLaughlin",
+        "Jonathan Leach",
+        "Abderrahim Halimi"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "eess.IV",
+      "categories": [
+        "eess.IV",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18243",
+      "pdf_url": "https://arxiv.org/pdf/2611.18243",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Active Imaging"
+        ]
+      }
+    },
+    "2611.18099": {
+      "arxiv_id": "2611.18099",
+      "title": "EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos",
+      "abstract": "Feed-forward multi-view transformers such as VGGT recover the cameras and geometry of a video in one pass, but the cost of their cross-frame attention grows quadratically with the frame count, and their accuracy drops on long videos. Most remedies approximate attention over all frames within a budget or select a few keys by their content. We hypothesize that the keys of a long video can be chosen without looking at its content, and our experiments on VGGT and $π^3$ support it: a few dozen evenly spread frames can serve as the keys of every frame. We present EcoVGGT, a training-free inference framework whose keys form a Pinned Key Set of 31 such frames. A pin pass stores their tokens in a Scene Cache, and the other frames read it in independent batches that reproduce joint inference with these keys exactly, at a constant cost per frame. An Online Stream updates the pinned frames during recording. Six middle global blocks align the frames and form a reusable VGGT module: the Alignment Score reads their attention to flag failures, and Alignment Refocusing reduces them by fine-tuning only these blocks (3.6 GPU hours). EcoVGGT ($π^3$) matches the success rate of $π^3$ on 1,000-frame ScanNet videos at 13.8 times its speed. With refocusing, EcoVGGT (VGGT) raises the success rate of VGGT from 70% to 82% at 8.5 times its speed on 500 frames. EcoVGGT reconstructs 4,000 frames on one GPU, and EcoVGGT ($π^3$) streams 1,000 frames at 18.6 frames per second with the lowest online absolute trajectory error.",
+      "authors": [
+        "Hongsen Cao",
+        "Shanxin Yuan",
+        "Mona Jaber",
+        "Ahmed Sayed"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18099",
+      "pdf_url": "https://arxiv.org/pdf/2611.18099",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2611.18078": {
+      "arxiv_id": "2611.18078",
+      "title": "TelePhysica: Agentic Reconstruction of Physically Interactive Scenes",
+      "abstract": "Direct image-to-video diffusion models entangle pixel synthesis with implicit latent motion, precluding persistent 3D mechanical equilibrium, mid-rollout intervention, and counterfactual force control. Conversely, single-pass programmatic 3D reconstruction from an uncalibrated photograph leaves monocular depth and support clearance underconstrained, causing reconstructed scenes to interpenetrate or collapse under gravity. We present TelePhysica, a closed-loop framework that reconstructs an executable, multi-regime physical world from a single photograph to drive stateful 3D interaction and trajectory-grounded video synthesis. A vision-language coding agent synthesizes separable visual meshes and declarative physical models within a two-stage verification loop that pairs pixel-aligned silhouette critique with a zero-force gravitational equilibrium preflight. The verified world compiles into a unified solver coupling rigid bodies, articulated chains, co-dimensional cloth shells, and 3D tetrahedral elastodynamics, whose simulated rollouts condition pretrained video diffusion models through pixel-aligned structural streams. On a 100-scene single-image benchmark, closed-loop execution raises equilibrium-verified world recovery from $0\\%$ in single-pass synthesis to $81\\%$. Controlled constitutive ablations show over an order-of-magnitude larger localized corner displacement and out-of-plane pleating in finite-element cloth than in matched rigid-plate proxies. Conditioning video diffusion on simulated trajectories increases dynamic motion-mask overlap by $2{\\times}\\text{--}5{\\times}$ and preserves motion direction under counterfactual force reversals where direct image-to-video models fail.",
+      "authors": [
+        "Ruiqi Shu",
+        "Xufeng Zhan",
+        "Yuanzhi Liang",
+        "Haibin Huang",
+        "Chi Zhang",
+        "Xuelong Li"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "Ongoing Work. Homepage: https://interactive4d.vercel.app/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18078",
+      "pdf_url": "https://arxiv.org/pdf/2611.18078",
+      "query_sources": [
+        "depth-and-sensing",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.17957": {
+      "arxiv_id": "2611.17957",
+      "title": "MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio",
+      "abstract": "Arbitrary-scale light field spatial super-resolution reconstructs high-resolution views at any requested scale from low-resolution multi-view observations. Gaussian primitives enable continuous reconstruction, but generating separate primitive sets for each view redundantly encodes shared scene structure across views and causes the primitive count grow linearly with the number of views. To avoid such redundancy, we propose MacroGS, a feed-forward decoder that jointly predicts a single shared Gaussian set per macro pixel rather than generating separate sets for each view. Disparity-dependent replacement and angle-conditioned appearance allow each set to be reused across all output views, keeping the predicted primitive count independent of the number of views at each requested scale. The decoder iteratively predicts per-primitive disparities, retrieves the corresponding multi-view features, and updates the primitive states. Gaussian splatting and residual refinement then reconstruct the output light field. Despite being learned without geometric supervision, the predicted disparities strongly correlate with underlying scene geometry. Experiments across five benchmarks demonstrate that MacroGS integrates effectively with diverse light field encoders, improving reconstruction quality at fixed scales while achieving leading performance across most evaluated arbitrary-scale settings. The decoder also achieves speedups of approximately $2$-$10\\times$ over state-of-the-art implicit light field decoders and $10$-$18\\times$ over the view-wise Gaussian baseline.",
+      "authors": [
+        "Zeqiang Wei",
+        "Angulia Yang",
+        "Min Xu"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "11 pages, 5 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17957",
+      "pdf_url": "https://arxiv.org/pdf/2611.17957",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ],
+        "reconstruction": [
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2611.17828": {
+      "arxiv_id": "2611.17828",
+      "title": "Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation",
+      "abstract": "With the rising demand for edge devices, lightweight self-supervised monocular depth estimation methods have continued to evolve; however, existing methods generally suffer from poor accuracy. We find that the root cause may lies in the failure of conventional training regimes to fully exploit the inherent potential of lightweight models. To address this, we propose a novel three-phase training strategy for lightweight self-supervised monocular depth estimation, termed Signal Scaffolding (SS). Without introducing any additional dataset or parameters, we apply SS to ReForgeDepth, a lightweight network of our own design. Experiments on the KITTI and Cityscapes datasets demonstrate that our method achieves state-of-the-art performance in the accuracy-efficiency trade-off and running in real time on edge devices. These results suggest that lightweight models can be improved further within their existing capacity, and that the central question may be less about how parameters are allocated than about how to unlock this latent potential through training.",
+      "authors": [
+        "Zhijie Wang",
+        "Li Zhang",
+        "Yujie Chen",
+        "Shibiao Deng",
+        "Xin Gao",
+        "Houzhi Zhou",
+        "Jiangshuo Zhang"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17828",
+      "pdf_url": "https://arxiv.org/pdf/2611.17828",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2611.17821": {
+      "arxiv_id": "2611.17821",
+      "title": "SceneAgent: A Multi-Agent Framework for Portable Game Scene Generation",
+      "abstract": "Moving a scene generator to a new game engine requires more than exporting its final output: planning, construction tools, and stored experience may also depend on the original backend. We present SceneAgent, a multi-agent framework for reusing the construction process and its experience across backends. A canonical SceneContext maintains the evolving world, while backend adapters isolate coordinate conventions, asset bindings, and export. Structured handoffs let fresh Builder sessions query this persistent state without inheriting the full construction transcript. Across generations, human-approved traces are distilled into asset-ID-free Layout skills and semantic Content skills that can be retrieved and recombined. We introduce GameSceneBench, comprising 69 indoor and outdoor prompts. Under a common asset and evaluation protocol, SceneAgent obtains human tie-adjusted preference scores of 78.2-89.4% against five baselines. Ablations show that reusable skills and the multi-agent protocol primarily improve prompt alignment and scene completeness, with additional runtime. Deployment in a second engine preserves the shared construction protocol and skill library while replacing backend integration components. Together, these results support separating persistent scene state, task-local reasoning, and reusable experience for portable scene construction.",
+      "authors": [
+        "Xingyi Li",
+        "Jiahao Yang",
+        "Yiqin Zhu",
+        "Jingwen Ye",
+        "Yang Sun",
+        "Weidong Zhang"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "Project page: https://xingyi-li.github.io/sceneagent/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17821",
+      "pdf_url": "https://arxiv.org/pdf/2611.17821",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Scene / World Generation"
+        ]
+      }
+    },
+    "2611.17797": {
+      "arxiv_id": "2611.17797",
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "abstract": "Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectural coupling introduces a fundamental bottleneck. Agent performance remains strictly bounded by internal perceptual limitations. Furthermore, text-only agents lack native perception. Without specialized tools, they cannot perform visual reasoning. To overcome these constraints, we introduce the Vision-as-a-Tool (VaaT) paradigm. Prior visual tool-use merely manipulates images for an agent's intrinsic vision to read. In contrast, VaaT reframes general-purpose multimodal large language models (MLLMs) as callable external utilities. As a result, text-only agents can completely offload visual reasoning during agentic execution. Meanwhile, vision-capable agents can dynamically augment their native perception on demand. We instantiate this paradigm in VHarness, a unified framework driven by five atomic actions. We comprehensively evaluate VHarness across Image-to-HTML, Image-to-SVG, and Image-to-3D generation tasks. Experimental results demonstrate that VHarness consistently improves visual fidelity and geometric accuracy across both text-only and multimodal coding agents. These findings highlight that modularizing visual reasoning into callable utilities provides a flexible and scalable foundation for future agentic coding systems.",
+      "authors": [
+        "Haolin Yang",
+        "Wenshan Wu",
+        "Jin Jiang",
+        "Yu Cheng",
+        "Yan Xia",
+        "Ting Song",
+        "Yangyu Huang",
+        "Zhiliang Peng",
+        "Wenhui Wang",
+        "Hangbo Bao",
+        "Yuzhe Zhang",
+        "Wen-Da Wei",
+        "Tengchao Lv",
+        "Li Dong",
+        "Lei Cui",
+        "Furu Wei"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "comment": "27 pages, including references and appendices. Project page: https://vision-as-a-tool.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17797",
+      "pdf_url": "https://arxiv.org/pdf/2611.17797",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Image / Text-to-3D"
+        ]
+      }
+    },
+    "2611.17752": {
+      "arxiv_id": "2611.17752",
+      "title": "Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting",
+      "abstract": "Sparse-view 3D Gaussian Splatting (3DGS) is prone to overfitting because only a limited number of images are available to constrain scene geometry. Dropout is one regularization strategy for alleviating this problem. We introduce the concept of a lineage family to describe a set of Gaussian primitives derived from the same founder through cloning or splitting operations. The founder Gaussians refer to all Gaussian primitives generated during initialization. Descendants within the same family often jointly contribute to the refinement of adjacent local regions. However, dropping individual Gaussians can be less effective due to the compensation effect from neighboring Gaussians for the dropped ones. To address this issue, we propose Stage-wise Lineage-aware Dropout(SLD), which applies lineage-family dropout during the structural regularization stage and switches to individual dropout during the later refinement stage. We further propose Lineage-Balanced Densification(LBD), which operates during densification by constructing an expanded candidate pool and reallocating the densification budget according to the mean gradient scores and existing descendant sizes of different families. Experiments on the LLFF, MipNeRF360, and Blender datasets show that the proposed framework achieves competitive performance in sparse-view reconstruction",
+      "authors": [
+        "Yan Xing",
+        "Zhi Chen",
+        "Fanglue Zhang",
+        "Junhong Zhao",
+        "Bing Xue",
+        "Mengjie Zhang"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "11 pages, 9 figures, 7 tables, including supplementary material",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17752",
+      "pdf_url": "https://arxiv.org/pdf/2611.17752",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2611.17720": {
+      "arxiv_id": "2611.17720",
+      "title": "Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads",
+      "abstract": "End-to-end autonomous driving is predominantly evaluated through ego-vehicle safety and task completion. Its deployment in urban traffic, however, creates sustained interactions among vehicles whose collective effects remain insufficiently evaluated. We introduce Ego2Flow, a closed-loop benchmark for assessing the traffic-system impact of autonomous driving on maps distilled from real-world cities. To construct realistic 3D urban environments for sustained closed-loop traffic simulation, we develop an agent-guided map distillation framework that integrates real-world maps and observations with complementary geographic information. Through an iterative feedback mechanism and a traffic information graph that jointly guide scene generation, the framework preserves lane topology, critical road geometry and decision-relevant visual conditions while simplifying nonessential details and completing unobserved regions. Using our proposed framework, we generate and publicly release six CARLA maps from the Argoverse 2 dataset, covering the corresponding real-world regions and enabling paired comparisons of driving behavior under real and simulated observations. On these maps, Ego2Flow evaluates how autonomous driving policies affect traffic efficiency, safety, stability and energy consumption across diverse road structures. Compared with existing construction methods, our framework achieves the lowest average displacement error between planning outputs from paired real and simulated observations. We further benchmark representative driving policies to characterize their system-level impact on urban traffic. Project Page: https://github.com/Fisher-007/Ego2Flow.",
+      "authors": [
+        "Yu Dong",
+        "Weiying Shen",
+        "Hangyu Li",
+        "Shu Han",
+        "Hong Li",
+        "Xiangbo Gao",
+        "Keshu Wu",
+        "Zhengzhong Tu",
+        "Soyoung Ahn",
+        "Zhiyuan Liu",
+        "Xiaopeng Li"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17720",
+      "pdf_url": "https://arxiv.org/pdf/2611.17720",
+      "query_sources": [
+        "generation-and-assets"
+      ],
+      "topics": [
+        "generation"
+      ],
+      "matches": {
+        "generation": [
+          "Scene / World Generation"
+        ]
+      }
+    },
+    "2611.17626": {
+      "arxiv_id": "2611.17626",
+      "title": "Joint World Action Models through Differentiable Trajectory Optimization",
+      "abstract": "Joint world action models (WAMs) generate future actions and states together, modeling world-action trajectories rather than actions alone. However, trajectory imitation does not ensure that these trajectories are task-effective or consistent with dynamics. We present \\textbf{world action trajectory optimization (WATO)}, which optimizes generated actions and future states jointly for control. WATO uses both as references in a dynamics-constrained trajectory optimization problem and differentiates the task loss through the optimized trajectory to train the generator. This makes generated trajectories task-aware and dynamics-consistent while using trajectory optimization only during training. At deployment, WATO directly generates candidate trajectories and ranks them with a world model, without iterative trajectory optimization. Across $7$ visual control environments, WATO improves average success from $79.9\\%$ for the imitation joint WAM to $91.7\\%$, outperforming strong model-based, goal-conditioned RL, and generative control baselines. Compared with cross-entropy method (CEM), WATO is on average $11.5\\times$ faster and uses $600.5\\times$ fewer world model evaluations at deployment.",
+      "authors": [
+        "Mintae Kim",
+        "Koushil Sreenath"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "comment": "29 pages, 6 figures, 14 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17626",
+      "pdf_url": "https://arxiv.org/pdf/2611.17626",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.17619": {
+      "arxiv_id": "2611.17619",
+      "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+      "abstract": "Human demonstrations are becoming the main source of data for dexterous manipulation, and real-to-sim-to-real pipelines multiply each demonstration in simulation. These pipelines rebuild the interaction from vision, which recovers how the hand moves. Which fingers touch, when, and how hard remain unobserved, because a hand pose shows where each finger stops on the surface rather than how far it is driven to close. This gap is a force gap: on held-out recordings, a hand policy that imitates the observed pose grips with 0.31x the recorded force, and a policy trained on physics replays of vision-tracked poses grips with 1.55x. TouchTwin closes the gap with measured human touch. Each selected TouchScale recording, captured with head and wrist RGB-D cameras and an 880-taxel glove, is rebuilt in MuJoCo. Coding agents write the objects as physics-tested programs, and a per-subject tactile hand replays the interaction with the recorded touch setting the contact and the closing force of each finger. In simulation, a policy trained on touch-grounded replays grips at 0.99x the recorded force and succeeds in 20/20 trials on held-out recordings and 35/36 unseen perturbations; a contact predictor trained on them misses 13% of real contact frames, against 32% for vision-based replays. Each replay also seeds perturbed demonstrations with simulated contact and force labels, rendered as realistic video in new views and scenes.",
+      "authors": [
+        "Huiwen Han",
+        "Nuo Chen",
+        "Ziyao Zeng",
+        "Dayou Li",
+        "Hao Wang",
+        "Amir Hossein Rahmati",
+        "Xiaoning Qian",
+        "Bangya Liu",
+        "Zhiwen Fan"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17619",
+      "pdf_url": "https://arxiv.org/pdf/2611.17619",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.17529": {
+      "arxiv_id": "2611.17529",
+      "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+      "abstract": "Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) between embeddings from a pretrained visual encoder can provide a useful signal near a goal, yet favor states across an obstacle that are visually similar to the goal and difficult to reach. We fit a small residual adapter on top of frozen I-JEPA embeddings to improve this latent goal cost. Starting near each goal, a planner collects trajectories from progressively wider regions of initial states. The adapter learns from the order of observations along successful trajectories, with additional comparisons inferred from failed rollouts. No task-specific progress labels are used for fitting, so the procedure can be applied to other goal-reaching tasks. DotWall and PointMaze are used in this work. In paired 50-case evaluations with identical starts, goals, world models, and planner settings, success increases from 54% to 98% in DotWall and from 82% to 96% in PointMaze. On 16 unseen DotWall layout-goal cases, the adapter fitted on one fixed layout improves agreement between latent-cost ordering and shortest legal-path ordering from 71.9% to 85.8%. The results indicate that planning experience can improve a frozen visual representation's goal cost without retraining the encoder or the world model.",
+      "authors": [
+        "Konstantinos Mylonas",
+        "Thrasyvoulos Spyropoulos"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.17529",
+      "pdf_url": "https://arxiv.org/pdf/2611.17529",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
     "2611.17321": {
       "arxiv_id": "2611.17321",
       "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
@@ -7087,10 +7706,10 @@
         "Nailin Wang",
         "Lei Zhao",
         "Guole Shen",
-        "Weidong Che"
+        "Weidong Chen"
       ],
       "published": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-13",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -386011,6 +386630,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-11-16",
-  "paper_count": 10333,
-  "generated_at": "2026-11-16T00:31:06+00:00"
+  "paper_count": 10350,
+  "generated_at": "2026-11-16T12:21:47+00:00"
 }
