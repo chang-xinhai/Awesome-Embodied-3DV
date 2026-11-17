@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 577 · **Unique arXiv IDs:** 577
+**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 580 · **Unique arXiv IDs:** 580
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-16 | [IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes](https://arxiv.org/abs/2611.21126) | Yifei Tong, Ziyang Huang, Yizhao Han, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.21126) / [pdf](https://arxiv.org/pdf/2611.21126) |
+| 2026-11-16 | [XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://arxiv.org/abs/2611.20452) | Nico Bohlinger, Jan Peters | cs.RO, cs.LG | Simulator / Toolchain | [abs](https://arxiv.org/abs/2611.20452) / [pdf](https://arxiv.org/pdf/2611.20452) |
+| 2026-11-15 | [See the Lives of Stars in a Handful of Light](https://arxiv.org/abs/2611.20089) | Shuhong Liu, Gengjia Chang, Quanfeng Xu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.20089) / [pdf](https://arxiv.org/pdf/2611.20089) |
 | 2026-11-11 | [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) | Yuzhe Chen, Muxi Diao, Lele Yang, et al. | cs.CV, cs.AI | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.15789) / [pdf](https://arxiv.org/pdf/2611.15789) |
 | 2026-11-11 | [ChartGalaxy++: A Richly Annotated Dataset for Chart Understanding and Generation](https://arxiv.org/abs/2611.15418) | Duan Li, Zheng Wang, Jiangning Zhu, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.15418) / [pdf](https://arxiv.org/pdf/2611.15418) |
 | 2026-11-10 | [Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States](https://arxiv.org/abs/2611.13581) | Bowen Deng, Gwang-Jin Jeong, Seulgi Noh, et al. | cs.CV, q-bio.NC | Dataset | [abs](https://arxiv.org/abs/2611.13581) / [pdf](https://arxiv.org/pdf/2611.13581) |

@@ -1,6 +1,1110 @@
 {
   "schema_version": 1,
   "papers": {
+    "2611.21517": {
+      "arxiv_id": "2611.21517",
+      "title": "Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models",
+      "abstract": "Long-horizon manipulation tasks require a robot to perform a sequence of physical interactions with its environment, typically combining several different skills. Planning such behaviors efficiently is challenging: given a library of parameterized skills, solutions lie in a vast hybrid space of skill sequences and their parameters, and evaluating each candidate skill's feasibility and effect with a high-fidelity world model such as a physics simulator is computationally expensive. MOSAIC, a recent skill-centric approach, lets the skills guide a non-sequential search toward the regions of this space where they are likely to succeed; however, it pays the full cost of simulation for every parameterized skill it considers. In this work, we introduce Lazy-MOSAIC, a lazy planning framework that instead searches over hypothesized skill outcomes. A cheap learned skill-effect world model predicts, in a fraction of a millisecond, a skill's feasibility and the world state it produces. Lazy-MOSAIC then uses these predictions to focus expensive simulation on promising candidate skills and, when a hypothesis is invalidated, repairs only the affected part of the search, while ensuring that every skill in a returned plan is validated in simulation. We evaluate Lazy-MOSAIC on cluttered-shelf retrieval tasks of increasing difficulty and demonstrate it on a physical robot, showing that it plans substantially faster than baselines with fewer simulator queries, while matching or exceeding their success rate in every setting. Visit skill-mosaic.github.io.",
+      "authors": [
+        "Itamar Mishani",
+        "Mukund Krishnakumar",
+        "Oren Salzman",
+        "Maxim Likhachev"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "comment": "Under review",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21517",
+      "pdf_url": "https://arxiv.org/pdf/2611.21517",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.21479": {
+      "arxiv_id": "2611.21479",
+      "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "abstract": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous hand movements into coherent visual responses remains challenging because of complex hand-object dynamics and demanding real-time computation. To address these challenges, we introduce LynnReal-Hand, a hand-controlled video world model that unifies precise interaction modeling with efficient streaming generation. We curate 100K interaction clips spanning diverse real and synthetic environments and develop hand-aware supervision to improve fine-grained hand motions and object interactions. Building on this foundation, we learn a causal flow map for few-step generation and introduce region-aware score distillation that combines complementary video and image priors to refine interaction dynamics and visual appearance. To further reduce inference latency, we propose Ultra-Fast-VAE, a compact video decoder that preserves high reconstruction fidelity with substantially lower computational cost. Extensive evaluations on HandBench demonstrate superior hand-following accuracy and visual quality compared with existing approaches. Our full-sequence model achieves an FVD of 181.67 and a MANO Dice score of 93.02, while the three-step causal model maintains a MANO Dice score of 92.49. For real-time interaction, 540p streaming on a single H200 reaches 18.03 FPS with 741ms latency and an optimized peak GPU memory footprint of only 34.89GB. We will release the datasets, model weights, and the full training and inference code to support research on hand-controlled video world models.",
+      "authors": [
+        "Shaohao Rui",
+        "Chaoyang Zhang",
+        "Xiaofeng Mao",
+        "Weijie Ma"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21479",
+      "pdf_url": "https://arxiv.org/pdf/2611.21479",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.21365": {
+      "arxiv_id": "2611.21365",
+      "title": "Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data",
+      "abstract": "Today, state-of-the-art methods for quality control (QC) are based on Machine Vision, combining deep learning (DL) models with camera-based inspection. Yet, the integration of such solutions in industrial applications is often impeded by data sparsity and trust in model reliability. While synthetic data offers a promising approach to generate the necessary data with perfect annotations, it poses risks related to performance degradation due to the possible occurrence of the sim-to-real gap. This study conducts experiments using the ensemble method to estimate the predictive uncertainty of DL models trained on synthetic data. The results show that predictive uncertainty increases under the sim-to-real domain shift. However, the observed performance drop is dominated by a systematic sim-to-real bias rather than by ensemble disagreement.These findings contribute to the effective utilization of synthetic data in industrial settings while highlighting the importance of risk assessment for the deployment of DL solutions for QC tasks.",
+      "authors": [
+        "Alexander Moriz",
+        "Lukas Krebs",
+        "Amon Göppert",
+        "Robert H. Schmitt"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "A Preprint",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21365",
+      "pdf_url": "https://arxiv.org/pdf/2611.21365",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.21302": {
+      "arxiv_id": "2611.21302",
+      "title": "Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating",
+      "abstract": "Event cameras keep capturing structure where conventional cameras blur or saturate, which makes them attractive for 3D perception in fast or poorly lit scenes. Event datasets with dense 3D ground truth, however, are far smaller and less diverse than the image collections behind feed-forward 3D reconstruction models. We present Déjà-Events, an event-only model that predicts depth, camera pose and pointmaps from multiple views in a single forward pass. Rather than relying on scarce 3D labels, we distil it from Déjà View, a feed-forward RGB model that refines its tokens by repeatedly applying one shared transformer block. On paired RGB and event recordings, the event student learns to reproduce the frozen teacher's final tokens, which requires no depth or pose ground truth and trains only about 1% of its parameters. Because events are dense at edges and moving texture but nearly absent in textureless regions, we further introduce sparsity-aware adaptive gating, which adapts the shared block's gates to events and adjusts them per patch by event density, so that accuracy holds as refinement steps are added. Trained only on simulated data, Déjà-Events achieves the lowest pointmap error among the event-based methods we evaluate, on EventScape and zero-shot on the real MVSEC and DSEC datasets. On DSEC it halves the error of the strongest baseline (0.15 vs. 0.30 AbsRel) with about a tenth of its parameters. It also has the lowest depth error on EventScape and DSEC and the lowest trajectory error on EventScape.",
+      "authors": [
+        "Arda Cinar Demirtas",
+        "Pablo Varela Bernal",
+        "Marc Pollefeys",
+        "Sunghwan Hong"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": "8 pages, 6 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21302",
+      "pdf_url": "https://arxiv.org/pdf/2611.21302",
+      "query_sources": [
+        "embodied-world-models",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Multi-View Geometry"
+        ]
+      }
+    },
+    "2611.21143": {
+      "arxiv_id": "2611.21143",
+      "title": "WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning",
+      "abstract": "Human manipulation data are widely used to train robots for human-like dexterity. However, low-cost, large-scale collection in the wild remains challenging. Existing methods remain limited in geometrically grounded metric-scale reconstruction, real-world generalization and inference speed. We present WinDEX, integrating (1) geometric-temporal optimization for metric 3D hand annotation from in-the-wild egocentric stereo videos, combined with visual-inertial SLAM for world-frame reconstruction; (2) WinDEX-Net, an end-to-end, fisheye-native network combining calibrated stereo, local detail and temporal context, with a data-model flywheel of model-assisted annotation and retraining; (3) distilled models for offline reconstruction and causal streaming, supporting reinforcement learning and teleoperation; and (4) low-cost CyberCap stereo-inertial capture, forming the WinDEX-Hand dataset with 1,000 hours of training annotations and held-out human-annotated in-the-wild 2D and independent optical motion-capture evaluation sets. Offline reconstruction runs at 43.61 FPS and causal streaming at 171 FPS. On held-out data, offline reconstruction achieves state-of-the-art accuracy: 14.5 pixels in-the-wild reprojection error and, with visual-inertial odometry, 37.29 mm world-frame joint error. We achieve 7.6 and 3.6 times the task success rates of reinforcement learning policies trained with WiLoR and HaWoR motion references, respectively, and demonstrate real-time arm-hand teleoperation. Project website: https://fruitrabbit.github.io/WinDEX/.",
+      "authors": [
+        "Hongyu Ma",
+        "Hairong Qu",
+        "Shiqi Zhao",
+        "Yongsong Yang",
+        "Kai Shi",
+        "Jiahao Ai",
+        "Xin You",
+        "Peng Yin"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21143",
+      "pdf_url": "https://arxiv.org/pdf/2611.21143",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "data_perception",
+        "reconstruction"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ],
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.21126": {
+      "arxiv_id": "2611.21126",
+      "title": "IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes",
+      "abstract": "Feed-forward 4D driving-scene reconstruction enables efficient modeling of dynamic autonomous-driving scenes, but current methods suffer from two complementary failure modes: semantic leakage of traffic participants into the static representation and geometric drift of Gaussian locations across viewpoints. We propose \\textbf{IGRecon4D}, a feed-forward dynamic scene reconstruction framework that addresses these failures with training-time instance-prior distillation and LiDAR-anchored Gaussian positioning. Specifically, an instance-level semantic branch provides a potentially dynamic participant prior, which is distilled into dynamic-mask learning through the Instance-Dynamic Consistency Constraint to encourage high-recall localization of traffic-participant regions prone to dynamic-static leakage. In parallel, sparse LiDAR measurements guide dense depth estimation, and the resulting depths are back-projected to anchor Gaussian positions for improved multi-view geometric consistency. Experiments on the Waymo Open Dataset and zero-shot evaluation on nuScenes demonstrate improved full-image reconstruction on the main benchmark and stronger traffic-participant-region reconstruction under cross-dataset evaluation.",
+      "authors": [
+        "Yifei Tong",
+        "Ziyang Huang",
+        "Yizhao Han",
+        "Xiaoxiao Long",
+        "Hao Zhu"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21126",
+      "pdf_url": "https://arxiv.org/pdf/2611.21126",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "data_perception",
+        "reconstruction",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ],
+        "reconstruction": [
+          "Feed-Forward Geometry",
+          "Object / Scene Reconstruction",
+          "Dynamic Reconstruction"
+        ],
+        "datasets_infrastructure": [
+          "Dataset",
+          "Benchmark / Metric"
+        ]
+      }
+    },
+    "2611.20788": {
+      "arxiv_id": "2611.20788",
+      "title": "VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly",
+      "abstract": "Image-to-3D foundation models have improved 3D reconstruction, but typically produce monolithic representations without explicit part-level structure. Part-aware generation and learning-based assembly methods often require part-level supervision, category-specific priors, or paired part-layout training data. We instead consider a practical but underexplored setting in which independently prepared or generated 3D parts have no predefined inter-part relationships, shared coordinate frames, or consistent scales, and must be assembled into a reference-consistent object from a single image. We present VA-Assembly, a training-free framework for 3D part assembly through part-level transformation estimation using view-aligned diffusion guidance. Given a reference image and fixed 3D part geometries, VA-Assembly optimizes each part's translation, rotation, and scale. We condition a frozen view-conditioned diffusion model on same-view renderings of a reference-derived monolithic 3D representation, producing score gradients geometrically aligned with the part configuration. This guidance provides multi-view structural cues under large initial misalignment. By repurposing pretrained visual-structural priors as transformation-level supervision, VA-Assembly requires no annotated part layouts, predefined part taxonomies, category-specific assembly training, or bounding-box-based layout initialization. Experiments compare VA-Assembly with geometric registration and compositional layout baselines using each baseline's supported transformation components, showing improved part-wise transformation estimation. Ablation studies show that view-aligned conditioning, rather than diffusion guidance alone, is critical for reliable transformation gradients. Updating only part transformations preserves explicit component separability and supports component-level editing, replacement, and reconfiguration.",
+      "authors": [
+        "Yeon-Jae Kim",
+        "Sangwon Kang",
+        "Byung-Kwon Min"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "16 pages, 9 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20788",
+      "pdf_url": "https://arxiv.org/pdf/2611.20788",
+      "query_sources": [
+        "generation-and-assets",
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction",
+        "generation"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ],
+        "generation": [
+          "Image / Text-to-3D",
+          "Part / Articulated Asset"
+        ]
+      }
+    },
+    "2611.20703": {
+      "arxiv_id": "2611.20703",
+      "title": "Efficient Multi-View Generation with Iterative Global-Local Proxy Attention",
+      "abstract": "Generating consistent multi-view RGB images and normal maps from a single input image provides complementary appearance and geometric cues for 3D reconstruction. However, maintaining cross-view consistency requires information exchange across viewpoints, and dense cross-view attention becomes computationally expensive as the number of views and spatial resolution increase. In this paper, we propose Global-Local Proxy Attention (GLPA) to reduce cross-view communication costs while preserving fine-grained within-view processing. Specifically, GLPA retains full-resolution interactions within each view and uses compact global proxies for cross-view communication. To further leverage the exchanged information, GLPA incorporates iterative proxy refinement, which rebuilds the proxies from updated features and reuses the same attention parameters for subsequent interactions within a single denoising step. We evaluate GLPA on two structurally different diffusion backbones, FLUX and Stable Diffusion. Experiments on FLUX show that GLPA achieves a $2.65\\times$ speedup in attention computation per denoising step over dense attention, while improving reconstruction IoU from 0.6849 to 0.7019 and reducing NVS LPIPS from 0.086 to 0.076. Results on Stable Diffusion further demonstrate the effectiveness of GLPA, with a $1.80\\times$ attention speedup and improvements across all five quality metrics.",
+      "authors": [
+        "Wei Tan",
+        "Kunming Luo",
+        "Hongyu Yan",
+        "Yu Zhang",
+        "Zihao Zhang",
+        "Xiatian Zhu",
+        "Lei Xie"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "10 pages, 6 figures, 5 tables. Supplementary material is available as an ancillary file",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20703",
+      "pdf_url": "https://arxiv.org/pdf/2611.20703",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.20570": {
+      "arxiv_id": "2611.20570",
+      "title": "OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark",
+      "abstract": "LiDAR place recognition provides the loop closures of Simultaneous Localization and Mapping(SLAM). Perspective from Z-axis, a gravity-aligned scan is an orthographic map of the scene, and a revisit from another position and heading moves this map rigidly in the plane, a motion that a polar Fourier spectrum ignores and phase correlation recovers. Along the vertical, the heights of the returns describe the structures, but which heights are observed depends on the range, because the sensor's vertical field of view cuts nearby structures low; height thus misleads a global key, yet is decisive once two scans are aligned and compared cell by cell where they overlap. We present \\method, a training-free method built on one principle: two LiDAR scans can only be compared through features computed from the same geometric surfaces in both scans. \\method retrieves candidates with a translation- and rotation-invariant polar spectrum of the bird's-eye view (BEV), 1.9,KB per keyframe, and verifies each candidate by estimating its planar pose through phase correlation and scoring it with \\emph{point-anchored height columns}: every BEV cell keeps a 16-bit mask of the heights of its own returns; within a session, the score is weighted by the expected overlap of the two scans' sensing ranges, computed from their distance. We show that this vertical link pays off in verification but hurts in retrieval, where what a height slice contains depends on the range to the structure. For single robot, \\method has the highest AP of the training-free methods without 3D registration on the KITTI development sequences; across robots, on all multi-robot sequences, it matches or exceeds RING++ at 1/350 of its descriptor size and closes more inter-robot loops than the learned BEVPlace++ on all tests.",
+      "authors": [
+        "Haichuan Li"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20570",
+      "pdf_url": "https://arxiv.org/pdf/2611.20570",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.20568": {
+      "arxiv_id": "2611.20568",
+      "title": "sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry",
+      "abstract": "This report describes our submission to the 2026 Hilti-Trimble SLAM Challenge. The system is a 360-camera visual-inertial pipeline that uses only the provided dual-fisheye image streams and IMU measurements. First, raw images are preprocessed with low-light enhancement and static/dynamic masking, and then fed into a $\\sqrt{\\text{VINS}}$ frontend as the local odometry, with deep learning-based SuperPoint features, ELSED line segments, and LightGlue matching. The resulting trajectory is refined using a GTSAM-based backend that performs tightly-coupled factor graph optimization with SALAD global descriptor and visual bundle adjustment (BA). The backend performs local-to-global structureless BA, tightly regularized intrinsic and extrinsic refinement, and global scale adjustment supported by the known inter-camera baseline and cross-view constraints. The design targets long indoor sequences with dark regions, repetitive corridors, dynamic objects, and limited geometric parallax, while keeping the pipeline reproducible in the provided ROS2 workspace. Fig. 1 demonstrates that our proposed method aligns well with the floorplan across several indoor sequences.",
+      "authors": [
+        "Jungwoo Lee",
+        "Hogyun Kim",
+        "Jiwon Choi",
+        "Jinyong Jeong",
+        "Younggun Cho"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "2026 Hilti x Trimble SLAM Challenge at ICRA 2026 (2nd Place in the SLAM Category)",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20568",
+      "pdf_url": "https://arxiv.org/pdf/2611.20568",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "data_perception",
+        "reconstruction"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ],
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.20502": {
+      "arxiv_id": "2611.20502",
+      "title": "Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery",
+      "abstract": "Three-dimensional reconstruction can extend field phenotyping to individual maize organs, but thin, flexible, occluding structures and plant movement complicate reconstruction. We evaluated whether consumer-grade UAV RGB video processed with Structure from Motion and multi-view stereo could recover recognizable field-grown maize structures, and examined the effects of acquisition trajectories and frame sampling. COLMAP reconstructions preserved recognizable leaves, stems, tassel branches, ears, silks, and brace roots. For an equal-frame comparison, we reconstructed one plant from two sets of 295 frames from the same video: a single orbit sampled at 5 frames/second and three orbits at different altitudes (ribbon skirt) sampled at 2 frames/second. After ground removal, the reconstructions contained 520,601 and 375,318 points, respectively. The single orbit yielded greater point concentration within plant structures and fewer visible gaps, while the ribbon skirt yielded fewer scattered points and slightly lower proportions of isolated points. In densely planted nursery rows, visible voids occupied 17.57% of the rendered scene with one orbit at 1 frame/second, decreasing to 5.07% with additional serpentine passes and 2.68% when the original orbit was sampled at 3 frames/second. Additional observations also increased point dispersion associated with plant movement. A curlicue trajectory tested in a different field in 2024 produced distinguishable individual plants without visible duplicated structures, although substantial voids remained, mainly on the soil surface. These results demonstrate the feasibility of recovering recognizable maize organs from consumer UAV imagery and reveal trade-offs between acquisition strategies, reconstruction completeness, and point dispersion. Independent geometric validation is still needed before quantitative phenotyping.",
+      "authors": [
+        "Dewi Endah Kharismawati",
+        "Toni Kazic"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": "26 pages, 8 figures, submitted to Frontiers in Plant Science",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20502",
+      "pdf_url": "https://arxiv.org/pdf/2611.20502",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.20452": {
+      "arxiv_id": "2611.20452",
+      "title": "XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute",
+      "abstract": "We present XMimic and XSoma, which learn humanoid motion tracking and locomotion on rough terrain in under a minute of training. Both follow SuperMimic, which learns a world model of the robot and optimizes the policy with analytic gradients through short rollouts imagined in this model. Existing implementations of this method do not make use of larger GPUs, as every training iteration is a long chain of small GPU operations that run one after another. XMimic and XSoma therefore shorten this chain and run the steps of every iteration at the same time on up to four GPUs. We compile the complete training loop with JAX, including the MuJoCo Warp simulator. For locomotion, XSoma leaves only the dynamics of the robot to the world model and computes everything else exactly, including the terrain height under the feet. It learns with a horizon of one second and without a critic. On four H100 GPUs, XMimic learns to track all 40 LAFAN1 clips with the Unitree G1 in 0.86 minutes, 3.7 times faster than BlinkMimic on one GPU. XSoma reaches the tracking target that Holosoma's tests set for FastSAC in 0.77 minutes, 12.3 times faster than FastSAC on one GPU, while needing only an eighth of its environment steps.",
+      "authors": [
+        "Nico Bohlinger",
+        "Jan Peters"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20452",
+      "pdf_url": "https://arxiv.org/pdf/2611.20452",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ],
+        "datasets_infrastructure": [
+          "Simulator / Toolchain"
+        ]
+      }
+    },
+    "2611.20321": {
+      "arxiv_id": "2611.20321",
+      "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
+      "abstract": "Vision-based navigation systems for orbit must be trained almost entirely on synthetic imagery, because real labelled images of a given spacecraft in flight rarely exist. Benchmarks like SPEED+ are built for that situation: the training set comes from a simulator, and the test sets are real images of a satellite mockup under two kinds of lighting. That simulator approximates how light reflects off mylar and aluminium, and like every scientific simulator it is misspecified. Its error is radiometric, since it misses the specular highlights, hard shadows and sensor saturation common in real images. We probe the resulting synthetic-to-real gap, the central risk for such systems, with a deliberately simple monocular pose estimator. In a 2x2 study of backbone adaptation and photometric augmentation, trained on synthetic images and tested on both real hardware-in-the-loop domains, we find three things. (1) The model does not know it is failing: regions conformally calibrated to 90% on synthetic data cover only 9-15% of rotation errors on sunlamp and 21-38% on lightbox, so a wrong pose carries the confidence of a correct one. (2) Transfer is asymmetric: scaling data and features improved synthetic rotation error from 1.65 to 1.03 rad but moved the harshly lit sunlamp domain by only 0.05 rad, under twice its seed s.d., whereas adapting the backbone's last stage carried 63-83% of its extra synthetic gain to both real domains. (3) Once the backbone adapts, augmentation helps only in the direction it models: our photometric stack improved the diffusely lit lightbox domain from 1.17 to 0.99 rad on every seed but moved sunlamp no more than seed-to-seed variation, while with the backbone frozen it helped sunlamp more. Every post-review experiment was pre-registered, and the code, per-image predictions and pre-registration record are at https://github.com/lokindoo/spacecraft-pose-estimation.",
+      "authors": [
+        "Nikolay Dolgov"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "comment": "22 pages, 5 figures, 20 tables. Extended version of a paper at the Sim2Science workshop, NeurIPS 2026. Code, per-image predictions and pre-registration record: https://github.com/lokindoo/spacecraft-pose-estimation",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20321",
+      "pdf_url": "https://arxiv.org/pdf/2611.20321",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "data_perception",
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "data_perception": [
+          "Transparent / Specular"
+        ],
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.20202": {
+      "arxiv_id": "2611.20202",
+      "title": "DAPPT: Domain-Aware Policies from Procedural Trajectories for Sim-to-Real Dexterous Tool Use",
+      "abstract": "Sim-to-real RL has achieved impressive results in dexterous manipulation but remains limited to tasks with accurate rigid-body simulation. However, these methods cannot be applied to skills that involve deformable and particles, with which the simulation speed will become too slow for large-scale RL learning. We present DAPPT, a sim-to-real framework for end-to-end dexterous tool-use manipulation skills, e.g., sand scooping, play-dough rod-rolling, without simulating non-rigid materials. Our method learns a domain-aware RL policy by tracking procedural trajectories parameterized by domain parameters, and distills it into an end-to-end domain-aware sensorimotor policy. Furthermore, explicit domain represen-tation enables fast selection of domain parameters that can maximize downstream task performance. We evaluate DAPPT end-to-end on six dexterous manipulation tasks, including sand scooping, play-dough rod-rolling, sand scraping, mouse-wheel scrolling, dispenser pressing, and spray triggering. Our method achieves 1.5-3.8x in task metrics through the best domain parameter and transfers zero-shot to the real world.",
+      "authors": [
+        "Beining Han",
+        "Jia Deng"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20202",
+      "pdf_url": "https://arxiv.org/pdf/2611.20202",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.20107": {
+      "arxiv_id": "2611.20107",
+      "title": "SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving",
+      "abstract": "An autonomous vehicle must foresee the consequences of its actions, especially in the rare, time-critical situations where crashes happen. A world model offers this foresight, but only within the coverage of its training data, which poses an exploration-exploitation dilemma. Within this coverage a planner can hardly improve on the data, and beyond it the model's errors mislead it. Logs of competent driving rarely contain the failures that would widen the coverage, and agents that learn from interaction gain them only by failing themselves, without being shown what to do instead. We propose SAFER, a framework that learns offline from failures that others make, judged by an expert, and keeps learning online from its own driving. Offline, partially trained agents and scripted, recoverable perturbations Stage failures in simulation, and an expert Annotates every visited state with its action and value, so that much of what the planner explores is covered before it drives. In planning, a chunked latent world model Foresees the consequences fast enough for real-time use, and a risk-aware sampling-based planner Evaluates candidate maneuvers by their return minus a bounded collision penalty. Online, a loop continuously Refines the model wherever this driving leaves the coverage of the offline data. In closed-loop evaluation against the compared methods, SAFER reaches the highest route completion and reward per step on the CARLA Leaderboard routes, 0.95 and 0.77 from a privileged bird's-eye view, and the highest episode reward in MetaDrive, 53.4 in regular and 49.0 in safety-critical traffic. Project page: https://ys-qu.github.io/safer-website.",
+      "authors": [
+        "Yansong Qu",
+        "Zilin Huang",
+        "Zihao Sheng",
+        "Sikai Chen",
+        "Samuel Labi"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20107",
+      "pdf_url": "https://arxiv.org/pdf/2611.20107",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.20090": {
+      "arxiv_id": "2611.20090",
+      "title": "Latent World Modeling for Point-Cloud Video Pretraining",
+      "abstract": "Masked modeling is the dominant self-supervised paradigm for point-cloud videos. However, it leaks the information it is meant to predict, whether it reconstructs masked points as in MAE-style methods or predicts their latent features. Because point-cloud tokens are anchored at points sampled from each frame, querying a target at its own position reveals where its geometry has moved, in reconstruction and latent prediction alike. For latent predictors, random spatio-temporal masks introduce a further shortcut, as visible frames on both sides of each target allow interpolation rather than forecasting. The pretext task thus reduces to completion. Once the target positions are withheld, a masked latent predictor performs only slightly better than copying the last frame. To remove this leakage, we propose PointWM, a latent world model that turns completion into forecasting by predicting the features and geometry of future frames from strictly earlier context. Each target is queried only with its last-seen position and timestamp, while a latent action learned without annotations is meant to capture the part of the future that the past leaves undetermined. On HOI4D action segmentation with a P4Transformer backbone, PointWM improves F1@50 over training from scratch by 24.9 offline and 29.1 under strictly causal inference. These results show the promise of latent world models as a leakage-free pretraining paradigm for point-cloud videos.Our code is publicly available at https://github.com/InitalZ/PointWM.",
+      "authors": [
+        "Zhuoyue Zhang",
+        "Jian Liu",
+        "Jihua Zhu",
+        "Ajmal Saeed Mian"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20090",
+      "pdf_url": "https://arxiv.org/pdf/2611.20090",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.20089": {
+      "arxiv_id": "2611.20089",
+      "title": "See the Lives of Stars in a Handful of Light",
+      "abstract": "Galaxies evolve over hundreds of millions of years, and no telescope has ever watched one move. Cosmological simulations make this evolution visible as a sequence of multi-view images, inviting the question of whether a galaxy can be recovered in four dimensions from its images. This setting defeats existing dynamic scene methods, since millions of stars span only a few pixels each, faint populations blend into diffuse light, and free deformations reproduce the images without obeying gravity. We present Cosmos4D, which rests on two components. Gravitational 4D Gaussian Splatting represents each star as a self-luminous Gaussian whose motion is integrated through a gravitational potential and a low-dimensional force field shared by all stars. Luminosity-stratified dynamics give bright stars individual orbits supervised across image scales and carry faint populations with a velocity field estimated from optical flow. We further build a 4D dataset of eight galaxies from four cosmological simulations, on which Cosmos4D outperforms dynamic Gaussian baselines in both photometric quality and physical accuracy. With these advancements, we glimpse eight hundred million years of a galaxy's life in ninety-six frames.",
+      "authors": [
+        "Shuhong Liu",
+        "Gengjia Chang",
+        "Quanfeng Xu",
+        "Ziteng Cui",
+        "Qianyu Zhou",
+        "Xiaoyu Dong",
+        "Lin Gu",
+        "Tatsuya Harada"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20089",
+      "pdf_url": "https://arxiv.org/pdf/2611.20089",
+      "query_sources": [
+        "datasets-and-infrastructure"
+      ],
+      "topics": [
+        "representation",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Dynamic / 4D"
+        ],
+        "datasets_infrastructure": [
+          "Dataset"
+        ]
+      }
+    },
+    "2611.20025": {
+      "arxiv_id": "2611.20025",
+      "title": "acuSimNet: Multi-View Self-Occlusion-Awared Visibility Learning for Cranio-Cervical Acupuncture Points",
+      "abstract": "The localization of acupuncture points (acupoints) in Traditional Chinese Medicine (TCM) presents unique challenges since they are defined by abstract principles rather than distinct anatomical landmarks. Existing approaches are typically constrained to single view or rely on indirect calculations of relative positions with respect to other landmarks, thereby overlooking human anatomical variations. Furthermore, acupoint visibility assessment, which determins whether points are occluded by human itself, hair, clothing, or other objects, has received limited attention in practical applications. Acupoint localization itself does not require 3D reconstruction, but inferring their occlusion relationships with anatomical surfaces does, which adds computational cost and limits real-time inference. In this work, we introduce acuSimNet, an efficient hierarchical multi-task learning architecture for multi-view, self-occlusion-aware visibility prediction of acupoints, achieving 99.97% accuracy on the validation set. Our approach also addresses the challenges of high-dimensional classification (174 acupoints in cervicocranial region), negative convergence issues for visible acupoints, and inter-task scheduling optimization, resulting in substantially accelerated convergence. We improved the training efficiency from the exisiting methods of 3000 epochs to achieve 99% validation accuracy, to our optimized framework achieving 90% accuracy in 39 epochs and 99% accuracy in 86 epochs. This architecture overcomes the limitations of existing methods, could enable practical applications in acupoints detection and visualization, advancing the automation of TCM.",
+      "authors": [
+        "Jiatao Ma",
+        "Qilei Sun"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "19 pages, 6 figures, 3 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20025",
+      "pdf_url": "https://arxiv.org/pdf/2611.20025",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.19857": {
+      "arxiv_id": "2611.19857",
+      "title": "PanDWM: Panoramic 4D Driving World Models",
+      "abstract": "Driving world models usually generate videos from six pinhole cameras with separate optical centres and small overlaps, and must learn to keep these views consistent. We present PanDWM, which stitches them into one $360^\\circ$ panoramic band. Camera boundaries then fall inside one image, so keeping the views consistent means keeping the image continuous, and each pixel still records its camera ray. Conditioned on layouts, a causal student generates the band window by window in four steps; it is distilled from a causal teacher and trained on its own rollouts. A feed-forward decoder lifts each frame along these rays into 3D Gaussians, and static Gaussians from neighbouring frames complete them into 4D scenes. On nuScenes, scored in one stitched $360^\\circ$ view, PanDWM has lower FID and FVD than the multi-camera baselines at $8$-$46\\times$ their speed, and keeps its 50-step teacher's FID while lowering FVD by 22-25%.",
+      "authors": [
+        "Jiajun Sun",
+        "Zeyu Zhang",
+        "Zeyu Ren",
+        "Guangfeng Jiang",
+        "Yang Zhao",
+        "Hao Tang"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Code: https://github.com/AIGeeksGroup/PanDWM, Website: https://aigeeksgroup.github.io/PanDWM",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19857",
+      "pdf_url": "https://arxiv.org/pdf/2611.19857",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
+    "2611.19830": {
+      "arxiv_id": "2611.19830",
+      "title": "Beyond Vehicle-Centric Data: Scaling Autonomous Driving through Roadside-to-Vehicle Generation",
+      "abstract": "Training autonomous driving models requires large and diverse datasets, collected primarily by vehicles. Scaling them entails investment in fleet operation, data processing and annotation. Road infrastructure records traffic and multi-vehicle interactions, yet the viewpoint gap between roadside and onboard sensors limits its direct use for training. Here we introduce AnyR2V, a framework that transforms multimodal roadside observations into seven-camera surround-view videos for different vehicle perspectives. It aggregates sequential observations into a shared scene representation of geometry and road-user motion, then renders appearance, depth and layout conditions along target-vehicle trajectories. Supervised by spatiotemporally aligned roadside-vehicle pairs, AnyR2V generates surround-view videos guided by scene structure and road-user motion. Existing roadside 3D bounding boxes are transformed into target-vehicle coordinates and paired with generated images, allowing one traffic recording and its annotations to yield training data from multiple vehicle perspectives. We construct R2V360, a dataset of 89 real traffic sequences at an urban intersection, with aligned multimodal roadside data and onboard surround-view videos. AnyR2V outperforms six scene reconstruction methods in image fidelity and in depth and semantic agreement between generated and real onboard images. We further evaluate generated videos along other vehicles' trajectories by adding them to real training data. Adding generated frames equal to 50% of the original real training frame count improves mean average precision (mAP) by 3.3-3.4 AP-points across three 3D object detectors on the real onboard test set, relative to real-data-only baselines. These results demonstrate that roadside traffic records can provide training data from multiple vehicle perspectives, offering a new data source for autonomous driving.",
+      "authors": [
+        "Yichen Zhang",
+        "Zihan Wang",
+        "Hao Chen",
+        "Runyi Huang",
+        "Ruixue Zong",
+        "Jing Wang",
+        "Yunong Mao",
+        "Lei He",
+        "Keqiang Li"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19830",
+      "pdf_url": "https://arxiv.org/pdf/2611.19830",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.19773": {
+      "arxiv_id": "2611.19773",
+      "title": "SemLite-GS: Semantic-Selective Parallel Gaussian Splatting for Lightweight Building Reconstruction from UAV Oblique Imagery",
+      "abstract": "Lightweight 3D building models support urban spatial analysis, but their production often requires dense scene reconstruction, building extraction, and mesh simplification. Although 3D Gaussian Splatting (3DGS) is more efficient than conventional multi-view stereo, existing large-scale methods lack semantic selection and parallel instance-level training. We present SemLite-GS, a building-centric framework that reconstructs lightweight building meshes from large-scale UAV oblique imagery. First, an orthographic reference map establishes globally consistent building identities, which are propagated to oblique views to form camera-instance pairs and regions of interest. Second, semantic-selective parallel PGSR training jointly processes multiple pairs within relevant image regions while updating only target Gaussians; contextual Gaussians remain fixed to preserve visibility. Third, architectural planes extracted from rendered depth, opacity, and normal maps guide signed distance field optimization, producing meshes with adaptive polygon allocation and well-defined structural boundaries. Experiments on multiple large-scale UAV datasets demonstrate that our SemLite-GS substantially reduces building reconstruction time compared with representative full-scene 3DGS methods. With comparable polygon budgets, SemLite-GS achieves superior preservation of dominant planar structures and sharp architectural transitions compared with conventional dense reconstruction followed by mesh decimation. The source code is available at https://github.com/IRIS-LAB-whu/SemLite-GS.",
+      "authors": [
+        "Tengfei Wang",
+        "Xin Wang",
+        "Zihan Li",
+        "Quanjian Ji",
+        "Yifei Yu",
+        "Dong Lin",
+        "Zongqian Zhan"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19773",
+      "pdf_url": "https://arxiv.org/pdf/2611.19773",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "representation",
+        "reconstruction"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Neural Implicit / SDF"
+        ],
+        "reconstruction": [
+          "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.19771": {
+      "arxiv_id": "2611.19771",
+      "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+      "abstract": "Joint-embedding predictive architecture (JEPA) world models predict future embeddings instead of pixels and plan in latent space. Two challenges remain: 2D images leave the metric geometry that manipulation acts on implicit and entangled with appearance, and what these models imagine stays hidden, as they are mostly judged in simulation by short-horizon latent planning. We present JEPA4R, a JEPA world model that observes single-depth-camera point clouds, predicts and plans in their latent space, and acts through a policy head on its frozen latents; we call this 4D point planning. A decoder on the frozen world model shows what it imagines as 4D point clouds, with a mean point error within 1.1 cm over 200 steps. Under the policy-learning protocols of OGBench and CortexBench, JEPA4R leads pixel JEPA models on OGBench Cube-Single, Cube-Double, Cube-Triple and Scene, and ranks first on MetaWorld and Adroit Relocate with 98.4% and 88.0%, above the runner-up, R3M, at 96.0% and 65.3%. Trained only in a digital twin, JEPA4R and its policy heads run zero-shot on the real arm with both a gripper and a dexterous hand.",
+      "authors": [
+        "Jiarui Dong",
+        "Zhiheng Liang",
+        "Yanjun Li",
+        "Zeyu Zhang",
+        "Heejeong Nam",
+        "Haoyu Chen",
+        "Hao Tang"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "Code: https://github.com/AIGeeksGroup/JEPA4R, Website: https://aigeeksgroup.github.io/JEPA4R",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19771",
+      "pdf_url": "https://arxiv.org/pdf/2611.19771",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.19765": {
+      "arxiv_id": "2611.19765",
+      "title": "M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions",
+      "abstract": "Water--land cross-domain robots require continuous localization across land, transition and underwater phases, where sensor characteristics and availability change abruptly. Existing datasets and conventional metrics are not designed to capture transition-induced degradation and failures. We present \\textbf{M-CROSS}, to the best of our knowledge, the first multisensor simulation dataset and benchmark for SLAM across continuous water--land transitions. It provides synchronized LiDAR, sonar, stereo camera, IMU, DVL, and depth measurements; 6DoF pose ground truth; sensor-wise medium-state annotations; and medium-dependent sensor degradation models. We establish a transition-aware protocol comprising the Trajectory Completion Rate (TCR), Piecewise Absolute Pose Error (PW-APE), Transition End Error (TEE), and Transition Survival Period (TSP), which measure trajectory completion, single-domain accuracy, transition-induced error, and localization survival under prolonged partial immersion, respectively. Experiments with 6 representative SLAM systems show that existing methods fail to maintain both localization accuracy and trajectory continuity across the full set of water--land transitions, exhibiting transition-induced drift, trajectory discontinuities, and tracking failures. M-CROSS is publicly available https://anonymous.4open.science/r/MCross-Dataset",
+      "authors": [
+        "Yan Dong",
+        "Tianyi Wu",
+        "Junyu Yang",
+        "Shaoqiang Qiu",
+        "Zefeng Yan",
+        "Tao Zhang",
+        "Bin Han"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "Submitted to ICRA 2027",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19765",
+      "pdf_url": "https://arxiv.org/pdf/2611.19765",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.19720": {
+      "arxiv_id": "2611.19720",
+      "title": "Sim-to-Real Room-Mediated Object-Goal Navigation with ROS 2 and Nav2",
+      "abstract": "Although object-goal navigation (ObjectNav) approaches are usually evaluated in simulation, which offers scale and repeatable environments, real-world deployments are rarely examined beyond feasibility demonstrations. This paper presents the deployment of Room-Mediated Co-occurrence, an ObjectNav policy that reasons over Room Probability Vectors (RPVs), on two robotic platforms (Boston Dynamics Spot and Clearpath Robotics TurtleBot 4) through a robot-agnostic ROS 2 bridge. We study how these semantic priors generalise to physical environments and describe the adaptations required to transfer RPV from simulation to hardware, covering sensing, localisation, and the action interface. Across 66 trials on Spot, searching for 11 object categories from two starting positions in a university postgraduate research facility, RPV achieves a raw Success Rate (SR) of 0.455. Our analysis identifies undetected glass walls, entry into off-limits areas, limited usable depth range, target size, and mismatch between the room lexicon and physical layout as plausible contributors to the 8.4 percentage-point gap between the real-world SR and the reported simulated SR of 0.539. Code is available at https://github.com/Matthew-K-Chua/rpv-ros2-bridge.",
+      "authors": [
+        "Matthew Chua",
+        "Adam Scicluna",
+        "Gavin Paul"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "9 pages. Accepted to ACRA (Australasian Conference on Robotics and Automation) 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19720",
+      "pdf_url": "https://arxiv.org/pdf/2611.19720",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.19616": {
+      "arxiv_id": "2611.19616",
+      "title": "Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots",
+      "abstract": "Reinforcement learning (RL) enables robots to acquire complex skills, but standard RL formulations do not guarantee that learned policies satisfy safety constraints, which limits their use in safety-critical settings. Existing safe RL methods with provable guarantees typically support only restricted classes of constraints and require unbiased estimators of the objective and constraint functions, which prevents their direct integration with state-of-the-art algorithms such as proximal policy optimization (PPO). In this paper, we extend the recently introduced robust safe gradient flow-based reinforcement learning (RSGF-RL) framework to overcome these limitations. Our formulation accommodates a general class of trajectory-level safety constraints, including chance constraints such as collision avoidance with a prescribed probability, and our analysis allows for biased value and gradient estimators. We show that, with high probability, the constraint violation throughout training is bounded by the estimator bias plus a term that vanishes as the number of rollouts grows, and decays to this level if the initial policy is unsafe. We also establish the convergence properties of the iterates to approximate KKT points of the original safe RL problem. Finally, we show that RSGF-RL implemented with PPO-style estimates enables zero-shot sim-to-real deployment of whole-body control policies on a Unitree G1 humanoid and collision-free waypoint navigation on a Crazyflie drone.",
+      "authors": [
+        "Pol Mestres",
+        "Varun Gabbita",
+        "Jason H. K. Siu",
+        "Sergio A. Esteban",
+        "Hampus Serneke",
+        "Joel W. Burdick",
+        "Aaron D. Ames"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "eess.SY"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19616",
+      "pdf_url": "https://arxiv.org/pdf/2611.19616",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.19466": {
+      "arxiv_id": "2611.19466",
+      "title": "Successive Convexification in Learned World Models for Safe Offline Planning",
+      "abstract": "World models learned from offline data allow an agent to plan without further interaction with the environment, but the sampling-based planners used with them handle safety constraints only by scoring or rejecting sampled action sequences. We instead pose safe planning in the latent space of a learned world model as a successive convex program (SCP), in which a learned discrete-time control barrier function is imposed as a constraint at every step of the horizon. SCP requires smooth dynamics, so we build the networks from smoothed MaxMin activations and spectrally normalised layers, and bound the resulting linearisation error in terms of the Lipschitz bound and the smoothing width. As SCP is a local method, we start it from a sampled plan. On two Safety-Gymnasium navigation tasks with offline data, this planner has fewer violations than MPPI and CEM drawing 128 times as many samples at equal wall-clock time in our main comparison, though not significantly, and earns greater return at longer horizons, and is much safer than SCP without a sampled start. SCP converged more often on Lipschitz-bounded models. Unlike sampling, it also reports at each step whether its plan is a feasible, first-order optimal KKT point of the planning problem in the model, or that no feasible plan was found nearby. Our implementation is publicly available at https://github.com/youngers2006/scwm.",
+      "authors": [
+        "Samuel Younger"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.RO",
+        "eess.SY"
+      ],
+      "comment": "28 pages, 13 figures. Under review at L4DC 2027",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19466",
+      "pdf_url": "https://arxiv.org/pdf/2611.19466",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.19429": {
+      "arxiv_id": "2611.19429",
+      "title": "Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting",
+      "abstract": "Open-vocabulary 3D understanding aims to localize and segment arbitrary objects beyond predefined categories. However, existing approaches based on Gaussian Splatting often rely on expensive preprocessing and lengthy training, limiting their applicability when fast and lightweight solutions are desired. We propose a lightweight, training-free framework for query-driven 3D instance segmentation on Gaussian Splatting. Instead of conventional mask-wise CLIP embeddings, we use dense pixel-level CLIP features to preserve fine-grained semantic information and enable flexible text-driven localization without relying on predefined instance proposals. Given a text query, we identify a high-quality target region in a carefully selected pivot view and propagate it across views using a video segmentor, providing consistent and comprehensive coverage of the target instance. We then lift the resulting 2D tracklets to 3D Gaussians through a novel visibility voting strategy, yielding accurate 3D segmentation masks with clean object boundaries. Extensive experiments demonstrate state-of-the-art performance on LERF-OVS, ScanNet, and ScanNet++, competitive results on 3D-OVS, and significant speedups over existing open-vocabulary 3D segmentation methods. These results highlight the effectiveness of our framework for efficient open-vocabulary 3D understanding without per-scene training.",
+      "authors": [
+        "Nhat-Quynh Le-Pham",
+        "Khoi Nguyen",
+        "Binh-Son Hua"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR"
+      ],
+      "comment": "Accepted at WACV 2027",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19429",
+      "pdf_url": "https://arxiv.org/pdf/2611.19429",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "representation",
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ],
+        "embodiment_world_models": [
+          "3D Grounding / Memory"
+        ]
+      }
+    },
+    "2611.19318": {
+      "arxiv_id": "2611.19318",
+      "title": "Residual Reinforcement Learning for Visual Servo Control with Zero-Shot Sim-to-Real Transfer",
+      "abstract": "We address tracking a moving object on a conveyor with a Franka Emika Panda robot arm, despite an imprecise digital twin, measurement errors, and noise. Our novel approach augments a loop-shaped inverse-Jacobian PI controller with a residual policy learned via Soft Actor-Critic in the digital twin. A delay-compensated Kalman filter fuses out-of-sequence camera measurements to provide latency-aware moving target position estimates. We compare the achieved performance to a performance bound for a class of model-based controllers derived from a frequency-domain sensitivity analysis, quantifying the minimum achievable error imposed by uncertain kinematic model mismatch. Simulation and hardware experiments indicate that our residual policy drives tracking error below the bound. Across conveyor speeds (27.9-41.8 mm/s), our method reduces mean tracking errors from 1.1-1.4 mm (baseline inverse-Jacobian PI) to 0.3-0.7 mm. These results show that learning residual corrections in a limited-fidelity simulator, combined with delay compensation, can substantially improve model-based control under modeling and measurement uncertainties while maintaining reliable sim-to-real transfer.",
+      "authors": [
+        "Mahdi Nobar",
+        "Alisa Rupenyan",
+        "John Lygeros",
+        "Jürg Keller"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "eess.SY"
+      ],
+      "comment": "This manuscript is currently under review in IEEE Robotics and Automation Letters (RA-L)",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19318",
+      "pdf_url": "https://arxiv.org/pdf/2611.19318",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.19196": {
+      "arxiv_id": "2611.19196",
+      "title": "Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations",
+      "abstract": "Imitation learning for visuomotor policies typically relies on teleoperated robot demonstrations, which are costly because every episode requires a trained operator controlling a physical robot in real time through teleoperation interfaces and wearable body-tracking hardware. Egocentric glasses capture human demonstrations without a robot or handheld grippers, yet they track only the head and in-view human hands, and directly copying human motion to a robot with different stature, arm reach and hand morphology fails to produce feasible contacts. \\method{} converts egocentric glasses recordings into physically verified robot training trajectories. An agentic real-to-sim stage reconstructs collision and textured visual assets from the recorded RGB-D and head streams, completes unseen surfaces when needed, and predicts target contact bands on the manipulated objects. During motion adaptation, a grasp planner turns each contact band into a feasible robot wrist pose and finger closure, bilevel stance optimization plans collision-free standing postures that keep hand targets reachable, and a whole-body motion generator synthesizes lower-body locomotion and out-of-view arm motion. Two-stage motion correction then blends visibility transitions kinematically and trains a reinforcement-learning tracking policy in physics simulation under agent-designed semantic rewards, completing manipulation phases even when the object leaves the camera view. Rendering the reconstructed scene through the robot's onboard camera along the optimized rollout yields synchronized robot-view images, proprioception and verified action labels. Fine-tuned exclusively on this converted dataset, without real-robot demonstrations, GR00T N1.7 performed loco-manipulation tasks autonomously on a Unitree G1. Project page: https://robonana.github.io/ego2sim2humanoid/",
+      "authors": [
+        "Chen Liu",
+        "Nikolaus Correll"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19196",
+      "pdf_url": "https://arxiv.org/pdf/2611.19196",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.19100": {
+      "arxiv_id": "2611.19100",
+      "title": "Leaning Over to Reach Far-Away Objects",
+      "abstract": "We study supported reaching to extend a humanoid robot's workspace by bracing against the environment for stabilization using a straightforward yet capable whole-body model predictive control (MPC) approach, exclusively with local sensing and fiducial markers. While typical solutions for whole body humanoid control aim at avoiding or accommodating contact, contact is explicitly required to reach objects placed on surfaces far out of normal reach. We employ sampling-based MPC for whole-body leaning, bracing, reaching, and recovery on a Unitree H1-2 humanoid. The controller runs in real-time at 34 Hz on a laptop, transfers sim-to-real, extends reach by about 50 cm beyond the unbraced standing workspace, and sustains the loaded posture for over four minutes, before pose estimation drifts. The controller reaches the commanded target in 89% of trials and completes the full reach-and-recovery cycle in 81%, across 54 trials spanning six targets and three table heights. We further characterize why such a small real-time sampling budget is sufficient, finding that temporal persistence of sampled actions and exploration scale strongly govern success, while CEM provides the widest operating region over planning rate and model mismatch. These results establish a real-world baseline for online, contact-rich humanoid manipulation. Code, videos, and full hardware details are available at https://h12leaner.github.io/",
+      "authors": [
+        "Allen Devaraj",
+        "William Xie",
+        "Nikolaus Correll"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "8 pages, 9 figures, 1 table. Under review at ICRA 2027. Videos and code at https://h12leaner.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19100",
+      "pdf_url": "https://arxiv.org/pdf/2611.19100",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.18976": {
+      "arxiv_id": "2611.18976",
+      "title": "TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation",
+      "abstract": "Recent humanoid loco-manipulation in articulated environments has largely focused on geometry-dominant interactions, where success is primarily determined by geometric alignment and motion execution. In contrast, forceful multi-finger manipulation requires the robot to adapt to real-world uncertainties in contact and interaction dynamics. We present Tactile-Driven Motor Adaptation (TMA) and an integrated whole-body system for zero-shot sim-to-real forceful humanoid manipulation, and study round-doorknob opening as a challenging benchmark requiring stable multi-finger frictional grasping, sufficient torque generation without slip, force-regulated pushing, and whole-body stability. TMA structures policy learning around interactions observable through tactile feedback, uses cone geometry as an inductive bias for multi-finger contact representation, and adapts motor behavior online from tactile history. An upper-body manipulation policy is trained alongside a pretrained general locomotion controller to coordinate dexterous interaction and whole-body stabilization. Trained entirely in simulation, TMA transfers zero-shot to a Unitree G1 humanoid with BrainCo Revo2 multi-fingered hands and substantially outperforms standard Rapid Motor Adaptation (RMA) and reactive tactile policy baselines across four commercial round doorknobs in the real world.",
+      "authors": [
+        "Yiting Chen",
+        "Kelin Yu",
+        "Sarthak Kaingade",
+        "Bryan Trinh",
+        "Kaiyu Hang",
+        "Roberto Martin-martin",
+        "Nima Fazeli",
+        "X. Alice Wu"
+      ],
+      "published": "2026-11-13",
+      "updated": "2026-11-13",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "Project page: humanoid-tma.github.io",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18976",
+      "pdf_url": "https://arxiv.org/pdf/2611.18976",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
     "2611.18365": {
       "arxiv_id": "2611.18365",
       "title": "Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders",
@@ -121,7 +1225,7 @@
         "Nicola Garau"
       ],
       "published": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-16",
       "primary_category": "cs.GR",
       "categories": [
         "cs.GR",
@@ -218,8 +1322,8 @@
     },
     "2611.18099": {
       "arxiv_id": "2611.18099",
-      "title": "EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos",
-      "abstract": "Feed-forward multi-view transformers such as VGGT recover the cameras and geometry of a video in one pass, but the cost of their cross-frame attention grows quadratically with the frame count, and their accuracy drops on long videos. Most remedies approximate attention over all frames within a budget or select a few keys by their content. We hypothesize that the keys of a long video can be chosen without looking at its content, and our experiments on VGGT and $π^3$ support it: a few dozen evenly spread frames can serve as the keys of every frame. We present EcoVGGT, a training-free inference framework whose keys form a Pinned Key Set of 31 such frames. A pin pass stores their tokens in a Scene Cache, and the other frames read it in independent batches that reproduce joint inference with these keys exactly, at a constant cost per frame. An Online Stream updates the pinned frames during recording. Six middle global blocks align the frames and form a reusable VGGT module: the Alignment Score reads their attention to flag failures, and Alignment Refocusing reduces them by fine-tuning only these blocks (3.6 GPU hours). EcoVGGT ($π^3$) matches the success rate of $π^3$ on 1,000-frame ScanNet videos at 13.8 times its speed. With refocusing, EcoVGGT (VGGT) raises the success rate of VGGT from 70% to 82% at 8.5 times its speed on 500 frames. EcoVGGT reconstructs 4,000 frames on one GPU, and EcoVGGT ($π^3$) streams 1,000 frames at 18.6 frames per second with the lowest online absolute trajectory error.",
+      "title": "Eco3R: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos",
+      "abstract": "Feed-forward multi-view transformers such as VGGT recover the cameras and geometry of a video in one pass, but the cost of their cross-frame self-attention grows quadratically with the frame count, and their accuracy drops on long videos. Most remedies approximate attention over all frames under a fixed computational budget or select a few keys by their content. We hypothesize that the keys of a long video can be selected independently of video content, and our experiments on VGGT and $π^3$ support it: a small number of uniformly sampled frames can serve as the keys of every frame. We present Eco3R, a training-free inference framework whose keys form a Pinned Key Set of 31 such frames. A pin pass stores their tokens in a Scene Cache, and the other frames read it in independent batches that reproduce joint inference with these keys exactly, at a constant cost per frame. An Online Stream updates the pinned frames during recording. Six middle global blocks align the frames and form a reusable VGGT module: the Alignment Score reads their attention to flag failures, and Alignment Refocusing reduces them by fine-tuning only these blocks (3.6 GPU hours). Eco3R ($π^3$) matches $π^3$'s success rate on 1,000-frame ScanNet videos while running 13.8 times faster. With refocusing, Eco3R (VGGT) raises VGGT's success rate from 70% to 82% while running 8.5 times faster on 500 frames. Eco3R can reconstruct sequences of up to 4,000 frames on a single A100 GPU, while Eco3R ($π^3$) streams 1,000 frames at 18.6 fps, achieving the lowest online absolute trajectory error.",
       "authors": [
         "Hongsen Cao",
         "Shanxin Yuan",
@@ -227,13 +1331,13 @@
         "Ahmed Sayed"
       ],
       "published": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-16",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
         "cs.AI"
       ],
-      "comment": null,
+      "comment": "26 pages, 10 figures. v2: renamed the method from EcoVGGT to Eco3R, added Figure 1, and revised the text",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2611.18099",
@@ -576,6 +1680,40 @@
       "doi": null,
       "url": "https://arxiv.org/abs/2611.17619",
       "pdf_url": "https://arxiv.org/pdf/2611.17619",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.18778": {
+      "arxiv_id": "2611.18778",
+      "title": "Third-Place Solution for the UCF UrbanTwin V2X-Real Track at ECCV 2026: Synthetic Point Cloud Generation and Sim-to-Real 3D Object Detection",
+      "abstract": "This report presents a complete technical solution for the UrbanTwin V2X-Real Sim2Real LiDAR Challenge, covering both synthetic point cloud generation and 3D object detection. For data generation, we adopt per-axis quantile calibration. Public V2X-Real training data are used to construct the real reference distribution, and independent one-dimensional quantile mappings are estimated for the x, y, and z axes of the base synthetic point clouds. The calibrated point clouds are then resampled using a fixed random seed and clipped to the valid spatial range, producing 50 frames with 2,000 float32 XYZ points per frame. For detection, we use a two-stage Voxel R-CNN (VoxelRCNN) detector trained with RangeLDM-enhanced synthetic point-cloud data, point clouds downsampled to 50k points per frame, and reconstructed pedestrian data. Training is performed on four NVIDIA GeForce RTX 4090 GPUs with a global batch size of 16 for 40 epochs. Final testing uses direct single-model inference with the original VoxelRCNN model. On the official evaluation server, the normalized Realism score is 0.7905 and the normalized Detection score is 0.5583, with mAP@0.5 of 0.3908, BEV mAP@0.5 of 0.4219, and mAP@0.7 of 0.1047. According to the official weighting rule, the final combined score is 0.6 x 0.5583 + 0.4 x 0.7905 = 0.6512. This report documents the complete implementation details of data construction, model training, inference, submission formatting, and official evaluation.",
+      "authors": [
+        "Antong Deng",
+        "Yuxin Zhang",
+        "Zhongxiang Xing",
+        "Zhenzhen Lin",
+        "Jiong Mu"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "8 pages, 1 figure, 4 tables. 3rd place, Track 7 (V2X-Real), UCF UrbanTwin Sim2Real LiDAR Challenge, 6th DriveX Workshop at ECCV 2026",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18778",
+      "pdf_url": "https://arxiv.org/pdf/2611.18778",
       "query_sources": [
         "embodied-world-models"
       ],
@@ -1110,6 +2248,76 @@
         "representation": [
           "Gaussian Splatting",
           "Dynamic / 4D"
+        ]
+      }
+    },
+    "2611.18761": {
+      "arxiv_id": "2611.18761",
+      "title": "Frame First, Decode Once: Object-Centric Coordinates and Single-Pass Decoding for System-1 World Models",
+      "abstract": "Single-pass primitive decoders such as LocateAnything and VFlash predict all quantized coordinate tokens of a geometric primitive in one forward pass, enabling fast, System-1 visual planning. We study what matters when such a decoder serves as a System-1 world model: a fast action-conditioned predictor that ranks candidate pushes by their predicted outcome. On ManiSkill3 PushT-v1 (512 held-out test families, 8,192 rollouts) and on human demonstrations from lerobot/pusht (2,384 test windows), we compare decoders, training losses, rigid-body projections and coordinate frames, using matched checkpoints, hierarchical bootstrap confidence intervals and Holm correction. Two factors of similar size dominate. First, expressing inputs and outputs in the SE(2) frame of the object's initial pose lowers decision regret by 1.9-2.2x for each of five decoders, and the object-frame model trained on 128 families matches the world-frame model trained on 512. Second, single-pass decoding outperforms iterative decoding: in the object frame, single-pass heads reach 0.020-0.021 regret at 1.6-1.8 ms per decision, against 0.046 for 10-step DDIM diffusion and 0.059 for KV-cached autoregression at 10.3 and 12.9 ms. The choice among single-pass heads has no measurable effect on regret, and our registered hypothesis that the frame effect exceeds the decoder spread is not supported. Soft-token expectation with an end-to-end 2D Kabsch projection gives the lowest trajectory error (11.35 px on ManiSkill3, 3.78 px on lerobot/pusht), exact rigid-body consistency, and lower regret than diffusion at every budget from 4 to 50 DDIM steps, at 3-29x lower latency.",
+      "authors": [
+        "Abu Anas Ibn Samad"
+      ],
+      "published": "2026-11-11",
+      "updated": "2026-11-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "cs.RO"
+      ],
+      "comment": "12 pages, 6 figures, 7 tables. Code, frozen configurations and per-seed results will be released",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18761",
+      "pdf_url": "https://arxiv.org/pdf/2611.18761",
+      "query_sources": [
+        "embodied-world-models"
+      ],
+      "topics": [
+        "embodiment_world_models"
+      ],
+      "matches": {
+        "embodiment_world_models": [
+          "World Model"
+        ]
+      }
+    },
+    "2611.18744": {
+      "arxiv_id": "2611.18744",
+      "title": "Neural Latent Gaussian Process for 3D reconstruction of Mouse Brain Lipids",
+      "abstract": "We address the problem of reconstructing continuous three-dimensional lipid profiles of the mouse brain from lipid measurements acquired only on a sparse set of two-dimensional tissue sections. Using MALDI-MSI measurements from coronal sections of two densely sampled and six sparsely sampled mouse brains, registered to the Allen Mouse Brain Common Coordinate Framework (CCF), we seek to interpolate the measured hundreds of lipid profiles across the unobserved voxels of the reference brain. We introduce a Neural Latent-Space Gaussian Process (LGP) architecture for this task and critically evaluate its ability to reconstruct spatial lipid distributions, using held-out mouse brain sections to assess generalization. We propose a Gaussian Process prior for the distribution of low-dimensional lipid profiles across the mouse brain (with Matérn or a Riemann manifold kernel). This allows us to encode 3D coordinates in a small number of latent 3D volumes that are then mapped to particular lipids using a multilayer perceptron (MLP). We performed an exhaustive analysis over a range of algorithms from simple linear regression, XGBoost, MLP to state of the art models such as Neural Transcriptomic Field, graph-based SPA3D for spatial omics reconstruction and DEEPSPATIAL. We additionally evaluate GPLFR as an alternative Gaussian-process-based approach. Across 173 measured lipids, LGP outperforms all evaluated baselines, including recent spatial-omics models and GPLFR, achieving a mean correlation of 0.613 and demonstrating the effectiveness of our approach for sparse 3D lipid interpolation.",
+      "authors": [
+        "Daniel Trejo Banos",
+        "Artiom Casapu",
+        "Luca Fusar Bassini",
+        "Halima Hannah Schede",
+        "Giovanni D'Angelo",
+        "Gioele La Manno",
+        "Ekaterina Krymova"
+      ],
+      "published": "2026-11-11",
+      "updated": "2026-11-11",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "24 pages, 14 figures, 5 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18744",
+      "pdf_url": "https://arxiv.org/pdf/2611.18744",
+      "query_sources": [
+        "reconstruction-and-mapping"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Object / Scene Reconstruction"
         ]
       }
     },
@@ -1906,14 +3114,14 @@
     "2611.15011": {
       "arxiv_id": "2611.15011",
       "title": "Fast Inference-Time Policy Refinement via Action-Affine World Models",
-      "abstract": "Imitation policies can perform complex manipulation, yet small execution errors can accumulate and cause failure. Refinement can correct these errors, but existing approaches often require additional on-policy learning or costly online planning. Our key insight is that a pretrained policy already supplies a useful nominal behavior: refinement can focus on predicting how small action corrections change its outcome. We therefore learn this local response in a form that is cheap to optimize. Our \\textit{action-affine world model} (A\\textsuperscript{2}WM) learns local action sensitivities offline from action-perturbed policy rollouts. Given interaction history and a policy proposal, it predicts task-relevant geometry as a nominal trajectory plus a linear response to corrections. It predicts the full planning horizon directly, avoiding the propagation of intermediate errors through recursive model evaluations. Quadratic penalties on predicted task errors and linear correction constraints then yield a cheap convex quadratic program (QP). Online refinement requires one model evaluation and one QP solve, while both policy and model weights remain frozen. Across four simulated manipulation tasks, our framework achieves the highest success rate among evaluated baselines, adding only 3.8 ms of mean refinement overhead per control step, excluding base-policy sampling.",
+      "abstract": "Imitation policies can fail through compounding errors, while existing refinement methods often require additional on-policy learning or expensive online planning. Our key insight is that an imitation policy already supplies a useful action proposal: refinement can focus on predicting how small action corrections change its outcome. We learn an \\textit{action-affine world model} (A\\textsuperscript{2}WM) offline from perturbed policy rollouts. Conditioned on history and the proposal, it directly predicts the future as a nominal trajectory plus a linear response to corrections, avoiding recursive error propagation. With quadratic costs and linear constraints, refinement becomes a cheap quadratic program (QP), requiring only one model evaluation and one QP solve per control step. Across four manipulation tasks, our framework achieves the highest success rate among evaluated baselines, adding only 4.2 ms of mean refinement latency per control step, excluding base-policy sampling. To the best of our knowledge, we are the first to combine an action-affine world model with QP-based inference-time refinement of frozen imitation policies.",
       "authors": [
         "Run Wang",
         "Yilin Mo",
         "Liang Wu"
       ],
       "published": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO"
@@ -2938,12 +4146,12 @@
         "Doudou Zhou"
       ],
       "published": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-14",
       "primary_category": "cs.AI",
       "categories": [
         "cs.AI"
       ],
-      "comment": "64 pages, 19 figures",
+      "comment": "65 pages, 19 figures. Code and checkpoints: https://github.com/nuskonghou/wm-ppo",
       "journal_ref": null,
       "doi": null,
       "url": "https://arxiv.org/abs/2611.12200",
@@ -386630,6 +387838,6 @@
   },
   "coverage_start": "2025-01-01",
   "coverage_end": "2026-11-17",
-  "paper_count": 10350,
-  "generated_at": "2026-11-17T00:26:57+00:00"
+  "paper_count": 10384,
+  "generated_at": "2026-11-17T12:32:16+00:00"
 }

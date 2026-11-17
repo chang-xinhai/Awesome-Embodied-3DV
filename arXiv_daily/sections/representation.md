@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 3317 · **Unique arXiv IDs:** 3317
+**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 3320 · **Unique arXiv IDs:** 3320
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-15 | [See the Lives of Stars in a Handful of Light](https://arxiv.org/abs/2611.20089) | Shuhong Liu, Gengjia Chang, Quanfeng Xu, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.20089) / [pdf](https://arxiv.org/pdf/2611.20089) |
+| 2026-11-15 | [SemLite-GS: Semantic-Selective Parallel Gaussian Splatting for Lightweight Building Reconstruction from UAV Oblique Imagery](https://arxiv.org/abs/2611.19773) | Tengfei Wang, Xin Wang, Zihan Li, et al. | cs.CV | Gaussian Splatting, Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.19773) / [pdf](https://arxiv.org/pdf/2611.19773) |
+| 2026-11-14 | [Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting](https://arxiv.org/abs/2611.19429) | Nhat-Quynh Le-Pham, Khoi Nguyen, Binh-Son Hua | cs.CV, cs.AI, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.19429) / [pdf](https://arxiv.org/pdf/2611.19429) |
 | 2026-11-13 | [TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267) | Daniele Della Pietra, Antonella Rech, Nicola Conci, et al. | cs.GR, cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.18267) / [pdf](https://arxiv.org/pdf/2611.18267) |
 | 2026-11-13 | [MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio](https://arxiv.org/abs/2611.17957) | Zeqiang Wei, Angulia Yang, Min Xu | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.17957) / [pdf](https://arxiv.org/pdf/2611.17957) |
 | 2026-11-13 | [Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2611.17752) | Yan Xing, Zhi Chen, Fanglue Zhang, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.17752) / [pdf](https://arxiv.org/pdf/2611.17752) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 1952 · **Unique arXiv IDs:** 1952
+**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 1957 · **Unique arXiv IDs:** 1957
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-16 | [WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning](https://arxiv.org/abs/2611.21143) | Hongyu Ma, Hairong Qu, Shiqi Zhao, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.21143) / [pdf](https://arxiv.org/pdf/2611.21143) |
+| 2026-11-16 | [IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes](https://arxiv.org/abs/2611.21126) | Yifei Tong, Ziyang Huang, Yizhao Han, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.21126) / [pdf](https://arxiv.org/pdf/2611.21126) |
+| 2026-11-16 | [sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry](https://arxiv.org/abs/2611.20568) | Jungwoo Lee, Hogyun Kim, Jiwon Choi, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.20568) / [pdf](https://arxiv.org/pdf/2611.20568) |
+| 2026-11-15 | [Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark](https://arxiv.org/abs/2611.20321) | Nikolay Dolgov | cs.CV, cs.AI, cs.LG | Transparent / Specular | [abs](https://arxiv.org/abs/2611.20321) / [pdf](https://arxiv.org/pdf/2611.20321) |
+| 2026-11-15 | [PanDWM: Panoramic 4D Driving World Models](https://arxiv.org/abs/2611.19857) | Jiajun Sun, Zeyu Zhang, Zeyu Ren, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.19857) / [pdf](https://arxiv.org/pdf/2611.19857) |
 | 2026-11-13 | [DIRT: Depth-completed Image-based Rendering using Two-band Blending for Live Novel-view Synthesis](https://arxiv.org/abs/2611.18340) | Mathias Harrer, Laura Fink, Noah Lewis, et al. | cs.CV, cs.GR | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.18340) / [pdf](https://arxiv.org/pdf/2611.18340) |
 | 2026-11-13 | [D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms](https://arxiv.org/abs/2611.18243) | Pallabjyoti Deka, Lewis Wilson, Stephen McLaughlin, et al. | eess.IV, cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.18243) / [pdf](https://arxiv.org/pdf/2611.18243) |
 | 2026-11-13 | [Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2611.17828) | Zhijie Wang, Li Zhang, Yujie Chen, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.17828) / [pdf](https://arxiv.org/pdf/2611.17828) |
