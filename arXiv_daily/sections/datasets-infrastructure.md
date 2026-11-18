@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 580 · **Unique arXiv IDs:** 580
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 584 · **Unique arXiv IDs:** 584
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-17 | [Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D](https://arxiv.org/abs/2611.23118) | Joyjeet Singh | cs.RO, cs.LG | Simulator / Toolchain | [abs](https://arxiv.org/abs/2611.23118) / [pdf](https://arxiv.org/pdf/2611.23118) |
+| 2026-11-17 | [Multispectral-Polarization-Infrared Multi-Aperture Camouflaged Vehicle Detection](https://arxiv.org/abs/2611.22246) | Shu Wang, Xiong Lin, Yuan Song, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.22246) / [pdf](https://arxiv.org/pdf/2611.22246) |
+| 2026-11-17 | [Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments](https://arxiv.org/abs/2611.22212) | Geonmo Yang, Gilhwan Kang, Juhui Lee, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.22212) / [pdf](https://arxiv.org/pdf/2611.22212) |
+| 2026-11-16 | [FaceRiff: Data-Efficient Unified Text-to-3D Face Asset Synthesis via Geometric Conditioning](https://arxiv.org/abs/2611.21867) | Elly Akhoundi, Mathieu Lamarre, Thibault Goyallon, et al. | cs.CV, cs.AI, cs.GR | Dataset | [abs](https://arxiv.org/abs/2611.21867) / [pdf](https://arxiv.org/pdf/2611.21867) |
 | 2026-11-16 | [IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes](https://arxiv.org/abs/2611.21126) | Yifei Tong, Ziyang Huang, Yizhao Han, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.21126) / [pdf](https://arxiv.org/pdf/2611.21126) |
 | 2026-11-16 | [XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://arxiv.org/abs/2611.20452) | Nico Bohlinger, Jan Peters | cs.RO, cs.LG | Simulator / Toolchain | [abs](https://arxiv.org/abs/2611.20452) / [pdf](https://arxiv.org/pdf/2611.20452) |
 | 2026-11-15 | [See the Lives of Stars in a Handful of Light](https://arxiv.org/abs/2611.20089) | Shuhong Liu, Gengjia Chang, Quanfeng Xu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.20089) / [pdf](https://arxiv.org/pdf/2611.20089) |

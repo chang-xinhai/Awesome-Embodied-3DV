@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 1090 · **Unique arXiv IDs:** 1090
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 1093 · **Unique arXiv IDs:** 1093
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-17 | [RFW-S: Everyday Deformable Objects with Independent Simulation Verification](https://arxiv.org/abs/2611.23056) | Jiarui Guo, Saining Zhang, Jiaying Wan, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.23056) / [pdf](https://arxiv.org/pdf/2611.23056) |
+| 2026-11-17 | [PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos](https://arxiv.org/abs/2611.22244) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.22244) / [pdf](https://arxiv.org/pdf/2611.22244) |
+| 2026-11-16 | [FaceRiff: Data-Efficient Unified Text-to-3D Face Asset Synthesis via Geometric Conditioning](https://arxiv.org/abs/2611.21867) | Elly Akhoundi, Mathieu Lamarre, Thibault Goyallon, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.21867) / [pdf](https://arxiv.org/pdf/2611.21867) |
 | 2026-11-16 | [VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly](https://arxiv.org/abs/2611.20788) | Yeon-Jae Kim, Sangwon Kang, Byung-Kwon Min | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.20788) / [pdf](https://arxiv.org/pdf/2611.20788) |
 | 2026-11-13 | [SceneAgent: A Multi-Agent Framework for Portable Game Scene Generation](https://arxiv.org/abs/2611.17821) | Xingyi Li, Jiahao Yang, Yiqin Zhu, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2611.17821) / [pdf](https://arxiv.org/pdf/2611.17821) |
 | 2026-11-13 | [Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding](https://arxiv.org/abs/2611.17797) | Haolin Yang, Wenshan Wu, Jin Jiang, et al. | cs.AI, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.17797) / [pdf](https://arxiv.org/pdf/2611.17797) |

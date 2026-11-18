@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 1964 · **Unique arXiv IDs:** 1964
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 1971 · **Unique arXiv IDs:** 1971
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-17 | [GameRealm: Grounding Visual Learning in Interactive Games](https://arxiv.org/abs/2611.23140) | Weiguang Zhao, Yifan Wang, Ni Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.23140) / [pdf](https://arxiv.org/pdf/2611.23140) |
+| 2026-11-17 | [Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models](https://arxiv.org/abs/2611.22733) | Longtao Jiang, Mingfei Han, Jianmin Bao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.22733) / [pdf](https://arxiv.org/pdf/2611.22733) |
+| 2026-11-17 | [Beyond the Camera: A Tri-Modal Driving World Model for Future RGB, Thermal, and LiDAR Forecasting in Adverse Weather](https://arxiv.org/abs/2611.22669) | Faysal Mehrab Chowdhury, Md. Mahfuzur Rahman, Ahmed Rafi Hasan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.22669) / [pdf](https://arxiv.org/pdf/2611.22669) |
+| 2026-11-17 | [Multispectral-Polarization-Infrared Multi-Aperture Camouflaged Vehicle Detection](https://arxiv.org/abs/2611.22246) | Shu Wang, Xiong Lin, Yuan Song, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.22246) / [pdf](https://arxiv.org/pdf/2611.22246) |
+| 2026-11-17 | [CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure](https://arxiv.org/abs/2611.22235) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.22235) / [pdf](https://arxiv.org/pdf/2611.22235) |
+| 2026-11-17 | [TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception](https://arxiv.org/abs/2611.22224) | Geonmo Yang, Younggun Cho | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.22224) / [pdf](https://arxiv.org/pdf/2611.22224) |
+| 2026-11-17 | [Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments](https://arxiv.org/abs/2611.22212) | Geonmo Yang, Gilhwan Kang, Juhui Lee, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.22212) / [pdf](https://arxiv.org/pdf/2611.22212) |
 | 2026-11-16 | [A2A-UAV: A Multimodal Air-to-Air Dataset for UAV Detection and Identification](https://arxiv.org/abs/2611.21311) | Hongtao Liang, Yiyao Wan, Kezhi Zhu, et al. | cs.CV | Non-RGB Sensing, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.21311) / [pdf](https://arxiv.org/pdf/2611.21311) |
 | 2026-11-16 | [WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning](https://arxiv.org/abs/2611.21143) | Hongyu Ma, Hairong Qu, Shiqi Zhao, et al. | cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.21143) / [pdf](https://arxiv.org/pdf/2611.21143) |
 | 2026-11-16 | [IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes](https://arxiv.org/abs/2611.21126) | Yifei Tong, Ziyang Huang, Yizhao Han, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.21126) / [pdf](https://arxiv.org/pdf/2611.21126) |

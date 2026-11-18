@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 3325 · **Unique arXiv IDs:** 3325
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 3332 · **Unique arXiv IDs:** 3332
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-17 | [TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](https://arxiv.org/abs/2611.23143) | Haosong Peng, Xiangyang Liu, Zhengshen Zhang, et al. | cs.RO, cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2611.23143) / [pdf](https://arxiv.org/pdf/2611.23143) |
+| 2026-11-17 | [ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2611.23054) | Chuanzhi Xu, Boyu Wei, Chengkun Yue, et al. | cs.CV, cs.AI, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.23054) / [pdf](https://arxiv.org/pdf/2611.23054) |
+| 2026-11-17 | [You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting](https://arxiv.org/abs/2611.22898) | Canjie Liu, Liuqian Wang, Qi Ming, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.22898) / [pdf](https://arxiv.org/pdf/2611.22898) |
+| 2026-11-17 | [DOOM-GS: Dynamic Out-of-core Optimization for Massive Gaussian Splatting](https://arxiv.org/abs/2611.22805) | Doğa Yılmaz, Jialin Zhu, Binglun Wang, et al. | cs.GR | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.22805) / [pdf](https://arxiv.org/pdf/2611.22805) |
+| 2026-11-17 | [Cross3DGS: Unified Vulkan-Based 3D Gaussian Splatting Training from Workstations to Mobile Devices](https://arxiv.org/abs/2611.22240) | Hiroyuki Sato, Yusuke Takimoto | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.22240) / [pdf](https://arxiv.org/pdf/2611.22240) |
+| 2026-11-17 | [CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure](https://arxiv.org/abs/2611.22235) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.22235) / [pdf](https://arxiv.org/pdf/2611.22235) |
+| 2026-11-17 | [CueSplat: Learning to Schedule Sparse Deformation for Dynamic Gaussian Splatting on Edge Devices](https://arxiv.org/abs/2611.22095) | Qingyuan Tang, He Zhu, Shixuan Sun, et al. | cs.CV | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.22095) / [pdf](https://arxiv.org/pdf/2611.22095) |
 | 2026-11-16 | [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](https://arxiv.org/abs/2611.21383) | Jeonghwan Cho, Minsu Kim, Junyoung Hong, et al. | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.21383) / [pdf](https://arxiv.org/pdf/2611.21383) |
 | 2026-11-16 | [QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting](https://arxiv.org/abs/2611.21253) | Haiyang Xu, Ziye Zhang, Bin Pan, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.21253) / [pdf](https://arxiv.org/pdf/2611.21253) |
 | 2026-11-16 | [A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering](https://arxiv.org/abs/2611.20546) | Haolun Ma, Ziyi Liu, Zizhuo Xu, et al. | cs.DB, cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.20546) / [pdf](https://arxiv.org/pdf/2611.20546) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 3276 · **Unique arXiv IDs:** 3276
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 3283 · **Unique arXiv IDs:** 3283
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-17 | [Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array](https://arxiv.org/abs/2611.23120) | William Dubois, Nicolas Lauzon, Johann Laconte, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.23120) / [pdf](https://arxiv.org/pdf/2611.23120) |
+| 2026-11-17 | [ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2611.23054) | Chuanzhi Xu, Boyu Wei, Chengkun Yue, et al. | cs.CV, cs.AI, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.23054) / [pdf](https://arxiv.org/pdf/2611.23054) |
+| 2026-11-17 | [Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.23051) | Jongmin Lee, Jaeyeong Kim, Seungryong Kim | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.23051) / [pdf](https://arxiv.org/pdf/2611.23051) |
+| 2026-11-17 | [Technical Report of Mobile Manipulator Robot for Industrial Environments](https://arxiv.org/abs/2611.22852) | Aria Dadnavi, Matin Jamshidi, Kian Khatibi, et al. | cs.RO, cs.CV, eess.SY | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.22852) / [pdf](https://arxiv.org/pdf/2611.22852) |
+| 2026-11-17 | [SpatialMind: Adaptive Multi-Level Geometric Fusion for Spatial Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2611.22415) | Shibin Zhao, Hao Tan, Fan Yang, et al. | cs.CV, cs.CG | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.22415) / [pdf](https://arxiv.org/pdf/2611.22415) |
+| 2026-11-17 | [PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos](https://arxiv.org/abs/2611.22244) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.22244) / [pdf](https://arxiv.org/pdf/2611.22244) |
+| 2026-11-17 | [CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure](https://arxiv.org/abs/2611.22235) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.22235) / [pdf](https://arxiv.org/pdf/2611.22235) |
 | 2026-11-16 | [Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating](https://arxiv.org/abs/2611.21302) | Arda Cinar Demirtas, Pablo Varela Bernal, Marc Pollefeys, et al. | cs.CV, cs.RO | Feed-Forward Geometry, Object / Scene Reconstruction, Multi-View Geometry | [abs](https://arxiv.org/abs/2611.21302) / [pdf](https://arxiv.org/pdf/2611.21302) |
 | 2026-11-16 | [WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning](https://arxiv.org/abs/2611.21143) | Hongyu Ma, Hairong Qu, Shiqi Zhao, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.21143) / [pdf](https://arxiv.org/pdf/2611.21143) |
 | 2026-11-16 | [IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes](https://arxiv.org/abs/2611.21126) | Yifei Tong, Ziyang Huang, Yizhao Han, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.21126) / [pdf](https://arxiv.org/pdf/2611.21126) |
