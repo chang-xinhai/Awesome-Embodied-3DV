@@ -69,6 +69,41 @@
         ]
       }
     },
+    "2611.21383": {
+      "arxiv_id": "2611.21383",
+      "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+      "abstract": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accurate rendered masks from incomplete 3D selections since alpha-blended feature supervision concentrates learning on dominant contributors while leaving occluded or low-contribution Gaussians weakly supervised. We propose VODA, a plug-and-play supervision objective that exploits local depth structure to group per-pixel contributors and directly supervises all Gaussians in selected depth clusters, bypassing contribution-weighted gradient delivery. To evaluate volumetric completeness, we introduce Removal-3D, a synthetic object-removal benchmark, and the Removal Depth Error (RDE), a metric comparing predicted and ground-truth depth changes. Across four rendering-based baselines, VODA consistently improves volumetric segmentation on Removal-3D while maintaining or improving performance on LERF and ScanNet. Further analysis shows that VODA recovers lower-contribution Gaussians, while simple gradient reweighting and spatial propagation fail to reproduce comparable gains.",
+      "authors": [
+        "Jeonghwan Cho",
+        "Minsu Kim",
+        "Junyoung Hong",
+        "Seon Joo Kim"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "Accepted at NeurIPS 2026. Project page: https://jhxcho.github.io/voda/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21383",
+      "pdf_url": "https://arxiv.org/pdf/2611.21383",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
     "2611.21365": {
       "arxiv_id": "2611.21365",
       "title": "Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data",
@@ -102,6 +137,45 @@
         ]
       }
     },
+    "2611.21311": {
+      "arxiv_id": "2611.21311",
+      "title": "A2A-UAV: A Multimodal Air-to-Air Dataset for UAV Detection and Identification",
+      "abstract": "The rapid growth of unmanned aerial vehicles (UAVs) in low-altitude airspace increases the risk of unauthorized intrusions, making reliable detection and identification of non-cooperative UAVs essential for low-altitude airspace safety. However, the existing public UAV datasets are mostly acquired from fixed ground-based viewpoints and are limited to imaging or radio-frequency (RF) observations, which restricts the sensing coverage and deployment flexibility. To address this gap, we present A2A-UAV, a multimodal air-to-air dataset for UAV detection and identification. Specifically, 15 target UAVs of 13 commercial models were recorded at three outdoor sites under daytime and nighttime conditions by using a UAV-mounted platform equipped with an RGB-thermal gimbal camera, a panoramic camera, an RF spectrum analyzer, and a millimeter-wave radar. The dataset contains 105,294 time-aligned samples of RGB, panoramic, thermal, and RF time-frequency images and radar point clouds. Moreover, all 209,539 bounding boxes of the predominantly small UAV targets were manually annotated and cross-checked. Therefore, A2A-UAV provides a valuable resource for air-to-air UAV detection, identification, and multimodal fusion in low-altitude airspace.",
+      "authors": [
+        "Hongtao Liang",
+        "Yiyao Wan",
+        "Kezhi Zhu",
+        "Jiayi Zhang",
+        "Zequn Jiang",
+        "Ziyu Zhou",
+        "Jiahuan Ji",
+        "Fuhui Zhou",
+        "Qihui Wu"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "27 pages, 9 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21311",
+      "pdf_url": "https://arxiv.org/pdf/2611.21311",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing",
+          "Wide-FOV Perception"
+        ]
+      }
+    },
     "2611.21302": {
       "arxiv_id": "2611.21302",
       "title": "Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating",
@@ -125,6 +199,7 @@
       "url": "https://arxiv.org/abs/2611.21302",
       "pdf_url": "https://arxiv.org/pdf/2611.21302",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models",
         "reconstruction-and-mapping"
       ],
@@ -136,6 +211,41 @@
           "Feed-Forward Geometry",
           "Object / Scene Reconstruction",
           "Multi-View Geometry"
+        ]
+      }
+    },
+    "2611.21253": {
+      "arxiv_id": "2611.21253",
+      "title": "QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting",
+      "abstract": "Uncertainty quantification for novel view synthesis with 3D Gaussian Splatting (3DGS) assesses rendering reliability at unseen viewpoints. This reliability depends on the discrepancy between rendered and true colors, which cannot be measured without ground-truth images. We therefore quantify uncertainty in this unknown discrepancy through upper bounds on per-pixel RGB mean absolute error. However, learned bounds may underestimate these errors and overstate rendering reliability, motivating calibration to a prescribed coverage level. In this paper, we propose QuantileGS, a post-hoc framework that combines learned rendering-error quantiles with scale-normalized conformal calibration to produce spatially adaptive error bounds. The framework comprises three phases. Phase 1, Rendering-Error Computation, measures RGB mean absolute error between observed images and predictions from a frozen 3DGS model. Phase 2, Ordered Gaussian Quantile Fields, learns two scalar attributes per Gaussian to predict lower and upper rendering-error quantiles. Phase 3, Scale-Normalized Conformal Calibration, calibrates the upper prediction on held-out images, using the quantile gap to scale the correction. Under the stated assumptions, the resulting bounds provide finite-sample marginal coverage. At a nominal coverage level of 90%, calibration raises mean empirical test coverage from 69.6% to 89.6% on LLFF and from 80.1% to 92.1% on Mip-NeRF 360. On LF, coverage remains conservative at 96.3% before and 96.4% after calibration. Applications to active view selection, Gaussian pruning, and RGB-D simultaneous localization and mapping illustrate how these bounds inform downstream decisions.",
+      "authors": [
+        "Haiyang Xu",
+        "Ziye Zhang",
+        "Bin Pan",
+        "Xia Xu",
+        "Zhenwei Shi"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.21253",
+      "pdf_url": "https://arxiv.org/pdf/2611.21253",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Radiance Field / NeRF"
         ]
       }
     },
@@ -165,6 +275,7 @@
       "url": "https://arxiv.org/abs/2611.21143",
       "pdf_url": "https://arxiv.org/pdf/2611.21143",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -203,6 +314,7 @@
       "url": "https://arxiv.org/abs/2611.21126",
       "pdf_url": "https://arxiv.org/pdf/2611.21126",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -222,6 +334,48 @@
         "datasets_infrastructure": [
           "Dataset",
           "Benchmark / Metric"
+        ]
+      }
+    },
+    "2611.20792": {
+      "arxiv_id": "2611.20792",
+      "title": "TRR: A Thermal Interaction Engine for Robot Simulation and RGBT Data Generation",
+      "abstract": "A robot's actions change the thermal conditions of its next interaction: heat retained after release, carried with objects or stored beneath the surface can change a later contact's outcome despite similar current temperatures. Training trajectories must capture how these effects connect earlier actions to later observations and task outcomes. We present TRR, a \\emph{Thermal Robot Renderer} that attaches spatial and depth-resolved thermal state to both contact partners, updates local heat exchange through contact, transport and separation, and generates synchronized RGB--thermal (RGBT) observations and event-local task checks on one execution clock. Controlled interventions show why retained heat, spatial transport and internal storage matter for subsequent contact outcomes. From the same state, TRR produces a paired six-task benchmark of 2,224 static--dynamic pairs, that is, 4,448 trajectories with synchronized dual-view observations, states and actions. Visible thermal history raises safe contact-site selection from 75.0\\% to 91.7\\% on a dedicated learning corpus, and training on dynamic histories raises simulated transfer completion by 50 percentage points under a new heating procedure with shared feedback execution. We demonstrate RGBT observation adapters on MuJoCo and Isaac Sim, report an engineering inventory of ten prepared robot configurations and six demonstrated camera viewpoints, and describe a developer workflow that carries an existing robot scene to exported RGBT records. The benchmark, the workflow and the platform resources described in Section 6 form the first items of a planned public release. Demonstrations and resource updates are available on the project page.",
+      "authors": [
+        "Biwen Yang",
+        "Zhe Cao",
+        "Jin Zhang",
+        "Haoyang Sun",
+        "Zonglu Hu",
+        "Jintao Zhao",
+        "Zhehao Zhang",
+        "Kaizheng Chen",
+        "Chengyi Liu",
+        "Chengyu Wei",
+        "Siyuan Wu",
+        "Ruiheng Zhang"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20792",
+      "pdf_url": "https://arxiv.org/pdf/2611.20792",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -247,7 +401,8 @@
       "pdf_url": "https://arxiv.org/pdf/2611.20788",
       "query_sources": [
         "generation-and-assets",
-        "reconstruction-and-mapping"
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "reconstruction",
@@ -353,6 +508,7 @@
       "url": "https://arxiv.org/abs/2611.20568",
       "pdf_url": "https://arxiv.org/pdf/2611.20568",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -365,6 +521,111 @@
         ],
         "reconstruction": [
           "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.20558": {
+      "arxiv_id": "2611.20558",
+      "title": "Vision-Language Grounded Semantic Navigation for Autonomous Mobile Robots",
+      "abstract": "Language-guided navigation enables mobile robots to interpret natural language commands and navigate toward user-specified targets in unstructured environments. However, integrating open-vocabulary visual perception with classical robotics pipelines for mapping and navigation remains a challenging problem. In this work, we present a complete ROS2-based system that combines frontier-based exploration, open-vocabulary object detection using Grounding DINO, depth-based 3D localization, and semantic mapping to enable end-to-end vision-language grounded navigation in simulation. The system accepts natural language commands such as ``go to the yellow box,'' detects candidate objects from RGB images using text prompts, estimates their positions in the world frame, and generates navigation goals executed by the Nav2 stack. In a Gazebo-based indoor environment with a TurtleBot3 robot, the system autonomously explored the room, detected three of the five target objects, and successfully executed both natural language navigation commands tested, without task-specific training. The results indicate that open-vocabulary grounding models can be integrated into classical navigation pipelines, though performance is limited by detection uncertainty, depth-based localization error, and incomplete exploration coverage. These findings highlight both the feasibility and current limitations of deploying vision-language grounded navigation systems using lightweight, CPU-only architectures.",
+      "authors": [
+        "Ravindran Vasoor Saravanan",
+        "Chittin Varunav Ravi",
+        "Madhumita Singh",
+        "Thirulok Sundar Mohan Rasu"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "7 pages, 4 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20558",
+      "pdf_url": "https://arxiv.org/pdf/2611.20558",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Mapping / SLAM"
+        ]
+      }
+    },
+    "2611.20546": {
+      "arxiv_id": "2611.20546",
+      "title": "A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering",
+      "abstract": "Trajectory rendering, which renders novel views of a reconstructed 3D scene along a camera path, is a core operation in digital twins and autonomous inspection. Structured 3D Gaussian Splatting (3DGS) renders a single view in real time by decoding sparse anchors into Gaussians on demand, but it renders a trajectory view by view: every view projects all anchors to select them, re-decodes anchors already requested by neighboring views, and runs all steps on the GPU while the CPU idles. We treat this as a spatial data management problem, where anchors are spatial objects, views are range queries, and decoded Gaussians are shared derived data, and propose GDM-GS, which removes redundancy at three levels. Within a view, an anchor index and an occluder index answer each view as a holed-frustum range query, so out-of-view and provably hidden anchors are never decoded. Across views, shared materialization decodes each requested anchor once per group of consecutive views while preserving each view's selection. Across processors, a hybrid pipeline balances selections between the CPU and the GPU before grouped decoding under bounded memory. Experiments on large-scale public scenes show that GDM-GS substantially reduces trajectory rendering latency while preserving image quality.",
+      "authors": [
+        "Haolun Ma",
+        "Ziyi Liu",
+        "Zizhuo Xu",
+        "Chuhan Hu",
+        "Lei Li"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.DB",
+      "categories": [
+        "cs.DB",
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20546",
+      "pdf_url": "https://arxiv.org/pdf/2611.20546",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
+    "2611.20518": {
+      "arxiv_id": "2611.20518",
+      "title": "What the Averages Hide: Monocular Metric Depth Models Still Fail in Everyday Scenes, Mostly on Scale",
+      "abstract": "Zero-shot monocular metric depth models are evaluated by averaging metric and scale-aligned scores across datasets. Averages cannot show how many images still have severely wrong metric depth, whether depth is under- or overestimated, or whether different models fail on the same images. We propose an evaluation built on per-image results: the failure rate (metric $δ_1$ < 0.5); scale-aligned metrics for structure, and the bias, dispersion and absolute error of the alignment scale for scale; and a cross-model comparison that separates shared from model-specific failures. We apply it to 11 recent architectures with and without ground-truth intrinsics (18 model evaluations) on the 7 everyday-scene benchmarks (4,406 images) used by MoGe-2. Metric depth estimation is not solved in everyday scenes, and the remaining difficulty is mainly scale: the best of the 18 evaluations still has a failure rate of 7.7% (datasets weighted equally); pooled over all failures, 78.8% have intact structure, and after scale correction 98.3% no longer fail. Images failed by at least 6 architectures make up 7.3% of the data, concentrated on HAMMER and DIODE; even when selected only by architectures of other families, they hold 34% to 40% of the error of the top 6 models, against 14% to 18% for as many random images from the same datasets. Adding objects reduces the scale error of most models; ground-truth intrinsics and, in most families, larger models reduce the failures but do not remove them. We recommend reporting failure rates, structure and scale separately, and results stratified by how many models fail. We will release the code, the per-image results with shared-failure labels, and two diagnostic sets built from TUM RGB-D.",
+      "authors": [
+        "Hualie Jiang",
+        "Yujie Luo",
+        "Ziyang Song",
+        "Ximeng Li",
+        "Zhiqiang Lou",
+        "Rui Xu"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "https://antigravity-tech.github.io/DIMED/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20518",
+      "pdf_url": "https://arxiv.org/pdf/2611.20518",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
         ]
       }
     },
@@ -436,6 +697,39 @@
         ]
       }
     },
+    "2611.20433": {
+      "arxiv_id": "2611.20433",
+      "title": "ReScene: Incremental Scene Chronology from Sparse Revisits",
+      "abstract": "Scene chronology aims to reconstruct a scene across visits separated by hours or days, during which objects may change in position, presence or shape. Such reconstruction must retain every earlier state, yet each revisit often provides only a few images. Storing a complete model for each visit duplicates the unchanged scene, whereas updating a single shared model alters earlier states. We present ReScene, which stores each visit as an immutable compact update, so that any earlier visit can be recovered exactly by applying the stored updates in order, without retaining past images. To localise each update, ReScene attributes the disagreement between the preceding reconstruction and the new images to individual Gaussians through their compositing weights. This attribution guides the suppression of outdated Gaussians and the refinement of persistent ones, while newly visible surfaces are initialised from learned multi-view depth. We also introduce Multi-State, a benchmark of non-rigid deformation and partial material removal, including synthetic scenes with ground-truth geometry. ReScene achieves quality higher than sequential 3DGS checkpointing with 2.5--4.8$\\times$ less uncompressed history storage. At comparable PSNR, it also reduces foreground depth error by 3.2$\\times$ relative to sequential ChronoGS, showing that accurate rendering does not necessarily imply accurate geometry. Code and benchmark are available at https://waychin-weiqin.github.io/ReScene/.",
+      "authors": [
+        "Wei Qin Chuah",
+        "Zeji Hui",
+        "Amirali Khodadadian Gostar",
+        "Alireza Bab-Hadiashar"
+      ],
+      "published": "2026-11-16",
+      "updated": "2026-11-16",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "22 pages",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20433",
+      "pdf_url": "https://arxiv.org/pdf/2611.20433",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting"
+        ]
+      }
+    },
     "2611.20321": {
       "arxiv_id": "2611.20321",
       "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
@@ -457,6 +751,7 @@
       "url": "https://arxiv.org/abs/2611.20321",
       "pdf_url": "https://arxiv.org/pdf/2611.20321",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -469,6 +764,43 @@
         ],
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.20283": {
+      "arxiv_id": "2611.20283",
+      "title": "CiGS: Conduction in Gaussian Splats for Interior Temperature Field from Thermal Images",
+      "abstract": "We present a method for inferring the interior temperature distribution of a solid object from registered multi-view visible-spectrum and thermal images, even when the thermal views cover only part of its surface. We formulate steady-state heat conduction as a Laplace boundary value problem and solve it with a direct boundary integral equation discretized over a point cloud: a Gaussian reconstruction of the visible-spectrum images supplies the boundary geometry, and the thermal images supply the boundary data. We do not build surface or volume meshes at any stage in our method. Instead, we sample collocation points from rendered depth without the pixels at depth discontinuities, and use a density subtraction that keeps the interior evaluation accurate up to the surface. The whole chain is differentiable, and we use it to recover the pose and depth of heating pipes, insulation defects, and the shape of cracks from thermal images. We validate our method through experiments on boundary value problems with Dirichlet-only and mixed Dirichlet and Robin boundaries, using synthetic and real captured data on scenes with challenging topology. These experiments show that our method matches analytical solutions and has better accuracy than FEM solvers.",
+      "authors": [
+        "Liu Zhenyuan",
+        "Bharath Seshadri",
+        "Bailey Miller",
+        "George Kopanas",
+        "Ionnais Gkioulekas",
+        "Bernd Bickel"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "comment": "18 pages",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.20283",
+      "pdf_url": "https://arxiv.org/pdf/2611.20283",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -597,7 +929,8 @@
       "url": "https://arxiv.org/abs/2611.20089",
       "pdf_url": "https://arxiv.org/pdf/2611.20089",
       "query_sources": [
-        "datasets-and-infrastructure"
+        "datasets-and-infrastructure",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -645,6 +978,38 @@
         ]
       }
     },
+    "2611.19897": {
+      "arxiv_id": "2611.19897",
+      "title": "HIVE-ECIA: Identity-Aware Historical Evidence Acquisition for Bandwidth-Efficient Multi-Object Tracking",
+      "abstract": "Panoramic multi-object tracking (MOT) requires reliable identity association across a 360° field of view, yet bandwidth-constrained operation forces a trade-off between low-resolution (LR) identity ambiguity and costly high-resolution (HR) transmission. We propose HIVE-ECIA, an identity-aware framework that selectively retrieves historical HR evidence to recover fragmented identities without modifying detection boxes or the underlying tracker. An ECIA Base-Guided query policy determines when additional HR evidence is warranted; HIVE ranks historical LR observations to select an informative retrieval timestamp; and ECIA Full integrates the retrieved HR crop through learned gated fusion and conservative identity safeguards. We further introduce DualPano-MOT, a real-world dual-fisheye panoramic evaluation dataset featuring controlled pedestrian interactions, panorama-seam challenges, and occlusions, with model-assisted, manually verified tracking annotations. On held-out QuadTrack sequences and zero-shot DualPano-MOT, HIVE-ECIA improves identity association across four MOT trackers without tracker-specific retraining. Across these trackers, identity switches decrease by up to 21.8% and 23.4%, while the largest IDF1 gains reach 3.81 and 6.74 percentage points, respectively. Under an offline JPEG-based acquisition model, our framework reduces encoded data volume by 89.2% and 79.3% relative to continuous Full-HR acquisition.",
+      "authors": [
+        "Hai Nguyen",
+        "Tarik Taleb",
+        "Qize Guo"
+      ],
+      "published": "2026-11-15",
+      "updated": "2026-11-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19897",
+      "pdf_url": "https://arxiv.org/pdf/2611.19897",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
     "2611.19857": {
       "arxiv_id": "2611.19857",
       "title": "PanDWM: Panoramic 4D Driving World Models",
@@ -669,6 +1034,7 @@
       "url": "https://arxiv.org/abs/2611.19857",
       "pdf_url": "https://arxiv.org/pdf/2611.19857",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -707,6 +1073,7 @@
       "url": "https://arxiv.org/abs/2611.19830",
       "pdf_url": "https://arxiv.org/pdf/2611.19830",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -743,7 +1110,9 @@
       "url": "https://arxiv.org/abs/2611.19773",
       "pdf_url": "https://arxiv.org/pdf/2611.19773",
       "query_sources": [
-        "reconstruction-and-mapping"
+        "depth-and-sensing",
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -785,6 +1154,7 @@
       "url": "https://arxiv.org/abs/2611.19771",
       "pdf_url": "https://arxiv.org/pdf/2611.19771",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -821,6 +1191,7 @@
       "url": "https://arxiv.org/abs/2611.19765",
       "pdf_url": "https://arxiv.org/pdf/2611.19765",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -853,6 +1224,7 @@
       "url": "https://arxiv.org/abs/2611.19720",
       "pdf_url": "https://arxiv.org/pdf/2611.19720",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -898,6 +1270,41 @@
       "matches": {
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.19534": {
+      "arxiv_id": "2611.19534",
+      "title": "Depth-Aware Path Planning and Collision Avoidance for Robotic Nursing Assistants Using Real-Time 3D Vision",
+      "abstract": "This paper presents a depth-aware path planning and collision avoidance framework for the safe navigation of robotic nursing assistants in cluttered environments with low-height obstacles. Conventional LiDAR-based navigation systems, while accurate for mapping and localization, fail to detect transparent or low-height obstacles, whereas vision-based systems are prone to noise and occlusion. The proposed framework integrates RGB-D depth sensing, rule-based obstacle avoidance, and the NavfnROS global path planner to drive the robot from an initial point to a goal point. The proposed approach is implemented on the Husky A200 robot, equipped with a Kinova Gen3 arm, to form a complete setup for a robotic nursing assistant. This system features a multi-layer architecture for global planning, perception fusion, and real-time control in the ROS-Gazebo environment. Experimental evaluations in a simulated cluttered environment demonstrate up to 40\\% higher success rate and 35\\% improvement in minimum clearance compared with single-sensor baselines. Furthermore, real-world experimental results validate the proposed approach as a computationally efficient and safety-aware navigation solution for autonomous healthcare robots.",
+      "authors": [
+        "Peeyush Thakur",
+        "Dharmendra Sharma",
+        "Archit Sharma",
+        "Sandeep Gupta",
+        "Anuj Nandanwar",
+        "Laxmidhar Behera"
+      ],
+      "published": "2026-11-14",
+      "updated": "2026-11-14",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": "12 pages, 14 figures",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.19534",
+      "pdf_url": "https://arxiv.org/pdf/2611.19534",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Transparent / Specular"
         ]
       }
     },
@@ -956,7 +1363,8 @@
       "url": "https://arxiv.org/abs/2611.19429",
       "pdf_url": "https://arxiv.org/pdf/2611.19429",
       "query_sources": [
-        "embodied-world-models"
+        "embodied-world-models",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -2193,7 +2601,7 @@
         "Jinyuan Liu"
       ],
       "published": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-16",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV"
@@ -3207,6 +3615,40 @@
       "matches": {
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2611.18733": {
+      "arxiv_id": "2611.18733",
+      "title": "LiNO: Lightweight Network for Occupancy Estimation",
+      "abstract": "Occupancy estimation for automated vehicles is a crucial task that builds a 3D map using vehicle sensors. This map allows the vehicle to identify drivable areas and various obstacle classes. The task involves complex subtasks such as depth estimation, object classification, and segmentation to align semantic information with the 3D grid. Moreover, producing these estimations from multiple sensors demands significant computational power and memory, as high-dimensional data fusion requires complex feature extraction and processing. Consequently, most existing methods rely on large and computationally intensive architectures that are not suitable for real-time or real-world applications. We present a real-time, lightweight architecture that leverages camera and radar sensors through a residual multi-stage head. Unlike prior methods that rely on heavy camera-only blocks, our architecture employs camera-radar fusion and lightweight components. Additionally, we introduce a task-specific data augmentation strategy that enhances data diversity and improves generalisation. Our method achieves state-of-the-art (SOTA) performance, attaining 45.7 mean Intersection over Union (mIoU) on Occ3D and 41.9 Ray-level Intersection over Union (RayIoU) (41.9) on OpenOcc datasets, running at 17.2 frames per second (FPS) and using only 5.3 GB of memory, compared with 4.1 FPS and 7.7 GB for STCOcc.",
+      "authors": [
+        "Ruan Bispo",
+        "Tim Brophy",
+        "Reenu Mohandas",
+        "Anthony Scanlan",
+        "Ciaran Eising"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "13 pages / 6 figures / 10 tables",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18733",
+      "pdf_url": "https://arxiv.org/pdf/2611.18733",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
         ]
       }
     },
@@ -5749,6 +6191,40 @@
       "matches": {
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.18708": {
+      "arxiv_id": "2611.18708",
+      "title": "TopSDF: Topological Signed Distance Field for High-Quality Triangle Mesh Extraction from 3D Gaussian Splatting",
+      "abstract": "Recent advances in 3D Gaussian Splatting (3DGS) have demonstrated its effectiveness for photorealistic novel view synthesis. However, extracting clean, watertight, explicit surface meshes from 3DGS remains a critical challenge. Previous methods approximate geometry via discrete Marching Tetrahedra, where each grid vertex is assigned a single scalar signed distance value. At complex geometric boundaries and thin structures, this suboptimal parameterization forces severe compromises across shared vertices, causing gradient collisions and geometric frustration. Furthermore, existing optimization objectives neglect element shape conditioning, producing degenerate triangles. We introduce TopSDF, a framework that models the signed distance state as a multivariate Gaussian random field. By learning latent topological covariances across tetrahedral vertices, our formulation expands local degrees of freedom for SDF estimates, allowing the candidate mesh vertices to be placed flexibly along the bipolar edges in the tetrahedra as driven by such topological correlation. Concurrently, we directly integrate variational meshing energies into the joint optimization, coupled with an energy-driven Gaussian densification strategy to improve triangle mesh quality. Our experiments across Mip-NeRF 360, Tanks & Temples, and ScanNet++ show that TopSDF achieves state-of-the-art mesh-based novel view rendering (+0.86 dB PSNR on Mip-NeRF 360) and triangle-mesh quality (from 0.37 to 0.49 aspect ratio).",
+      "authors": [
+        "Khoi Do",
+        "Yu-kun Lai",
+        "Binh-Son Hua"
+      ],
+      "published": "2026-11-06",
+      "updated": "2026-11-06",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.18708",
+      "pdf_url": "https://arxiv.org/pdf/2611.18708",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Radiance Field / NeRF",
+          "Neural Implicit / SDF"
         ]
       }
     },
@@ -387837,7 +388313,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-11-17",
-  "paper_count": 10384,
-  "generated_at": "2026-11-17T12:32:16+00:00"
+  "coverage_end": "2026-11-18",
+  "paper_count": 10397,
+  "generated_at": "2026-11-18T00:23:41+00:00"
 }

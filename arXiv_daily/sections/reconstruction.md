@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-17 · **Papers:** 3275 · **Unique arXiv IDs:** 3275
+**Coverage:** 2025-01-01 to 2026-11-18 · **Papers:** 3276 · **Unique arXiv IDs:** 3276
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -19,6 +19,7 @@
 | 2026-11-16 | [Efficient Multi-View Generation with Iterative Global-Local Proxy Attention](https://arxiv.org/abs/2611.20703) | Wei Tan, Kunming Luo, Hongyu Yan, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.20703) / [pdf](https://arxiv.org/pdf/2611.20703) |
 | 2026-11-16 | [OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark](https://arxiv.org/abs/2611.20570) | Haichuan Li | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.20570) / [pdf](https://arxiv.org/pdf/2611.20570) |
 | 2026-11-16 | [sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry](https://arxiv.org/abs/2611.20568) | Jungwoo Lee, Hogyun Kim, Jiwon Choi, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.20568) / [pdf](https://arxiv.org/pdf/2611.20568) |
+| 2026-11-16 | [Vision-Language Grounded Semantic Navigation for Autonomous Mobile Robots](https://arxiv.org/abs/2611.20558) | Ravindran Vasoor Saravanan, Chittin Varunav Ravi, Madhumita Singh, et al. | cs.RO, cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.20558) / [pdf](https://arxiv.org/pdf/2611.20558) |
 | 2026-11-16 | [Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery](https://arxiv.org/abs/2611.20502) | Dewi Endah Kharismawati, Toni Kazic | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.20502) / [pdf](https://arxiv.org/pdf/2611.20502) |
 | 2026-11-15 | [acuSimNet: Multi-View Self-Occlusion-Awared Visibility Learning for Cranio-Cervical Acupuncture Points](https://arxiv.org/abs/2611.20025) | Jiatao Ma, Qilei Sun | cs.CV, cs.AI | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.20025) / [pdf](https://arxiv.org/pdf/2611.20025) |
 | 2026-11-15 | [Beyond Vehicle-Centric Data: Scaling Autonomous Driving through Roadside-to-Vehicle Generation](https://arxiv.org/abs/2611.19830) | Yichen Zhang, Zihan Wang, Hao Chen, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.19830) / [pdf](https://arxiv.org/pdf/2611.19830) |
