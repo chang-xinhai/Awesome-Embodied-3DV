@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 3332 · **Unique arXiv IDs:** 3332
+**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 3341 · **Unique arXiv IDs:** 3341
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,15 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-18 | [Multi-Band Galaxy Novel-View Synthesis with Radiative Gaussian Fields](https://arxiv.org/abs/2611.24723) | Yuzhe Wu, Jialin Zhu, Doğa Yılmaz, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.24723) / [pdf](https://arxiv.org/pdf/2611.24723) |
+| 2026-11-18 | [RAPID: Reconstruction Accelerated by Polarization-Informed Depth for 2D Gaussian Splatting](https://arxiv.org/abs/2611.24404) | Daisong Ouyang, Linlin Xia, Liangkun Yan, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.24404) / [pdf](https://arxiv.org/pdf/2611.24404) |
+| 2026-11-18 | [Facet-SLAM: Real-Time Triangle Splatting SLAM](https://arxiv.org/abs/2611.23935) | Edward Beng Wai Tan, Siew-Kei Lam | cs.RO, cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2611.23935) / [pdf](https://arxiv.org/pdf/2611.23935) |
+| 2026-11-18 | [A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments](https://arxiv.org/abs/2611.23930) | Yuze Wu, Mo Zhu, Xingxing Li, et al. | cs.RO, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.23930) / [pdf](https://arxiv.org/pdf/2611.23930) |
+| 2026-11-18 | [Improving While Deployed: Learning Proactive End-to-End Driving from Imperfect Human Takeover Data](https://arxiv.org/abs/2611.23719) | Yangang Ren, Di Zeng, Jun Li, et al. | cs.RO | Gaussian Splatting, Dynamic / 4D | [abs](https://arxiv.org/abs/2611.23719) / [pdf](https://arxiv.org/pdf/2611.23719) |
+| 2026-11-17 | [NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics](https://arxiv.org/abs/2611.23450) | Latchan Chhetri, Aman Kumar | cs.CV, cs.GR | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.23450) / [pdf](https://arxiv.org/pdf/2611.23450) |
+| 2026-11-17 | [Gaussian Splatoms: Direct Atomic Structure Identification in Electron Tomography](https://arxiv.org/abs/2611.23444) | Nalini Singh, Tiffany Chien, Cedric Lim, et al. | eess.IV, cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.23444) / [pdf](https://arxiv.org/pdf/2611.23444) |
+| 2026-11-17 | [Autoregressive View Model](https://arxiv.org/abs/2611.23417) | Jensen, Zhou, Samuel Rota Bulo, et al. | cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2611.23417) / [pdf](https://arxiv.org/pdf/2611.23417) |
+| 2026-11-17 | [OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming](https://arxiv.org/abs/2611.23416) | Ashim Dahal, Nikesh Subedi, Rabab Abdelfattah, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.23416) / [pdf](https://arxiv.org/pdf/2611.23416) |
 | 2026-11-17 | [TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](https://arxiv.org/abs/2611.23143) | Haosong Peng, Xiangyang Liu, Zhengshen Zhang, et al. | cs.RO, cs.CV | Dynamic / 4D | [abs](https://arxiv.org/abs/2611.23143) / [pdf](https://arxiv.org/pdf/2611.23143) |
 | 2026-11-17 | [ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2611.23054) | Chuanzhi Xu, Boyu Wei, Chengkun Yue, et al. | cs.CV, cs.AI, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.23054) / [pdf](https://arxiv.org/pdf/2611.23054) |
 | 2026-11-17 | [You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting](https://arxiv.org/abs/2611.22898) | Canjie Liu, Liuqian Wang, Qi Ming, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.22898) / [pdf](https://arxiv.org/pdf/2611.22898) |

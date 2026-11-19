@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 1971 · **Unique arXiv IDs:** 1971
+**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 1975 · **Unique arXiv IDs:** 1975
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-18 | [UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation](https://arxiv.org/abs/2611.24941) | Jingzhi Bao, Xiaohe Ma, Hong Li, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2611.24941) / [pdf](https://arxiv.org/pdf/2611.24941) |
+| 2026-11-18 | [4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers](https://arxiv.org/abs/2611.24776) | Ramani Duraiswami, Yichao Zhang | physics.ins-det, cond-mat.mtrl-sci, cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.24776) / [pdf](https://arxiv.org/pdf/2611.24776) |
+| 2026-11-18 | [ALIVE: Bring Foundation Features to Life with Events](https://arxiv.org/abs/2611.24579) | Rong Zou, Haiqing Hao, Davide Scaramuzza | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.24579) / [pdf](https://arxiv.org/pdf/2611.24579) |
+| 2026-11-18 | [RAPID: Reconstruction Accelerated by Polarization-Informed Depth for 2D Gaussian Splatting](https://arxiv.org/abs/2611.24404) | Daisong Ouyang, Linlin Xia, Liangkun Yan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.24404) / [pdf](https://arxiv.org/pdf/2611.24404) |
 | 2026-11-17 | [GameRealm: Grounding Visual Learning in Interactive Games](https://arxiv.org/abs/2611.23140) | Weiguang Zhao, Yifan Wang, Ni Yang, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.23140) / [pdf](https://arxiv.org/pdf/2611.23140) |
 | 2026-11-17 | [Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models](https://arxiv.org/abs/2611.22733) | Longtao Jiang, Mingfei Han, Jianmin Bao, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.22733) / [pdf](https://arxiv.org/pdf/2611.22733) |
 | 2026-11-17 | [Beyond the Camera: A Tri-Modal Driving World Model for Future RGB, Thermal, and LiDAR Forecasting in Adverse Weather](https://arxiv.org/abs/2611.22669) | Faysal Mehrab Chowdhury, Md. Mahfuzur Rahman, Ahmed Rafi Hasan, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.22669) / [pdf](https://arxiv.org/pdf/2611.22669) |

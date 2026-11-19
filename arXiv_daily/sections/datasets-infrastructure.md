@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 584 · **Unique arXiv IDs:** 584
+**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 589 · **Unique arXiv IDs:** 589
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-18 | [Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors](https://arxiv.org/abs/2611.24696) | Eerik Alamikkotervo, Risto Ojala | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.24696) / [pdf](https://arxiv.org/pdf/2611.24696) |
+| 2026-11-18 | [ALIVE: Bring Foundation Features to Life with Events](https://arxiv.org/abs/2611.24579) | Rong Zou, Haiqing Hao, Davide Scaramuzza | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.24579) / [pdf](https://arxiv.org/pdf/2611.24579) |
+| 2026-11-18 | [Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes](https://arxiv.org/abs/2611.24007) | Luosong Guo, Xiang Yang, Chaoyang Li, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.24007) / [pdf](https://arxiv.org/pdf/2611.24007) |
+| 2026-11-18 | [GaussLearner: 3D Gaussian Primitives as Self-Regulating Continual Learners](https://arxiv.org/abs/2611.23736) | Gaoxiang Linghu, Haonan Zhou, Xuanhe Liu, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.23736) / [pdf](https://arxiv.org/pdf/2611.23736) |
+| 2026-11-17 | [MedHarness: A Unified Budgeted Runtime for Reliable Medical Imaging Agents](https://arxiv.org/abs/2611.23501) | Haofan Wu, Le Zhang | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.23501) / [pdf](https://arxiv.org/pdf/2611.23501) |
 | 2026-11-17 | [Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D](https://arxiv.org/abs/2611.23118) | Joyjeet Singh | cs.RO, cs.LG | Simulator / Toolchain | [abs](https://arxiv.org/abs/2611.23118) / [pdf](https://arxiv.org/pdf/2611.23118) |
 | 2026-11-17 | [Multispectral-Polarization-Infrared Multi-Aperture Camouflaged Vehicle Detection](https://arxiv.org/abs/2611.22246) | Shu Wang, Xiong Lin, Yuan Song, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.22246) / [pdf](https://arxiv.org/pdf/2611.22246) |
 | 2026-11-17 | [Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments](https://arxiv.org/abs/2611.22212) | Geonmo Yang, Gilhwan Kang, Juhui Lee, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.22212) / [pdf](https://arxiv.org/pdf/2611.22212) |

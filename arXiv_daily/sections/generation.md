@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 1093 · **Unique arXiv IDs:** 1093
+**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 1095 · **Unique arXiv IDs:** 1095
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-18 | [ReflectScene:MLLM-Guided Closed-Loop Diffusion for 3D Indoor Scene Generation](https://arxiv.org/abs/2611.23845) | Jiawei Shen, Jie Feng, Junpeng Zhang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2611.23845) / [pdf](https://arxiv.org/pdf/2611.23845) |
+| 2026-11-18 | [GTA: Generative Tower of Agents for Scalable Holonic Scene Generation](https://arxiv.org/abs/2611.23727) | Zeng Tao, Yunuo Chen, Xiang Feng, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.23727) / [pdf](https://arxiv.org/pdf/2611.23727) |
 | 2026-11-17 | [RFW-S: Everyday Deformable Objects with Independent Simulation Verification](https://arxiv.org/abs/2611.23056) | Jiarui Guo, Saining Zhang, Jiaying Wan, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.23056) / [pdf](https://arxiv.org/pdf/2611.23056) |
 | 2026-11-17 | [PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos](https://arxiv.org/abs/2611.22244) | Qi Shao, Zhihao Cao, Shuhao Zhai, et al. | cs.CV | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.22244) / [pdf](https://arxiv.org/pdf/2611.22244) |
 | 2026-11-16 | [FaceRiff: Data-Efficient Unified Text-to-3D Face Asset Synthesis via Geometric Conditioning](https://arxiv.org/abs/2611.21867) | Elly Akhoundi, Mathieu Lamarre, Thibault Goyallon, et al. | cs.CV, cs.AI, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.21867) / [pdf](https://arxiv.org/pdf/2611.21867) |
