@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-19 · **Papers:** 2879 · **Unique arXiv IDs:** 2879
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 2879 · **Unique arXiv IDs:** 2879
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
