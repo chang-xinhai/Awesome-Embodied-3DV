@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 3292 · **Unique arXiv IDs:** 3292
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 3302 · **Unique arXiv IDs:** 3302
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,16 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-19 | [SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention](https://arxiv.org/abs/2611.26493) | Aoxiang Fan, Maria Pilligua, Corentin Dumery, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26493) / [pdf](https://arxiv.org/pdf/2611.26493) |
+| 2026-11-19 | [OffBeat: Multicoset Sampling for 4D Capture Beyond the Camera Frame Rate](https://arxiv.org/abs/2611.26347) | Chi-Wei Lee, An-Kai Chen, Cheng-Han Chiang, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26347) / [pdf](https://arxiv.org/pdf/2611.26347) |
+| 2026-11-19 | [FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views](https://arxiv.org/abs/2611.26321) | Chi-Wei Lee, Cheng-Han Chiang, Yi-Chun Chang, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26321) / [pdf](https://arxiv.org/pdf/2611.26321) |
+| 2026-11-19 | [AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction](https://arxiv.org/abs/2611.26048) | Xiaofeng Jin, Ningbo Bu, Matteo Frosi, et al. | cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26048) / [pdf](https://arxiv.org/pdf/2611.26048) |
+| 2026-11-19 | [Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On](https://arxiv.org/abs/2611.25979) | Sarthak Batra, Armin Mustafa, Adrian Hilton | cs.CV, cs.AI | Multi-View Geometry | [abs](https://arxiv.org/abs/2611.25979) / [pdf](https://arxiv.org/pdf/2611.25979) |
+| 2026-11-19 | [Beyond Resemblance: Image Fusion Reimagined](https://arxiv.org/abs/2611.25453) | Hao Zhang, Yumin Huang, Linfeng Tang, et al. | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.25453) / [pdf](https://arxiv.org/pdf/2611.25453) |
+| 2026-11-19 | [Watertight Mesh Optimization of Textured Objects](https://arxiv.org/abs/2611.25414) | Nathaniel Burgdorfer, Philippos Mordohai | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.25414) / [pdf](https://arxiv.org/pdf/2611.25414) |
+| 2026-11-19 | [VideoRNG: Relightable Neural Gaussians from Generative Video Models](https://arxiv.org/abs/2611.25338) | Bowen Xue, Saeed Hadadan, Fabrice Rousselle, et al. | cs.CV, cs.GR | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2611.25338) / [pdf](https://arxiv.org/pdf/2611.25338) |
+| 2026-11-18 | [Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU](https://arxiv.org/abs/2611.25279) | Jaafar Mahmoud, Arthur Movsesyan, Cuong Huynh, et al. | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.25279) / [pdf](https://arxiv.org/pdf/2611.25279) |
+| 2026-11-18 | [Infer3D: Inverse Generative Modeling Enables Robust 3D Reconstruction](https://arxiv.org/abs/2611.25061) | Amani Kiruga, Mark Hamilton, Joshua B. Tenenbaum, et al. | cs.CV, cs.LG, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.25061) / [pdf](https://arxiv.org/pdf/2611.25061) |
 | 2026-11-18 | [Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors](https://arxiv.org/abs/2611.24696) | Eerik Alamikkotervo, Risto Ojala | cs.CV | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.24696) / [pdf](https://arxiv.org/pdf/2611.24696) |
 | 2026-11-18 | [Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning](https://arxiv.org/abs/2611.24565) | Zeting Luo, Yifan Li, Shuai Yang | cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.24565) / [pdf](https://arxiv.org/pdf/2611.24565) |
 | 2026-11-18 | [Proprioceptive Simultaneous Base and Terrain Elevation Estimation for Legged Robot Locomotion](https://arxiv.org/abs/2611.24310) | Michael Maravgakis, Stylianos Piperakis, Panos Trahanias | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.24310) / [pdf](https://arxiv.org/pdf/2611.24310) |

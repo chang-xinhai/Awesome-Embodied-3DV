@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 589 · **Unique arXiv IDs:** 589
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 591 · **Unique arXiv IDs:** 591
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-19 | [HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation](https://arxiv.org/abs/2611.26434) | Shihan Wu, You Liu, Chunyu He, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.26434) / [pdf](https://arxiv.org/pdf/2611.26434) |
+| 2026-11-19 | [DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis](https://arxiv.org/abs/2611.26072) | Shiori Ueda, Rinto Yagawa, Hideo Saito, et al. | cs.CV | Dataset, Benchmark / Metric | [abs](https://arxiv.org/abs/2611.26072) / [pdf](https://arxiv.org/pdf/2611.26072) |
 | 2026-11-18 | [Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors](https://arxiv.org/abs/2611.24696) | Eerik Alamikkotervo, Risto Ojala | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.24696) / [pdf](https://arxiv.org/pdf/2611.24696) |
 | 2026-11-18 | [ALIVE: Bring Foundation Features to Life with Events](https://arxiv.org/abs/2611.24579) | Rong Zou, Haiqing Hao, Davide Scaramuzza | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.24579) / [pdf](https://arxiv.org/pdf/2611.24579) |
 | 2026-11-18 | [Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes](https://arxiv.org/abs/2611.24007) | Luosong Guo, Xiang Yang, Chaoyang Li, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.24007) / [pdf](https://arxiv.org/pdf/2611.24007) |

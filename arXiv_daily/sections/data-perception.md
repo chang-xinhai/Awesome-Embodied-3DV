@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 1975 · **Unique arXiv IDs:** 1975
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 1983 · **Unique arXiv IDs:** 1983
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-19 | [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://arxiv.org/abs/2611.26603) | Peiyun Hu, Marko Mihajlovic, Lyndon Duong, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.26603) / [pdf](https://arxiv.org/pdf/2611.26603) |
+| 2026-11-19 | [Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU](https://arxiv.org/abs/2611.26083) | Zhenghao Zou, Yang Lyu, Xiaohu Guo, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.26083) / [pdf](https://arxiv.org/pdf/2611.26083) |
+| 2026-11-19 | [DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis](https://arxiv.org/abs/2611.26072) | Shiori Ueda, Rinto Yagawa, Hideo Saito, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.26072) / [pdf](https://arxiv.org/pdf/2611.26072) |
+| 2026-11-19 | [WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping](https://arxiv.org/abs/2611.25873) | Xiaoxin Mi, Zhen Cao, Chong Liu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.25873) / [pdf](https://arxiv.org/pdf/2611.25873) |
+| 2026-11-19 | [SAM 3 Sees More Than It Detects: Promptable Concept Maps Beyond Categories](https://arxiv.org/abs/2611.25747) | Yu-Huan Wu, Yun Liu, Liangli Zhen | cs.CV, cs.AI | Transparent / Specular | [abs](https://arxiv.org/abs/2611.25747) / [pdf](https://arxiv.org/pdf/2611.25747) |
+| 2026-11-19 | [Beyond Resemblance: Image Fusion Reimagined](https://arxiv.org/abs/2611.25453) | Hao Zhang, Yumin Huang, Linfeng Tang, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.25453) / [pdf](https://arxiv.org/pdf/2611.25453) |
+| 2026-11-19 | [MIR-Depth: Multi-Range Refinement for Single-View RGB-D Depth Completion of Transparent Objects](https://arxiv.org/abs/2611.25417) | Xinzhe Fu, Qi Shao, Yuanfei Xie, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2611.25417) / [pdf](https://arxiv.org/pdf/2611.25417) |
+| 2026-11-18 | [Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU](https://arxiv.org/abs/2611.25279) | Jaafar Mahmoud, Arthur Movsesyan, Cuong Huynh, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.25279) / [pdf](https://arxiv.org/pdf/2611.25279) |
 | 2026-11-18 | [UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation](https://arxiv.org/abs/2611.24941) | Jingzhi Bao, Xiaohe Ma, Hong Li, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2611.24941) / [pdf](https://arxiv.org/pdf/2611.24941) |
 | 2026-11-18 | [4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers](https://arxiv.org/abs/2611.24776) | Ramani Duraiswami, Yichao Zhang | physics.ins-det, cond-mat.mtrl-sci, cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.24776) / [pdf](https://arxiv.org/pdf/2611.24776) |
 | 2026-11-18 | [ALIVE: Bring Foundation Features to Life with Events](https://arxiv.org/abs/2611.24579) | Rong Zou, Haiqing Hao, Davide Scaramuzza | cs.CV, cs.RO | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.24579) / [pdf](https://arxiv.org/pdf/2611.24579) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 3341 · **Unique arXiv IDs:** 3341
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 3348 · **Unique arXiv IDs:** 3348
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-19 | [Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://arxiv.org/abs/2611.26511) | Shuang Wu, Jiachen Qian, Youtian Lin, et al. | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.26511) / [pdf](https://arxiv.org/pdf/2611.26511) |
+| 2026-11-19 | [FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views](https://arxiv.org/abs/2611.26321) | Chi-Wei Lee, Cheng-Han Chiang, Yi-Chun Chang, et al. | cs.CV, eess.IV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.26321) / [pdf](https://arxiv.org/pdf/2611.26321) |
+| 2026-11-19 | [CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting](https://arxiv.org/abs/2611.26128) | Ziwen Wang, Jiajun Fan, Chaoran Cheng, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.26128) / [pdf](https://arxiv.org/pdf/2611.26128) |
+| 2026-11-19 | [PaveSplat: Resolution-Robust Feed-Forward Gaussian Splatting with Residually Corrected Surface-Aligned Covariances](https://arxiv.org/abs/2611.26045) | Janghun Kim, Hyun-Cheol Kim, Eunbin An, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.26045) / [pdf](https://arxiv.org/pdf/2611.26045) |
+| 2026-11-19 | [Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On](https://arxiv.org/abs/2611.25979) | Sarthak Batra, Armin Mustafa, Adrian Hilton | cs.CV, cs.AI | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.25979) / [pdf](https://arxiv.org/pdf/2611.25979) |
+| 2026-11-19 | [AGSR: Aperture-Guided Super-Resolution for Gaussian Splatting](https://arxiv.org/abs/2611.25934) | Ayman Alkhateeb, Hadi Amirpour, Christian Timmerer | cs.CV, cs.GR | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.25934) / [pdf](https://arxiv.org/pdf/2611.25934) |
+| 2026-11-19 | [Multi-View Relighting with Mergeable Radiance Fields](https://arxiv.org/abs/2611.25523) | Yinan Wang, Rohan Kadkol, Hyunjin Yoo, et al. | cs.CV | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.25523) / [pdf](https://arxiv.org/pdf/2611.25523) |
 | 2026-11-18 | [Multi-Band Galaxy Novel-View Synthesis with Radiative Gaussian Fields](https://arxiv.org/abs/2611.24723) | Yuzhe Wu, Jialin Zhu, Doğa Yılmaz, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.24723) / [pdf](https://arxiv.org/pdf/2611.24723) |
 | 2026-11-18 | [RAPID: Reconstruction Accelerated by Polarization-Informed Depth for 2D Gaussian Splatting](https://arxiv.org/abs/2611.24404) | Daisong Ouyang, Linlin Xia, Liangkun Yan, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.24404) / [pdf](https://arxiv.org/pdf/2611.24404) |
 | 2026-11-18 | [Facet-SLAM: Real-Time Triangle Splatting SLAM](https://arxiv.org/abs/2611.23935) | Edward Beng Wai Tan, Siew-Kei Lam | cs.RO, cs.CV | Gaussian Splatting, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2611.23935) / [pdf](https://arxiv.org/pdf/2611.23935) |

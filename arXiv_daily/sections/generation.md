@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 1095 · **Unique arXiv IDs:** 1095
+**Coverage:** 2025-01-01 to 2026-11-20 · **Papers:** 1100 · **Unique arXiv IDs:** 1100
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-19 | [Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://arxiv.org/abs/2611.26511) | Shuang Wu, Jiachen Qian, Youtian Lin, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.26511) / [pdf](https://arxiv.org/pdf/2611.26511) |
+| 2026-11-19 | [WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping](https://arxiv.org/abs/2611.25873) | Xiaoxin Mi, Zhen Cao, Chong Liu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.25873) / [pdf](https://arxiv.org/pdf/2611.25873) |
+| 2026-11-19 | [World-delta: Continually Integrating Observations for Incremental 3D Scene Generation](https://arxiv.org/abs/2611.25802) | Haonan Wang, Hanyu Zhou, Xiaobin Hu, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.25802) / [pdf](https://arxiv.org/pdf/2611.25802) |
+| 2026-11-19 | [Watertight Mesh Optimization of Textured Objects](https://arxiv.org/abs/2611.25414) | Nathaniel Burgdorfer, Philippos Mordohai | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.25414) / [pdf](https://arxiv.org/pdf/2611.25414) |
+| 2026-11-19 | [SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video](https://arxiv.org/abs/2611.25340) | Bowen Xue, Saeed Hadadan, Fabrice Rousselle, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.25340) / [pdf](https://arxiv.org/pdf/2611.25340) |
 | 2026-11-18 | [ReflectScene:MLLM-Guided Closed-Loop Diffusion for 3D Indoor Scene Generation](https://arxiv.org/abs/2611.23845) | Jiawei Shen, Jie Feng, Junpeng Zhang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2611.23845) / [pdf](https://arxiv.org/pdf/2611.23845) |
 | 2026-11-18 | [GTA: Generative Tower of Agents for Scalable Holonic Scene Generation](https://arxiv.org/abs/2611.23727) | Zeng Tao, Yunuo Chen, Xiang Feng, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.23727) / [pdf](https://arxiv.org/pdf/2611.23727) |
 | 2026-11-17 | [RFW-S: Everyday Deformable Objects with Independent Simulation Verification](https://arxiv.org/abs/2611.23056) | Jiarui Guo, Saining Zhang, Jiaying Wan, et al. | cs.RO, cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.23056) / [pdf](https://arxiv.org/pdf/2611.23056) |
