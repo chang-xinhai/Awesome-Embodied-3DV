@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 3302 · **Unique arXiv IDs:** 3302
+**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 3308 · **Unique arXiv IDs:** 3308
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-20 | [BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles](https://arxiv.org/abs/2611.27817) | Adolfo Damiano Cafaro, Patrizio Mariani, Roberto Galeazzi | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.27817) / [pdf](https://arxiv.org/pdf/2611.27817) |
+| 2026-11-20 | [VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS](https://arxiv.org/abs/2611.27719) | Mohab Kishawy, Chengzhou Tang, Shahram Shirani, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.27719) / [pdf](https://arxiv.org/pdf/2611.27719) |
+| 2026-11-20 | [BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery](https://arxiv.org/abs/2611.27407) | Jonathan Sterckx, Michiel Vlaminck, Hiep Luong | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.27407) / [pdf](https://arxiv.org/pdf/2611.27407) |
+| 2026-11-20 | [EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training](https://arxiv.org/abs/2611.27101) | Ankit Pal, Guillaume Kugener, Sofia Volpi, et al. | cs.CV, cs.LG, cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.27101) / [pdf](https://arxiv.org/pdf/2611.27101) |
+| 2026-11-20 | [RoboCap-10k: A Metrically Accurate Egocentric Dataset for Robot Learning](https://arxiv.org/abs/2611.26916) | Kheri Hughes, Qasim Ali, Nikash Bhardwaj, et al. | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.26916) / [pdf](https://arxiv.org/pdf/2611.26916) |
+| 2026-11-19 | [TacHOI: Contact-Aware Object Reconstruction and Tracking for Egocentric Videos](https://arxiv.org/abs/2611.26764) | Jackson Codd, Haoyu Li, Xianyi Cheng | cs.RO, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26764) / [pdf](https://arxiv.org/pdf/2611.26764) |
 | 2026-11-19 | [SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention](https://arxiv.org/abs/2611.26493) | Aoxiang Fan, Maria Pilligua, Corentin Dumery, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26493) / [pdf](https://arxiv.org/pdf/2611.26493) |
 | 2026-11-19 | [OffBeat: Multicoset Sampling for 4D Capture Beyond the Camera Frame Rate](https://arxiv.org/abs/2611.26347) | Chi-Wei Lee, An-Kai Chen, Cheng-Han Chiang, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26347) / [pdf](https://arxiv.org/pdf/2611.26347) |
 | 2026-11-19 | [FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views](https://arxiv.org/abs/2611.26321) | Chi-Wei Lee, Cheng-Han Chiang, Yi-Chun Chang, et al. | cs.CV, eess.IV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.26321) / [pdf](https://arxiv.org/pdf/2611.26321) |

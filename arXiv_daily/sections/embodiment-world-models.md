@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 2899 · **Unique arXiv IDs:** 2899
+**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 2913 · **Unique arXiv IDs:** 2913
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,20 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-20 | [What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage](https://arxiv.org/abs/2611.27939) | Hassan Iqbal, Krishna Kumar | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.27939) / [pdf](https://arxiv.org/pdf/2611.27939) |
+| 2026-11-20 | [Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking](https://arxiv.org/abs/2611.27648) | Xuzhe Dang, Stefan Edelkamp | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.27648) / [pdf](https://arxiv.org/pdf/2611.27648) |
+| 2026-11-20 | [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) | Anqi Li, Kai Liu, Linghe Kong, et al. | cs.RO, cs.CV | World Model | [abs](https://arxiv.org/abs/2611.27639) / [pdf](https://arxiv.org/pdf/2611.27639) |
+| 2026-11-20 | [PhiJEPA: Denoising Latent Predictions for Visual Representation Learning](https://arxiv.org/abs/2611.27516) | Makoto Yamada, Yao-Hung Hubert Tsai | cs.CV, cs.AI, stat.ML | World Model | [abs](https://arxiv.org/abs/2611.27516) / [pdf](https://arxiv.org/pdf/2611.27516) |
+| 2026-11-20 | [Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface](https://arxiv.org/abs/2611.27513) | Yang Liu, Chao Ye, Jiahao Zhang, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.27513) / [pdf](https://arxiv.org/pdf/2611.27513) |
+| 2026-11-20 | [LiDAR Signals for Robot Locomotion: Spherical Range Images Enable Robust Sim-to-Real Transfer](https://arxiv.org/abs/2611.27223) | Nian Liu, Xinyi Tong, Ming Ren, et al. | cs.AI | Sim-to-Real | [abs](https://arxiv.org/abs/2611.27223) / [pdf](https://arxiv.org/pdf/2611.27223) |
+| 2026-11-20 | [PACE-WM: Parallel World Modeling with Action History for Visual Planning](https://arxiv.org/abs/2611.27173) | Haishan Liu, Shijie Lian, Bin Yu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.27173) / [pdf](https://arxiv.org/pdf/2611.27173) |
+| 2026-11-20 | [PhysForce: Physics-aware Force Control for Interactive Video World Model](https://arxiv.org/abs/2611.27164) | Xuancheng Xu, Xiaofeng Wang, Yue Ma, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.27164) / [pdf](https://arxiv.org/pdf/2611.27164) |
+| 2026-11-20 | [Where Structure Enters a World Model: From Predictive Fit to Physical Rollout](https://arxiv.org/abs/2611.27149) | Panayiotis Christou, Satyapragnya Kar, Flavjo Xhelollari, et al. | cs.AI | World Model | [abs](https://arxiv.org/abs/2611.27149) / [pdf](https://arxiv.org/pdf/2611.27149) |
+| 2026-11-20 | [Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics](https://arxiv.org/abs/2611.27029) | Weikang Qiu, Zheng Huang, Tinglin Huang, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.27029) / [pdf](https://arxiv.org/pdf/2611.27029) |
+| 2026-11-20 | [ReactDrive: Self-Reactive Driving World Model](https://arxiv.org/abs/2611.27024) | Yifan Wang, Xiaoqi Wang, Cho-Ying Wu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.27024) / [pdf](https://arxiv.org/pdf/2611.27024) |
+| 2026-11-20 | [ViewDreamer: A Robot World Model beyond Fixed Camera Setups](https://arxiv.org/abs/2611.26981) | Ye Mao, Jinhui Xiong, Egor Larionov, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.26981) / [pdf](https://arxiv.org/pdf/2611.26981) |
+| 2026-11-19 | [3D Open-Vocabulary Detection via Visual Alignment and Generative Captions](https://arxiv.org/abs/2611.26842) | Thomas E. Huang, Alex Zihao Zhu, Hao Xiang, et al. | cs.CV, cs.RO | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.26842) / [pdf](https://arxiv.org/pdf/2611.26842) |
+| 2026-11-19 | [Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models](https://arxiv.org/abs/2611.26825) | Tomás Couso Coddou, Christ Devia, Rex G. Liu, et al. | cs.RO, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.26825) / [pdf](https://arxiv.org/pdf/2611.26825) |
 | 2026-11-19 | [Plan4D: Generative Plannable 4D Worlds](https://arxiv.org/abs/2611.26516) | Hangwei Zhang, Rujing Dang, Ruimin Lin, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.26516) / [pdf](https://arxiv.org/pdf/2611.26516) |
 | 2026-11-19 | [Monte Carlo Pass Search for Setpieces](https://arxiv.org/abs/2611.26464) | Andrew Kang | cs.AI | World Model | [abs](https://arxiv.org/abs/2611.26464) / [pdf](https://arxiv.org/pdf/2611.26464) |
 | 2026-11-19 | [LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control](https://arxiv.org/abs/2611.26293) | Firas Al-Hafez, Davide Tateo, Oleg Kaidanov, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.26293) / [pdf](https://arxiv.org/pdf/2611.26293) |
