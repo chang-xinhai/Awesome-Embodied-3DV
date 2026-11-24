@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 3350 · **Unique arXiv IDs:** 3350
+**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 3352 · **Unique arXiv IDs:** 3352
 
 **Scope:** Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations
 
@@ -13,7 +13,9 @@
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
 | 2026-11-20 | [VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS](https://arxiv.org/abs/2611.27719) | Mohab Kishawy, Chengzhou Tang, Shahram Shirani, et al. | cs.CV, cs.GR | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.27719) / [pdf](https://arxiv.org/pdf/2611.27719) |
+| 2026-11-20 | [PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs](https://arxiv.org/abs/2611.27525) | Nicholas Jing Shou Nge, Yuang Shi, Geraldine Morin, et al. | cs.GR, cs.PF | Gaussian Splatting, Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.27525) / [pdf](https://arxiv.org/pdf/2611.27525) |
 | 2026-11-20 | [BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery](https://arxiv.org/abs/2611.27407) | Jonathan Sterckx, Michiel Vlaminck, Hiep Luong | cs.CV, cs.RO | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.27407) / [pdf](https://arxiv.org/pdf/2611.27407) |
+| 2026-11-20 | [EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction](https://arxiv.org/abs/2611.27224) | Ke Luo, Wei Zhai, Yuliang Wu, et al. | cs.CV | Radiance Field / NeRF, Neural Implicit / SDF, Explicit / Hybrid Geometry | [abs](https://arxiv.org/abs/2611.27224) / [pdf](https://arxiv.org/pdf/2611.27224) |
 | 2026-11-19 | [Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://arxiv.org/abs/2611.26511) | Shuang Wu, Jiachen Qian, Youtian Lin, et al. | cs.CV | Neural Implicit / SDF | [abs](https://arxiv.org/abs/2611.26511) / [pdf](https://arxiv.org/pdf/2611.26511) |
 | 2026-11-19 | [FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views](https://arxiv.org/abs/2611.26321) | Chi-Wei Lee, Cheng-Han Chiang, Yi-Chun Chang, et al. | cs.CV, eess.IV | Radiance Field / NeRF | [abs](https://arxiv.org/abs/2611.26321) / [pdf](https://arxiv.org/pdf/2611.26321) |
 | 2026-11-19 | [CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting](https://arxiv.org/abs/2611.26128) | Ziwen Wang, Jiajun Fan, Chaoran Cheng, et al. | cs.CV | Gaussian Splatting | [abs](https://arxiv.org/abs/2611.26128) / [pdf](https://arxiv.org/pdf/2611.26128) |

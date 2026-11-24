@@ -1,6 +1,40 @@
 {
   "schema_version": 1,
   "papers": {
+    "2611.27953": {
+      "arxiv_id": "2611.27953",
+      "title": "Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform",
+      "abstract": "Neuromorphic sensing and computing offer a promising alternative to conventional deep learning pipelines for mobile robots, where perception must run continuously under tight latency and energy constraints. However, most neuromorphic solutions are still evaluated offline or on isolated benchmarks, and their integration into complete robotic systems remains largely unexplored. In this technical report, a four-wheel rover platform is presented that combines three real-time perception pipelines: a classical audio tagging pipeline based on Pretrained Audio Neural Networks (PANNs) running on an NVIDIA Jetson GPU, a neuromorphic audio pipeline in which a spiking neural network (SNN) is deployed on the SynSense Xylo Audio~2 chip, and a neuromorphic vision pipeline in which events from an event-based camera are processed by the SpikeYOLO spiking detector for traffic cone detection. On the Xylo chip, the whole processing chain---from the microphone signal to the classification of low- and high-pitched sounds---is performed on-chip, while the host only configures the device and reads the output neurons. All models are deployed as containerised services and integrated through ROS~2, and a configurable action dispatcher maps the detected classes to robot behaviours, closing the loop between perception and actuation. The platform is demonstrated in a proof-of-concept scenario in which the robot reacts to sound classes detected by both audio pipelines and detects traffic cones with the event camera, showing the feasibility of integrating neuromorphic hardware into a multimodal robotic platform operating in real time.",
+      "authors": [
+        "Guillem Fustier-Castillo",
+        "Ruben Ribes-Serrano",
+        "Javier Naranjo-Alcazar",
+        "Vicent Ortiz-Castello",
+        "Pedro Zuccarello"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27953",
+      "pdf_url": "https://arxiv.org/pdf/2611.27953",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
+        ]
+      }
+    },
     "2611.27939": {
       "arxiv_id": "2611.27939",
       "title": "What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage",
@@ -87,7 +121,8 @@
       "url": "https://arxiv.org/abs/2611.27719",
       "pdf_url": "https://arxiv.org/pdf/2611.27719",
       "query_sources": [
-        "reconstruction-and-mapping"
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -167,6 +202,43 @@
         ]
       }
     },
+    "2611.27525": {
+      "arxiv_id": "2611.27525",
+      "title": "PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs",
+      "abstract": "3D Gaussian Splatting is increasingly fed by high-resolution captures from commodity devices, yet training still happens at reduced resolution with research-grade GPUs. We present PennyGS, a method to achieve full-resolution (4K) training of 3DGS on consumer GPUs by improving the efficiency of every stage of a training step. Improvements include a leaner splat with flat RGB color and a directional cone opacity, fused projection and key emission, forward rasterization optimizations with strided pixel sampling, an approximate tile SSIM loss, a warp-per-splat backward rasterization, and a fused backward projection and sparse Adam step. At the standard 30k-step budget, PennyGS is the fastest of 10 methods on Mip-NeRF 360 and Tanks&Temples 4K on all four GPUs at competitive quality, at least 3.9x faster than the quickest of the others, while peaking below 2 GB of GPU memory. On an RTX 3060, a full-resolution Mip-NeRF 360 scene trains in 6m 25s, faster than any other method trains it on an RTX 4090.",
+      "authors": [
+        "Nicholas Jing Shou Nge",
+        "Yuang Shi",
+        "Geraldine Morin",
+        "Simone Gasparini",
+        "Anand Bhojan",
+        "Wei Tsang Ooi"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.GR",
+      "categories": [
+        "cs.GR",
+        "cs.PF"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27525",
+      "pdf_url": "https://arxiv.org/pdf/2611.27525",
+      "query_sources": [
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Gaussian Splatting",
+          "Radiance Field / NeRF"
+        ]
+      }
+    },
     "2611.27516": {
       "arxiv_id": "2611.27516",
       "title": "PhiJEPA: Denoising Latent Predictions for Visual Representation Learning",
@@ -237,6 +309,71 @@
         ]
       }
     },
+    "2611.27423": {
+      "arxiv_id": "2611.27423",
+      "title": "ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction",
+      "abstract": "Exposure and gain determine the visual evidence available to monocular depth estimation (MDE), particularly when robot motion creates a tradeoff between light collection and motion blur. We present ADEPT, a framework that adapts these settings using learned feedback from a frozen depth model. During training, ground-truth depth identifies the lowest-error reference within a group of physically evaluated camera settings. A compact predictor learns reference-relative disagreement (RRD) between each candidate's depth prediction and the reference prediction using regression and ranking losses. At deployment, it scores observed captures using frozen-model features and camera, motion, and illumination context, without ground truth or reference images. A contextual Gaussian-process controller uses recent scores to select subsequent exposure and gain settings under motion and photometric constraints. We evaluate offline camera selection with relative and metric Depth Anything v2 and demonstrate online control with the affine-invariant variant on a mobile robot. Across nine equally weighted scene-illumination conditions, ADEPT reduces mean scale-and-shift-aligned $\\mathrm{Abs}_{\\mathrm{rel}}$ by 14.6% relative to built-in auto-exposure and by 10.0% relative to the best-performing evaluated prior controller.",
+      "authors": [
+        "GiHyun Kim",
+        "JinMo Yang",
+        "Hyung-Sin Kim"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27423",
+      "pdf_url": "https://arxiv.org/pdf/2611.27423",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2611.27412": {
+      "arxiv_id": "2611.27412",
+      "title": "Projector Time Map Calibration for Event-based Structured Light",
+      "abstract": "Existing event-based structured light obtains a dense projector-camera correspondence from the timestamp of an event. It assumes that the projector scans a parallel raster and that the sensor timestamps each pixel independently, and we show that neither assumption holds. We obtain the correspondence from a temporal code that identifies the projector pixel directly and therefore needs no prior calibration, we calibrate the projector time map from the same recording, and we recover the geometry of the system and the offsets between its clocks by a spatio-temporal self-calibration in a preamble of a few seconds that needs no reference object and no second camera.",
+      "authors": [
+        "Buu-Hoang-Lam Le",
+        "Kota Mizutani",
+        "Shohei Nobuhara"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "accepted to IEICE Transactions on Information and Systems",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27412",
+      "pdf_url": "https://arxiv.org/pdf/2611.27412",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Active Imaging"
+        ]
+      }
+    },
     "2611.27407": {
       "arxiv_id": "2611.27407",
       "title": "BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery",
@@ -259,7 +396,8 @@
       "url": "https://arxiv.org/abs/2611.27407",
       "pdf_url": "https://arxiv.org/pdf/2611.27407",
       "query_sources": [
-        "reconstruction-and-mapping"
+        "reconstruction-and-mapping",
+        "representations"
       ],
       "topics": [
         "representation",
@@ -271,6 +409,78 @@
         ],
         "reconstruction": [
           "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.27383": {
+      "arxiv_id": "2611.27383",
+      "title": "PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild",
+      "abstract": "Existing UAV tracking benchmarks predominantly rely on perspective cameras with limited fields of view. Omnidirectional cameras enable full-spherical observation, yet tracking from moving UAV platforms remains largely unexplored. Unlike ground-level panoramic tracking, UAV-mounted omnidirectional cameras observe targets across both azimuth and elevation, introducing geometric challenges under equirectangular projection (ERP). To investigate this setting, we capture approximately \\textbf{40 hours of real-world 8K panoramic UAV video} and construct \\textbf{PanoUAV-Track} through temporal clip extraction, target annotation, and the integration of simulated sequences. The resulting benchmark comprises 1,895 sequences, 507,961 frames, and 2,872 annotated objects, covering real-world daytime and nighttime scenes alongside simulation, and supporting both visual and language-based target specification. Through extensive evaluations, we reveal a clear \\textbf{perspective-to-spherical} generalization gap and identify tracking degradation associated with latitude-dependent distortion and ERP seam discontinuity. To address these challenges, we propose \\textbf{PanoUAV-Tracker (PUTrack)}, a geometry-aware tracking framework combining latitude-adaptive search and seam-aware periodic sampling. PUTrack improves zero-shot and in-domain tracking, particularly for seam-crossing targets. Code and benchmark resources will be available\\footnote{\\textcolor{tabpink}{https://libingyu01.github.io/PanoUAV-Track/}}.",
+      "authors": [
+        "Bingyu Li",
+        "Lichang Yang",
+        "Zhiyuan Zhao",
+        "Junyu Gao",
+        "Xuelong Li"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27383",
+      "pdf_url": "https://arxiv.org/pdf/2611.27383",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
+    "2611.27224": {
+      "arxiv_id": "2611.27224",
+      "title": "EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction",
+      "abstract": "Event-supervised Gaussian reconstruction combines the high temporal resolution and wide dynamic range of event cameras with efficient explicit rendering. However, recovering a continuous surface remains difficult: changes in rendered appearance can compensate for depth errors while preserving the predicted brightness changes. We introduce Event-Anchored Surface Transport (EAST), which couples an event-constrained signed distance field to Gaussian rendering. Triangulation-supported candidates anchor the zero set, while normal flow measured from event timing constrains ray-surface intersection depths. Gaussian centers receive bounded corrections from the descriptor difference between the live field and a frozen initial reference. The correction is zero at initialization, yet transmits image gradients to the live field. Experiments on PAEv3D and NeRF Synthetic show improved surface accuracy and reference-view rendering over Gaussian baselines, together with efficient mesh extraction from the learned field.",
+      "authors": [
+        "Ke Luo",
+        "Wei Zhai",
+        "Yuliang Wu",
+        "Pengfei Yu",
+        "Yang Cao"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27224",
+      "pdf_url": "https://arxiv.org/pdf/2611.27224",
+      "query_sources": [
+        "depth-and-sensing",
+        "representations"
+      ],
+      "topics": [
+        "representation"
+      ],
+      "matches": {
+        "representation": [
+          "Radiance Field / NeRF",
+          "Neural Implicit / SDF",
+          "Explicit / Hybrid Geometry"
         ]
       }
     },
@@ -412,6 +622,43 @@
       "matches": {
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2611.27136": {
+      "arxiv_id": "2611.27136",
+      "title": "TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics",
+      "abstract": "General-purpose point tracking requires large-scale training data with diverse dynamics, yet existing datasets struggle to combine rich dynamic content, accurate scene geometry, and sufficient scale. We introduce TrajRealm, the first public synthetic point-tracking dataset to reach the ten-million-frame scale, constructed from games and embodied simulations. TrajRealm uses the rich environments and motion systems of modern games to capture diverse targets, activities, and interactions across diverse worlds, while embodied simulations add robot manipulation and indoor navigation data. The dataset provides RGB observations, depth, camera parameters, and persistent 2D and 3D point trajectories. These annotations provide precise, geometrically consistent supervision across foreground objects and static environmental surfaces. We also build TrajRealm-Bench with eight subcategories under Interaction and Locomotion to evaluate tracking across diverse scenes. Benchmark evaluations reveal the strengths and limitations of existing trackers in handling complex motion and maintaining long-term point correspondences. Training on TrajRealm improves the performance of existing tracking methods on synthetic and real-world benchmarks.",
+      "authors": [
+        "Ni Yang",
+        "Weiguang Zhao",
+        "Jiafei Cao",
+        "Yankai Jiang",
+        "Haoyu Guo",
+        "Tao Yang",
+        "Chunhua Shen",
+        "Junting Dong"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "14 pages, 5 figures. Project page: https://purplehihi.github.io/TrajRealm/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.27136",
+      "pdf_url": "https://arxiv.org/pdf/2611.27136",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "datasets_infrastructure": [
+          "Dataset"
         ]
       }
     },
@@ -700,6 +947,7 @@
       "url": "https://arxiv.org/abs/2611.26764",
       "pdf_url": "https://arxiv.org/pdf/2611.26764",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -1923,7 +2171,7 @@
         "Rongsheng Li"
       ],
       "published": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "primary_category": "cs.CV",
       "categories": [
         "cs.CV",
@@ -4775,7 +5023,7 @@
         "Karthik Iyer"
       ],
       "published": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "primary_category": "cs.LG",
       "categories": [
         "cs.LG",
@@ -393806,7 +394054,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-11-23",
-  "paper_count": 10547,
-  "generated_at": "2026-11-23T12:40:02+00:00"
+  "coverage_end": "2026-11-24",
+  "paper_count": 10554,
+  "generated_at": "2026-11-24T00:25:31+00:00"
 }

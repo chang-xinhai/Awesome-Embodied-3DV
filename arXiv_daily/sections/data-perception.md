@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-23 · **Papers:** 1983 · **Unique arXiv IDs:** 1983
+**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 1987 · **Unique arXiv IDs:** 1987
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-20 | [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953) | Guillem Fustier-Castillo, Ruben Ribes-Serrano, Javier Naranjo-Alcazar, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.27953) / [pdf](https://arxiv.org/pdf/2611.27953) |
+| 2026-11-20 | [ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction](https://arxiv.org/abs/2611.27423) | GiHyun Kim, JinMo Yang, Hyung-Sin Kim | cs.RO, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.27423) / [pdf](https://arxiv.org/pdf/2611.27423) |
+| 2026-11-20 | [Projector Time Map Calibration for Event-based Structured Light](https://arxiv.org/abs/2611.27412) | Buu-Hoang-Lam Le, Kota Mizutani, Shohei Nobuhara | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.27412) / [pdf](https://arxiv.org/pdf/2611.27412) |
+| 2026-11-20 | [PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild](https://arxiv.org/abs/2611.27383) | Bingyu Li, Lichang Yang, Zhiyuan Zhao, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.27383) / [pdf](https://arxiv.org/pdf/2611.27383) |
 | 2026-11-19 | [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://arxiv.org/abs/2611.26603) | Peiyun Hu, Marko Mihajlovic, Lyndon Duong, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.26603) / [pdf](https://arxiv.org/pdf/2611.26603) |
 | 2026-11-19 | [Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU](https://arxiv.org/abs/2611.26083) | Zhenghao Zou, Yang Lyu, Xiaohu Guo, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.26083) / [pdf](https://arxiv.org/pdf/2611.26083) |
 | 2026-11-19 | [DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis](https://arxiv.org/abs/2611.26072) | Shiori Ueda, Rinto Yagawa, Hideo Saito, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.26072) / [pdf](https://arxiv.org/pdf/2611.26072) |
