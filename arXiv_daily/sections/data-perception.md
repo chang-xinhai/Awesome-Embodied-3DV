@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 1987 · **Unique arXiv IDs:** 1987
+**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 1992 · **Unique arXiv IDs:** 1992
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-23 | [Go Far, Look Less: Active Multi-Room Reconstruction with Persistent Goals and Selective Views](https://arxiv.org/abs/2611.30802) | Jiawei Jiang, Haonan Zhou, Wendi Hu, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.30802) / [pdf](https://arxiv.org/pdf/2611.30802) |
+| 2026-11-23 | [BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion](https://arxiv.org/abs/2611.30787) | Jianfei Jiang, Haochen Yu, Qiankun Liu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.30787) / [pdf](https://arxiv.org/pdf/2611.30787) |
+| 2026-11-23 | [NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting](https://arxiv.org/abs/2611.30351) | Shiyu Liang, Yang Gao, Lili Wang, et al. | cs.CV | Transparent / Specular | [abs](https://arxiv.org/abs/2611.30351) / [pdf](https://arxiv.org/pdf/2611.30351) |
+| 2026-11-21 | [RecallWorld: Episodic Memory for Persistent Embodied Video World Models](https://arxiv.org/abs/2611.28666) | Sarosij Bose, Gitika Karumuri, Chenqi Li, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.28666) / [pdf](https://arxiv.org/pdf/2611.28666) |
+| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Lin Lian, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
 | 2026-11-20 | [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953) | Guillem Fustier-Castillo, Ruben Ribes-Serrano, Javier Naranjo-Alcazar, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.27953) / [pdf](https://arxiv.org/pdf/2611.27953) |
 | 2026-11-20 | [ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction](https://arxiv.org/abs/2611.27423) | GiHyun Kim, JinMo Yang, Hyung-Sin Kim | cs.RO, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.27423) / [pdf](https://arxiv.org/pdf/2611.27423) |
 | 2026-11-20 | [Projector Time Map Calibration for Event-based Structured Light](https://arxiv.org/abs/2611.27412) | Buu-Hoang-Lam Le, Kota Mizutani, Shohei Nobuhara | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.27412) / [pdf](https://arxiv.org/pdf/2611.27412) |

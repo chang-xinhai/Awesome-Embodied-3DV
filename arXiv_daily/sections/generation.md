@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 1100 · **Unique arXiv IDs:** 1100
+**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 1108 · **Unique arXiv IDs:** 1108
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,14 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-23 | [Head Anything: Correspondence-Guided Joint Generation of 3D Heads from Few Images](https://arxiv.org/abs/2611.31143) | Umut Kocasari, Bartłomiej Baranowski, Richard Shaw, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.31143) / [pdf](https://arxiv.org/pdf/2611.31143) |
+| 2026-11-23 | [CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion](https://arxiv.org/abs/2611.31128) | Johan Ziruo Ye, Xingguang Yan, Søren Hauberg, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.31128) / [pdf](https://arxiv.org/pdf/2611.31128) |
+| 2026-11-23 | [Part-wise Certified State Estimation of Articulated Objects from Passive Stereo](https://arxiv.org/abs/2611.30646) | Orion Desbonnet, Kei Higuchi, Alex Sykes, et al. | cs.CV | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.30646) / [pdf](https://arxiv.org/pdf/2611.30646) |
+| 2026-11-23 | [Target-Part Preference Optimization for Part-Aware 3D Generation](https://arxiv.org/abs/2611.30472) | Zishan Qin, Rui Li, Zeyu Zhang, et al. | cs.CV | Image / Text-to-3D, Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.30472) / [pdf](https://arxiv.org/pdf/2611.30472) |
+| 2026-11-22 | [Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction](https://arxiv.org/abs/2611.29165) | Tri Ton, Siwoo Lim, Joshua Tian Jin Tee, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2611.29165) / [pdf](https://arxiv.org/pdf/2611.29165) |
+| 2026-11-21 | [KineState-SWAM: A Surgical World Action Model with Explicit Kinematics and Causal Interaction Dynamics](https://arxiv.org/abs/2611.28871) | Rulin Zhou, Yujie Ma, Rui Tang, et al. | cs.CV, cs.AI | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.28871) / [pdf](https://arxiv.org/pdf/2611.28871) |
+| 2026-11-21 | [ArgsWorld: Unifying 3DGS Scene Reconstruction, Generation and Extrapolation with Autoregressive Diffusion Transformer](https://arxiv.org/abs/2611.28792) | Weiming Chen, Shuaiyan Liu, Xinyu Shao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.28792) / [pdf](https://arxiv.org/pdf/2611.28792) |
+| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Lin Lian, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
 | 2026-11-19 | [Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://arxiv.org/abs/2611.26511) | Shuang Wu, Jiachen Qian, Youtian Lin, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.26511) / [pdf](https://arxiv.org/pdf/2611.26511) |
 | 2026-11-19 | [WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping](https://arxiv.org/abs/2611.25873) | Xiaoxin Mi, Zhen Cao, Chong Liu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.25873) / [pdf](https://arxiv.org/pdf/2611.25873) |
 | 2026-11-19 | [World-delta: Continually Integrating Observations for Incremental 3D Scene Generation](https://arxiv.org/abs/2611.25802) | Haonan Wang, Hanyu Zhou, Xiaobin Hu, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.25802) / [pdf](https://arxiv.org/pdf/2611.25802) |
