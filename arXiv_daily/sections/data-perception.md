@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 2001 · **Unique arXiv IDs:** 2001
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 2007 · **Unique arXiv IDs:** 2007
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,12 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-24 | [OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution](https://arxiv.org/abs/2611.32473) | Zhilu Zhang, Xiaoyu Liu, Wenxi Liu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32473) / [pdf](https://arxiv.org/pdf/2611.32473) |
+| 2026-11-24 | [PVWander: 3D Memory-guided Panoramic Video Wandering with Path-Facing Canonicalization](https://arxiv.org/abs/2611.32443) | Chuanxin Song, Xiaodong Wang, Shijie Chen, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32443) / [pdf](https://arxiv.org/pdf/2611.32443) |
+| 2026-11-24 | [GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM](https://arxiv.org/abs/2611.32335) | Weicong Zhang, Yuan Huang, Yu Zheng, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32335) / [pdf](https://arxiv.org/pdf/2611.32335) |
+| 2026-11-24 | [Mind the Band: The Hidden Frequency Variable in Geometric RoPE](https://arxiv.org/abs/2611.32171) | Seonghyun Jin, Youngmin Kim, Jong Chul Ye | cs.CV, cs.AI | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.32171) / [pdf](https://arxiv.org/pdf/2611.32171) |
+| 2026-11-24 | [EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation](https://arxiv.org/abs/2611.31720) | Sadiq O. Macaulay, Dipon Ghosh, Hadfield Simon | cs.CV, cs.AI, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.31720) / [pdf](https://arxiv.org/pdf/2611.31720) |
+| 2026-11-23 | [Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior](https://arxiv.org/abs/2611.31651) | Rafael Bischof, Dominik Narnhofer, Julius Erbach, et al. | cs.CV, cs.LG | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.31651) / [pdf](https://arxiv.org/pdf/2611.31651) |
 | 2026-11-23 | [Go Far, Look Less: Active Multi-Room Reconstruction with Persistent Goals and Selective Views](https://arxiv.org/abs/2611.30802) | Jiawei Jiang, Haonan Zhou, Wendi Hu, et al. | cs.CV | Dense 3D Semantics | [abs](https://arxiv.org/abs/2611.30802) / [pdf](https://arxiv.org/pdf/2611.30802) |
 | 2026-11-23 | [BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion](https://arxiv.org/abs/2611.30787) | Jianfei Jiang, Haochen Yu, Qiankun Liu, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.30787) / [pdf](https://arxiv.org/pdf/2611.30787) |
 | 2026-11-23 | [EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation](https://arxiv.org/abs/2611.30734) | Yuan Gao, Dongchen Wei, Xinyang Lin, et al. | cs.CV, cs.RO | Depth / Geometry Prior, Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.30734) / [pdf](https://arxiv.org/pdf/2611.30734) |
@@ -25,7 +31,7 @@
 | 2026-11-21 | [Dual-Stream Event-to-Video Reconstruction](https://arxiv.org/abs/2611.28656) | Lei Sun, Zhendong Li, Chenxin Shao, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.28656) / [pdf](https://arxiv.org/pdf/2611.28656) |
 | 2026-11-21 | [Seeing 3D Occupancy Through Scene-Adaptive Projection](https://arxiv.org/abs/2611.28629) | Yuan Wu, Zhiqiang Yan, Zhengxue Wang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.28629) / [pdf](https://arxiv.org/pdf/2611.28629) |
 | 2026-11-21 | [When Fog Becomes a Weapon: Atmospheric Attacks on Visible-Infrared Vision-Language Models](https://arxiv.org/abs/2611.28592) | Chengyin Hu, Dehe Zhao, Dingyi Lu, et al. | cs.CV | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.28592) / [pdf](https://arxiv.org/pdf/2611.28592) |
-| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Lin Lian, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
+| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Linlian Jiang, et al. | cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
 | 2026-11-20 | [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953) | Guillem Fustier-Castillo, Ruben Ribes-Serrano, Javier Naranjo-Alcazar, et al. | cs.RO | Non-RGB Sensing | [abs](https://arxiv.org/abs/2611.27953) / [pdf](https://arxiv.org/pdf/2611.27953) |
 | 2026-11-20 | [ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction](https://arxiv.org/abs/2611.27423) | GiHyun Kim, JinMo Yang, Hyung-Sin Kim | cs.RO, cs.AI, cs.CV | Depth / Geometry Prior | [abs](https://arxiv.org/abs/2611.27423) / [pdf](https://arxiv.org/pdf/2611.27423) |
 | 2026-11-20 | [Projector Time Map Calibration for Event-based Structured Light](https://arxiv.org/abs/2611.27412) | Buu-Hoang-Lam Le, Kota Mizutani, Shohei Nobuhara | cs.CV | Active Imaging | [abs](https://arxiv.org/abs/2611.27412) / [pdf](https://arxiv.org/pdf/2611.27412) |

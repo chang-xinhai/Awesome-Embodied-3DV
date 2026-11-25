@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 596 · **Unique arXiv IDs:** 596
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 598 · **Unique arXiv IDs:** 598
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,8 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-24 | [Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action](https://arxiv.org/abs/2611.33137) | Yueh-Cheng Liu, Snehal Jauhri, Matthias Nießner, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.33137) / [pdf](https://arxiv.org/pdf/2611.33137) |
+| 2026-11-24 | [Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2611.32579) | Hanjing Ye, Tianle Zeng, Jianwei Peng, et al. | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.32579) / [pdf](https://arxiv.org/pdf/2611.32579) |
 | 2026-11-23 | [Toward Open Room-Scale Scanning with Consumer LiDAR via Depth-Inertial Odometry](https://arxiv.org/abs/2611.30166) | Minsuk Jang | cs.RO, cs.CG | Dataset | [abs](https://arxiv.org/abs/2611.30166) / [pdf](https://arxiv.org/pdf/2611.30166) |
 | 2026-11-21 | [Dual-Stream Event-to-Video Reconstruction](https://arxiv.org/abs/2611.28656) | Lei Sun, Zhendong Li, Chenxin Shao, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.28656) / [pdf](https://arxiv.org/pdf/2611.28656) |
 | 2026-11-21 | [Decoding Frozen Vision Representations for Training-Free Few-Shot Pineapple Detection](https://arxiv.org/abs/2611.28442) | Manfred Gonzalez-Hernandez, Danny Xie-Li, Fabian Fallas-Moya, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2611.28442) / [pdf](https://arxiv.org/pdf/2611.28442) |

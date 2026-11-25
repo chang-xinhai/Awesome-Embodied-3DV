@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 1108 · **Unique arXiv IDs:** 1108
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 1115 · **Unique arXiv IDs:** 1115
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,13 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-24 | [RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation](https://arxiv.org/abs/2611.33013) | Jiawei Weng, Rui Zhang, Saining Zhang, et al. | cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.33013) / [pdf](https://arxiv.org/pdf/2611.33013) |
+| 2026-11-24 | [Support2Sim: Visually Faithful Real2Sim with Stable Object Supports](https://arxiv.org/abs/2611.32727) | Samarth Chopra, Ankit Prabhu, Akshayan Nagarajah, et al. | cs.RO, cs.CV | Simulation-Ready / Physical, Scene / World Generation | [abs](https://arxiv.org/abs/2611.32727) / [pdf](https://arxiv.org/pdf/2611.32727) |
+| 2026-11-24 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) | Yang Zhao, Xubo Yang | cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2611.32534) / [pdf](https://arxiv.org/pdf/2611.32534) |
+| 2026-11-24 | [X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views](https://arxiv.org/abs/2611.32491) | Zidian Qiu, Ancong Wu | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.32491) / [pdf](https://arxiv.org/pdf/2611.32491) |
+| 2026-11-24 | [A Mesh to Remember: Persistent Appearance for Interactive Video Worlds](https://arxiv.org/abs/2611.32445) | Joonghyuk Shin, Alex Trevithick, Katarína Tóthová, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.32445) / [pdf](https://arxiv.org/pdf/2611.32445) |
+| 2026-11-24 | [BodyWeave: Native Body-Conditioned 3D Garment Generation](https://arxiv.org/abs/2611.32034) | Junyi Zhang, Yuanchuan Wang, Qichao Wang, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.32034) / [pdf](https://arxiv.org/pdf/2611.32034) |
+| 2026-11-23 | [FabricBench: A Standardized Policy Benchmark for Bimanual Fabric Manipulation with a Contact-Driven Deformable Simulator](https://arxiv.org/abs/2611.31577) | Wenkang Hu, Haoran Wang, Liu Liu, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.31577) / [pdf](https://arxiv.org/pdf/2611.31577) |
 | 2026-11-23 | [Head Anything: Correspondence-Guided Joint Generation of 3D Heads from Few Images](https://arxiv.org/abs/2611.31143) | Umut Kocasari, Bartłomiej Baranowski, Richard Shaw, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.31143) / [pdf](https://arxiv.org/pdf/2611.31143) |
 | 2026-11-23 | [CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion](https://arxiv.org/abs/2611.31128) | Johan Ziruo Ye, Xingguang Yan, Søren Hauberg, et al. | cs.CV, cs.GR | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.31128) / [pdf](https://arxiv.org/pdf/2611.31128) |
 | 2026-11-23 | [Part-wise Certified State Estimation of Articulated Objects from Passive Stereo](https://arxiv.org/abs/2611.30646) | Orion Desbonnet, Kei Higuchi, Alex Sykes, et al. | cs.CV | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.30646) / [pdf](https://arxiv.org/pdf/2611.30646) |
@@ -19,7 +26,7 @@
 | 2026-11-22 | [Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction](https://arxiv.org/abs/2611.29165) | Tri Ton, Siwoo Lim, Joshua Tian Jin Tee, et al. | cs.CV | 3D Editing | [abs](https://arxiv.org/abs/2611.29165) / [pdf](https://arxiv.org/pdf/2611.29165) |
 | 2026-11-21 | [KineState-SWAM: A Surgical World Action Model with Explicit Kinematics and Causal Interaction Dynamics](https://arxiv.org/abs/2611.28871) | Rulin Zhou, Yujie Ma, Rui Tang, et al. | cs.CV, cs.AI | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.28871) / [pdf](https://arxiv.org/pdf/2611.28871) |
 | 2026-11-21 | [ArgsWorld: Unifying 3DGS Scene Reconstruction, Generation and Extrapolation with Autoregressive Diffusion Transformer](https://arxiv.org/abs/2611.28792) | Weiming Chen, Shuaiyan Liu, Xinyu Shao, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.28792) / [pdf](https://arxiv.org/pdf/2611.28792) |
-| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Lin Lian, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
+| 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Linlian Jiang, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
 | 2026-11-19 | [Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://arxiv.org/abs/2611.26511) | Shuang Wu, Jiachen Qian, Youtian Lin, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.26511) / [pdf](https://arxiv.org/pdf/2611.26511) |
 | 2026-11-19 | [WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping](https://arxiv.org/abs/2611.25873) | Xiaoxin Mi, Zhen Cao, Chong Liu, et al. | cs.CV | Scene / World Generation | [abs](https://arxiv.org/abs/2611.25873) / [pdf](https://arxiv.org/pdf/2611.25873) |
 | 2026-11-19 | [World-delta: Continually Integrating Observations for Incremental 3D Scene Generation](https://arxiv.org/abs/2611.25802) | Haonan Wang, Hanyu Zhou, Xiaobin Hu, et al. | cs.CV | Image / Text-to-3D, Scene / World Generation | [abs](https://arxiv.org/abs/2611.25802) / [pdf](https://arxiv.org/pdf/2611.25802) |

@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 2950 · **Unique arXiv IDs:** 2950
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 2970 · **Unique arXiv IDs:** 2970
 
 **Scope:** Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real
 
@@ -12,6 +12,26 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-24 | [DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking](https://arxiv.org/abs/2611.32944) | Chaoyue Xing, Linyi Huang, Yiting He, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.32944) / [pdf](https://arxiv.org/pdf/2611.32944) |
+| 2026-11-24 | [EEG-World: Context-Conditioned Dynamics of the Watching Brain](https://arxiv.org/abs/2611.32825) | Junxiang Zhang, Jiayu Zuo, Wenhao Ye, et al. | cs.CV, q-bio.NC | World Model | [abs](https://arxiv.org/abs/2611.32825) / [pdf](https://arxiv.org/pdf/2611.32825) |
+| 2026-11-24 | [Interactive Neural Computers](https://arxiv.org/abs/2611.32811) | Ross Murphy, Marcel Hedman, Gabriel Brostow | cs.AI, cs.NE, cs.SC | World Model | [abs](https://arxiv.org/abs/2611.32811) / [pdf](https://arxiv.org/pdf/2611.32811) |
+| 2026-11-24 | [Simulator-as-Proxy World Model for Robot Manipulation](https://arxiv.org/abs/2611.32786) | Tingting Liao, Mingjia Huo, Hao Li, et al. | cs.RO, cs.CV, cs.LG | World Model | [abs](https://arxiv.org/abs/2611.32786) / [pdf](https://arxiv.org/pdf/2611.32786) |
+| 2026-11-24 | [Learning World Models through Contrastive Identification of Actions](https://arxiv.org/abs/2611.32776) | Hayeong Lee, Youngjun Suh. Byung-Jun Lee | cs.AI | World Model | [abs](https://arxiv.org/abs/2611.32776) / [pdf](https://arxiv.org/pdf/2611.32776) |
+| 2026-11-24 | [MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving](https://arxiv.org/abs/2611.32745) | Xinyang Jia, Yuqi Zhang, Jiakai Wang, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.32745) / [pdf](https://arxiv.org/pdf/2611.32745) |
+| 2026-11-24 | [Support2Sim: Visually Faithful Real2Sim with Stable Object Supports](https://arxiv.org/abs/2611.32727) | Samarth Chopra, Ankit Prabhu, Akshayan Nagarajah, et al. | cs.RO, cs.CV | Sim-to-Real | [abs](https://arxiv.org/abs/2611.32727) / [pdf](https://arxiv.org/pdf/2611.32727) |
+| 2026-11-24 | [SplatSeg3D: Efficient Zero-Shot 3D Segmentation via Point Cloud Surfelization and Splatting](https://arxiv.org/abs/2611.32716) | Sandeep Inuganti, Mahdi Chamseddine, Marcel Rogge, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.32716) / [pdf](https://arxiv.org/pdf/2611.32716) |
+| 2026-11-24 | [DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models](https://arxiv.org/abs/2611.32665) | Sichen Wu, Qian Sun, Mengfan Liu, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.32665) / [pdf](https://arxiv.org/pdf/2611.32665) |
+| 2026-11-24 | [DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation](https://arxiv.org/abs/2611.32654) | Hongjia Liu, Dacheng Zhou, Minghao Fu, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.32654) / [pdf](https://arxiv.org/pdf/2611.32654) |
+| 2026-11-24 | [AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System](https://arxiv.org/abs/2611.32523) | Kuan Xu, Tianxin Hu, Ruofei Bai, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.32523) / [pdf](https://arxiv.org/pdf/2611.32523) |
+| 2026-11-24 | [CodeWAM: A Code World Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2611.32483) | Zhisheng Chen, Jinpeng Wang, Beicheng Lou, et al. | cs.RO, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.32483) / [pdf](https://arxiv.org/pdf/2611.32483) |
+| 2026-11-24 | [PVWander: 3D Memory-guided Panoramic Video Wandering with Path-Facing Canonicalization](https://arxiv.org/abs/2611.32443) | Chuanxin Song, Xiaodong Wang, Shijie Chen, et al. | cs.CV | 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.32443) / [pdf](https://arxiv.org/pdf/2611.32443) |
+| 2026-11-24 | [CriticJEPA: World Models Are Better Critics Than Optimizers](https://arxiv.org/abs/2611.32357) | Xvyuan Liu, Jianjie Fang, Honglin Zhang, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.32357) / [pdf](https://arxiv.org/pdf/2611.32357) |
+| 2026-11-24 | [Disentangling Visual Dynamics for World Model Planning](https://arxiv.org/abs/2611.32228) | Yuhong Shi, Yihan Guo, Jie Wei, et al. | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.32228) / [pdf](https://arxiv.org/pdf/2611.32228) |
+| 2026-11-24 | [ReJEPA: Bounded Predictive Regulation for Latent World Models](https://arxiv.org/abs/2611.31910) | Fangzhou Lin, Yuping Wang, Shuo Xing, et al. | cs.LG | World Model | [abs](https://arxiv.org/abs/2611.31910) / [pdf](https://arxiv.org/pdf/2611.31910) |
+| 2026-11-24 | [Co-DRIS: Physics-Informed Predictive Belief and Variable-Impedance Learning for Reactive Catching under Coupled Uncertainty](https://arxiv.org/abs/2611.31843) | Yonglong Zhang | cs.RO | World Model | [abs](https://arxiv.org/abs/2611.31843) / [pdf](https://arxiv.org/pdf/2611.31843) |
+| 2026-11-24 | [Gaze World Model](https://arxiv.org/abs/2611.31836) | Jiawen Zhang, Houze Yang, Xu Cao, et al. | cs.CV, cs.AI | World Model | [abs](https://arxiv.org/abs/2611.31836) / [pdf](https://arxiv.org/pdf/2611.31836) |
+| 2026-11-24 | [Dreamcatcher: Remembering What Surprises a World Model in Video Streams](https://arxiv.org/abs/2611.31765) | Jinxi He, Ce Zhang, Wenhe Liu, et al. | cs.CV | World Model | [abs](https://arxiv.org/abs/2611.31765) / [pdf](https://arxiv.org/pdf/2611.31765) |
+| 2026-11-23 | [One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning](https://arxiv.org/abs/2611.31588) | John Marangola, Antonia Bronars, Younghyo Park, et al. | cs.LG, cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.31588) / [pdf](https://arxiv.org/pdf/2611.31588) |
 | 2026-11-23 | [Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory](https://arxiv.org/abs/2611.31239) | Chen Wang, Jiahui Huang, Riccardo de Lutio, et al. | cs.CV | World Model, 3D Grounding / Memory | [abs](https://arxiv.org/abs/2611.31239) / [pdf](https://arxiv.org/pdf/2611.31239) |
 | 2026-11-23 | [Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation](https://arxiv.org/abs/2611.31098) | Jinzhong Gu, Jiakai Chen, Xinyi Cao, et al. | cs.RO | Sim-to-Real | [abs](https://arxiv.org/abs/2611.31098) / [pdf](https://arxiv.org/pdf/2611.31098) |
 | 2026-11-23 | [RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments](https://arxiv.org/abs/2611.31002) | Jinkun Liu, Yingze Wang, Situ Wang, et al. | cs.RO, cs.CL | Sim-to-Real | [abs](https://arxiv.org/abs/2611.31002) / [pdf](https://arxiv.org/pdf/2611.31002) |
