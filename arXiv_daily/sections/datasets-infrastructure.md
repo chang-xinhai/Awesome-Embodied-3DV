@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 593 · **Unique arXiv IDs:** 593
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 596 · **Unique arXiv IDs:** 596
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-23 | [Toward Open Room-Scale Scanning with Consumer LiDAR via Depth-Inertial Odometry](https://arxiv.org/abs/2611.30166) | Minsuk Jang | cs.RO, cs.CG | Dataset | [abs](https://arxiv.org/abs/2611.30166) / [pdf](https://arxiv.org/pdf/2611.30166) |
+| 2026-11-21 | [Dual-Stream Event-to-Video Reconstruction](https://arxiv.org/abs/2611.28656) | Lei Sun, Zhendong Li, Chenxin Shao, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.28656) / [pdf](https://arxiv.org/pdf/2611.28656) |
+| 2026-11-21 | [Decoding Frozen Vision Representations for Training-Free Few-Shot Pineapple Detection](https://arxiv.org/abs/2611.28442) | Manfred Gonzalez-Hernandez, Danny Xie-Li, Fabian Fallas-Moya, et al. | cs.CV, cs.AI | Dataset | [abs](https://arxiv.org/abs/2611.28442) / [pdf](https://arxiv.org/pdf/2611.28442) |
 | 2026-11-20 | [TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics](https://arxiv.org/abs/2611.27136) | Ni Yang, Weiguang Zhao, Jiafei Cao, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.27136) / [pdf](https://arxiv.org/pdf/2611.27136) |
 | 2026-11-20 | [EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training](https://arxiv.org/abs/2611.27101) | Ankit Pal, Guillaume Kugener, Sofia Volpi, et al. | cs.CV, cs.LG, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.27101) / [pdf](https://arxiv.org/pdf/2611.27101) |
 | 2026-11-19 | [HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation](https://arxiv.org/abs/2611.26434) | Shihan Wu, You Liu, Chunyu He, et al. | cs.CV, cs.RO | Dataset | [abs](https://arxiv.org/abs/2611.26434) / [pdf](https://arxiv.org/pdf/2611.26434) |

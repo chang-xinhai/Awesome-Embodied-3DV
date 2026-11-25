@@ -179,6 +179,7 @@
       "url": "https://arxiv.org/abs/2611.31023",
       "pdf_url": "https://arxiv.org/pdf/2611.31023",
       "query_sources": [
+        "depth-and-sensing",
         "representations"
       ],
       "topics": [
@@ -464,6 +465,7 @@
       "url": "https://arxiv.org/abs/2611.30787",
       "pdf_url": "https://arxiv.org/pdf/2611.30787",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -476,6 +478,44 @@
         ],
         "reconstruction": [
           "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.30734": {
+      "arxiv_id": "2611.30734",
+      "title": "EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation",
+      "abstract": "We introduce EgoDepth-Bench, comprising 941,233 synchronized samples collected across 37 distinct physical environments. Each sample combines six calibrated RGB views with metric depth in the native fisheye view, reconstructed from five active-infrared stereo modules. A calibrated ball-bar confirms millimeter-level geometric accuracy, with a median error of 1.27 mm on a known sphere spacing. Environment-held-out splits enable evaluation of generalization to unseen environments. Across monocular, stereo, and multi-view models, the benchmark measures both depth accuracy and prediction coverage, including on hands and objects. Fine-tuning MapAnything on EgoDepth-Bench reduces metric AbsRel from 0.708 to 0.091 and scale-aligned AbsRel from 0.327 to 0.072 on unseen environments. These results demonstrate that EgoDepth-Bench provides effective supervision and enables rigorous evaluation of metric and relative depth estimation in egocentric manipulation. The project page provides the evaluation code and interactive RGB-depth sequences.",
+      "authors": [
+        "Yuan Gao",
+        "Dongchen Wei",
+        "Xinyang Lin",
+        "Shuhua Cao",
+        "Xueliang Guo",
+        "Zhuohan Li",
+        "Yihao Wang"
+      ],
+      "published": "2026-11-23",
+      "updated": "2026-11-23",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "comment": "8 pages, 5 figures, 6 tables. Project page: https://egodepth-bench.github.io/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.30734",
+      "pdf_url": "https://arxiv.org/pdf/2611.30734",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior",
+          "Wide-FOV Perception"
         ]
       }
     },
@@ -577,6 +617,7 @@
       "url": "https://arxiv.org/abs/2611.30646",
       "pdf_url": "https://arxiv.org/pdf/2611.30646",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -589,6 +630,44 @@
         ],
         "embodiment_world_models": [
           "Sim-to-Real"
+        ]
+      }
+    },
+    "2611.30641": {
+      "arxiv_id": "2611.30641",
+      "title": "Motion on Demand: Adaptive Optical Excitation for Event Cameras",
+      "abstract": "Event cameras respond only to brightness changes, so whether an edge is visible depends on image motion perpendicular to it---a motion that constantly shifts with camera and scene dynamics. Rotating a wedge prism in front of the lens introduces controlled image motion to reveal static or slow edges. However, a fixed rotation speed cannot adapt to changing motion conditions: when natural motion is already sufficient, additional optical excitation generates redundant events and introduces unnecessary alignment errors. Inspired by the division of labor between fast haltere feedforward and slower visual feedback in fly gaze control, we present EvGaze, an event camera system that adaptively regulates prism rotation speed. EvGaze employs a learned multimodal controller that integrates luminance, event, and inertial observations, with a fast inertial pathway that refines speed decisions between visual updates. To preserve geometric consistency during speed changes, we compensate for prism-induced image motion at individual event timestamps using measured encoder angles. On EvMotion, EvGaze recovers more edges than full-speed prism rotation with 39% fewer events. On DSEC with simulated optical modulation, it reaches 0.73 feature-tracking success (compared with 0.55 on native events and 0.67 at 180 RPM) while generating 26% fewer events than 360 RPM. Real-device experiments further demonstrate online closed-loop adaptation, reducing average event rates by 17% relative to full-speed rotation.",
+      "authors": [
+        "Yingtao Li",
+        "Chaoran Feng",
+        "Haoran Jiang",
+        "Zhenyu Tang",
+        "Wangbo Yu",
+        "Zhankuo Xu",
+        "Jianbin Zhao",
+        "Li Yuan",
+        "Yonghong Tian"
+      ],
+      "published": "2026-11-23",
+      "updated": "2026-11-23",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Project Page: https://passwerob.github.io/EvGaze/",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.30641",
+      "pdf_url": "https://arxiv.org/pdf/2611.30641",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -624,6 +703,46 @@
       "matches": {
         "representation": [
           "Gaussian Splatting"
+        ]
+      }
+    },
+    "2611.30597": {
+      "arxiv_id": "2611.30597",
+      "title": "ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild",
+      "abstract": "Learning robot manipulation from egocentric human videos requires accurate metric 3D hand motion. Recent methods leverage pretrained video diffusion model (VDM) priors to recover occluded hands directly from full-frame videos, but their appearance-based depth regression generalizes poorly to unseen cameras. In this work, we propose ViDiHand2, a geometry-driven framework that reformulates VDM-based hand depth estimation from direct regression into fine-grained geometric constraint solving. Specifically, we introduce Fine-Grained Geometric Lifting and Clip-Level Ray Fitting, which recover metric depth by enforcing geometric consistency between pixel-aligned 2D joints and the metric structure of MANO hands, while leveraging temporal observations across the clip. Since the lifting relies on these 2D joints, to improve robustness under occlusion and image truncation, we further develop Confidence-Gated Fusion to adaptively combine geometrically lifted joints with MANO predictions according to localization confidence. Finally, we enhance the VDM backbone to better capture spatial-temporal representations and produce the per-frame 2D joint and MANO predictions that both steps rely on. Extensive experiments on seven public datasets demonstrate that ViDiHand2 consistently outperforms 18 baselines, reducing in-the-wild absolute joint error by 42% and detection failures by 8.82x compared with the best baseline on each metric, while running at 57 FPS. The code is available at https://github.com/NTUYWANG103/ViDiHand.",
+      "authors": [
+        "Yuxi Wang",
+        "Yufei Liu",
+        "Chengkai Jin",
+        "Qingyue Chen",
+        "Wenqi Ouyang",
+        "Tianyi Wei",
+        "Kerui Ren",
+        "Siyuan Huang",
+        "Zhiqi Shen",
+        "Hongsheng Li",
+        "Xingang Pan"
+      ],
+      "published": "2026-11-23",
+      "updated": "2026-11-23",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "Main text 8 pages with supplementary material, 54 pages in total",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.30597",
+      "pdf_url": "https://arxiv.org/pdf/2611.30597",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
         ]
       }
     },
@@ -798,6 +917,7 @@
       "url": "https://arxiv.org/abs/2611.30351",
       "pdf_url": "https://arxiv.org/pdf/2611.30351",
       "query_sources": [
+        "depth-and-sensing",
         "representations"
       ],
       "topics": [
@@ -921,6 +1041,37 @@
         ]
       }
     },
+    "2611.30166": {
+      "arxiv_id": "2611.30166",
+      "title": "Toward Open Room-Scale Scanning with Consumer LiDAR via Depth-Inertial Odometry",
+      "abstract": "Room scanning with consumer LiDAR today depends on ARKit, whose tracking and map update are a black box: an application receives depth and poses but cannot inspect how they were produced, so an error in a scan cannot be traced to its cause. This paper examines whether an open alternative, one whose every stage can be inspected, is feasible on the device. Mobile-LIO is a depth-inertial odometry pipeline that uses the phone's depth and inertial data and no ARKit poses. On seven ScanNet++ iPhone recordings it completed every scene with 0.2-2.0 m deviation from the ARKit-derived reference, where six open-source LiDAR-inertial estimators run as configured for dedicated scanners had at least 4.46 m in 41 of 42 runs (two of the six also failed a noise-free adapter check, and Mobile-LIO has a speed cap they lack; the comparison is not controlled and does not rone 15 Pro Max, a buildwith corrected phone code kept up with the sensor in 14 of 15 replay runs of three 7-13 s recordings; e estimator before thosecorrections. Laser-scanned meshes give the accuracy. Within 3 m, recorded depth differed from the m on three held-out scenes,maps fused with ARKit poses that the dataset scales and aligns to the mesh la a median 1.8-2.3 cm from 17 cm. Because thepipeline is open, the gap could be examined: in the scene with the largest error, noise-free renderefrom 1.97 m to 0.04 m, sorecorded depth, whose error reached 20-54 cm at 5-7 m, contributed alongside the estimator. An open de tracked on phone depth and kept up with the sensor in short phone replays, but it is not yet as accurate as ARKit-pose maps, whicheach only the coarsestUSIBD accuracy level (LOA10); its accuracy on the device was not measured.",
+      "authors": [
+        "Minsuk Jang"
+      ],
+      "published": "2026-11-23",
+      "updated": "2026-11-23",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CG"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.30166",
+      "pdf_url": "https://arxiv.org/pdf/2611.30166",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "datasets_infrastructure": [
+          "Dataset"
+        ]
+      }
+    },
     "2611.30102": {
       "arxiv_id": "2611.30102",
       "title": "LMnOP: Pruning 3D Gaussian Splatting via Leave-Many-Out Importance",
@@ -978,6 +1129,7 @@
       "url": "https://arxiv.org/abs/2611.30007",
       "pdf_url": "https://arxiv.org/pdf/2611.30007",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -1048,6 +1200,7 @@
       "url": "https://arxiv.org/abs/2611.29920",
       "pdf_url": "https://arxiv.org/pdf/2611.29920",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -1084,6 +1237,7 @@
       "url": "https://arxiv.org/abs/2611.29838",
       "pdf_url": "https://arxiv.org/pdf/2611.29838",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -1266,6 +1420,79 @@
         ]
       }
     },
+    "2611.29507": {
+      "arxiv_id": "2611.29507",
+      "title": "A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations",
+      "abstract": "Existing Unmanned Aerial Vehicle (UAV) autonomy frameworks lack human contextual awareness, limiting real-time adaptability in unstructured Search and Rescue (SAR) environments. To address data availability, we propose a Robot Operating System (ROS2)-based human-in-the-loop (HITL) framework that translates human directional gestures (left/right) into UAV navigation commands using RGB-Depth (RGB-D) sensing and YOLOv11 (You Only Look Once). The deprecation of ROS1 necessitates migrating to ROS2, prioritising real-time communication, scalability, and long-term maintainability. Unlike approaches optimised for peak accuracy under ideal conditions, the proposed system prioritises robustness and real-time deployment in degraded SAR environments. Our system achieves 89% confidence in depth estimation under occlusion and varying environmental conditions in Gazebo-PX4 simulations. In foggy conditions, RGB-D fusion consistently provides more informative cues than RGB alone, with an average improvement of 46.7% across all scenarios and distances. The framework demonstrates superior occlusion handling (+15%), adaptive RGB-D fusion, temporal consistency modelling, and real-time deployment via a ROS2 data distribution service (DDS), with end-to-end latency below 50 ms. We evaluate the modified YOLOv11 and the depth-weighted pose estimation on a held-out simulated test set and on real people from the public UAV-GESTURE dataset, in clear air and in Koschmieder fog. Without retraining, the framework reads the gestures of real people with 80% accuracy, depth keeps 77% at a visibility of 10 m where RGB drops to 24%, and the modified YOLOv11 reaches 91% in simulation and 99% on held-out real people when trained on real data. The open-source ROS2 implementation eases the transition of SAR-UAV platforms from ROS1, enabling UAVs to act directly on operator gestures without complex path planning.",
+      "authors": [
+        "Anubhav Pandey",
+        "Harshit Nagpal",
+        "Aditya Agarwal",
+        "Tejasvi Alladi",
+        "Fei Richard Yu"
+      ],
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "comment": "30 pages, 10 figures, Submitted to and under review in \"International Journal of Intelligent Systems\" of Wiley",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.29507",
+      "pdf_url": "https://arxiv.org/pdf/2611.29507",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
+        ]
+      }
+    },
+    "2611.29468": {
+      "arxiv_id": "2611.29468",
+      "title": "RSWP: Robust SO(3)-Equivariant Watermarking for Panoramic Images",
+      "abstract": "Robust watermarking for panoramic imagery is impeded by the topological mismatch between spherical signals and planar representations. Conventional methods fail under $SO(3)$ viewing rotations due to non-linear geometric warping and struggle with viewport extraction, which typically necessitates computationally expensive inverse remapping. To address these challenges, we propose RSWP, a watermarking framework grounded in icosahedral group theory. Leveraging the property that the icosahedral group ($\\mathcal{I}_{60}$) serves as the largest discrete subgroup of $SO(3)$, we decompose spherical rotations into tractable local planar rotations and combinatorial facet permutations. Accordingly, we introduce a decoupling architecture that embeds watermarks into discrete facets and a theoretically guaranteed Equivariance-to-Invariance decoding paradigm. By employing an equivariant feature extractor followed by a permutation-invariant sorting module, this paradigm rigorously synchronizes rotation-distorted features. Moreover, the dual-extractor design inherently supports direct, blind watermark retrieval from partial 2D renderings without geometric calibration. Extensive experiments demonstrate that RSWP achieves state-of-the-art robustness against continuous $SO(3)$ rotations and viewport transformations while preserving high visual fidelity.",
+      "authors": [
+        "Pengzhen Chen",
+        "Yanwei Liu",
+        "Xiaoyan Gu",
+        "Jinxia Liu",
+        "Siwei Ma",
+        "Weiping Wang",
+        "Wu Liu"
+      ],
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CR"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.29468",
+      "pdf_url": "https://arxiv.org/pdf/2611.29468",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Wide-FOV Perception"
+        ]
+      }
+    },
     "2611.29453": {
       "arxiv_id": "2611.29453",
       "title": "What Test-Time Training Corrects in Latent World Models? A Slow-Fast Approach",
@@ -1323,6 +1550,7 @@
       "url": "https://arxiv.org/abs/2611.29435",
       "pdf_url": "https://arxiv.org/pdf/2611.29435",
       "query_sources": [
+        "depth-and-sensing",
         "reconstruction-and-mapping"
       ],
       "topics": [
@@ -1393,6 +1621,7 @@
       "url": "https://arxiv.org/abs/2611.29369",
       "pdf_url": "https://arxiv.org/pdf/2611.29369",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -1555,6 +1784,7 @@
       "url": "https://arxiv.org/abs/2611.29236",
       "pdf_url": "https://arxiv.org/pdf/2611.29236",
       "query_sources": [
+        "depth-and-sensing",
         "representations"
       ],
       "topics": [
@@ -1633,6 +1863,41 @@
       "matches": {
         "reconstruction": [
           "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.29146": {
+      "arxiv_id": "2611.29146",
+      "title": "RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding",
+      "abstract": "Vision-Language Models (VLMs) tokenize images using fixed spatial grids, so visual token count grows with pixel area rather than scene content. We propose to group neighboring patches based on their visual appearance, allowing tokens to represent coherent image regions rather than fixed spatial windows. We introduce RVLM, a VLM trained to use regions rather than patches as its visual units. Analyzing region construction for general-purpose VLMs, we find that regions must cover the full image, stay spatially connected during end-to-end training, and preserve fine structure such as small text, while semantic grouping adds little. RVLM therefore partitions images using training-free Felzenszwalb-Huttenlocher segmentation, assigns each ViT patch to a region, and pools patches within each region into a variable-length sequence of visual tokens. The patch-to-region assignment is retained to support spatially precise prediction through coarse-to-fine decoding. Across tasks spanning VQA, pointing, counting, segmentation, and depth estimation, RVLM matches or improves example-weighted task performance while using 21.5% fewer visual tokens than an identically trained patch baseline. The advantage grows with image resolution, reaching a 5.3-point gain while using 51.8% fewer visual tokens at the highest-resolution setting. The gains are largest on spatially demanding tasks, where prior token-reduction methods degrade most sharply. RVLM adds no model parameters and improves inference throughput by up to 35.9%. On unseen pathology and satellite images and on video benchmarks without any video training, RVLM performs on par with the patch baseline while using 2-3$\\times$ fewer visual tokens. These results establish regions as a scalable alternative to patch-based visual representations while preserving the spatial precision required for grounded prediction.",
+      "authors": [
+        "Savya Khosla",
+        "Chris Dongjoo Kim",
+        "Alex Schwing",
+        "Derek Hoiem",
+        "Christopher Clark",
+        "Sangho Lee"
+      ],
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.29146",
+      "pdf_url": "https://arxiv.org/pdf/2611.29146",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
         ]
       }
     },
@@ -2016,6 +2281,7 @@
       "url": "https://arxiv.org/abs/2611.28666",
       "pdf_url": "https://arxiv.org/pdf/2611.28666",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -2032,6 +2298,48 @@
         ],
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2611.28656": {
+      "arxiv_id": "2611.28656",
+      "title": "Dual-Stream Event-to-Video Reconstruction",
+      "abstract": "Event cameras capture brightness changes with high temporal resolution and dynamic range, but converting event streams into videos remains fundamentally ill-posed due to the lack of absolute intensity information. Resolving this ambiguity calls for a brightness reference that complements the intensity changes recorded by events. Inspired by the complementary spatial and temporal processing of the parvocellular and magnocellular pathways in human vision, we propose EvDualDiff, a dual-stream framework that combines a brightness reference from temporal-mapping events with motion-event cues for video reconstruction. Conditioned on both streams, our video diffusion model autoregressively reconstructs long sequences from a single temporal map. Photometric constraints and finetuning on self-generated rollouts reduce accumulated drift. At the hardware level, our approach requires only a minimal light-modulation mechanism on the lens of an event camera. We build this setup and collect a dataset comprising temporal-mapping events, motion events and synchronised ground-truth RGB frames. Experiments on a public benchmark and on our collected EvDual dataset demonstrate that EvDualDiff outperforms existing event-to-video reconstruction methods in fidelity, perceptual quality and video-level realism. The code and dataset will be released.",
+      "authors": [
+        "Lei Sun",
+        "Zhendong Li",
+        "Chenxin Shao",
+        "Weilun Li",
+        "Ruibo Ming",
+        "Kaiwei Wang",
+        "Jinjin Gu",
+        "Danda Pani Paudel",
+        "Luc Van Gool"
+      ],
+      "published": "2026-11-21",
+      "updated": "2026-11-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.28656",
+      "pdf_url": "https://arxiv.org/pdf/2611.28656",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception",
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
+        ],
+        "datasets_infrastructure": [
+          "Dataset"
         ]
       }
     },
@@ -2067,6 +2375,41 @@
         "representation": [
           "Gaussian Splatting",
           "Dynamic / 4D"
+        ]
+      }
+    },
+    "2611.28629": {
+      "arxiv_id": "2611.28629",
+      "title": "Seeing 3D Occupancy Through Scene-Adaptive Projection",
+      "abstract": "Vision-based 3D occupancy prediction infers voxel-wise geometry and semantics from multi-view images, where 2D-to-3D view transformation is a crucial step. Many existing methods adopt a backward-projection paradigm, projecting uniformly distributed 3D reference points onto image planes to aggregate multi-view features. However, their scene-agnostic sampling patterns overlook the non-uniform distribution of scene geometry, allocating many references to empty space and reducing sampling efficiency under a fixed sampling budget. To address this challenge, we propose SAP, a scene-adaptive projection framework that leverages depth-based geometric priors to guide view transformation. Specifically, we back-project metric depth maps predicted by a frozen depth model into 3D space to obtain geometric priors. To leverage these priors, we design a Scene-Adaptive Projection Encoder comprising two complementary components. First, Prior-Guided Reference Generation constructs a hybrid reference set for feature sampling, allocating references within prior-supported height regions and retaining full-range sampling where valid support is unavailable. Furthermore, to account for potential spatial misalignment caused by depth estimation errors, Radial-Structured Feature Aggregation explores multiple candidate locations through learned radial offsets to aggregate potentially displaced feature evidence. Extensive experiments on Occ3D demonstrate that SAP achieves state-of-the-art performance and consistently improves results across diverse occupancy frameworks.",
+      "authors": [
+        "Yuan Wu",
+        "Zhiqiang Yan",
+        "Zhengxue Wang",
+        "Guangfa Wang",
+        "Jun Li",
+        "Jian Yang"
+      ],
+      "published": "2026-11-21",
+      "updated": "2026-11-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.28629",
+      "pdf_url": "https://arxiv.org/pdf/2611.28629",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Depth / Geometry Prior"
         ]
       }
     },
@@ -2142,6 +2485,45 @@
       "matches": {
         "reconstruction": [
           "Object / Scene Reconstruction"
+        ]
+      }
+    },
+    "2611.28592": {
+      "arxiv_id": "2611.28592",
+      "title": "When Fog Becomes a Weapon: Atmospheric Attacks on Visible-Infrared Vision-Language Models",
+      "abstract": "Existing adversarial attacks on vision-language models (VLMs) and cross-spectral perception primarily rely on conspicuous, unnatural artifacts, such as vivid adversarial patches or active light beams, that lack physical stealthiness, whereas prior weather attacks largely overlook how one atmosphere simultaneously affects heterogeneous sensors. This raises a key scientific question: can a purely natural, shared fog environment simultaneously disrupt complementary visible and thermal infrared cues without artificial surface modifications? We introduce Fog Manipulation Attack (FMA), a zero-gradient attack that optimizes a common 3D fog state to induce simultaneous semantic failures in visible-infrared VLMs. FMA links shared, depth- and layer-aware atmospheric propagation along scene paths with band-specific imaging physics---visible airlight scattering and thermal path radiance---allowing one realistic fog state to erode both modalities' distinct cues. Experiments show that FMA more than doubles simultaneous failure rates over fidelity-matched random fog, transfers to captioning and VQA, and removes cross-modal compensation, where restoring a clean companion view recovers 64%--74% of lost dual-input VQA answers.",
+      "authors": [
+        "Chengyin Hu",
+        "Dehe Zhao",
+        "Dingyi Lu",
+        "Qike Zhang",
+        "Jiaju Han",
+        "Banglong Nong",
+        "Xu Kang",
+        "Jiujiang Guo",
+        "Kalibinuer Tiliwalidi",
+        "Jiahuan Long"
+      ],
+      "published": "2026-11-21",
+      "updated": "2026-11-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": "11 pages, 8 figures. Supplementary material (23 pages) is available as an ancillary file",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.28592",
+      "pdf_url": "https://arxiv.org/pdf/2611.28592",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "data_perception"
+      ],
+      "matches": {
+        "data_perception": [
+          "Non-RGB Sensing"
         ]
       }
     },
@@ -2324,6 +2706,7 @@
       "url": "https://arxiv.org/abs/2611.28520",
       "pdf_url": "https://arxiv.org/pdf/2611.28520",
       "query_sources": [
+        "depth-and-sensing",
         "generation-and-assets",
         "reconstruction-and-mapping"
       ],
@@ -2375,6 +2758,44 @@
       "matches": {
         "embodiment_world_models": [
           "World Model"
+        ]
+      }
+    },
+    "2611.28442": {
+      "arxiv_id": "2611.28442",
+      "title": "Decoding Frozen Vision Representations for Training-Free Few-Shot Pineapple Detection",
+      "abstract": "Few-shot object detection in agricultural imagery is hampered by dense vegetation, repeated patterns, and scarce annotations. We present a training-free detector that turns dense features from frozen visual foundation models directly into detections, without fine-tuning, a learned head, or external proposals: a whitened foreground-background direction estimated from annotated support images scores every query patch, and the score field is decoded with an adaptive threshold and support-derived geometry. We also test whether predicted relative depth can be fed directly to RGB-pretrained frozen encoders. On aerial pineapple imagery, the detector outperforms PET-DINO and GeCo2 at every evaluated support size; at K=40, predicted depth alone reaches 92% of the RGB performance with DINOv2, and RGB-depth fusion lowers counting error for both encoders. We release the Pineapple Plantation dataset (4,908 aerial frames, 1,995 annotated with 17,609 boxes, predicted depth, leakage-aware splits) and analyse transfer to two further agricultural datasets.",
+      "authors": [
+        "Manfred Gonzalez-Hernandez",
+        "Danny Xie-Li",
+        "Fabian Fallas-Moya",
+        "Camile Lendering",
+        "Joaquín Figueira",
+        "Erkut Akdag",
+        "Giacomo D'Amicantonio",
+        "Egor Bondarev"
+      ],
+      "published": "2026-11-21",
+      "updated": "2026-11-21",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "comment": "Accepted in WACV HARVEST Vision Workshop 2027",
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.28442",
+      "pdf_url": "https://arxiv.org/pdf/2611.28442",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "datasets_infrastructure"
+      ],
+      "matches": {
+        "datasets_infrastructure": [
+          "Dataset"
         ]
       }
     },
@@ -2472,6 +2893,7 @@
       "url": "https://arxiv.org/abs/2611.28319",
       "pdf_url": "https://arxiv.org/pdf/2611.28319",
       "query_sources": [
+        "depth-and-sensing",
         "embodied-world-models"
       ],
       "topics": [
@@ -2625,6 +3047,36 @@
         "reconstruction": [
           "Object / Scene Reconstruction",
           "Dynamic Reconstruction"
+        ]
+      }
+    },
+    "2611.28191": {
+      "arxiv_id": "2611.28191",
+      "title": "BReD: BEV Residual Diffusion for Feed-Forward Road Gaussian Reconstruction",
+      "abstract": "Accurate road surface reconstruction is essential for autonomous-driving mapping and simulation, but existing methods trade reconstruction quality for cross-scene inference. Optimization-based methods recover detailed surfaces through costly per-scene optimization, while feed-forward methods lack road-specific constraints and often produce large elevation errors. We propose \\textbf{BReD}, a feed-forward framework for reconstructing road elevation, appearance, and semantics from calibrated six-camera sequences. BReD first estimates coarse elevation through LiDAR-supervised depth learning and BEV lifting, using only cameras at inference. A lightweight BEV residual diffusion model then conditions elevation refinement on a camera-derived depth--elevation discrepancy and elevation-aware image features. Diffusion-indexed perturbations expose the model to different discrepancy corruption levels during training, while inference performs one deterministic refinement from the clean discrepancy. The refined elevations are temporally aggregated to anchor road-aligned Gaussians, whose attributes are predicted by a geometry-prior-guided decoder without test-time optimization. On four held-out nuScenes scenes, BReD achieves 7.34 cm elevation RMSE and 90.92\\% semantic mIoU, compared with 14.43 cm for RoGS without test-time LiDAR and 8.88 cm for its test-time-LiDAR-assisted variant; both RoGS variants require per-scene optimization.",
+      "authors": [
+        "Baizhi Wang"
+      ],
+      "published": "2026-11-20",
+      "updated": "2026-11-20",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "comment": null,
+      "journal_ref": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2611.28191",
+      "pdf_url": "https://arxiv.org/pdf/2611.28191",
+      "query_sources": [
+        "depth-and-sensing"
+      ],
+      "topics": [
+        "reconstruction"
+      ],
+      "matches": {
+        "reconstruction": [
+          "Feed-Forward Geometry"
         ]
       }
     },
@@ -2950,7 +3402,8 @@
       "primary_category": "cs.RO",
       "categories": [
         "cs.RO",
-        "cs.AI"
+        "cs.AI",
+        "cs.CV"
       ],
       "comment": null,
       "journal_ref": null,
@@ -396747,7 +397200,7 @@
     }
   },
   "coverage_start": "2025-01-01",
-  "coverage_end": "2026-11-24",
-  "paper_count": 10627,
-  "generated_at": "2026-11-24T12:30:51+00:00"
+  "coverage_end": "2026-11-25",
+  "paper_count": 10639,
+  "generated_at": "2026-11-25T00:25:08+00:00"
 }

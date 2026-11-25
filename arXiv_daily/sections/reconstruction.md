@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-24 · **Papers:** 3329 · **Unique arXiv IDs:** 3329
+**Coverage:** 2025-01-01 to 2026-11-25 · **Papers:** 3330 · **Unique arXiv IDs:** 3330
 
 **Scope:** Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction
 
@@ -33,6 +33,7 @@
 | 2026-11-21 | [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520) | Jingong Chen, Qingwen Zhang, Lin Lian, et al. | cs.CV | Feed-Forward Geometry, Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.28520) / [pdf](https://arxiv.org/pdf/2611.28520) |
 | 2026-11-20 | [From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment](https://arxiv.org/abs/2611.28197) | Changyu Du, Stavros Nousias, Syed Salman Ahmed, et al. | cs.AI, cs.CL, cs.CV | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.28197) / [pdf](https://arxiv.org/pdf/2611.28197) |
 | 2026-11-20 | [FastD4RT: Training-Free Acceleration of Dynamic 4D Reconstruction and Tracking](https://arxiv.org/abs/2611.28193) | Meng Bi, Yili Jin, Kaiyuan Hu, et al. | cs.CV, cs.AI | Object / Scene Reconstruction, Dynamic Reconstruction | [abs](https://arxiv.org/abs/2611.28193) / [pdf](https://arxiv.org/pdf/2611.28193) |
+| 2026-11-20 | [BReD: BEV Residual Diffusion for Feed-Forward Road Gaussian Reconstruction](https://arxiv.org/abs/2611.28191) | Baizhi Wang | cs.CV | Feed-Forward Geometry | [abs](https://arxiv.org/abs/2611.28191) / [pdf](https://arxiv.org/pdf/2611.28191) |
 | 2026-11-20 | [BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles](https://arxiv.org/abs/2611.27817) | Adolfo Damiano Cafaro, Patrizio Mariani, Roberto Galeazzi | cs.RO | Mapping / SLAM | [abs](https://arxiv.org/abs/2611.27817) / [pdf](https://arxiv.org/pdf/2611.27817) |
 | 2026-11-20 | [VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS](https://arxiv.org/abs/2611.27719) | Mohab Kishawy, Chengzhou Tang, Shahram Shirani, et al. | cs.CV, cs.GR | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.27719) / [pdf](https://arxiv.org/pdf/2611.27719) |
 | 2026-11-20 | [BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery](https://arxiv.org/abs/2611.27407) | Jonathan Sterckx, Michiel Vlaminck, Hiep Luong | cs.CV, cs.RO | Object / Scene Reconstruction | [abs](https://arxiv.org/abs/2611.27407) / [pdf](https://arxiv.org/pdf/2611.27407) |

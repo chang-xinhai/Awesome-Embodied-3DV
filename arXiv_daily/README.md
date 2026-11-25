@@ -2,18 +2,18 @@
 
 > A high-recall candidate archive for manual curation into [Awesome-Embodied-3DV](../README.md). It is intentionally broader than the curated list.
 
-**Coverage:** 2025-01-01 to 2026-11-24 · **Unique papers:** 10627
+**Coverage:** 2025-01-01 to 2026-11-25 · **Unique papers:** 10639
 
 ## Sections
 
 | Section | Papers | Scope |
 | :------ | -----: | :---- |
-| [Data Perception](sections/data-perception.md) | 1992 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
+| [Data Perception](sections/data-perception.md) | 2001 | Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics |
 | [3D/4D Representation](sections/representation.md) | 3366 | Gaussian, neural-implicit, mesh, point, voxel, and dynamic scene representations |
-| [3D Reconstruction](sections/reconstruction.md) | 3329 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
+| [3D Reconstruction](sections/reconstruction.md) | 3330 | Object and scene recovery, feed-forward geometry, mapping, SLAM, and dynamic reconstruction |
 | [3D Generation & Assets](sections/generation.md) | 1108 | Objects, parts, articulated assets, scenes, editing, and simulation-ready generation |
 | [Embodiment & World Models](sections/embodiment-world-models.md) | 2950 | Persistent 3D scene state, scene graphs, agent grounding, interaction, and sim-to-real |
-| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 593 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
+| [Datasets, Benchmarks & Infrastructure](sections/datasets-infrastructure.md) | 596 | Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV |
 
 A paper is stored once in [`data/papers.json`](data/papers.json) but may appear in multiple generated views. The archive uses arXiv `v1` dates and is updated twice daily by GitHub Actions. Promotion to the root README is always manual.
 
@@ -23,14 +23,14 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 - 2026-11-23 — [Go Far, Look Less: Active Multi-Room Reconstruction with Persistent Goals and Selective Views](https://arxiv.org/abs/2611.30802)
 - 2026-11-23 — [BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion](https://arxiv.org/abs/2611.30787)
+- 2026-11-23 — [EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation](https://arxiv.org/abs/2611.30734)
+- 2026-11-23 — [Motion on Demand: Adaptive Optical Excitation for Event Cameras](https://arxiv.org/abs/2611.30641)
+- 2026-11-23 — [ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild](https://arxiv.org/abs/2611.30597)
 - 2026-11-23 — [NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting](https://arxiv.org/abs/2611.30351)
+- 2026-11-22 — [A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations](https://arxiv.org/abs/2611.29507)
+- 2026-11-22 — [RSWP: Robust SO(3)-Equivariant Watermarking for Panoramic Images](https://arxiv.org/abs/2611.29468)
+- 2026-11-22 — [RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding](https://arxiv.org/abs/2611.29146)
 - 2026-11-21 — [RecallWorld: Episodic Memory for Persistent Embodied Video World Models](https://arxiv.org/abs/2611.28666)
-- 2026-11-21 — [VG3R: Video Generation Model for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2611.28520)
-- 2026-11-20 — [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953)
-- 2026-11-20 — [ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction](https://arxiv.org/abs/2611.27423)
-- 2026-11-20 — [Projector Time Map Calibration for Event-based Structured Light](https://arxiv.org/abs/2611.27412)
-- 2026-11-20 — [PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild](https://arxiv.org/abs/2611.27383)
-- 2026-11-19 — [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://arxiv.org/abs/2611.26603)
 
 ### 3D/4D Representation
 
@@ -86,6 +86,9 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 
 ### Datasets, Benchmarks & Infrastructure
 
+- 2026-11-23 — [Toward Open Room-Scale Scanning with Consumer LiDAR via Depth-Inertial Odometry](https://arxiv.org/abs/2611.30166)
+- 2026-11-21 — [Dual-Stream Event-to-Video Reconstruction](https://arxiv.org/abs/2611.28656)
+- 2026-11-21 — [Decoding Frozen Vision Representations for Training-Free Few-Shot Pineapple Detection](https://arxiv.org/abs/2611.28442)
 - 2026-11-20 — [TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics](https://arxiv.org/abs/2611.27136)
 - 2026-11-20 — [EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training](https://arxiv.org/abs/2611.27101)
 - 2026-11-19 — [HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation](https://arxiv.org/abs/2611.26434)
@@ -93,9 +96,6 @@ A paper is stored once in [`data/papers.json`](data/papers.json) but may appear 
 - 2026-11-18 — [Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors](https://arxiv.org/abs/2611.24696)
 - 2026-11-18 — [ALIVE: Bring Foundation Features to Life with Events](https://arxiv.org/abs/2611.24579)
 - 2026-11-18 — [Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes](https://arxiv.org/abs/2611.24007)
-- 2026-11-18 — [GaussLearner: 3D Gaussian Primitives as Self-Regulating Continual Learners](https://arxiv.org/abs/2611.23736)
-- 2026-11-17 — [MedHarness: A Unified Budgeted Runtime for Reliable Medical Imaging Agents](https://arxiv.org/abs/2611.23501)
-- 2026-11-17 — [Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D](https://arxiv.org/abs/2611.23118)
 
 ## Method
 
