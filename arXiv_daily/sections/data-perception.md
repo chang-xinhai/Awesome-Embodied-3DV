@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 2007 · **Unique arXiv IDs:** 2007
+**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 2011 · **Unique arXiv IDs:** 2011
 
 **Scope:** Depth, geometry priors, active imaging, wide-FOV sensing, and dense 3D semantics
 
@@ -12,6 +12,10 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-25 | [WorldExpand: Building Coherent 3D Worlds via Sparse Joint Panoramic Expansion](https://arxiv.org/abs/2611.34810) | Yuyang Yin, Chenjie Cao, Xuhui Zuo, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.34810) / [pdf](https://arxiv.org/pdf/2611.34810) |
+| 2026-11-25 | [Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation](https://arxiv.org/abs/2611.34393) | Zeeshan Ali, Md Rayyan, Anshuman Chakravorty, et al. | cs.CV, cs.LG | Depth / Geometry Prior, Transparent / Specular | [abs](https://arxiv.org/abs/2611.34393) / [pdf](https://arxiv.org/pdf/2611.34393) |
+| 2026-11-25 | [AnyCam4D: Ray-Based 4D Gaussian Rendering for Arbitrary Camera Models](https://arxiv.org/abs/2611.34223) | Sascha Kirch, Rafael Pagés, Jan Ondřej, et al. | cs.CV, cs.GR | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.34223) / [pdf](https://arxiv.org/pdf/2611.34223) |
+| 2026-11-25 | [Towards 360$^\circ$ Embodied UAV Tracking Without Turning](https://arxiv.org/abs/2611.33934) | Bingyu Li, Wu Du, Zhiyuan Zhao, et al. | cs.CV, cs.AI | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.33934) / [pdf](https://arxiv.org/pdf/2611.33934) |
 | 2026-11-24 | [OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution](https://arxiv.org/abs/2611.32473) | Zhilu Zhang, Xiaoyu Liu, Wenxi Liu, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32473) / [pdf](https://arxiv.org/pdf/2611.32473) |
 | 2026-11-24 | [PVWander: 3D Memory-guided Panoramic Video Wandering with Path-Facing Canonicalization](https://arxiv.org/abs/2611.32443) | Chuanxin Song, Xiaodong Wang, Shijie Chen, et al. | cs.CV | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32443) / [pdf](https://arxiv.org/pdf/2611.32443) |
 | 2026-11-24 | [GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM](https://arxiv.org/abs/2611.32335) | Weicong Zhang, Yuan Huang, Yu Zheng, et al. | cs.CV, cs.RO | Wide-FOV Perception | [abs](https://arxiv.org/abs/2611.32335) / [pdf](https://arxiv.org/pdf/2611.32335) |

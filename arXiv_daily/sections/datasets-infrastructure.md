@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 598 · **Unique arXiv IDs:** 598
+**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 601 · **Unique arXiv IDs:** 601
 
 **Scope:** Data, metrics, evaluation, simulators, toolchains, and surveys for embodied 3DV
 
@@ -12,6 +12,9 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-25 | [3D CoCa v3: Contrastive Learners with Scene Graphs for Urban Scene Understanding](https://arxiv.org/abs/2611.33835) | Nannan Zhang, Ting Huang, Zeyu Zhang, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.33835) / [pdf](https://arxiv.org/pdf/2611.33835) |
+| 2026-11-25 | [Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction](https://arxiv.org/abs/2611.33824) | Di Wu, Jeeeun Kim, Shu Kong | cs.CV, cs.GR | Dataset | [abs](https://arxiv.org/abs/2611.33824) / [pdf](https://arxiv.org/pdf/2611.33824) |
+| 2026-11-24 | [A 3D Simulator for Passive SPAD Imaging](https://arxiv.org/abs/2611.33498) | Elia Mergaert, Rong Zou, Roberto Pellerito, et al. | cs.CV, cs.RO | Simulator / Toolchain | [abs](https://arxiv.org/abs/2611.33498) / [pdf](https://arxiv.org/pdf/2611.33498) |
 | 2026-11-24 | [Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action](https://arxiv.org/abs/2611.33137) | Yueh-Cheng Liu, Snehal Jauhri, Matthias Nießner, et al. | cs.CV | Dataset | [abs](https://arxiv.org/abs/2611.33137) / [pdf](https://arxiv.org/pdf/2611.33137) |
 | 2026-11-24 | [Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2611.32579) | Hanjing Ye, Tianle Zeng, Jianwei Peng, et al. | cs.RO | Benchmark / Metric | [abs](https://arxiv.org/abs/2611.32579) / [pdf](https://arxiv.org/pdf/2611.32579) |
 | 2026-11-23 | [Toward Open Room-Scale Scanning with Consumer LiDAR via Depth-Inertial Odometry](https://arxiv.org/abs/2611.30166) | Minsuk Jang | cs.RO, cs.CG | Dataset | [abs](https://arxiv.org/abs/2611.30166) / [pdf](https://arxiv.org/pdf/2611.30166) |

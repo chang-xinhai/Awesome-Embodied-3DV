@@ -4,7 +4,7 @@
 
 > Automatically generated high-recall candidate feed. Inclusion here is not an endorsement or promotion to the curated root README.
 
-**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 1115 · **Unique arXiv IDs:** 1115
+**Coverage:** 2025-01-01 to 2026-11-26 · **Papers:** 1120 · **Unique arXiv IDs:** 1120
 
 **Scope:** Objects, parts, articulated assets, scenes, editing, and simulation-ready generation
 
@@ -12,6 +12,11 @@
 
 | Date | Paper | Authors | Categories | Matched signals | Links |
 | :--: | :---- | :------ | :--------: | :-------------- | :----: |
+| 2026-11-25 | [Spe3DUp: Faithful Trajectory Distillation for Fast Image-to-3D Generation](https://arxiv.org/abs/2611.34141) | Liangchao Xu, Jiaye Fu, Youtian Lin, et al. | cs.CV | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.34141) / [pdf](https://arxiv.org/pdf/2611.34141) |
+| 2026-11-25 | [Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment](https://arxiv.org/abs/2611.34075) | Yilong Yang, Jiale Teng, Yule Liu, et al. | cs.CV, cs.AI | Image / Text-to-3D | [abs](https://arxiv.org/abs/2611.34075) / [pdf](https://arxiv.org/pdf/2611.34075) |
+| 2026-11-25 | [ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models](https://arxiv.org/abs/2611.33761) | Jingen Qu, Xi Chen, Yingbo Tang, et al. | cs.CV, cs.AI | Scene / World Generation | [abs](https://arxiv.org/abs/2611.33761) / [pdf](https://arxiv.org/pdf/2611.33761) |
+| 2026-11-25 | [Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos](https://arxiv.org/abs/2611.33705) | Yuxin Lin, Pei Ren, Yirong Yang, et al. | cs.RO | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.33705) / [pdf](https://arxiv.org/pdf/2611.33705) |
+| 2026-11-24 | [ArtTet: Watertight Part Meshes of Articulated Objects from Rigid-Body Rules and Partitioned Marching Tetrahedra](https://arxiv.org/abs/2611.33382) | Sylvia Yuan, Dan Wang, Ravi Ramamoorthi, et al. | cs.CV | Part / Articulated Asset | [abs](https://arxiv.org/abs/2611.33382) / [pdf](https://arxiv.org/pdf/2611.33382) |
 | 2026-11-24 | [RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation](https://arxiv.org/abs/2611.33013) | Jiawei Weng, Rui Zhang, Saining Zhang, et al. | cs.CV | Simulation-Ready / Physical | [abs](https://arxiv.org/abs/2611.33013) / [pdf](https://arxiv.org/pdf/2611.33013) |
 | 2026-11-24 | [Support2Sim: Visually Faithful Real2Sim with Stable Object Supports](https://arxiv.org/abs/2611.32727) | Samarth Chopra, Ankit Prabhu, Akshayan Nagarajah, et al. | cs.RO, cs.CV | Simulation-Ready / Physical, Scene / World Generation | [abs](https://arxiv.org/abs/2611.32727) / [pdf](https://arxiv.org/pdf/2611.32727) |
 | 2026-11-24 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) | Yang Zhao, Xubo Yang | cs.RO | Scene / World Generation | [abs](https://arxiv.org/abs/2611.32534) / [pdf](https://arxiv.org/pdf/2611.32534) |
